@@ -47,7 +47,11 @@ TELEGRAM_CHATS = [c.strip() for c in os.environ.get("TG_CHAT", "").split(",")
 BASE = "https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php"
 ITEM_URL = "https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid={}"
 HERE = os.path.dirname(os.path.abspath(__file__))
-STATE_FILE = os.path.join(HERE, "state.json")
+
+# База сохраняется в КОРЕНЬ репозитория, а не рядом со скриптом.
+# Внутри .github/workflows/ GitHub запрещает боту создавать файлы
+# (нужно особое разрешение "workflows"), поэтому кладём наружу.
+STATE_FILE = os.path.join(os.getcwd(), "state.json")
 NET_TIMEOUT = 90
 
 HEADERS = {
