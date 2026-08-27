@@ -25,14 +25,14 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-        run: python3 check.py
+        run: python3 .github/workflows/check.py
 
       - name: Sohranit bazu tovarov
         run: |
-          if [[ -n "$(git status --porcelain state.json)" ]]; then
+          if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name  "otsuka-monitor"
             git config user.email "actions@github.com"
-            git add state.json
+            git add -A
             git commit -m "state update"
             git push
           else
