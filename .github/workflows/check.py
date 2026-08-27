@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Облачный монитор новинок Fishing Otsuka.
-Запускается автоматически на серверах GitHub каждые 15 минут.
+Запускается автоматически на серверах GitHub каждые 30 минут.
 Компьютер пользователя не нужен вообще.
 """
 
@@ -25,6 +25,11 @@ KEYWORDS = [
 ]
 
 TARGET_CAT = "all"
+
+# Японский сайт блокирует запросы из дата-центров (ошибка 403 Forbidden),
+# поэтому с серверов GitHub идём через читающий прокси r.jina.ai.
+# Если однажды он перестанет работать - поставь False и запускай локально.
+USE_MIRROR = True
 
 NOTIFY_RESTOCK = True
 NOTIFY_PRICE_DROP = True
@@ -61,11 +66,20 @@ def log(msg):
 
 
 def fetch(url, tries=5):
+    """Качает страницу. С серверов GitHub - через прокси r.jina.ai,
+    потому что магазин отдаёт 403 на запросы из дата-центров."""
+    if USE_MIRROR:
+        target = "https://r.jina.ai/" + url
+        # r.jina.ai отвергает браузерные заголовки - шлём голый запрос
+        hdrs = {"Accept": "text/plain"}
+    else:
+        target = url
+        hdrs = HEADERS
     last = None
     delay = 5
     for n in range(1, tries + 1):
         try:
-            req = urllib.request.Request(url, headers=HEADERS)
+            req = urllib.request.Request(target, headers=hdrs)
             data = urllib.request.urlopen(req, timeout=NET_TIMEOUT).read()
             if data[:2] == b"\x1f\x8b":
                 data = gzip.decompress(data)
@@ -77,6 +91,33 @@ def fetch(url, tries=5):
                 time.sleep(delay)
                 delay = min(delay * 2, 60)
     raise last
+
+
+MIRROR_RE = re.compile(
+    r'\[!\[Image \d+:[^\]]*\]\([^)]*\)\]\('
+    r'[^)]*?uid=([A-Za-z0-9_-]+)\s+"([^"]*)"\)\s*'
+    r'(\d+)?\s*(.*?)\s*¥([\d,]+)\s*在庫\s*(\d+)', re.S)
+
+
+def parse_mirror(text):
+    """Разбор страницы, полученной через r.jina.ai (формат markdown)."""
+    items = {}
+    for m in MIRROR_RE.finditer(text):
+        uid, title, code, spec, price, stock = m.groups()
+        title = html.unescape(title).strip()
+        spec = html.unescape(spec or "").strip()
+        # имя товара = заголовок без хвоста со спецификацией
+        name = title
+        if spec and spec in title:
+            name = title.replace(spec, "").strip()
+        items[uid] = {
+            "name": name or title,
+            "spec": spec,
+            "code": (code or "").strip(),
+            "price": int(price.replace(",", "")),
+            "stock": int(stock),
+        }
+    return items
 
 
 def parse_cards(page_html):
@@ -120,10 +161,13 @@ def scan_keyword(keyword, max_pages=40):
         url = BASE + "?" + urllib.parse.urlencode(params, encoding="utf-8")
 
         page = fetch(url)
-        if "</html>" not in page[-2000:] and "</body>" not in page[-2000:]:
-            raise IOError("страница {} докачалась не полностью".format(p))
 
-        items = parse_cards(page)
+        if USE_MIRROR:
+            items = parse_mirror(page)
+        else:
+            if "</html>" not in page[-2000:] and "</body>" not in page[-2000:]:
+                raise IOError("страница {} докачалась не полностью".format(p))
+            items = parse_cards(page)
         if not items:
             break
         if set(items) <= set(found):
@@ -248,7 +292,7 @@ def main():
                 "В базу записано {} товаров.\n"
                 "Теперь я работаю на серверах GitHub — компьютер можно "
                 "выключать, VPN не нужен.\n\n"
-                "Проверка каждые 15 минут.".format(len(all_items)))
+                "Проверка каждые 30 минут.".format(len(all_items)))
         return 0
 
     if new_items:
