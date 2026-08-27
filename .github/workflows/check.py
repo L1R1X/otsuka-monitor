@@ -21,7 +21,8 @@ from datetime import datetime, timezone, timedelta
 # ============================================================
 
 KEYWORDS = [
-    "オリカラ　スプーン",
+    "オリカラ　スプーン",   # オオツカオリカラスプーン - блёсны
+    "オリカラ　プラグ",     # オオツカオリカラプラグ - воблеры
 ]
 
 TARGET_CAT = "all"
@@ -100,7 +101,7 @@ def fetch(url, tries=5):
 MIRROR_RE = re.compile(
     r'\[!\[Image \d+:[^\]]*\]\([^)]*\)\]\('
     r'[^)]*?uid=([A-Za-z0-9_-]+)\s+"([^"]*)"\)\s*'
-    r'(\d+)?\s*(.*?)\s*¥([\d,]+)\s*在庫\s*(\d+)', re.S)
+    r'([A-Za-z0-9_-]+)?\s*(.*?)\s*¥([\d,]+)\s*在庫\s*(\d+)', re.S)
 
 
 def parse_mirror(text):
