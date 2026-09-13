@@ -2,7 +2,7 @@ name: Otsuka monitor
 
 on:
   schedule:
-        - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
+    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,14 +25,16 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-        run: python3 .github/workflows/check.py
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: python3 -B .github/workflows/check.py
 
       - name: Sohranit bazu tovarov
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
+          rm -rf .github/workflows/__pycache__
+          if [[ -n "$(git status --porcelain state.json)" ]]; then
             git config user.name  "otsuka-monitor"
             git config user.email "actions@github.com"
-            git add -A
+            git add state.json
             git commit -m "state update"
             git push
           else
