@@ -6,6 +6,7 @@
 """
 import json
 import re
+import time
 import urllib.request
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -27,12 +28,36 @@ TROUTE_NAME = "t-Route"
 TROUTE_URL = "https://t-route.net"
 
 
+def _get_json(url, tries=3):
+    """JSON по адресу. Если сайт не пускает напрямую (сервера GitHub
+    иногда блокируются), пробуем через читающее зеркало r.jina.ai."""
+    last = None
+    for attempt in range(tries):
+        try:
+            return json.loads(_get(url).decode("utf-8"))
+        except Exception as e:
+            last = e
+            time.sleep(2 + attempt * 3)
+    # прямой путь не сработал - идём через зеркало
+    try:
+        req = urllib.request.Request("https://r.jina.ai/" + url,
+                                     headers={"Accept": "text/plain"})
+        with urllib.request.urlopen(req, timeout=90) as r:
+            text = r.read().decode("utf-8", "replace")
+        i = text.find('{"products"')
+        if i >= 0:
+            return json.loads(text[i:])
+    except Exception:
+        pass
+    raise last
+
+
 def fetch_troute():
     """Список товаров магазина t-route.net через Shopify JSON."""
     items = []
     for page in range(1, 12):           # до 2750 товаров, с запасом
         url = f"{TROUTE_URL}/products.json?limit=250&page={page}"
-        data = json.loads(_get(url).decode("utf-8"))
+        data = _get_json(url)
         chunk = data.get("products", [])
         if not chunk:
             break
