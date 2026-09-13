@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Облачный монитор новинок Fishing Otsuka.
-Запускается автоматически на серверах GitHub каждые 30 минут.
+Запускается автоматически на серверах GitHub каждые 5 минут.
+Магазины: Fishing Otsuka, t-Route, Ority.
 Компьютер пользователя не нужен вообще.
 """
 
@@ -15,6 +16,14 @@ import time
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
+
+# Дополнительные магазины (t-Route, Ority) живут в отдельном файле.
+try:
+    import sites
+    EXTRA_SHOPS = sites.SOURCES
+except Exception as _e:          # файла нет или он сломан - работаем без него
+    EXTRA_SHOPS = []
+    print("sites.py недоступен:", _e)
 
 # ============================================================
 #  НАСТРОЙКИ
@@ -227,6 +236,17 @@ def tg_send(text):
 
 
 def describe(uid, it):
+    # товар из дополнительного магазина - у него другой набор полей
+    if it.get("shop"):
+        parts = ["<b>{}</b>".format(html.escape(it["name"]))]
+        line = it.get("price_text") or "цена не указана"
+        if it.get("extra"):
+            line += " · " + it["extra"]
+        parts.append(line)
+        parts.append("🏬 " + it["shop"])
+        parts.append(it["link"])
+        return "\n".join(parts)
+
     price = "¥{:,}".format(it["price"]) if it["price"] else "цена не указана"
     parts = ["<b>{}</b>".format(html.escape(it["name"]))]
     if it["spec"]:
@@ -259,6 +279,31 @@ def main():
         log("Ничего не получено — выхожу, состояние не трогаю")
         return 0
 
+    # --- дополнительные магазины ---------------------------------
+    shops_ok = []
+    for shop_name, fetch_fn in EXTRA_SHOPS:
+        try:
+            got = fetch_fn()
+        except Exception as e:
+            log("{}: ошибка {} — магазин пропущен".format(shop_name, e))
+            continue
+        if not got:
+            log("{}: пусто — пропускаю".format(shop_name))
+            continue
+        log("{}: найдено {} позиций".format(shop_name, len(got)))
+        shops_ok.append(shop_name)
+        for it in got:
+            all_items[it["uid"]] = {
+                "name": it["title"],
+                "price": None,
+                "price_text": it["price"],
+                "spec": "",
+                "stock": 0,
+                "shop": it["shop"],
+                "link": it["link"],
+                "extra": it.get("extra", ""),
+            }
+
     state = {}
     if os.path.exists(STATE_FILE):
         try:
@@ -269,19 +314,68 @@ def main():
     known = state.get("items", {})
     first_run = not known
 
-    if known and len(all_items) < len(known) * 0.65:
-        log("Получено {} вместо {} — похоже на сбой. Базу не трогаю."
-            .format(len(all_items), len(known)))
+    # Каждый магазин считаем отдельно: uid начинается с "tr"/"or",
+    # у Otsuka - с цифр. Так падение одного магазина не роняет остальные.
+    def group_of(uid):
+        if uid.startswith("tr"):
+            return "t-Route"
+        if uid.startswith("or"):
+            return "Ority"
+        return "Otsuka"
+
+    now_by_group, known_by_group = {}, {}
+    for uid in all_items:
+        now_by_group.setdefault(group_of(uid), set()).add(uid)
+    for uid in known:
+        known_by_group.setdefault(group_of(uid), set()).add(uid)
+
+    # Магазин, которого ещё нет в базе, запоминаем молча -
+    # иначе первый запуск завалит чат тысячами "новинок".
+    silent_groups = set()
+    for g, uids in now_by_group.items():
+        if not known_by_group.get(g):
+            silent_groups.add(g)
+            log("{}: первое знакомство, запоминаю {} товаров без уведомлений"
+                .format(g, len(uids)))
+
+    # Проверка на сбой - по каждому магазину отдельно.
+    # Подозрительный магазин просто замораживаем: его старые записи
+    # переносим в новую базу как есть, а уведомления по нему не шлём.
+    # Остальные магазины при этом продолжают работать.
+    broken_groups = set()
+    for g, old_uids in known_by_group.items():
+        now_uids = now_by_group.get(g, set())
+        if len(now_uids) < len(old_uids) * 0.65:
+            broken_groups.add(g)
+            log("{}: получено {} вместо {} - похоже на сбой, "
+                "магазин заморожен до следующего раза."
+                .format(g, len(now_uids), len(old_uids)))
+            for uid in old_uids:
+                all_items[uid] = known[uid]
+
+    if broken_groups and len(broken_groups) == len(known_by_group):
+        log("Все магазины недоступны - состояние не трогаю")
         return 0
 
     new_items, restocked, cheaper = [], [], []
     for uid, it in all_items.items():
         old = known.get(uid)
+        g = group_of(uid)
+        if g in broken_groups:
+            continue
         if old is None:
+            if g in silent_groups:
+                continue
             new_items.append((uid, it))
         else:
-            if NOTIFY_RESTOCK and old.get("stock", 0) == 0 and it["stock"] > 0:
-                restocked.append((uid, it))
+            if NOTIFY_RESTOCK:
+                if it.get("shop"):
+                    # t-Route / Ority: наличие хранится словами в "extra"
+                    # ("нет в наличии", "распродано"). Пусто = есть в продаже.
+                    if old.get("extra") and not it.get("extra"):
+                        restocked.append((uid, it))
+                elif old.get("stock", 0) == 0 and it["stock"] > 0:
+                    restocked.append((uid, it))
             if (NOTIFY_PRICE_DROP and old.get("price") and it["price"]
                     and it["price"] < old["price"]):
                 cheaper.append((uid, it, old["price"]))
@@ -297,7 +391,7 @@ def main():
                 "В базу записано {} товаров.\n"
                 "Теперь я работаю на серверах GitHub — компьютер можно "
                 "выключать, VPN не нужен.\n\n"
-                "Проверка каждые 30 минут.".format(len(all_items)))
+                "Проверка каждые 5 минут.".format(len(all_items)))
         return 0
 
     if new_items:
