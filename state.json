@@ -2107,6 +2107,16 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9512368046294": {
+   "name": "Rodio Craft Plug t-Route Limited 2026 Autumn（ロデオクラフトプラグt-Routeオリカラ2026秋）",
+   "price": null,
+   "price_text": "1 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rodio-craft-plug-t-route-limited-2026-autumn-ロデオクラフトプラグt-routeオリカラ2026秋",
+   "extra": ""
+  },
   "tr9337245696214": {
    "name": "ValkeIN Plug TS Color 2026（ヴァルケインプラグTSカラー2026）",
    "price": null,
@@ -22135,7 +22145,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/dohna-uchoten",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr7769001820374": {
    "name": "グラントレモ 40MR(F)",
@@ -27728,5 +27738,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-15T13:57:17+03:00"
+ "last_check": "2026-09-15T14:02:02+03:00"
 }
