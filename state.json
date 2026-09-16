@@ -2079,6 +2079,16 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9515489984726": {
+   "name": "DainsleiF SAGITTARIUS（ダーインスレイヴ サジタリアス）",
+   "price": null,
+   "price_text": "65 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/dainsleif-sagittarius-ダーインスレイヴ-サジタリアス",
+   "extra": ""
+  },
   "tr9512368046294": {
    "name": "Rodio Craft Plug t-Route Limited 2026 Autumn（ロデオクラフトプラグt-Routeオリカラ2026秋）",
    "price": null,
@@ -27710,5 +27720,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-16T13:21:17+03:00"
+ "last_check": "2026-09-16T13:26:11+03:00"
 }
