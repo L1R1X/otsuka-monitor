@@ -2086,6 +2086,26 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9046273720534": {
+   "name": "HI BURST 1.6g/2.0g（ハイバースト1.6g/2.0g）",
+   "price": null,
+   "price_text": "470 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/hi-burst-1-6g-ハイバースト",
+   "extra": ""
+  },
+  "tr9517141655766": {
+   "name": "Kushi Dango Splasher（串団子スプラッシャー）",
+   "price": null,
+   "price_text": "1 800 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/kushi-dango-splasher-串団子スプラッシャー",
+   "extra": ""
+  },
   "tr9517366837462": {
    "name": "PACCHINSCALE（パッチンスケール）",
    "price": null,
@@ -27747,5 +27767,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-17T13:52:53+03:00"
+ "last_check": "2026-09-17T13:56:10+03:00"
 }
