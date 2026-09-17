@@ -2086,6 +2086,36 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9517366837462": {
+   "name": "PACCHINSCALE（パッチンスケール）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/pacchinscale-パッチンスケール",
+   "extra": ""
+  },
+  "tr9517490274518": {
+   "name": "E-BEAT（エ・ビート）",
+   "price": null,
+   "price_text": "815 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/e-beat-エ-ビート",
+   "extra": ""
+  },
+  "tr9517690028246": {
+   "name": "HMKL Rattlin' K-I MINNOW 50（HMKLラトリンK-Iミノー50）",
+   "price": null,
+   "price_text": "1 492 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/hmkl-rattlin-k-i-minnow-50-hmklラトリンk-iミノー50",
+   "extra": ""
+  },
   "tr9515489984726": {
    "name": "DainsleiF SAGITTARIUS（ダーインスレイヴ サジタリアス）",
    "price": null,
@@ -27717,5 +27747,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-17T13:51:22+03:00"
+ "last_check": "2026-09-17T13:52:53+03:00"
 }
