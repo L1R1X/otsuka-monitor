@@ -25,6 +25,14 @@ except Exception as _e:          # файла нет или он сломан - 
     EXTRA_SHOPS = []
     print("sites.py недоступен:", _e)
 
+# Фильтр по типу снасти: блёсны, воблеры, крючки, оригинальные расцветки.
+# Нужен, чтобы из больших магазинов не сыпались палатки и спальники.
+try:
+    import filters
+except Exception as _e:
+    filters = None
+    print("filters.py недоступен:", _e)
+
 # ============================================================
 #  НАСТРОЙКИ
 # ============================================================
@@ -43,6 +51,10 @@ USE_MIRROR = True
 
 NOTIFY_RESTOCK = True
 NOTIFY_PRICE_DROP = True
+
+# True  - присылать только блёсны, воблеры, крючки и оригинальные расцветки
+# False - присылать вообще все новинки
+ONLY_INTERESTING = True
 
 # Токен и chat_id берутся из «секретов» GitHub.
 TELEGRAM_TOKEN = os.environ.get("TG_TOKEN", "")
@@ -235,10 +247,26 @@ def tg_send(text):
     return ok_count > 0
 
 
+def _interesting(it):
+    """Проходит ли товар фильтр по типу снасти."""
+    if not ONLY_INTERESTING or filters is None:
+        return True
+    return filters.is_interesting(it.get("name", ""))
+
+
+def _tags(it):
+    if filters is None:
+        return ""
+    t = filters.classify(it.get("name", ""))
+    return "  ".join(t)
+
+
 def describe(uid, it):
     # товар из дополнительного магазина - у него другой набор полей
     if it.get("shop"):
         parts = ["<b>{}</b>".format(html.escape(it["name"]))]
+        if _tags(it):
+            parts.append(_tags(it))
         line = it.get("price_text") or "цена не указана"
         if it.get("extra"):
             line += " · " + it["extra"]
@@ -249,6 +277,8 @@ def describe(uid, it):
 
     price = "¥{:,}".format(it["price"]) if it["price"] else "цена не указана"
     parts = ["<b>{}</b>".format(html.escape(it["name"]))]
+    if _tags(it):
+        parts.append(_tags(it))
     if it["spec"]:
         parts.append(html.escape(it["spec"]))
     parts.append("{} · в наличии: {}".format(price, it["stock"]))
@@ -316,12 +346,11 @@ def main():
 
     # Каждый магазин считаем отдельно: uid начинается с "tr"/"or",
     # у Otsuka - с цифр. Так падение одного магазина не роняет остальные.
+    # Каждому магазину - свой префикс uid. Берём название прямо из
+    # записи товара, чтобы при добавлении магазина ничего не правил.
     def group_of(uid):
-        if uid.startswith("tr"):
-            return "t-Route"
-        if uid.startswith("or"):
-            return "Ority"
-        return "Otsuka"
+        it = all_items.get(uid) or known.get(uid) or {}
+        return it.get("shop") or "Otsuka"
 
     now_by_group, known_by_group = {}, {}
     for uid in all_items:
@@ -366,15 +395,19 @@ def main():
         if old is None:
             if g in silent_groups:
                 continue
+            if not _interesting(it):
+                continue
             new_items.append((uid, it))
         else:
             if NOTIFY_RESTOCK:
                 if it.get("shop"):
                     # t-Route / Ority: наличие хранится словами в "extra"
                     # ("нет в наличии", "распродано"). Пусто = есть в продаже.
-                    if old.get("extra") and not it.get("extra"):
+                    if old.get("extra") and not it.get("extra") \
+                            and _interesting(it):
                         restocked.append((uid, it))
-                elif old.get("stock", 0) == 0 and it["stock"] > 0:
+                elif old.get("stock", 0) == 0 and it["stock"] > 0 \
+                        and _interesting(it):
                     restocked.append((uid, it))
             if (NOTIFY_PRICE_DROP and old.get("price") and it["price"]
                     and it["price"] < old["price"]):
