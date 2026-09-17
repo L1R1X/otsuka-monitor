@@ -52,11 +52,11 @@ def _get_json(url, tries=3):
     raise last
 
 
-def fetch_troute():
-    """Список товаров магазина t-route.net через Shopify JSON."""
+def fetch_shopify(base_url, shop_name, prefix, max_pages=14):
+    """Товары любого магазина на Shopify (у всех одинаковый products.json)."""
     items = []
-    for page in range(1, 12):           # до 2750 товаров, с запасом
-        url = f"{TROUTE_URL}/products.json?limit=250&page={page}"
+    for page in range(1, max_pages + 1):
+        url = f"{base_url}/products.json?limit=250&page={page}"
         data = _get_json(url)
         chunk = data.get("products", [])
         if not chunk:
@@ -66,17 +66,39 @@ def fetch_troute():
             price = variants[0].get("price") or "?"
             available = any(v.get("available") for v in variants)
             items.append({
-                "uid": f"tr{p['id']}",
+                "uid": f"{prefix}{p['id']}",
                 "title": p.get("title", "").strip(),
                 "price": f"{int(float(price)):,}".replace(",", " ") + " ¥"
                          if price != "?" else "?",
-                "link": f"{TROUTE_URL}/products/{p['handle']}",
-                "shop": TROUTE_NAME,
+                "link": f"{base_url}/products/{p['handle']}",
+                "shop": shop_name,
                 "extra": "" if available else "нет в наличии",
             })
         if len(chunk) < 250:
             break
     return items
+
+
+def fetch_troute():
+    return fetch_shopify(TROUTE_URL, TROUTE_NAME, "tr")
+
+
+# ---------------------------------------------------------------- Velvet Arts
+VELVET_NAME = "Velvet Arts"
+VELVET_URL = "https://velvetarts.co.jp"
+
+
+def fetch_velvet():
+    return fetch_shopify(VELVET_URL, VELVET_NAME, "vl")
+
+
+# ---------------------------------------------------------------- Zarky
+ZARKY_NAME = "Zarky"
+ZARKY_URL = "https://fishingshop-zarky.com"
+
+
+def fetch_zarky():
+    return fetch_shopify(ZARKY_URL, ZARKY_NAME, "zk")
 
 
 # ---------------------------------------------------------------- ority
@@ -160,10 +182,111 @@ def fetch_ority(max_pages=60):
     return items
 
 
+# ---------------------------------------------------------------- Wild-1
+# Магазин на движке EC-Orange: товары отдаёт не HTML, а внутренний API.
+# Нужны кука сессии и заголовок X-XSRF-TOKEN, иначе ответ 400.
+WILD1_NAME = "Wild-1"
+WILD1_URL = "https://webshop.wild1.co.jp"
+WILD1_PAGE = WILD1_URL + "/websitevue/onlinestore/search"
+WILD1_API = WILD1_URL + "/websiteapi/product/list"
+
+_WILD1_SEARCH = {
+    "product_name": "",
+    "product_category_id": "",
+    "brand_id": "",
+    "feature_id": "",
+    "tag_name": "",
+    "product_sku_price_selling_list_from": "",
+    "product_sku_price_selling_list_to": "",
+    "variation_size_ids": [],
+    "variation_color_ids": [],
+    "sale_only": False,
+    "stock_only": False,
+    "sort_parts": "1",
+}
+
+
+def fetch_wild1(page_row=500, max_pages=12):
+    """Товары Wild-1 через внутренний API магазина."""
+    import http.cookiejar
+    import urllib.parse
+
+    jar = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(
+        urllib.request.HTTPCookieProcessor(jar))
+
+    # 1) заходим на страницу поиска - сервер выдаёт куки и XSRF-токен
+    req = urllib.request.Request(WILD1_PAGE, headers={"User-Agent": UA})
+    opener.open(req, timeout=60).read()
+
+    token = ""
+    for c in jar:
+        if c.name == "XSRF-TOKEN":
+            token = urllib.parse.unquote(c.value)
+            break
+    if not token:
+        raise RuntimeError("Wild-1: не выдан XSRF-токен")
+
+    # 2) постранично забираем каталог
+    items = []
+    seen = set()
+    for page in range(max_pages):
+        body = json.dumps({
+            "search": _WILD1_SEARCH,
+            "request": {},
+            "page": page,
+            "page_row": page_row,
+        }).encode("utf-8")
+        req = urllib.request.Request(WILD1_API, data=body, headers={
+            "User-Agent": UA,
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "X-XSRF-TOKEN": token,
+            "Referer": WILD1_PAGE,
+        })
+        data = json.loads(opener.open(req, timeout=90).read().decode("utf-8"))
+        if not data.get("success"):
+            break
+        chunk = (data.get("result") or {}).get("data") or []
+        if not chunk:
+            break
+        for p in chunk:
+            pid = p.get("product_id")
+            if not pid or pid in seen:
+                continue
+            seen.add(pid)
+            lo = p.get("product_sku_price_selling_min_taxed")
+            hi = p.get("product_sku_price_selling_max_taxed")
+            def _yen(v):
+                return f"{int(float(v)):,}".replace(",", " ") + " ¥"
+            try:
+                price_text = _yen(lo)
+                if hi and float(hi) != float(lo):
+                    price_text += "–" + _yen(hi)
+            except (TypeError, ValueError):
+                price_text = "—"
+            brand = (p.get("brand_name") or "").strip()
+            name = (p.get("product_name") or "").strip()
+            items.append({
+                "uid": f"w1{pid}",
+                "title": (brand + " " + name).strip() if brand else name,
+                "price": price_text,
+                "link": f"{WILD1_URL}/websitevue/onlinestore/product/{pid}",
+                "shop": WILD1_NAME,
+                "extra": "",
+            })
+        if len(chunk) < page_row:
+            break
+    return items
+
+
 # ---------------------------------------------------------------- общий вход
 SOURCES = [
     ("t-Route", fetch_troute),
     ("Ority", fetch_ority),
+    ("Velvet Arts", fetch_velvet),
+    ("Zarky", fetch_zarky),
+    ("Wild-1", fetch_wild1),
 ]
 
 
