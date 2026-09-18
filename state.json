@@ -7029,16 +7029,6 @@
    "link": "https://t-route.net/products/kokonyoro-chibi-ココニョロちび",
    "extra": ""
   },
-  "tr9142480601302": {
-   "name": "VENUS（ウェヌス）",
-   "price": null,
-   "price_text": "500 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/venus-ヴェヌス",
-   "extra": ""
-  },
   "tr7899502477526": {
    "name": "Fat Moca Jr.（ファットモカJr.）",
    "price": null,
@@ -48440,5 +48430,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-18T08:53:32+03:00"
+ "last_check": "2026-09-18T08:56:27+03:00"
 }
