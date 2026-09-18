@@ -9049,16 +9049,6 @@
    "link": "https://t-route.net/products/smith-in-store-event-goods",
    "extra": "нет в наличии"
   },
-  "tr9053642424534": {
-   "name": "B-Spark Winners Color（ビースパーク大会優勝者カラー）",
-   "price": null,
-   "price_text": "770 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/b-spark-winners-color-ビースパーク大会優勝者カラー",
-   "extra": ""
-  },
   "tr7899481866454": {
    "name": "Petit MOCA SR-SS / DR-F（プチモカSR-SS / DR-F）",
    "price": null,
@@ -48420,5 +48410,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-18T09:56:17+03:00"
+ "last_check": "2026-09-18T10:01:58+03:00"
 }
