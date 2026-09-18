@@ -2149,6 +2149,16 @@
    "price": 1650,
    "stock": 23
   },
+  "tr8595310870742": {
+   "name": "Lucky Craft Plug GS2 GATE Limited（ラッキークラフトプラグGS2ゲートカラー）",
+   "price": null,
+   "price_text": "1 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/medium-cra-pea-gs2-ulcus-limited-ミディアムクラピーアルカスオリカラ",
+   "extra": ""
+  },
   "tr9053642424534": {
    "name": "B-Spark Winners Color（ビースパーク大会優勝者カラー）",
    "price": null,
@@ -48530,5 +48540,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-18T14:06:30+03:00"
+ "last_check": "2026-09-18T14:11:41+03:00"
 }
