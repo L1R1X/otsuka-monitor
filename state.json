@@ -24229,6 +24229,16 @@
    "link": "https://t-route.net/products/タップダンサー",
    "extra": ""
   },
+  "or193585203": {
+   "name": "スタジオ峰岸 クロノタクト CT6202XUL-ST",
+   "price": null,
+   "price_text": "61,380 ¥(税5,580 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=193585203",
+   "extra": ""
+  },
   "or193239753": {
    "name": "ロデオクラフトRC 2026年シグネチャーカラー ウッサ",
    "price": null,
@@ -24337,16 +24347,6 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=192885257",
-   "extra": ""
-  },
-  "or192885185": {
-   "name": "ムカイPOGO 三ケ日みかん",
-   "price": null,
-   "price_text": "1,760 ¥(税160 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=192885185",
    "extra": ""
   },
   "or170308671": {
@@ -25477,6 +25477,16 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=192875179",
+   "extra": ""
+  },
+  "or192885185": {
+   "name": "ムカイPOGO 三ケ日みかん",
+   "price": null,
+   "price_text": "—",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=192885185",
    "extra": ""
   },
   "or174085004": {
@@ -48430,5 +48440,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-18T05:31:30+03:00"
+ "last_check": "2026-09-18T05:36:15+03:00"
 }
