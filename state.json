@@ -2149,6 +2149,46 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9053642424534": {
+   "name": "B-Spark Winners Color（ビースパーク大会優勝者カラー）",
+   "price": null,
+   "price_text": "773 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/b-spark-winners-color-ビースパーク大会優勝者カラー",
+   "extra": ""
+  },
+  "tr9142480601302": {
+   "name": "VENUS（ウェヌス）",
+   "price": null,
+   "price_text": "500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/venus-ヴェヌス",
+   "extra": ""
+  },
+  "tr9519087255766": {
+   "name": "RC LION HOOK（RCライオンフック）",
+   "price": null,
+   "price_text": "600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-lion-hook-rcライオンフック",
+   "extra": ""
+  },
+  "tr9519184838870": {
+   "name": "CLEAR ALF InjectionType 1091 Color（クリアアルフインジェクションタイプ1091カラー）",
+   "price": null,
+   "price_text": "850 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/clear-alf-injectiontype-1091-color-クリアアルフインジェクションタイプ1091カラー",
+   "extra": ""
+  },
   "tr9046273720534": {
    "name": "HI BURST 1.6g/2.0g（ハイバースト1.6g/2.0g）",
    "price": null,
@@ -48490,5 +48530,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-18T14:01:51+03:00"
+ "last_check": "2026-09-18T14:06:30+03:00"
 }
