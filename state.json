@@ -2135,6 +2135,16 @@
    "price": 1650,
    "stock": 23
   },
+  "tr9521279402198": {
+   "name": "GOD HANDS Spoon Morning Haze series（ゴッドハンズスプーンモーニングヘイズシリーズ）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/god-hands-spoon-morning-haze-series-ゴッドハンズスプーンモーニングヘイズシリーズ",
+   "extra": "нет в наличии"
+  },
   "tr8595310870742": {
    "name": "Lucky Craft Plug GS2 GATE Limited（ラッキークラフトプラグGS2ゲートカラー）",
    "price": null,
@@ -48536,5 +48546,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-19T11:51:17+03:00"
+ "last_check": "2026-09-19T11:54:10+03:00"
 }
