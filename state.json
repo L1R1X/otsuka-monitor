@@ -2135,6 +2135,16 @@
    "price": 1650,
    "stock": 23
   },
+  "tr8138556506326": {
+   "name": "999.9 meister Gray wolf（フォーナインマイスターグレイウルフ）",
+   "price": null,
+   "price_text": "65 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/999-9-meister-blue-wolf-613ul-trz-フォーナインマイスターブルーウルフ-のコピー",
+   "extra": ""
+  },
   "tr9521279402198": {
    "name": "GOD HANDS Spoon Morning Haze series（ゴッドハンズスプーンモーニングヘイズシリーズ）",
    "price": null,
@@ -48536,5 +48546,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-19T13:01:47+03:00"
+ "last_check": "2026-09-19T13:06:43+03:00"
 }
