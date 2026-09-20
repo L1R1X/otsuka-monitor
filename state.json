@@ -49408,16 +49408,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193487619",
    "extra": ""
   },
-  "jh193484524": {
-   "name": "ラッキークラフト マイクロクラピー GS2 #CTカノマ【GATE】",
-   "price": null,
-   "price_text": "1,605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193484524",
-   "extra": ""
-  },
   "jh193483665": {
    "name": "ValkeIN ライオーム NANO #ピトー【TSカラー】",
    "price": null,
@@ -53367,7 +53357,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
    "extra": ""
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": ""
   }
  },
- "last_check": "2026-09-20T17:01:39+03:00"
+ "last_check": "2026-09-20T17:06:42+03:00"
 }
