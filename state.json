@@ -48891,16 +48891,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193548522",
    "extra": ""
   },
-  "jh193548429": {
-   "name": "FOREST E-BEAT エ・ビート 2.4g #6 蛍光ペレット",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193548429",
-   "extra": "распродано"
-  },
   "jh193547251": {
    "name": "ValkeIN ヴァルキャノン 2.8g #突撃メタルオリーブ【パワーショップ限定】",
    "price": null,
@@ -51561,6 +51551,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192817996",
    "extra": ""
   },
+  "jh192817994": {
+   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #16ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192817994",
+   "extra": ""
+  },
   "jh192817992": {
    "name": "ロデオクラフト RC WAH ワウ 33HF♪ #2015ノブカラー",
    "price": null,
@@ -53362,5 +53362,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-20T21:36:14+03:00"
+ "last_check": "2026-09-20T21:41:38+03:00"
 }
