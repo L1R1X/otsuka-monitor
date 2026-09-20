@@ -182,6 +182,81 @@ def fetch_ority(max_pages=60):
     return items
 
 
+# ---------------------------------------------------------------- JH
+# Движок Colorme, но вёрстка другая: карточки в <li class="productlist_list">.
+# Магазин огромный (10000+ товаров, по 60 на страницу), поэтому берём
+# только несколько первых страниц с сортировкой по новизне - новинки
+# всегда там. Полный каталог качать каждые 5 минут смысла нет.
+JH_NAME = "JH"
+JH_URL = "https://fishing-shop-jh.com"
+JH_SEARCH = JH_URL + "/?mode=srh&sort=n&keyword="
+
+_JH_LI_RE = re.compile(
+    r'<li[^>]*productlist_list[^>]*>(.*?)</li>', re.S)
+_JH_PID_RE = re.compile(r'\?pid=(\d+)')
+# у новинок внутри item_name стоит значок NEW (<img ...>),
+# поэтому берём всё до закрывающего </span>, а теги вырезаем потом
+_JH_NAME_RE = re.compile(r'class="item_name[^"]*">(.*?)</span>', re.S)
+_JH_PRICE_RE = re.compile(r'class="item_price[^"]*">(.*?)</span>', re.S)
+_JH_SOLD_RE = re.compile(r'(SOLD\s*OUT|売り切れ|完売)', re.I)
+
+
+def _jh_page(page):
+    url = JH_SEARCH if page == 1 else f"{JH_SEARCH}&page={page}"
+    raw = _get(url)
+    # euc_jisx0213 - расширенный EUC-JP: понимает символы вроде Ⅱ, Ⅸ,
+    # на которых обычный euc_jp даёт кракозябры
+    try:
+        html = raw.decode("euc_jisx0213")
+    except (UnicodeDecodeError, LookupError):
+        html = raw.decode("euc_jp", "replace")
+
+    items = []
+    for block in _JH_LI_RE.findall(html):
+        m = _JH_PID_RE.search(block)
+        if not m:
+            continue
+        pid = m.group(1)
+        nm = _JH_NAME_RE.search(block)
+        title = _TAG_RE.sub("", nm.group(1)) if nm else ""
+        title = re.sub(r"\s+", " ", title).strip()
+        if not title:
+            continue
+        pm = _JH_PRICE_RE.search(block)
+        price = re.sub(r"\s+", " ", _TAG_RE.sub("", pm.group(1))).strip() \
+            if pm else ""
+        sold = bool(_JH_SOLD_RE.search(block))
+        items.append({
+            "uid": f"jh{pid}",
+            "title": title,
+            "price": "—" if (sold or not price)
+                     else price.replace("円", " ¥"),
+            "link": f"{JH_URL}/?pid={pid}",
+            "shop": JH_NAME,
+            "extra": "распродано" if sold else "",
+        })
+    return items
+
+
+def fetch_jh(max_pages=8):
+    """Новейшие товары магазина fishing-shop-jh.com."""
+    items = []
+    seen = set()
+    for page in range(1, max_pages + 1):
+        try:
+            chunk = _jh_page(page)
+        except Exception:
+            break
+        if not chunk:
+            break
+        fresh = [c for c in chunk if c["uid"] not in seen]
+        if not fresh:
+            break
+        seen.update(c["uid"] for c in fresh)
+        items.extend(fresh)
+    return items
+
+
 # ---------------------------------------------------------------- Wild-1
 # Магазин на движке EC-Orange: товары отдаёт не HTML, а внутренний API.
 # Нужны кука сессии и заголовок X-XSRF-TOKEN, иначе ответ 400.
@@ -287,6 +362,7 @@ SOURCES = [
     ("Velvet Arts", fetch_velvet),
     ("Zarky", fetch_zarky),
     ("Wild-1", fetch_wild1),
+    ("JH", fetch_jh),
 ]
 
 
