@@ -24497,6 +24497,16 @@
    "link": "https://ority.shop-pro.jp/?pid=172018567",
    "extra": ""
   },
+  "or173437946": {
+   "name": "さかさニョロ 微笑みスケルトン 予約販売商品です！ 11月15日頃出荷予定です！",
+   "price": null,
+   "price_text": "2,310 ¥(税210 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=173437946",
+   "extra": ""
+  },
   "or174060872": {
    "name": "なぶら家 ナブクラ 1091「三ケ日みかん」",
    "price": null,
@@ -24540,7 +24550,7 @@
   "or174661498": {
    "name": "ピーチバイソン グレープ0.4g",
    "price": null,
-   "price_text": "468 ¥(税43 ¥)",
+   "price_text": "—",
    "spec": "",
    "stock": 0,
    "shop": "Ority",
@@ -26625,16 +26635,6 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=173196587",
-   "extra": "распродано"
-  },
-  "or173437946": {
-   "name": "さかさニョロ 微笑みスケルトン 予約販売商品です！ 11月15日頃出荷予定です！",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=173437946",
    "extra": "распродано"
   },
   "or174259018": {
@@ -53348,5 +53348,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-21T09:46:25+03:00"
+ "last_check": "2026-09-21T09:52:10+03:00"
 }
