@@ -51423,16 +51423,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192820215",
    "extra": ""
   },
-  "jh192819292": {
-   "name": "ロデオクラフト ノア NOA 1.8g #ソルティマジョーラ改【FORODOX】",
-   "price": null,
-   "price_text": "570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192819292",
-   "extra": ""
-  },
   "jh192818448": {
    "name": "FULLCLIP ファストクリップ 15V2 FPU-040 #BWD",
    "price": null,
@@ -53402,7 +53392,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
+  },
+  "jh192175590": {
+   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175590",
+   "extra": ""
   }
  },
- "last_check": "2026-09-21T13:31:48+03:00"
+ "last_check": "2026-09-21T13:36:39+03:00"
 }
