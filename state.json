@@ -48832,16 +48832,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193573378",
    "extra": ""
   },
-  "jh193573330": {
-   "name": "ロデオクラフト RCライオンフック 12本入 #12",
-   "price": null,
-   "price_text": "615 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193573330",
-   "extra": ""
-  },
   "jh193573305": {
    "name": "ロデオクラフト RCライオンフック 12本入 #10",
    "price": null,
@@ -53381,7 +53371,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175587",
    "extra": ""
+  },
+  "jh192175567": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175567",
+   "extra": ""
   }
  },
- "last_check": "2026-09-21T22:01:20+03:00"
+ "last_check": "2026-09-21T22:06:47+03:00"
 }
