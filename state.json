@@ -50098,16 +50098,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193260066",
    "extra": ""
   },
-  "jh193260065": {
-   "name": "Noon bee Tactical #マルチカムブラック",
-   "price": null,
-   "price_text": "12,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193260065",
-   "extra": ""
-  },
   "jh193248274": {
    "name": "ウォーターランド レンゲ 4g #ORG",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
+  },
+  "jh192113799": {
+   "name": "ValkeIN ライオーム NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113799",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T02:10:02+03:00"
+ "last_check": "2026-09-23T02:11:35+03:00"
 }
