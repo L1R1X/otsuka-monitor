@@ -48908,16 +48908,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193565072",
    "extra": ""
   },
-  "jh193548522": {
-   "name": "FOREST E-BEAT エ・ビート 2.4g #8 グリーングロー",
-   "price": null,
-   "price_text": "815 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193548522",
-   "extra": ""
-  },
   "jh193547251": {
    "name": "ValkeIN ヴァルキャノン 2.8g #突撃メタルオリーブ【パワーショップ限定】",
    "price": null,
@@ -50786,16 +50776,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193160615",
-   "extra": ""
-  },
-  "jh193146643": {
-   "name": "アンデッドファクトリー レム 23SSSR #予襲復讐",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193146643",
    "extra": ""
   },
   "jh193146635": {
@@ -53377,7 +53357,27 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175590",
    "extra": ""
+  },
+  "jh192175587": {
+   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175587",
+   "extra": ""
+  },
+  "jh192175567": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175567",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T15:41:57+03:00"
+ "last_check": "2026-09-22T15:47:19+03:00"
 }
