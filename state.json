@@ -48878,16 +48878,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193567706",
    "extra": ""
   },
-  "jh193565072": {
-   "name": "IOS-Factory フルコンタクト LT用",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193565072",
-   "extra": ""
-  },
   "jh193547251": {
    "name": "ValkeIN ヴァルキャノン 2.8g #突撃メタルオリーブ【パワーショップ限定】",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175118",
    "extra": ""
+  },
+  "jh192175110": {
+   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175110",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T16:16:51+03:00"
+ "last_check": "2026-09-22T16:21:44+03:00"
 }
