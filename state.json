@@ -8186,7 +8186,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/curved-top-forceps-カーブフォーセップ",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr9103977775318": {
    "name": "BACKSTROKE 55S WG（バックストローク55S WG）",
@@ -8946,7 +8946,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/lure-making-tray-ルアーメイキングトレー",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr9063863091414": {
    "name": "KOKO NYORO 2025 summer t-Route Limited（ココニョロt-Routeオリカラ）",
@@ -10866,7 +10866,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mc-quick-snap-holder-mcクイックスナップホルダー",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr7979868356822": {
    "name": "999.9 meister Gold wolf（フォーナインマイスターゴールドウルフ）",
@@ -50168,16 +50168,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193247589",
    "extra": ""
   },
-  "jh193246813": {
-   "name": "バリバス ラインカッター VACC-84 #斜刃/シルバー",
-   "price": null,
-   "price_text": "1,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193246813",
-   "extra": ""
-  },
   "jh193246733": {
    "name": "バリバス ラインカッター VAAC-84 #直刃/シルバー",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": ""
+  },
+  "jh192113806": {
+   "name": "ValkeIN ライオーム NANO #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113806",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T01:51:59+03:00"
+ "last_check": "2026-09-23T01:56:59+03:00"
 }
