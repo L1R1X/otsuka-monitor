@@ -50458,16 +50458,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193229695",
    "extra": ""
   },
-  "jh193229483": {
-   "name": "スミス エリアネットスタンド #ブラック",
-   "price": null,
-   "price_text": "2,850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193229483",
-   "extra": ""
-  },
   "jh193169160": {
    "name": "ラッキークラフト WAH ワウ 33F #アマビエ",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175110",
    "extra": ""
+  },
+  "jh192175084": {
+   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175084",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T16:41:58+03:00"
+ "last_check": "2026-09-22T16:44:25+03:00"
 }
