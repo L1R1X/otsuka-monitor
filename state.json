@@ -1811,7 +1811,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 39
+   "stock": 38
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
@@ -1825,7 +1825,7 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 50
+   "stock": 49
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
@@ -1944,7 +1944,7 @@
    "spec": "#チャッチャッ 24.5mm 0.7g フローティング 熊谷店オリカラ",
    "code": "4580847002352",
    "price": 1760,
-   "stock": 3
+   "stock": 2
   },
   "53360101GKS00613": {
    "name": "ヴァルケイン クーガ",
@@ -49315,6 +49315,26 @@
    "link": "https://fishing-shop-jh.com/?pid=193532035",
    "extra": ""
   },
+  "jh193521157": {
+   "name": "ValkeIN ハイドラム S リアルプリント #パイソンイエローレッドグロー",
+   "price": null,
+   "price_text": "1,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193521157",
+   "extra": ""
+  },
+  "jh193521135": {
+   "name": "ValkeIN ハイドラム S リアルプリント #パイソンオリーブレッドグロー",
+   "price": null,
+   "price_text": "1,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193521135",
+   "extra": ""
+  },
   "jh193521021": {
    "name": "ValkeIN ハイドラム F リアルプリント #濃イレッドグローアルビノ",
    "price": null,
@@ -53344,27 +53364,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
-  },
-  "jh192175590": {
-   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175590",
-   "extra": ""
-  },
-  "jh192175587": {
-   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175587",
-   "extra": ""
   }
  },
- "last_check": "2026-09-22T09:21:32+03:00"
+ "last_check": "2026-09-22T09:26:35+03:00"
 }
