@@ -52178,16 +52178,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192584452",
    "extra": ""
   },
-  "jh192571564": {
-   "name": "ディスプラウト Reccoa 1.6g #12 オールシルバー",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192571564",
-   "extra": ""
-  },
   "jh192571519": {
    "name": "ディスプラウト Reccoa 1.6g #11 オールゴールド",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175518",
    "extra": ""
+  },
+  "jh192175504": {
+   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175504",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T16:06:48+03:00"
+ "last_check": "2026-09-22T16:11:49+03:00"
 }
