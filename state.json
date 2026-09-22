@@ -51718,16 +51718,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192669563",
    "extra": ""
   },
-  "jh192669559": {
-   "name": "ラッキークラフト×GATE ディープクラピー GS2 #レッドグロー【HERO'S】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192669559",
-   "extra": ""
-  },
   "jh192669549": {
    "name": "ラッキークラフト×GATE ディープクラピー GS2 #グリーングロー【HERO'S】",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": ""
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T21:46:45+03:00"
+ "last_check": "2026-09-22T21:49:49+03:00"
 }
