@@ -2135,6 +2135,16 @@
    "price": 1650,
    "stock": 21
   },
+  "tr10311415038166": {
+   "name": "PERE-SUPU（ペレスプ）",
+   "price": null,
+   "price_text": "560 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/pere-supu-ペレスプ",
+   "extra": "нет в наличии"
+  },
   "tr9492185678038": {
    "name": "≪予約商品≫(2026年11月お届け予定）Sauribu Spoon t-Route Limited 2026 Autmun（サウリブスプーンt-Routeオリカラ）",
    "price": null,
@@ -53366,5 +53376,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-22T13:11:24+03:00"
+ "last_check": "2026-09-22T13:16:52+03:00"
 }
