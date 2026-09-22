@@ -50438,16 +50438,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193161258",
    "extra": ""
   },
-  "jh193161162": {
-   "name": "ALFRED クリアアルフ 1.3g #T-01 マットクリアオリーブ",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161162",
-   "extra": ""
-  },
   "jh193161144": {
    "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113806",
    "extra": ""
+  },
+  "jh192113801": {
+   "name": "ValkeIN ライオーム NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113801",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T02:06:33+03:00"
+ "last_check": "2026-09-23T02:10:02+03:00"
 }
