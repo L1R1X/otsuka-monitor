@@ -208,7 +208,7 @@
    "spec": "#伊勢崎店オリカラ ピンクロビン 0.7g",
    "code": "4573265537797",
    "price": 550,
-   "stock": 22
+   "stock": 23
   },
   "53360101GKH00259": {
    "name": "FPBルアーズ ベリーズ  0.7g",
@@ -48935,6 +48935,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193547218",
    "extra": ""
   },
+  "jh193544381": {
+   "name": "EVERGREEN アルチザン AATS-61ML/RF",
+   "price": null,
+   "price_text": "77,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193544381",
+   "extra": ""
+  },
   "jh193542775": {
    "name": "ValkeIN ハイバースト2.0g #82 オイシイキウイ",
    "price": null,
@@ -53354,17 +53364,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175558",
    "extra": ""
-  },
-  "jh192175543": {
-   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175543",
-   "extra": ""
   }
  },
- "last_check": "2026-09-22T07:32:01+03:00"
+ "last_check": "2026-09-22T07:36:29+03:00"
 }
