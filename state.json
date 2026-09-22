@@ -48988,26 +48988,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542587",
    "extra": ""
   },
-  "jh193542573": {
-   "name": "ValkeIN ハイバースト2.0g #28 Rオレンジゴールド",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542573",
-   "extra": ""
-  },
-  "jh193542554": {
-   "name": "ValkeIN ハイバースト2.0g #26 ファイナルレッドゴールド",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542554",
-   "extra": ""
-  },
   "jh193542549": {
    "name": "ValkeIN ハイバースト2.0g #20 イエローオレンジ/ブラック",
    "price": null,
@@ -49066,16 +49046,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193542436",
-   "extra": ""
-  },
-  "jh193542401": {
-   "name": "ValkeIN ハイバースト2.0g #1 ゴールド",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542401",
    "extra": ""
   },
   "jh193532302": {
@@ -53377,7 +53347,37 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": ""
+  },
+  "jh192175024": {
+   "name": "ロブルアー バベルV3 0.38g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175024",
+   "extra": ""
+  },
+  "jh192175006": {
+   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": ""
+  },
+  "jh192174984": {
+   "name": "ロブルアー バベルV3 0.38g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192174984",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T17:11:36+03:00"
+ "last_check": "2026-09-22T17:17:16+03:00"
 }
