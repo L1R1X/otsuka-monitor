@@ -49318,16 +49318,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193519826",
    "extra": ""
   },
-  "jh193487651": {
-   "name": "VANFOOK エキスパートフック SP-21F #9 【50本入り】",
-   "price": null,
-   "price_text": "1,440 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193487651",
-   "extra": ""
-  },
   "jh193487645": {
    "name": "VANFOOK エキスパートフック SP-21F #9 【16本入り】",
    "price": null,
@@ -50486,16 +50476,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193229483",
-   "extra": ""
-  },
-  "jh193205887": {
-   "name": "ラッキークラフト ディープクラピーGS2 #ハラオリ【DLIVE×GATE】",
-   "price": null,
-   "price_text": "1,815 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193205887",
    "extra": ""
   },
   "jh193169160": {
@@ -53377,7 +53357,27 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
    "extra": ""
+  },
+  "jh192175468": {
+   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175468",
+   "extra": ""
+  },
+  "jh192175118": {
+   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175118",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T16:14:05+03:00"
+ "last_check": "2026-09-22T16:16:51+03:00"
 }
