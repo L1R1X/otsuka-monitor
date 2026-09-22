@@ -52178,36 +52178,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192584874",
    "extra": ""
   },
-  "jh192584737": {
-   "name": "ロブルアー バベコン 0.6g #LT5 ずぼら生活",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584737",
-   "extra": ""
-  },
-  "jh192584454": {
-   "name": "ロブルアー メカバベル 0.5g #LT11 ずぼらの子守唄",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584454",
-   "extra": ""
-  },
-  "jh192584452": {
-   "name": "ロブルアー メカバベル 0.5g #LT5 ずぼら生活",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584452",
-   "extra": ""
-  },
   "jh192571564": {
    "name": "ディスプラウト Reccoa 1.6g #12 オールシルバー",
    "price": null,
@@ -53377,7 +53347,37 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175558",
    "extra": ""
+  },
+  "jh192175543": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175543",
+   "extra": ""
+  },
+  "jh192175521": {
+   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175521",
+   "extra": ""
+  },
+  "jh192175518": {
+   "name": "ロブルアー バベルV3 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175518",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T15:59:22+03:00"
+ "last_check": "2026-09-22T16:02:02+03:00"
 }
