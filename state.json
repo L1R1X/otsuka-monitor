@@ -49028,16 +49028,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542460",
    "extra": ""
   },
-  "jh193542436": {
-   "name": "ValkeIN ハイバースト2.0g #2 シルバー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542436",
-   "extra": ""
-  },
   "jh193532302": {
    "name": "deps バズジェット TM #22 スモークビーベリー",
    "price": null,
@@ -52628,16 +52618,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192407292",
    "extra": ""
   },
-  "jh192405958": {
-   "name": "ロデオクラフト モカSR HF 2HOOK #クリアーピンク",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192405958",
-   "extra": ""
-  },
   "jh192405940": {
    "name": "ロデオクラフト にゃんプップ ラトルin #9 ゴールデントップ",
    "price": null,
@@ -52646,16 +52626,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192405940",
-   "extra": ""
-  },
-  "jh192405931": {
-   "name": "ロデオクラフト 子にゃんプップ #12 カゲロウ",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192405931",
    "extra": ""
   },
   "jh192405929": {
@@ -53377,7 +53347,37 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": ""
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
+   "extra": ""
+  },
+  "jh192143570": {
+   "name": "ロデオクラフト コットンメッシュキャップ 刺繍 JHロゴ",
+   "price": null,
+   "price_text": "6,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192143570",
+   "extra": ""
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": ""
   }
  },
- "last_check": "2026-09-22T22:56:45+03:00"
+ "last_check": "2026-09-22T23:01:58+03:00"
 }
