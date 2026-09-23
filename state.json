@@ -48888,16 +48888,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193547218",
    "extra": ""
   },
-  "jh193542775": {
-   "name": "ValkeIN ハイバースト2.0g #82 オイシイキウイ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542775",
-   "extra": ""
-  },
   "jh193542755": {
    "name": "ValkeIN ハイバースト2.0g #80 オイシイ桃",
    "price": null,
@@ -53377,7 +53367,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113780",
    "extra": ""
+  },
+  "jh192113778": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113778",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T04:58:56+03:00"
+ "last_check": "2026-09-23T05:02:23+03:00"
 }
