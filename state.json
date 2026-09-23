@@ -49726,6 +49726,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193470410",
    "extra": ""
   },
+  "jh193463435": {
+   "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193463435",
+   "extra": ""
+  },
   "jh193463363": {
    "name": "DAIWA ダブルクラッチ 60F1 #デリシャスペレット",
    "price": null,
@@ -50474,6 +50484,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193229695",
+   "extra": ""
+  },
+  "jh193205887": {
+   "name": "ラッキークラフト ディープクラピーGS2 #ハラオリ【DLIVE×GATE】",
+   "price": null,
+   "price_text": "1,815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193205887",
    "extra": ""
   },
   "jh193169160": {
@@ -53375,37 +53395,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
    "extra": ""
-  },
-  "jh192147523": {
-   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147523",
-   "extra": ""
-  },
-  "jh192146640": {
-   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146640",
-   "extra": ""
-  },
-  "jh192146590": {
-   "name": "ムカイ バックストローク 55SS #チカチカ",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146590",
-   "extra": ""
   }
  },
- "last_check": "2026-09-23T10:11:45+03:00"
+ "last_check": "2026-09-23T10:16:01+03:00"
 }
