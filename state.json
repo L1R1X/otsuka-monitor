@@ -51012,36 +51012,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192975623",
    "extra": ""
   },
-  "jh192975616": {
-   "name": "ラッキークラフト ワウ 37F #九音【HERO'S】",
-   "price": null,
-   "price_text": "1,400 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192975616",
-   "extra": ""
-  },
-  "jh192975613": {
-   "name": "ラッキークラフト ワウ 37F #満月【HERO'S】",
-   "price": null,
-   "price_text": "1,400 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192975613",
-   "extra": ""
-  },
-  "jh192975612": {
-   "name": "ラッキークラフト ワウ 37F #新月【HERO'S】",
-   "price": null,
-   "price_text": "1,400 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192975612",
-   "extra": ""
-  },
   "jh192975606": {
    "name": "ラッキークラフト WAH ワウ 33F #満月【HERO'S】",
    "price": null,
@@ -53391,7 +53361,37 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113796",
    "extra": ""
+  },
+  "jh192113795": {
+   "name": "ValkeIN ライオーム NANO #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113795",
+   "extra": ""
+  },
+  "jh192113794": {
+   "name": "ValkeIN ライオーム NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113794",
+   "extra": ""
+  },
+  "jh192113791": {
+   "name": "ValkeIN シャインライド NANO #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T17:56:22+03:00"
+ "last_check": "2026-09-23T18:02:27+03:00"
 }
