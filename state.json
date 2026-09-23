@@ -50746,6 +50746,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193146565",
    "extra": ""
   },
+  "jh193146558": {
+   "name": "アンデッドファクトリー レム 23SSSR #ピンクスパイダー",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193146558",
+   "extra": ""
+  },
   "jh193137236": {
    "name": "DAYSPROUT ピコイーグルプレイヤーF G2 #クロラナット",
    "price": null,
@@ -53397,5 +53407,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-23T10:16:01+03:00"
+ "last_check": "2026-09-23T10:21:39+03:00"
 }
