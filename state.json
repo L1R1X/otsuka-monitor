@@ -52792,16 +52792,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192325361",
    "extra": ""
   },
-  "jh192325347": {
-   "name": "ValkeIN ブラックブラスト 1.8g #オイリーオリーブ【有頂天】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192325347",
-   "extra": ""
-  },
   "jh192325325": {
    "name": "ValkeIN ブラックブラスト 1.8g #フリーティンググロー【有頂天】",
    "price": null,
@@ -53391,7 +53381,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": ""
+  },
+  "jh192113801": {
+   "name": "ValkeIN ライオーム NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113801",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T16:41:30+03:00"
+ "last_check": "2026-09-23T16:46:55+03:00"
 }
