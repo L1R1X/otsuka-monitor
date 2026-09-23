@@ -51275,16 +51275,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192892709",
    "extra": ""
   },
-  "jh192820310": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192820310",
-   "extra": ""
-  },
   "jh192820215": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26松本",
    "price": null,
@@ -53384,7 +53374,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147530",
    "extra": ""
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T12:56:25+03:00"
+ "last_check": "2026-09-23T13:02:38+03:00"
 }
