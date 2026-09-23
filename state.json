@@ -1713,7 +1713,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 97
+   "stock": 96
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1727,7 +1727,7 @@
    "spec": "# トライデントRGマシマシ(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319725",
    "price": 1650,
-   "stock": 68
+   "stock": 67
   },
   "53360101GLY00883": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #翠玉 33mm 1.8g スーパーデッドスローシンキング",
@@ -1762,7 +1762,7 @@
    "spec": "#スコーカー 33mm 1.8g スーパーデッドスローシンキング 川越店オリカラ",
    "code": "4514447316274",
    "price": 1650,
-   "stock": 9
+   "stock": 5
   },
   "53360101GKV00068": {
    "name": "リプライ プラスチックプラグシリーズ デカチャグ #ギラギラクロアタマ 40mm 2.8 フローティング",
@@ -1846,14 +1846,14 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512228",
    "price": 1925,
-   "stock": 132
+   "stock": 131
   },
   "53360101GLX01272": {
    "name": "ロデオクラフト ウッサ XS",
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 63
+   "stock": 62
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
@@ -48906,6 +48906,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193567706",
    "extra": ""
   },
+  "jh193547244": {
+   "name": "ValkeIN ヴァルキャノン 1.8g #突撃メタルオリーブ【パワーショップ限定】",
+   "price": null,
+   "price_text": "790 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193547244",
+   "extra": ""
+  },
   "jh193547218": {
    "name": "ValkeIN ヴァルキャノン 1.8g #無双メタルブラウン【パワーショップ限定】",
    "price": null,
@@ -49516,6 +49526,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193471925",
    "extra": ""
   },
+  "jh193471920": {
+   "name": "ValkeIN ヴァルキャノン 2.8g #M171 ジャストショットピンク",
+   "price": null,
+   "price_text": "740 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193471920",
+   "extra": ""
+  },
   "jh193471914": {
    "name": "ValkeIN ヴァルキャノン 2.8g #M146 マットアースプラッシュ",
    "price": null,
@@ -49574,6 +49594,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193471784",
+   "extra": ""
+  },
+  "jh193471773": {
+   "name": "ValkeIN ヴァルキャノン 2.8g #M137 パッショングローレッド",
+   "price": null,
+   "price_text": "740 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193471773",
    "extra": ""
   },
   "jh193470682": {
@@ -50114,6 +50144,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193356806",
+   "extra": ""
+  },
+  "jh193345013": {
+   "name": "なぶら家 2WIN 2g #ペロコーク【HERO'S】",
+   "price": null,
+   "price_text": "730 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193345013",
    "extra": ""
   },
   "jh193260068": {
@@ -53365,47 +53405,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192143570",
    "extra": ""
-  },
-  "jh192113833": {
-   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
-   "price": null,
-   "price_text": "12,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": ""
-  },
-  "jh192113806": {
-   "name": "ValkeIN ライオーム NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113806",
-   "extra": ""
-  },
-  "jh192113801": {
-   "name": "ValkeIN ライオーム NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113801",
-   "extra": ""
-  },
-  "jh192113796": {
-   "name": "ValkeIN ライオーム NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113796",
-   "extra": ""
   }
  },
- "last_check": "2026-09-23T09:22:01+03:00"
+ "last_check": "2026-09-23T09:26:55+03:00"
 }
