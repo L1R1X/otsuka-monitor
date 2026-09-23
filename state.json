@@ -51922,16 +51922,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192652889",
    "extra": ""
   },
-  "jh192652838": {
-   "name": "アンデッドファクトリー レム 23FSR #デモデモダッテ",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192652838",
-   "extra": ""
-  },
   "jh192652686": {
    "name": "アンデッドファクトリー レム 23FSR #ピンクスパイダー",
    "price": null,
@@ -53391,7 +53381,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
    "extra": ""
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": ""
   }
  },
- "last_check": "2026-09-24T00:31:47+03:00"
+ "last_check": "2026-09-24T00:36:27+03:00"
 }
