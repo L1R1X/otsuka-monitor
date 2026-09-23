@@ -48842,16 +48842,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193573378",
    "extra": ""
   },
-  "jh193573368": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #10",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193573368",
-   "extra": ""
-  },
   "jh193572482": {
    "name": "オフィスユーカリ B-SPARK 2.9g #3代目Bスパ神",
    "price": null,
@@ -53391,7 +53381,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
    "extra": ""
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T12:26:19+03:00"
+ "last_check": "2026-09-23T12:29:24+03:00"
 }
