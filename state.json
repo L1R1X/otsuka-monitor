@@ -48918,6 +48918,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193547218",
    "extra": ""
   },
+  "jh193544381": {
+   "name": "EVERGREEN アルチザン AATS-61ML/RF",
+   "price": null,
+   "price_text": "77,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193544381",
+   "extra": ""
+  },
   "jh193542775": {
    "name": "ValkeIN ハイバースト2.0g #82 オイシイキウイ",
    "price": null,
@@ -53367,17 +53377,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
-  },
-  "jh192113799": {
-   "name": "ValkeIN ライオーム NANO #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113799",
-   "extra": ""
   }
  },
- "last_check": "2026-09-23T03:21:28+03:00"
+ "last_check": "2026-09-23T03:26:46+03:00"
 }
