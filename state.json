@@ -49158,16 +49158,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193532137",
    "extra": ""
   },
-  "jh193532035": {
-   "name": "イケクラ 串団子スプラッシャー #きな粉 まんまペレット",
-   "price": null,
-   "price_text": "1,800 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193532035",
-   "extra": ""
-  },
   "jh193521157": {
    "name": "ValkeIN ハイドラム S リアルプリント #パイソンイエローレッドグロー",
    "price": null,
@@ -50506,16 +50496,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193160661",
-   "extra": ""
-  },
-  "jh193160646": {
-   "name": "スミス ヒカルコイカチャン #12 イカの沖漬け",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193160646",
    "extra": ""
   },
   "jh193160636": {
@@ -53377,7 +53357,27 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113786",
    "extra": ""
+  },
+  "jh192113784": {
+   "name": "ValkeIN シャインライド NANO #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113784",
+   "extra": ""
+  },
+  "jh192113782": {
+   "name": "ValkeIN シャインライド NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113782",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T04:41:09+03:00"
+ "last_check": "2026-09-23T04:46:55+03:00"
 }
