@@ -52055,16 +52055,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192584943",
    "extra": ""
   },
-  "jh192584925": {
-   "name": "フィッシングエリア帝釈 ちびっちょ F #川場ペレット",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584925",
-   "extra": ""
-  },
   "jh192584874": {
    "name": "ロブルアー バベコン 1.1g #LT5 ずぼら生活",
    "price": null,
@@ -53384,7 +53374,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": ""
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T14:32:22+03:00"
+ "last_check": "2026-09-23T14:36:27+03:00"
 }
