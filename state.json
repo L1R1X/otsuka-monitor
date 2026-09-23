@@ -48978,6 +48978,26 @@
    "link": "https://fishing-shop-jh.com/?pid=193542582",
    "extra": ""
   },
+  "jh193542573": {
+   "name": "ValkeIN ハイバースト2.0g #28 Rオレンジゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542573",
+   "extra": ""
+  },
+  "jh193542554": {
+   "name": "ValkeIN ハイバースト2.0g #26 ファイナルレッドゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542554",
+   "extra": ""
+  },
   "jh193542549": {
    "name": "ValkeIN ハイバースト2.0g #20 イエローオレンジ/ブラック",
    "price": null,
@@ -49026,6 +49046,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193542460",
+   "extra": ""
+  },
+  "jh193542436": {
+   "name": "ValkeIN ハイバースト2.0g #2 シルバー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542436",
+   "extra": ""
+  },
+  "jh193542401": {
+   "name": "ValkeIN ハイバースト2.0g #1 ゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542401",
    "extra": ""
   },
   "jh193532302": {
@@ -53337,27 +53377,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113796",
    "extra": ""
-  },
-  "jh192113794": {
-   "name": "ValkeIN ライオーム NANO #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113794",
-   "extra": ""
-  },
-  "jh192113791": {
-   "name": "ValkeIN シャインライド NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113791",
-   "extra": ""
   }
  },
- "last_check": "2026-09-23T06:44:22+03:00"
+ "last_check": "2026-09-23T06:46:46+03:00"
 }
