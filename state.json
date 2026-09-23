@@ -48878,36 +48878,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193567706",
    "extra": ""
   },
-  "jh193547251": {
-   "name": "ValkeIN ヴァルキャノン 2.8g #突撃メタルオリーブ【パワーショップ限定】",
-   "price": null,
-   "price_text": "790 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193547251",
-   "extra": ""
-  },
-  "jh193547244": {
-   "name": "ValkeIN ヴァルキャノン 1.8g #突撃メタルオリーブ【パワーショップ限定】",
-   "price": null,
-   "price_text": "790 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193547244",
-   "extra": ""
-  },
-  "jh193547234": {
-   "name": "ValkeIN ヴァルキャノン 2.8g #無双メタルブラウン【パワーショップ限定】",
-   "price": null,
-   "price_text": "790 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193547234",
-   "extra": ""
-  },
   "jh193547218": {
    "name": "ValkeIN ヴァルキャノン 1.8g #無双メタルブラウン【パワーショップ限定】",
    "price": null,
@@ -48916,16 +48886,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193547218",
-   "extra": ""
-  },
-  "jh193544381": {
-   "name": "EVERGREEN アルチザン AATS-61ML/RF",
-   "price": null,
-   "price_text": "77,900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193544381",
    "extra": ""
   },
   "jh193542775": {
@@ -49458,16 +49418,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193471925",
    "extra": ""
   },
-  "jh193471920": {
-   "name": "ValkeIN ヴァルキャノン 2.8g #M171 ジャストショットピンク",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193471920",
-   "extra": ""
-  },
   "jh193471914": {
    "name": "ValkeIN ヴァルキャノン 2.8g #M146 マットアースプラッシュ",
    "price": null,
@@ -49526,16 +49476,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193471784",
-   "extra": ""
-  },
-  "jh193471773": {
-   "name": "ValkeIN ヴァルキャノン 2.8g #M137 パッショングローレッド",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193471773",
    "extra": ""
   },
   "jh193470682": {
@@ -50076,16 +50016,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193356806",
-   "extra": ""
-  },
-  "jh193345013": {
-   "name": "なぶら家 2WIN 2g #ペロコーク【HERO'S】",
-   "price": null,
-   "price_text": "730 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193345013",
    "extra": ""
   },
   "jh193260068": {
@@ -53377,7 +53307,77 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
+  },
+  "jh192113799": {
+   "name": "ValkeIN ライオーム NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113799",
+   "extra": ""
+  },
+  "jh192113796": {
+   "name": "ValkeIN ライオーム NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113796",
+   "extra": ""
+  },
+  "jh192113794": {
+   "name": "ValkeIN ライオーム NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113794",
+   "extra": ""
+  },
+  "jh192113791": {
+   "name": "ValkeIN シャインライド NANO #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": ""
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": ""
+  },
+  "jh192113788": {
+   "name": "ValkeIN シャインライド NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113788",
+   "extra": ""
+  },
+  "jh192113786": {
+   "name": "ValkeIN シャインライド NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113786",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T04:06:41+03:00"
+ "last_check": "2026-09-23T04:16:14+03:00"
 }
