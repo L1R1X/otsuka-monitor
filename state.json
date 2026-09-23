@@ -51092,16 +51092,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192955897",
    "extra": ""
   },
-  "jh192955889": {
-   "name": "ロデオクラフト 999.9 ホワイトウルフ 6.6 3lb class",
-   "price": null,
-   "price_text": "71,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192955889",
-   "extra": ""
-  },
   "jh192952087": {
    "name": "ムカイ バックストローク 55SS #レッドグロー・グリーングローストライプ 匠",
    "price": null,
@@ -53391,7 +53381,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
+  },
+  "jh192113796": {
+   "name": "ValkeIN ライオーム NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113796",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T17:46:34+03:00"
+ "last_check": "2026-09-23T17:51:58+03:00"
 }
