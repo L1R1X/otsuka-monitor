@@ -52366,16 +52366,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192532478",
    "extra": ""
   },
-  "jh192532451": {
-   "name": "ムカイ POGO38 HS #カントミルク【FPB】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532451",
-   "extra": ""
-  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -53405,7 +53395,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113806",
    "extra": ""
+  },
+  "jh192113801": {
+   "name": "ValkeIN ライオーム NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113801",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T07:48:08+03:00"
+ "last_check": "2026-09-23T07:51:57+03:00"
 }
