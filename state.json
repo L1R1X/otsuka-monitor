@@ -52892,16 +52892,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192254573",
    "extra": ""
   },
-  "jh192254562": {
-   "name": "ヤリエ STｍフック サイレントファング #10",
-   "price": null,
-   "price_text": "450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192254562",
-   "extra": ""
-  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -53391,7 +53381,17 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192143570",
    "extra": ""
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": ""
   }
  },
- "last_check": "2026-09-23T16:11:34+03:00"
+ "last_check": "2026-09-23T16:17:35+03:00"
 }
