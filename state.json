@@ -49082,16 +49082,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542436",
    "extra": ""
   },
-  "jh193542401": {
-   "name": "ValkeIN ハイバースト2.0g #1 ゴールド",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542401",
-   "extra": ""
-  },
   "jh193532302": {
    "name": "deps バズジェット TM #22 スモークビーベリー",
    "price": null,
@@ -52792,6 +52782,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192325376",
    "extra": ""
   },
+  "jh192325370": {
+   "name": "ValkeIN ブラックブラスト 2.2g #オイリーオリーブ【有頂天】",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325370",
+   "extra": ""
+  },
   "jh192325361": {
    "name": "ValkeIN ブラックブラスト 2.2g #フリーティンググロー【有頂天】",
    "price": null,
@@ -53393,5 +53393,5 @@
    "extra": ""
   }
  },
- "last_check": "2026-09-23T14:47:08+03:00"
+ "last_check": "2026-09-23T14:49:07+03:00"
 }
