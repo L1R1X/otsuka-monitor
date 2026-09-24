@@ -52872,6 +52872,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192254573",
    "extra": ""
   },
+  "jh192254562": {
+   "name": "ヤリエ STｍフック サイレントファング #10",
+   "price": null,
+   "price_text": "450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192254562",
+   "extra": ""
+  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -53370,16 +53380,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": ""
-  },
-  "jh192113801": {
-   "name": "ValkeIN ライオーム NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
   },
   "ai190827450": {
@@ -60283,5 +60283,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-24T10:32:34+03:00"
+ "last_check": "2026-09-24T10:38:09+03:00"
 }
