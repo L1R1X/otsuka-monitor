@@ -69,6 +69,8 @@ SHOP_TAG_RE = re.compile(r"【[^】]{1,24}】")
 # "スプーン"/"プラグ" - ловим по весу в граммах и номеру цвета.
 WEIGHT_RE = re.compile(r"\d+(?:[.,]\d+)?\s*g\b", re.I)
 COLOR_RE = re.compile(r"#\s*[0-9A-Za-zぁ-んァ-ヶ一-龥ー]{1,16}")
+# 限定○○カラー - лимитированная расцветка с названием посередине
+LIMITED_COLOR_RE = re.compile(r"限定[^\s]{0,12}カラー")
 
 # Леска: флюорокарбон, поводки, шок-лидеры, PE, эстер.
 # Только явные слова - «ライン» само по себе слишком общее
@@ -111,7 +113,7 @@ def _has(text, words):
 # Товары, которые весом/цветом не ловим: одежда, коробки, инструмент
 NE_PRIMANKA = [
     "ワレット", "wallet", "ケース", "case", "ボックス", "box",
-    "ロッド", "rod", "リール", "reel", "ネット", "net",
+    "ロッド", "rod", "リール", "reel", "net",
     "ウェア", "ウェーダー", "バッグ", "bag", "キャップ", "cap",
     "ステッカー", "sticker", "tシャツ", "パーカー", "タオル",
     "プライヤー", "リリーサー", "ホルダー", "スタンド", "ハンガー",
@@ -120,13 +122,41 @@ NE_PRIMANKA = [
     "ティップ", "グリップ", "ポーチ",
     "帽子", "ソックス", "グローブ", "ベスト", "ジャケット",
     "snugpak", "スナグパック", "スノーピーク", "snow peak",
-    "テンマクデザイン", "コット", "ストーブ", "焚火",
+    "テンマクデザイン", "ストーブ", "焚火", "マグネット",
 ]
 
 # Эти слова отсеивают товар только если стоят в НАЧАЛЕ названия
 # или отдельным словом - иначе «マットレッド» (цвет приманки)
 # спутается со «спальным матом».
-NE_PRIMANKA_STRICT = ["マット", "カバー"]
+# コット (раскладушка) сидит внутри チョコット, ネット (сачок) -
+# внутри マグネット/プラネット. Только отдельным словом.
+NE_PRIMANKA_STRICT = ["マット", "カバー", "コット", "ネット"]
+
+# Катакана «слипается»: ネット сидит внутри マグネット, コット внутри
+# チョコット. Считаем совпадением только если слева и справа от слова
+# НЕ стоит другая катакана - то есть это отдельное слово, а не хвост.
+_KATAKANA = "ァ-ヶー"
+
+
+def _has_strict(text, words):
+    """Как _has, но слово должно стоять отдельно, а не внутри другого."""
+    for w in words:
+        w = w.lower()
+        start = 0
+        while True:
+            i = text.find(w, start)
+            if i < 0:
+                break
+            before = text[i - 1] if i > 0 else ""
+            after = text[i + len(w)] if i + len(w) < len(text) else ""
+            if not (_re_kata(before) or _re_kata(after)):
+                return True
+            start = i + 1
+    return False
+
+
+def _re_kata(ch):
+    return bool(ch) and "ァ" <= ch <= "ヶ" or ch == "ー"
 
 
 def classify(title):
@@ -151,17 +181,23 @@ def classify(title):
             tags.append(label)
 
     # аксессуары и снаряжение метками не награждаем
-    if _has(t, NE_PRIMANKA):
+    if _has(t, NE_PRIMANKA) or _has_strict(t, NE_PRIMANKA_STRICT):
         return [x for x in tags if x in ("🪝 крючки", "🧵 леска")]
 
     # пометка магазина в 【скобках】 - эксклюзивная расцветка
-    if "🎨 расцветка" not in tags and SHOP_TAG_RE.search(title or ""):
+    if "🎨 расцветка" not in tags and SHOP_TAG_RE.search(t):
+        tags.append("🎨 расцветка")
+
+    # «限定〜カラー» с текстом посередине: 限定ZAKカラー, 限定さんだ〜カラー
+    if "🎨 расцветка" not in tags and LIMITED_COLOR_RE.search(t):
         tags.append("🎨 расцветка")
 
     # Приманка без явного слова в названии. Достаточно одного
     # из признаков: вес в граммах ИЛИ номер цвета (#12, #マットレッド).
+    # Ищем в нормализованном тексте: в японских магазинах вес часто
+    # записан полноширинными символами - ０，８ｇ вместо 0.8g.
     if not tags:
-        if WEIGHT_RE.search(title or "") or COLOR_RE.search(title or ""):
+        if WEIGHT_RE.search(t) or COLOR_RE.search(t):
             tags.append("🎣 приманка")
 
     return tags
