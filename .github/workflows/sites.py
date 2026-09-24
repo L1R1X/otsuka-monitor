@@ -257,6 +257,96 @@ def fetch_jh(max_pages=8):
     return items
 
 
+# ------------------------------------------------- Area Island / Pro Shop Tomo
+# Оба магазина на Colorme, вёрстка с <div class="product_item">.
+# Нас интересуют ТОЛЬКО оригинальные (эксклюзивные) расцветки,
+# поэтому не качаем каталог целиком, а спрашиваем поиск магазина
+# по нескольким словам и объединяем результаты.
+
+ORIG_KEYWORDS = ["オリカラ", "オリジナルカラー", "限定カラー", "別注"]
+
+_PI_NAME_RE = re.compile(
+    r'<div class="name"><a href="\?pid=(\d+)">(.*?)</a></div>', re.S)
+_PI_PRICE_RE = re.compile(r'<div class="price">(.*?)(?:</div>|$)', re.S)
+_PI_SOLD_RE = re.compile(r'(SOLD\s*OUT|売り切れ|完売|在庫切れ)', re.I)
+
+
+def _colorme_orig_page(base, keyword, page, prefix, shop_name):
+    """Одна страница поиска магазина на Colorme (вёрстка product_item)."""
+    kw = urllib.parse.quote(keyword.encode("euc_jp"))
+    url = f"{base}/?mode=srh&sort=n&keyword={kw}"
+    if page > 1:
+        url += f"&page={page}"
+    raw = _get(url)
+    try:
+        html = raw.decode("euc_jisx0213")
+    except (UnicodeDecodeError, LookupError):
+        html = raw.decode("euc_jp", "replace")
+
+    # каждая карточка - отдельный блок <div class="product_item">
+    items = []
+    for block in html.split('<div class="product_item"')[1:]:
+        nm = _PI_NAME_RE.search(block)
+        if not nm:
+            continue
+        pid, name_html = nm.group(1), nm.group(2)
+        title = re.sub(r"\s+", " ", _TAG_RE.sub("", name_html)).strip()
+        if not title:
+            continue
+        tail = block[nm.end():]
+        pm = _PI_PRICE_RE.search(tail)
+        price = re.sub(r"\s+", " ", _TAG_RE.sub("", pm.group(1))).strip() \
+            if pm else ""
+        sold = bool(_PI_SOLD_RE.search(tail))
+        items.append({
+            "uid": f"{prefix}{pid}",
+            "title": title,
+            # цену показываем и у распроданных: оригиналки часто
+            # возвращаются в продажу, полезно видеть сколько стоило
+            "price": price.replace("円", " ¥") if price else "—",
+            "link": f"{base}/?pid={pid}",
+            "shop": shop_name,
+            "extra": "распродано" if sold else "",
+        })
+    return items
+
+
+def _fetch_colorme_orig(base, shop_name, prefix, max_pages=4):
+    """Только оригинальные расцветки: поиск по нескольким словам."""
+    items = []
+    seen = set()
+    for kw in ORIG_KEYWORDS:
+        for page in range(1, max_pages + 1):
+            try:
+                chunk = _colorme_orig_page(base, kw, page, prefix, shop_name)
+            except Exception:
+                break
+            if not chunk:
+                break
+            fresh = [c for c in chunk if c["uid"] not in seen]
+            if not fresh:
+                break
+            seen.update(c["uid"] for c in fresh)
+            items.extend(fresh)
+    return items
+
+
+AREA_ISLAND_NAME = "Area Island"
+AREA_ISLAND_URL = "https://www.area-island.com"
+
+
+def fetch_area_island():
+    return _fetch_colorme_orig(AREA_ISLAND_URL, AREA_ISLAND_NAME, "ai")
+
+
+TOMO_NAME = "Pro Shop Tomo"
+TOMO_URL = "https://www.proshoptomo.com"
+
+
+def fetch_tomo():
+    return _fetch_colorme_orig(TOMO_URL, TOMO_NAME, "pt", max_pages=6)
+
+
 # ---------------------------------------------------------------- Wild-1
 # Магазин на движке EC-Orange: товары отдаёт не HTML, а внутренний API.
 # Нужны кука сессии и заголовок X-XSRF-TOKEN, иначе ответ 400.
@@ -363,6 +453,8 @@ SOURCES = [
     ("Zarky", fetch_zarky),
     ("Wild-1", fetch_wild1),
     ("JH", fetch_jh),
+    ("Area Island", fetch_area_island),
+    ("Pro Shop Tomo", fetch_tomo),
 ]
 
 
