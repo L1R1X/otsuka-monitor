@@ -40605,7 +40605,7 @@
   "w10000000000202254": {
    "name": "SOTO　ソト SOTO POWER GAS",
    "price": null,
-   "price_text": "1 716 ¥",
+   "price_text": "1 914 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -40855,7 +40855,7 @@
   "w10000000000201977": {
    "name": "SOTO　ソト ﾊﾟﾜｰｶﾞｽ250ﾄﾘﾌﾟﾙﾐｯｸｽ",
    "price": null,
-   "price_text": "792 ¥",
+   "price_text": "880 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -40865,7 +40865,7 @@
   "w10000000000201976": {
    "name": "SOTO　ソト ﾊﾟﾜｰｶﾞｽ105ﾄﾘﾌﾟﾙﾐｯｸｽ",
    "price": null,
-   "price_text": "682 ¥",
+   "price_text": "759 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -41035,7 +41035,7 @@
   "w10000000000201578": {
    "name": "SOTO　ソト CB TOUGH220",
    "price": null,
-   "price_text": "495 ¥",
+   "price_text": "550 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -41045,7 +41045,7 @@
   "w10000000000201577": {
    "name": "SOTO　ソト CB TOUGH125",
    "price": null,
-   "price_text": "440 ¥",
+   "price_text": "495 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -60283,5 +60283,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-24T17:49:06+03:00"
+ "last_check": "2026-09-24T17:52:23+03:00"
 }
