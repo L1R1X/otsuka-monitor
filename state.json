@@ -48892,6 +48892,26 @@
    "link": "https://fishing-shop-jh.com/?pid=193567706",
    "extra": ""
   },
+  "jh193565158": {
+   "name": "IOS-Factory フルコンタクト SF用",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193565158",
+   "extra": ""
+  },
+  "jh193565072": {
+   "name": "IOS-Factory フルコンタクト LT用",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193565072",
+   "extra": ""
+  },
   "jh193547244": {
    "name": "ValkeIN ヴァルキャノン 1.8g #突撃メタルオリーブ【パワーショップ限定】",
    "price": null,
@@ -49790,6 +49810,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193462225",
+   "extra": ""
+  },
+  "jh193453053": {
+   "name": "【予約】DAYSPROUT×SLPWORKS ST SF2000SS-P-SLPW 黒い特務機4号機",
+   "price": null,
+   "price_text": "68,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193453053",
    "extra": ""
   },
   "jh193447850": {
@@ -50882,6 +50912,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193065997",
    "extra": ""
   },
+  "jh192981944": {
+   "name": "ロデオクラフト RCカーボン・トーナメントネット(M) アワビ仕様 【大人のグリーン】",
+   "price": null,
+   "price_text": "16,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192981944",
+   "extra": ""
+  },
   "jh192979319": {
    "name": "ムカイ 鯱 シャチホコ 23S#インフレカーキ【モリケン】",
    "price": null,
@@ -51060,6 +51100,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192955897",
+   "extra": ""
+  },
+  "jh192955889": {
+   "name": "ロデオクラフト 999.9 ホワイトウルフ 6.6 3lb class",
+   "price": null,
+   "price_text": "71,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192955889",
    "extra": ""
   },
   "jh192952087": {
@@ -53341,57 +53391,7 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113801",
    "extra": ""
-  },
-  "jh192113796": {
-   "name": "ValkeIN ライオーム NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113796",
-   "extra": ""
-  },
-  "jh192113795": {
-   "name": "ValkeIN ライオーム NANO #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113795",
-   "extra": ""
-  },
-  "jh192113794": {
-   "name": "ValkeIN ライオーム NANO #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113794",
-   "extra": ""
-  },
-  "jh192113791": {
-   "name": "ValkeIN シャインライド NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113791",
-   "extra": ""
-  },
-  "jh192113789": {
-   "name": "ValkeIN シャインライド NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113789",
-   "extra": ""
   }
  },
- "last_check": "2026-09-24T03:21:41+03:00"
+ "last_check": "2026-09-24T03:26:29+03:00"
 }
