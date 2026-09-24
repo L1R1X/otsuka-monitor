@@ -51242,6 +51242,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192893672",
    "extra": ""
   },
+  "jh192820310": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192820310",
+   "extra": ""
+  },
   "jh192820215": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26松本",
    "price": null,
@@ -53370,16 +53380,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192143570",
-   "extra": ""
-  },
-  "jh192113833": {
-   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
-   "price": null,
-   "price_text": "12,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": ""
   },
   "ai190827450": {
@@ -60283,5 +60283,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-24T11:03:03+03:00"
+ "last_check": "2026-09-24T11:07:35+03:00"
 }
