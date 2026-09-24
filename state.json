@@ -48922,6 +48922,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193547218",
    "extra": ""
   },
+  "jh193544381": {
+   "name": "EVERGREEN アルチザン AATS-61ML/RF",
+   "price": null,
+   "price_text": "77,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193544381",
+   "extra": ""
+  },
   "jh193542775": {
    "name": "ValkeIN ハイバースト2.0g #82 オイシイキウイ",
    "price": null,
@@ -53370,16 +53380,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147530",
-   "extra": ""
-  },
-  "jh192147525": {
-   "name": "ムカイ バックストローク 55SS #スイカちゃん",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147525",
    "extra": ""
   },
   "ai190827450": {
@@ -60283,5 +60283,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-24T11:51:01+03:00"
+ "last_check": "2026-09-24T11:57:16+03:00"
 }
