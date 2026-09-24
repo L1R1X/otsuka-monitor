@@ -50552,16 +50552,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193161627",
    "extra": ""
   },
-  "jh193161258": {
-   "name": "ALFRED クリアアルフ 1.3g #T-06 イトミミズ",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161258",
-   "extra": ""
-  },
   "jh193161144": {
    "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
    "price": null,
@@ -53380,6 +53370,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": ""
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
    "extra": ""
   },
   "ai190827450": {
@@ -60283,5 +60283,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-24T16:17:47+03:00"
+ "last_check": "2026-09-24T16:22:27+03:00"
 }
