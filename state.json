@@ -52422,6 +52422,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192584943",
    "extra": ""
   },
+  "jh192584925": {
+   "name": "フィッシングエリア帝釈 ちびっちょ F #川場ペレット",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192584925",
+   "extra": ""
+  },
   "jh192584874": {
    "name": "ロブルアー バベコン 1.1g #LT5 ずぼら生活",
    "price": null,
@@ -53450,16 +53460,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189048",
-   "extra": ""
-  },
-  "jh192189037": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #カステラ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189037",
    "extra": ""
   },
   "ai190827450": {
@@ -60363,5 +60363,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T06:57:30+03:00"
+ "last_check": "2026-09-25T07:02:55+03:00"
 }
