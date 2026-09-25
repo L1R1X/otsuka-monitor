@@ -411,7 +411,7 @@
    "spec": "# 腹切りブレード(宇都宮店オリカラ) 1.4g",
    "code": "4573672480631",
    "price": 572,
-   "stock": 82
+   "stock": 81
   },
   "53360101GLS00851": {
    "name": "アートフィッシング 忠さんスプーン ノーザンバイト 11g #2026 マーベラスグリーン 11g",
@@ -49135,6 +49135,66 @@
    "link": "https://fishing-shop-jh.com/?pid=193565072",
    "extra": ""
   },
+  "jh193548522": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #8 グリーングロー",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548522",
+   "extra": ""
+  },
+  "jh193548481": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #7 ピンクグロー",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548481",
+   "extra": ""
+  },
+  "jh193548429": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #6 蛍光ペレット",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548429",
+   "extra": ""
+  },
+  "jh193548370": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #5 かみつけペレット",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548370",
+   "extra": ""
+  },
+  "jh193548325": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #4 ブラウン",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548325",
+   "extra": ""
+  },
+  "jh193548275": {
+   "name": "FOREST E-BEAT エ・ビート 2.4g #3 グリーンUV",
+   "price": null,
+   "price_text": "815 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193548275",
+   "extra": ""
+  },
   "jh193548204": {
    "name": "FOREST E-BEAT エ・ビート 2.4g #2 蛍光ピンク",
    "price": null,
@@ -53393,66 +53453,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
-   "extra": ""
-  },
-  "jh192175658": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": ""
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
-   "extra": ""
-  },
-  "jh192175621": {
-   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175621",
-   "extra": ""
-  },
-  "jh192175602": {
-   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175602",
-   "extra": ""
-  },
-  "jh192175594": {
-   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
   },
   "ai190827450": {
@@ -60356,5 +60356,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T06:03:05+03:00"
+ "last_check": "2026-09-25T06:07:28+03:00"
 }
