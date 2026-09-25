@@ -48655,6 +48655,16 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
+  "jh193658417": {
+   "name": "DAIWA Iコルクノブ-TM3 #ピアノブラック",
+   "price": null,
+   "price_text": "2,800 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193658417",
+   "extra": ""
+  },
   "jh193656587": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #サクラミソ",
    "price": null,
@@ -53443,16 +53453,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": ""
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": ""
   },
   "ai190827450": {
@@ -60356,5 +60356,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T06:27:44+03:00"
+ "last_check": "2026-09-25T06:32:41+03:00"
 }
