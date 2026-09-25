@@ -49432,6 +49432,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193542436",
    "extra": ""
   },
+  "jh193542401": {
+   "name": "ValkeIN ハイバースト2.0g #1 ゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542401",
+   "extra": ""
+  },
   "jh193532302": {
    "name": "deps バズジェット TM #22 スモークビーベリー",
    "price": null,
@@ -53450,16 +53460,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189037",
-   "extra": ""
-  },
-  "jh192188428": {
-   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": ""
   },
   "ai190827450": {
@@ -60363,5 +60363,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T06:52:04+03:00"
+ "last_check": "2026-09-25T06:57:30+03:00"
 }
