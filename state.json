@@ -49702,6 +49702,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193487619",
    "extra": ""
   },
+  "jh193484524": {
+   "name": "ラッキークラフト マイクロクラピー GS2 #CTカノマ【GATE】",
+   "price": null,
+   "price_text": "1,605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193484524",
+   "extra": ""
+  },
   "jh193483665": {
    "name": "ValkeIN ライオーム NANO #ピトー【TSカラー】",
    "price": null,
@@ -52742,6 +52752,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192532478",
    "extra": ""
   },
+  "jh192532451": {
+   "name": "ムカイ POGO38 HS #カントミルク【FPB】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532451",
+   "extra": ""
+  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -53440,26 +53460,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": ""
-  },
-  "jh192188362": {
-   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188362",
-   "extra": ""
-  },
-  "jh192175700": {
-   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": ""
   },
   "ai190827450": {
@@ -60363,5 +60363,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T06:47:13+03:00"
+ "last_check": "2026-09-25T06:52:04+03:00"
 }
