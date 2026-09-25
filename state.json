@@ -292,7 +292,7 @@
    "spec": "#ニライカナイ(グロー 0.9g 川越店オリカラ",
    "code": "4560456882408",
    "price": 605,
-   "stock": 19
+   "stock": 18
   },
   "53360101GLU01145": {
    "name": "なぶら家 アキュラシー  1.3g #マイスター H.E01 1.3g",
@@ -28343,6 +28343,16 @@
    "stock": 0,
    "shop": "Velvet Arts",
    "link": "https://velvetarts.co.jp/products/stickers",
+   "extra": ""
+  },
+  "zk10442738139410": {
+   "name": "B-GROUND(ビーグラウンド) ステッカー  Lサイズ(全長約15㎝)",
+   "price": null,
+   "price_text": "935 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/b-groundビーグラウンド-ステッカー-lサイズ全長約15",
    "extra": ""
   },
   "zk10442692591890": {
@@ -60286,5 +60296,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T05:02:19+03:00"
+ "last_check": "2026-09-25T05:07:11+03:00"
 }
