@@ -49095,16 +49095,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193572447",
    "extra": ""
   },
-  "jh193568513": {
-   "name": "ベルベットアーツ フォルテ forte 2.1g #74 カラシ金",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193568513",
-   "extra": ""
-  },
   "jh193567717": {
    "name": "TIMON ルアーキャッチャー #ブルー",
    "price": null,
@@ -53453,6 +53443,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60366,5 +60366,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-25T11:27:42+03:00"
+ "last_check": "2026-09-25T11:32:25+03:00"
 }
