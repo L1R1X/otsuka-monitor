@@ -49586,16 +49586,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193532058",
    "extra": ""
   },
-  "jh193532035": {
-   "name": "イケクラ 串団子スプラッシャー #きな粉 まんまペレット",
-   "price": null,
-   "price_text": "1,800 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193532035",
-   "extra": ""
-  },
   "jh193521157": {
    "name": "ValkeIN ハイドラム S リアルプリント #パイソンイエローレッドグロー",
    "price": null,
@@ -53474,6 +53464,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188362",
+   "extra": ""
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": ""
   },
   "ai190827450": {
@@ -60387,5 +60387,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-26T06:35:52+03:00"
+ "last_check": "2026-09-26T06:42:48+03:00"
 }
