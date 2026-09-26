@@ -48746,16 +48746,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193656585",
    "extra": ""
   },
-  "jh193656579": {
-   "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #ウッドランドペレットオールスターズ",
-   "price": null,
-   "price_text": "1,375 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193656579",
-   "extra": ""
-  },
   "jh193656574": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #ゴマシャーベットII",
    "price": null,
@@ -53474,6 +53464,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": ""
   },
   "ai190827450": {
@@ -60387,5 +60387,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-26T08:02:19+03:00"
+ "last_check": "2026-09-26T08:06:57+03:00"
 }
