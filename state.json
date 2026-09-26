@@ -48686,16 +48686,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193664195",
    "extra": ""
   },
-  "jh193664191": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #02 檸檬紅茶【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664191",
-   "extra": ""
-  },
   "jh193656587": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #サクラミソ",
    "price": null,
@@ -53474,6 +53464,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": ""
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60387,5 +60387,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-26T08:32:40+03:00"
+ "last_check": "2026-09-26T08:36:56+03:00"
 }
