@@ -48686,16 +48686,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193664221",
    "extra": ""
   },
-  "jh193664214": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #04 粉末茶GG【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664214",
-   "extra": ""
-  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -53474,6 +53464,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": ""
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": ""
   },
   "ai190827450": {
@@ -60387,5 +60387,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-26T07:52:06+03:00"
+ "last_check": "2026-09-26T07:57:20+03:00"
 }
