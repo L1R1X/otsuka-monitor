@@ -2191,16 +2191,6 @@
    "price": 1650,
    "stock": 20
   },
-  "tr15360470352086": {
-   "name": "t-Cupトラキン地方予選＠足柄CAエントリー【10/27（火）】",
-   "price": null,
-   "price_text": "0 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/t-cupトラキン地方予選-足柄caエントリー-10-27-火",
-   "extra": ""
-  },
   "tr10311429488854": {
    "name": "PATAPATA BLADE（パタパタブレード）",
    "price": null,
@@ -4689,6 +4679,16 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/予約商品-2026年6月お届け予定-multi-mount-flip-マルチマウントフリップ",
+   "extra": ""
+  },
+  "tr9288203993302": {
+   "name": "MASUKUROUTO LOKI（鱒玄人ロキ）",
+   "price": null,
+   "price_text": "540 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/masukurouto-loki-鱒玄人ロキ",
    "extra": ""
   },
   "tr7696549773526": {
@@ -60432,5 +60432,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-26T10:27:22+03:00"
+ "last_check": "2026-09-26T10:33:30+03:00"
 }
