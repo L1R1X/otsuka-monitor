@@ -24403,6 +24403,16 @@
    "link": "https://t-route.net/products/タップダンサー",
    "extra": ""
   },
+  "or193705231": {
+   "name": "ティモン ちびペピーノMR 微笑み「バナナオレンジ」",
+   "price": null,
+   "price_text": "1,980 ¥(税180 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=193705231",
+   "extra": ""
+  },
   "or193705000": {
    "name": "ティモン ちびペピーノMR 微笑み「バナナオレンジ」",
    "price": null,
@@ -24511,16 +24521,6 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=193233952",
-   "extra": ""
-  },
-  "or193144183": {
-   "name": "ロデオクラフト ワウ33ＨＦ ブラックスプラッシュグロー・無し 予約商品です。10月15日頃出荷予定になります。",
-   "price": null,
-   "price_text": "2,090 ¥(税190 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=193144183",
    "extra": ""
   },
   "or170308671": {
@@ -25661,6 +25661,16 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=193143767",
+   "extra": ""
+  },
+  "or193144183": {
+   "name": "ロデオクラフト ワウ33ＨＦ ブラックスプラッシュグロー・無し 予約商品です。10月15日頃出荷予定になります。",
+   "price": null,
+   "price_text": "—",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=193144183",
    "extra": ""
   },
   "or174085004": {
@@ -60484,5 +60494,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T10:57:25+03:00"
+ "last_check": "2026-09-27T11:02:17+03:00"
 }
