@@ -52223,6 +52223,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192653931",
    "extra": ""
   },
+  "jh192653921": {
+   "name": "ValkeIN クーガ ハイドラ S #ジャストショットピンク",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653921",
+   "extra": ""
+  },
   "jh192653896": {
    "name": "ValkeIN クーガ ハイドラ S #コアピンク",
    "price": null,
@@ -52241,6 +52251,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192653886",
+   "extra": ""
+  },
+  "jh192653882": {
+   "name": "ValkeIN クーガ ハイドラ S #猛烈パンダ",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653882",
    "extra": ""
   },
   "jh192653873": {
@@ -53521,26 +53541,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
-   "extra": ""
-  },
-  "jh192175590": {
-   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175590",
-   "extra": ""
-  },
-  "jh192175587": {
-   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175587",
    "extra": ""
   },
   "ai190827450": {
@@ -60454,5 +60454,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T04:42:26+03:00"
+ "last_check": "2026-09-27T04:47:24+03:00"
 }
