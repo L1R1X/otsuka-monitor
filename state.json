@@ -28486,6 +28486,46 @@
    "link": "https://velvetarts.co.jp/products/stickers",
    "extra": ""
   },
+  "zk15393514619154": {
+   "name": "M2 0.6g ハラオリUVシルバー☆放流セカンドの青銀カラー☆",
+   "price": null,
+   "price_text": "810 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/m2-0-6g-ハラオリuvシルバー-放流セカンドの青銀カラー",
+   "extra": ""
+  },
+  "zk15393514488082": {
+   "name": "M2 0.6g 51サーモンペレット☆ピンク系の弱明滅カラー☆",
+   "price": null,
+   "price_text": "810 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/m2-0-6g-51サーモンペレット-ピンク系の弱明滅カラー",
+   "extra": ""
+  },
+  "zk15393514193170": {
+   "name": "M2 0.6g 51ゴルペレ☆放流セカンドの金残しの大人気カラー☆",
+   "price": null,
+   "price_text": "830 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/m2-0-6g-51ゴルペレ-放流セカンドの金残しの大人気カラー",
+   "extra": ""
+  },
+  "zk15393513537810": {
+   "name": "ミュー 51オレキン☆グリーングロー×蛍光オレンジの放流カラー☆",
+   "price": null,
+   "price_text": "870 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ミュー-51オレキン-グリーングロー-蛍光オレンジの放流カラー",
+   "extra": ""
+  },
   "zk15393068220690": {
    "name": "さかさにょろslim60FS＋ 5色セット",
    "price": null,
@@ -49696,16 +49736,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193532137",
    "extra": ""
   },
-  "jh193532058": {
-   "name": "イケクラ 串団子スプラッシャー #ずんだ まんまペレット",
-   "price": null,
-   "price_text": "1,800 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193532058",
-   "extra": ""
-  },
   "jh193521157": {
    "name": "ValkeIN ハイドラム S リアルプリント #パイソンイエローレッドグロー",
    "price": null,
@@ -53614,6 +53644,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": ""
+  },
+  "jh192175594": {
+   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
   },
   "ai190827450": {
@@ -60527,5 +60567,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T14:57:20+03:00"
+ "last_check": "2026-09-27T15:03:01+03:00"
 }
