@@ -49383,16 +49383,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542549",
    "extra": ""
   },
-  "jh193542542": {
-   "name": "ValkeIN ハイバースト2.0g #15 シルバー/ブルー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542542",
-   "extra": ""
-  },
   "jh193542528": {
    "name": "ValkeIN ハイバースト2.0g #13 蛍光ピンク",
    "price": null,
@@ -49411,16 +49401,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193542470",
-   "extra": ""
-  },
-  "jh193542460": {
-   "name": "ValkeIN ハイバースト2.0g #6 カラシ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542460",
    "extra": ""
   },
   "jh193542436": {
@@ -53541,6 +53521,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175567",
+   "extra": ""
+  },
+  "jh192175558": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175558",
+   "extra": ""
+  },
+  "jh192175543": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175543",
    "extra": ""
   },
   "ai190827450": {
@@ -60454,5 +60454,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T03:27:01+03:00"
+ "last_check": "2026-09-27T03:32:31+03:00"
 }
