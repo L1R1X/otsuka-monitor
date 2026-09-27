@@ -19,7 +19,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02374 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ コンゴウ 1.7g オオツカオリカラ\")\n\n#伊勢崎店オリカラ コンゴウ 1.7g オオツカオリカラ",
    "code": "4573265536493",
    "price": 627,
-   "stock": 3
+   "stock": 2
   },
   "53360101GKS00844": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ ピンクロビン 1.7g オオツカオリカラ",
@@ -61,7 +61,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 2.1g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00356 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 2.1g） #伊勢崎店オリカラ コンゴウ 2.1g オオツカオリカラ\")\n\n#伊勢崎店オリカラ コンゴウ 2.1g オオツカオリカラ",
    "code": "4573265536417",
    "price": 627,
-   "stock": 12
+   "stock": 11
   },
   "53360101GKS00841": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 2.1g） #伊勢崎店オリカラ ピンクロビン 2.1g オオツカオリカラ",
@@ -82,7 +82,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 2.1g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GIU00027 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 2.1g） #オオツカオリカラ トライアングル 2.1g オオツカオリカラ\")\n\n#オオツカオリカラ トライアングル 2.1g オオツカオリカラ",
    "code": "4573265533188",
    "price": 627,
-   "stock": 23
+   "stock": 22
   },
   "53360101GKH00362": {
    "name": "FPBルアーズ フロンティア  1.7g #伊勢崎店オリカラ ブルージェイ 1.7g オオツカオリカラ",
@@ -5581,7 +5581,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/spool-sleeve-スプールスリーブ-1",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9248279724246": {
    "name": "God Hands Spoon 2026 DREAM COLLABOLATION COLOR (ゴッドハンズスプーン2026ドリームコラボ)",
@@ -8871,7 +8871,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-launcher-holder-rcランチャーホルダー",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9011202130134": {
    "name": "RC JETGLIDE38（RCジェットグライド38）",
@@ -9321,7 +9321,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/dream-master-dmｰ3000s-ドリームマスター-dmｰ3000s",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9048555094230": {
    "name": "CROTO HF Model（クロトHFモデル）",
@@ -22191,7 +22191,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/明邦-ﾛｯﾄﾞｽﾀﾝﾄﾞ-bm-250light-cﾌﾞﾗｯｸ-bk",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr7785750692054": {
    "name": "ベルモント MP-041 フックリリーサー",
@@ -60484,5 +60484,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T10:17:28+03:00"
+ "last_check": "2026-09-27T10:23:33+03:00"
 }
