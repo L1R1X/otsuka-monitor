@@ -48756,6 +48756,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193664195",
    "extra": ""
   },
+  "jh193658553": {
+   "name": "なぶら家/城峰オリカラ VENUS ウェヌス 1.4g",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193658553",
+   "extra": ""
+  },
   "jh193656586": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #リコピンク",
    "price": null,
@@ -49244,6 +49254,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193547218",
+   "extra": ""
+  },
+  "jh193546941": {
+   "name": "ムカイ/城峰オリカラ 鯱 しゃちほこ 28HS",
+   "price": null,
+   "price_text": "1,599 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193546941",
    "extra": ""
   },
   "jh193544381": {
@@ -53524,26 +53544,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175602",
-   "extra": ""
-  },
-  "jh192175594": {
-   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175594",
-   "extra": ""
-  },
-  "jh192175590": {
-   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175590",
    "extra": ""
   },
   "ai190827450": {
@@ -60457,5 +60457,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T06:07:34+03:00"
+ "last_check": "2026-09-27T06:12:23+03:00"
 }
