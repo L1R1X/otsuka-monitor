@@ -24426,16 +24426,6 @@
    "link": "https://ority.shop-pro.jp/?pid=193704339",
    "extra": ""
   },
-  "or193703774": {
-   "name": "ティモン フッテン 微笑み 「 かぐや姫 」",
-   "price": null,
-   "price_text": "1,980 ¥(税180 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=193703774",
-   "extra": ""
-  },
   "or193703161": {
    "name": "さかさニョロ60FS 微笑み 「 かぐや姫 」 予約販売中です！",
    "price": null,
@@ -24514,6 +24504,16 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=193233952",
+   "extra": ""
+  },
+  "or193144183": {
+   "name": "ロデオクラフト ワウ33ＨＦ ブラックスプラッシュグロー・無し 予約商品です。10月15日頃出荷予定になります。",
+   "price": null,
+   "price_text": "2,090 ¥(税190 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=193144183",
    "extra": ""
   },
   "or170308671": {
@@ -25654,16 +25654,6 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=193143767",
-   "extra": ""
-  },
-  "or193144183": {
-   "name": "ロデオクラフト ワウ33ＨＦ ブラックスプラッシュグロー・無し 予約商品です。10月15日頃出荷予定になります。",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=193144183",
    "extra": ""
   },
   "or174085004": {
@@ -60487,5 +60477,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-27T11:42:34+03:00"
+ "last_check": "2026-09-27T11:47:24+03:00"
 }
