@@ -3762,7 +3762,7 @@
   "tr9362031640790": {
    "name": "NK HooK（NKフック)",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -21902,7 +21902,7 @@
   "tr7825398563030": {
    "name": "匠SNAP JPS WIDE（タクミスナップJPSワイド）",
    "price": null,
-   "price_text": "370 ¥",
+   "price_text": "361 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -24042,7 +24042,7 @@
   "tr7686787694806": {
    "name": "匠SNAP（タクミスナップ）",
    "price": null,
-   "price_text": "370 ¥",
+   "price_text": "361 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -60540,5 +60540,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T08:52:13+03:00"
+ "last_check": "2026-09-28T08:57:18+03:00"
 }
