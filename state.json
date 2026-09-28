@@ -11442,7 +11442,7 @@
   "tr8880002302166": {
    "name": "KZ Hook（KZフック）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -14072,7 +14072,7 @@
   "tr8705490780374": {
    "name": "Expert Ring SRG-B \"Glide\"（エキスパートリング “グライド”）",
    "price": null,
-   "price_text": "370 ¥",
+   "price_text": "360 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -19352,7 +19352,7 @@
   "tr8045893320918": {
    "name": "K2 HOOK（ケーツーフック）",
    "price": null,
-   "price_text": "560 ¥",
+   "price_text": "540 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -21172,7 +21172,7 @@
   "tr7722254237910": {
    "name": "EMT マーカーリーダーSV",
    "price": null,
-   "price_text": "1 640 ¥",
+   "price_text": "1 600 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -22562,7 +22562,7 @@
   "tr7746930573526": {
    "name": "Mesh（メッシュ）",
    "price": null,
-   "price_text": "570 ¥",
+   "price_text": "475 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -60540,5 +60540,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T09:42:24+03:00"
+ "last_check": "2026-09-28T09:47:50+03:00"
 }
