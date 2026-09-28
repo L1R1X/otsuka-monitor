@@ -51394,6 +51394,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193137210",
    "extra": ""
   },
+  "jh193134867": {
+   "name": "ロブルアー ケーニッヒ ゾナー KZ63-MH",
+   "price": null,
+   "price_text": "74,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193134867",
+   "extra": ""
+  },
   "jh193125473": {
    "name": "ValkeIN ハイドラム F #ワラシナシューティングフルチャート",
    "price": null,
@@ -53742,16 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175543",
-   "extra": ""
-  },
-  "jh192175521": {
-   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175521",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T21:52:22+03:00"
+ "last_check": "2026-09-28T21:57:20+03:00"
 }
