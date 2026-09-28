@@ -3352,7 +3352,7 @@
   "tr9404558803158": {
    "name": "Snaizer（スネイザー）",
    "price": null,
-   "price_text": "1 700 ¥",
+   "price_text": "1 660 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -3500,9 +3500,9 @@
    "extra": ""
   },
   "tr9120552386774": {
-   "name": "ST medium Silent Fang（STミディアムサイレントファング）STフック",
+   "name": "ST medium Silent Fang（STミディアムサイレントファング）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -6012,7 +6012,7 @@
   "tr8782944239830": {
    "name": "DANGOUO（団子魚）",
    "price": null,
-   "price_text": "1 390 ¥",
+   "price_text": "1 350 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -11462,7 +11462,7 @@
   "tr7749511151830": {
    "name": "STILL Area T2（スティルエリア T2）",
    "price": null,
-   "price_text": "1 400 ¥",
+   "price_text": "1 360 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -16612,7 +16612,7 @@
   "tr7688259600598": {
    "name": "MK hook（MKフック）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -16702,7 +16702,7 @@
   "tr7688259698902": {
    "name": "AG hook（AGフック）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -60540,5 +60540,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T08:47:15+03:00"
+ "last_check": "2026-09-28T08:52:13+03:00"
 }
