@@ -13672,7 +13672,7 @@
   "tr8746448060630": {
    "name": "FH Split Ring（FHスプリットリング）",
    "price": null,
-   "price_text": "290 ¥",
+   "price_text": "285 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -19732,7 +19732,7 @@
   "tr8020033306838": {
    "name": "FA Hook（FAフック）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -22222,7 +22222,7 @@
   "tr7785835561174": {
    "name": "GL Hook（GLフック）",
    "price": null,
-   "price_text": "450 ¥",
+   "price_text": "440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -23952,7 +23952,7 @@
   "tr7688460173526": {
    "name": "Area Hook Front（エリアフックフロント）",
    "price": null,
-   "price_text": "280 ¥",
+   "price_text": "270 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -60540,5 +60540,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T09:32:10+03:00"
+ "last_check": "2026-09-28T09:37:01+03:00"
 }
