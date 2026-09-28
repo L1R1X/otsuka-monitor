@@ -3672,7 +3672,7 @@
   "tr9370859733206": {
    "name": "BCR Aluminum 2026 Limited Color（ビークラッシュアルミ2026年限定カラー）",
    "price": null,
-   "price_text": "550 ¥",
+   "price_text": "523 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -3682,7 +3682,7 @@
   "tr9245848305878": {
    "name": "BCR Aluminum（ビークラッシュアルミ）",
    "price": null,
-   "price_text": "550 ¥",
+   "price_text": "523 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -6532,7 +6532,7 @@
   "tr9148526035158": {
    "name": "RC Drift Spin 47（RCドリフトスピン47）",
    "price": null,
-   "price_text": "600 ¥",
+   "price_text": "580 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -24032,7 +24032,7 @@
   "tr7686793167062": {
    "name": "CANVAS（キャンバス）",
    "price": null,
-   "price_text": "470 ¥",
+   "price_text": "460 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -52459,16 +52459,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192635401",
    "extra": ""
   },
-  "jh192585102": {
-   "name": "ロブルアー バベコンジャイアント 2.5g #LT5 ずぼら生活",
-   "price": null,
-   "price_text": "810 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192585102",
-   "extra": ""
-  },
   "jh192584943": {
    "name": "フィッシングエリア帝釈 ちびっちょ F #川場ペレット(レッド)",
    "price": null,
@@ -52487,16 +52477,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192584925",
-   "extra": ""
-  },
-  "jh192584874": {
-   "name": "ロブルアー バベコン 1.1g #LT5 ずぼら生活",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584874",
    "extra": ""
   },
   "jh192584737": {
@@ -53627,6 +53607,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
+   "extra": ""
+  },
+  "jh192175590": {
+   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175590",
+   "extra": ""
+  },
+  "jh192175587": {
+   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175587",
    "extra": ""
   },
   "ai190827450": {
@@ -60540,5 +60540,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-28T09:11:59+03:00"
+ "last_check": "2026-09-28T09:17:08+03:00"
 }
