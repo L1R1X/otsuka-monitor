@@ -17112,7 +17112,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/t-crankup-jr-1091-color-ティークランカップジュニア1091カラー",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr8231966802134": {
    "name": "BISON TSUNEMI80th Anniv.(バイソンツネミ80周年カラー)",
@@ -49404,6 +49404,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193573330",
    "extra": ""
   },
+  "jh193573305": {
+   "name": "ロデオクラフト RCライオンフック 12本入 #10",
+   "price": null,
+   "price_text": "—",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193573305",
+   "extra": "распродано"
+  },
   "jh193572482": {
    "name": "オフィスユーカリ B-SPARK 2.9g #3代目Bスパ神",
    "price": null,
@@ -53752,16 +53762,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60675,5 +60675,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T08:27:40+03:00"
+ "last_check": "2026-09-29T08:32:43+03:00"
 }
