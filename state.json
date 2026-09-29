@@ -51614,6 +51614,26 @@
    "link": "https://fishing-shop-jh.com/?pid=192975616",
    "extra": ""
   },
+  "jh192975613": {
+   "name": "ラッキークラフト ワウ 37F #満月【HERO'S】",
+   "price": null,
+   "price_text": "1,400 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192975613",
+   "extra": ""
+  },
+  "jh192975612": {
+   "name": "ラッキークラフト ワウ 37F #新月【HERO'S】",
+   "price": null,
+   "price_text": "1,400 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192975612",
+   "extra": ""
+  },
   "jh192975606": {
    "name": "ラッキークラフト WAH ワウ 33F #満月【HERO'S】",
    "price": null,
@@ -53742,26 +53762,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175567",
-   "extra": ""
-  },
-  "jh192175558": {
-   "name": "ロブルアー バベルエース zero 0.4g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175558",
-   "extra": ""
-  },
-  "jh192175543": {
-   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175543",
    "extra": ""
   },
   "ai190827450": {
@@ -60675,5 +60675,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T04:22:36+03:00"
+ "last_check": "2026-09-29T04:27:06+03:00"
 }
