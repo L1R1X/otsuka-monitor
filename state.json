@@ -51964,6 +51964,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192818241",
    "extra": ""
   },
+  "jh192818238": {
+   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192818238",
+   "extra": ""
+  },
   "jh192818235": {
    "name": "ロデオクラフト RC WAH ワウ 33HF♪ #ラーテル",
    "price": null,
@@ -53752,16 +53762,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175628",
-   "extra": ""
-  },
-  "jh192175621": {
-   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175621",
    "extra": ""
   },
   "ai190827450": {
@@ -60675,5 +60675,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T05:42:19+03:00"
+ "last_check": "2026-09-29T05:47:10+03:00"
 }
