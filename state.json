@@ -50564,16 +50564,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193447667",
    "extra": ""
   },
-  "jh193381912": {
-   "name": "New Drawer BANNA バンナ 1.7g #T-46 シルベスタ",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193381912",
-   "extra": ""
-  },
   "jh193381897": {
    "name": "New Drawer BANNA バンナ 1.7g #T-45 早熟マンゴー",
    "price": null,
@@ -53792,6 +53782,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60705,5 +60705,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T09:37:42+03:00"
+ "last_check": "2026-09-29T09:43:20+03:00"
 }
