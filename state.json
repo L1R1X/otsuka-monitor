@@ -49394,16 +49394,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193573378",
    "extra": ""
   },
-  "jh193573368": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #10",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193573368",
-   "extra": ""
-  },
   "jh193573330": {
    "name": "ロデオクラフト RCライオンフック 12本入 #12",
    "price": null,
@@ -53762,6 +53752,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": ""
   },
   "ai190827450": {
@@ -60675,5 +60675,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T06:36:55+03:00"
+ "last_check": "2026-09-29T06:42:21+03:00"
 }
