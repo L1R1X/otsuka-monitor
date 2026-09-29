@@ -52644,6 +52644,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192635401",
    "extra": ""
   },
+  "jh192585102": {
+   "name": "ロブルアー バベコンジャイアント 2.5g #LT5 ずぼら生活",
+   "price": null,
+   "price_text": "810 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192585102",
+   "extra": ""
+  },
   "jh192584943": {
    "name": "フィッシングエリア帝釈 ちびっちょ F #川場ペレット(レッド)",
    "price": null,
@@ -52662,6 +52672,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192584925",
+   "extra": ""
+  },
+  "jh192584874": {
+   "name": "ロブルアー バベコン 1.1g #LT5 ずぼら生活",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192584874",
    "extra": ""
   },
   "jh192584737": {
@@ -53742,26 +53762,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": ""
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60675,5 +60675,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T05:47:10+03:00"
+ "last_check": "2026-09-29T05:52:08+03:00"
 }
