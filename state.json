@@ -50364,16 +50364,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193470410",
    "extra": ""
   },
-  "jh193463435": {
-   "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463435",
-   "extra": ""
-  },
   "jh193463363": {
    "name": "DAIWA ダブルクラッチ 60F1 #デリシャスペレット",
    "price": null,
@@ -53802,6 +53792,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": ""
+  },
+  "jh192175594": {
+   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
   },
   "ai190827450": {
@@ -60715,5 +60715,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-29T17:22:06+03:00"
+ "last_check": "2026-09-29T17:28:09+03:00"
 }
