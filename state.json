@@ -48997,6 +48997,26 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
+  "jh193739404": {
+   "name": "DAIWA PRESSO MX 62L-S",
+   "price": null,
+   "price_text": "27,105 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193739404",
+   "extra": ""
+  },
+  "jh193739381": {
+   "name": "DAIWA PRESSO MX 62UL+-E",
+   "price": null,
+   "price_text": "26,225 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193739381",
+   "extra": ""
+  },
   "jh193739178": {
    "name": "アールグラット ケルベロス リリーサー",
    "price": null,
@@ -53775,26 +53795,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": ""
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60708,5 +60708,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-30T04:42:14+03:00"
+ "last_check": "2026-09-30T04:47:17+03:00"
 }
