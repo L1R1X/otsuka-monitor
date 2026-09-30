@@ -48972,16 +48972,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193739568",
    "extra": ""
   },
-  "jh193739564": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739564",
-   "extra": ""
-  },
   "jh193739560": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #モノトーン",
    "price": null,
@@ -49010,16 +49000,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193739549",
-   "extra": ""
-  },
-  "jh193739543": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ドジョウ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739543",
    "extra": ""
   },
   "jh193739404": {
@@ -53760,6 +53740,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189048",
+   "extra": ""
+  },
+  "jh192189037": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #カステラ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189037",
+   "extra": ""
+  },
+  "jh192188428": {
+   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": ""
   },
   "ai190827450": {
@@ -60673,5 +60673,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-30T08:22:15+03:00"
+ "last_check": "2026-09-30T08:27:08+03:00"
 }
