@@ -2142,6 +2142,16 @@
    "price": 1650,
    "stock": 16
   },
+  "tr15365292064982": {
+   "name": "CERBERUS RELEASER（ケルベロスリリーサー）",
+   "price": null,
+   "price_text": "7 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/cerberus-releaser-ケルベロスリリーサー",
+   "extra": ""
+  },
   "tr9450052911318": {
    "name": "JETGLIDE IHP t-Route Limited \"TRSPL\"（ジェットグライドIHP t-Routeオリカラ\"TRSPL\"）",
    "price": null,
@@ -60673,5 +60683,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-30T14:02:32+03:00"
+ "last_check": "2026-09-30T14:06:59+03:00"
 }
