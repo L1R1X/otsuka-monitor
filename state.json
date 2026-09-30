@@ -250,14 +250,14 @@
    "spec": "[FPBルアーズ ベリーズ 1.0g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00839 \"FPBルアーズ ベリーズ  1.0g #伊勢崎店オリカラ ピンクロビン 1.0g オオツカオリカラ\")\n\n#伊勢崎店オリカラ ピンクロビン 1.0g オオツカオリカラ",
    "code": "4573265537780",
    "price": 627,
-   "stock": 3
+   "stock": 2
   },
   "53360101GKH00260": {
    "name": "FPBルアーズ ベリーズ  1.0g",
    "spec": "#伊勢崎店オリカラ ブルージェイ 1.0g オオツカオリカラ",
    "code": "4573265536769",
    "price": 627,
-   "stock": 7
+   "stock": 6
   },
   "53360101GKL02373": {
    "name": "FPBルアーズ ベリーズ  1.3g",
@@ -1755,7 +1755,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316212",
    "price": 1650,
-   "stock": 6
+   "stock": 1
   },
   "53360101GLR01062": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング",
@@ -1769,7 +1769,7 @@
    "spec": "#高崎店オリジナルカラー 鶯 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316229",
    "price": 1650,
-   "stock": 64
+   "stock": 62
   },
   "53360101GKV00068": {
    "name": "リプライ プラスチックプラグシリーズ デカチャグ #ギラギラクロアタマ 40mm 2.8 フローティング",
@@ -1797,7 +1797,7 @@
    "spec": "#オリオリRG 37.5mm 4.4g フローティング オオツカオリカラ",
    "code": "4573151277288",
    "price": 1705,
-   "stock": 4
+   "stock": 0
   },
   "53360101GLQ00041": {
    "name": "ロデオクラフト RCクラピー ディープクラピー LCマックス F #スプラッシュグロー 37.5mm 4.4g フローティング",
@@ -2077,7 +2077,7 @@
    "spec": "#伊勢崎店 オリカラ 美鬼 28mm 1.8g シンキング",
    "code": "4582671335224",
    "price": 1815,
-   "stock": 51
+   "stock": 50
   },
   "53360101GLM01306": {
    "name": "ヴァルケイン クーガ FMR SS #伊勢崎店 オリカラ 神楽 30mm 2.8g スローシンキング",
@@ -2175,7 +2175,7 @@
    "spec": "伊勢崎店オリカラ 水蛭子 28mm 2.3g シンキング 伊勢崎店オリジナルカラー",
    "code": "4582671335828",
    "price": 1650,
-   "stock": 17
+   "stock": 16
   },
   "tr9450052911318": {
    "name": "JETGLIDE IHP t-Route Limited \"TRSPL\"（ジェットグライドIHP t-Routeオリカラ\"TRSPL\"）",
@@ -59857,16 +59857,6 @@
    "link": "https://www.area-island.com/?pid=152350992",
    "extra": "распродано"
   },
-  "pt190023768": {
-   "name": "ロデオクラフト ワウ３７ＨＦ当店オリジナルカラー",
-   "price": null,
-   "price_text": "1,363 ¥(税込1,500 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=190023768",
-   "extra": ""
-  },
   "pt189999830": {
    "name": "フィッシングエリア帝釈 スプラッシュトップ ２０２６年干支オリジナルカラー",
    "price": null,
@@ -59875,6 +59865,106 @@
    "stock": 0,
    "shop": "Pro Shop Tomo",
    "link": "https://www.proshoptomo.com/?pid=189999830",
+   "extra": ""
+  },
+  "pt166045102": {
+   "name": "ディスプラウト イーグルプレイヤースリム/ＧＪ 当店オリジナルカラー",
+   "price": null,
+   "price_text": "1,300 ¥(税込1,430 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=166045102",
+   "extra": ""
+  },
+  "pt140638704": {
+   "name": "サウリブ 当店オリジナルカラー",
+   "price": null,
+   "price_text": "477 ¥(税込525 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=140638704",
+   "extra": ""
+  },
+  "pt130371463": {
+   "name": "アングラーズシステム スプーン各種 当店オリジナルカラー",
+   "price": null,
+   "price_text": "560 ¥(税込616 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=130371463",
+   "extra": ""
+  },
+  "pt126650508": {
+   "name": "アイビーライン ハビィ 当店オリジナルイベントカラー",
+   "price": null,
+   "price_text": "648 ¥(税込713 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=126650508",
+   "extra": ""
+  },
+  "pt82568308": {
+   "name": "アングラーズドリームバイト スプーン各種 当店オリジナルカラー",
+   "price": null,
+   "price_text": "432 ¥(税込476 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=82568308",
+   "extra": ""
+  },
+  "pt166759401": {
+   "name": "アイビーライン ハビィ イベント限定当店オリジナルカラー",
+   "price": null,
+   "price_text": "640 ¥(税込704 ¥) SOLD OUT",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=166759401",
+   "extra": "распродано"
+  },
+  "pt145653560": {
+   "name": "サウリブ リッティー改 ０，８ｇ ２０ｍｍ",
+   "price": null,
+   "price_text": "428 ¥(税込471 ¥) SOLD OUT",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=145653560",
+   "extra": "распродано"
+  },
+  "pt144172181": {
+   "name": "オレ金箔ケイムラ 当店オリジナルカラー",
+   "price": null,
+   "price_text": "1,100 ¥(税込1,210 ¥) SOLD OUT",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=144172181",
+   "extra": "распродано"
+  },
+  "pt96010032": {
+   "name": "ドラゴンフィッシュジャパン ウェイブラーＨＦ ３０ｍｍ ２，２ｇ 当店オリジナルカラー",
+   "price": null,
+   "price_text": "1,152 ¥(税込1,268 ¥) SOLD OUT",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=96010032",
+   "extra": "распродано"
+  },
+  "pt190023768": {
+   "name": "ロデオクラフト ワウ３７ＨＦ当店オリジナルカラー",
+   "price": null,
+   "price_text": "1,363 ¥(税込1,500 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=190023768",
    "extra": ""
   },
   "pt189432183": {
@@ -59947,16 +60037,6 @@
    "link": "https://www.proshoptomo.com/?pid=169053922",
    "extra": ""
   },
-  "pt166045102": {
-   "name": "ディスプラウト イーグルプレイヤースリム/ＧＪ 当店オリジナルカラー",
-   "price": null,
-   "price_text": "1,300 ¥(税込1,430 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=166045102",
-   "extra": ""
-  },
   "pt163066652": {
    "name": "ヴァルケイン スプーン各種 当店オリジナルカラー",
    "price": null,
@@ -59997,36 +60077,6 @@
    "link": "https://www.proshoptomo.com/?pid=144640150",
    "extra": ""
   },
-  "pt140638704": {
-   "name": "サウリブ 当店オリジナルカラー",
-   "price": null,
-   "price_text": "477 ¥(税込525 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=140638704",
-   "extra": ""
-  },
-  "pt130371463": {
-   "name": "アングラーズシステム スプーン各種 当店オリジナルカラー",
-   "price": null,
-   "price_text": "560 ¥(税込616 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=130371463",
-   "extra": ""
-  },
-  "pt126650508": {
-   "name": "アイビーライン ハビィ 当店オリジナルイベントカラー",
-   "price": null,
-   "price_text": "648 ¥(税込713 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=126650508",
-   "extra": ""
-  },
   "pt118632637": {
    "name": "ロデオクラフト スプーン各種 当店オリジナルカラー",
    "price": null,
@@ -60065,16 +60115,6 @@
    "stock": 0,
    "shop": "Pro Shop Tomo",
    "link": "https://www.proshoptomo.com/?pid=88014668",
-   "extra": ""
-  },
-  "pt82568308": {
-   "name": "アングラーズドリームバイト スプーン各種 当店オリジナルカラー",
-   "price": null,
-   "price_text": "432 ¥(税込476 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=82568308",
    "extra": ""
   },
   "pt191897122": {
@@ -60127,16 +60167,6 @@
    "link": "https://www.proshoptomo.com/?pid=172534660",
    "extra": "распродано"
   },
-  "pt166759401": {
-   "name": "アイビーライン ハビィ イベント限定当店オリジナルカラー",
-   "price": null,
-   "price_text": "640 ¥(税込704 ¥) SOLD OUT",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=166759401",
-   "extra": "распродано"
-  },
   "pt161357314": {
    "name": "リプライ ＧＨスプーン０，７ｇ 当店オリジナルカラー",
    "price": null,
@@ -60175,16 +60205,6 @@
    "stock": 0,
    "shop": "Pro Shop Tomo",
    "link": "https://www.proshoptomo.com/?pid=149423476",
-   "extra": "распродано"
-  },
-  "pt144172181": {
-   "name": "オレ金箔ケイムラ 当店オリジナルカラー",
-   "price": null,
-   "price_text": "1,100 ¥(税込1,210 ¥) SOLD OUT",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=144172181",
    "extra": "распродано"
   },
   "pt138542420": {
@@ -60335,16 +60355,6 @@
    "stock": 0,
    "shop": "Pro Shop Tomo",
    "link": "https://www.proshoptomo.com/?pid=97925590",
-   "extra": "распродано"
-  },
-  "pt96010032": {
-   "name": "ドラゴンフィッシュジャパン ウェイブラーＨＦ ３０ｍｍ ２，２ｇ 当店オリジナルカラー",
-   "price": null,
-   "price_text": "1,152 ¥(税込1,268 ¥) SOLD OUT",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=96010032",
    "extra": "распродано"
   },
   "pt91181292": {
@@ -60698,5 +60708,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-30T05:04:29+03:00"
+ "last_check": "2026-09-30T05:08:00+03:00"
 }
