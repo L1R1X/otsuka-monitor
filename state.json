@@ -49612,16 +49612,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542768",
    "extra": ""
   },
-  "jh193542755": {
-   "name": "ValkeIN ハイバースト2.0g #80 オイシイ桃",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542755",
-   "extra": ""
-  },
   "jh193542740": {
    "name": "ValkeIN ハイバースト2.0g #74 ゴールデンブラウン",
    "price": null,
@@ -53760,6 +53750,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": ""
+  },
+  "jh192188362": {
+   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188362",
    "extra": ""
   },
   "ai190827450": {
@@ -60673,5 +60673,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-09-30T10:12:16+03:00"
+ "last_check": "2026-09-30T10:17:49+03:00"
 }
