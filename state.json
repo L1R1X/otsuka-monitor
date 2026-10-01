@@ -12,7 +12,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02375 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ カカポ 1.7g オオツカオリカラ\")\n\n#伊勢崎店オリカラ カカポ 1.7g オオツカオリカラ",
    "code": "4573265536516",
    "price": 627,
-   "stock": 12
+   "stock": 11
   },
   "53360101GKL02374": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ コンゴウ 1.7g オオツカオリカラ",
@@ -52014,16 +52014,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192818207",
    "extra": ""
   },
-  "jh192818195": {
-   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #クリアー",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192818195",
-   "extra": ""
-  },
   "jh192818157": {
    "name": "ロデオクラフト RC WAH ワウ 33HF♪ #RCポテトヘッド",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T17:27:30+03:00"
+ "last_check": "2026-10-01T17:33:33+03:00"
 }
