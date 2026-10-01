@@ -52594,16 +52594,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192651750",
    "extra": ""
   },
-  "jh192651528": {
-   "name": "ヤリエ STｍフック サイレントファング #12",
-   "price": null,
-   "price_text": "450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192651528",
-   "extra": ""
-  },
   "jh192635401": {
    "name": "なぶら家 ULSRA ウルスラ 62L",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": ""
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T02:52:43+03:00"
+ "last_check": "2026-10-02T02:57:16+03:00"
 }
