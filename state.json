@@ -49694,16 +49694,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193542549",
    "extra": ""
   },
-  "jh193542542": {
-   "name": "ValkeIN ハイバースト2.0g #15 シルバー/ブルー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542542",
-   "extra": ""
-  },
   "jh193542528": {
    "name": "ValkeIN ハイバースト2.0g #13 蛍光ピンク",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T16:27:03+03:00"
+ "last_check": "2026-10-01T16:33:09+03:00"
 }
