@@ -48978,16 +48978,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193739549",
    "extra": ""
   },
-  "jh193739543": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ドジョウ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739543",
-   "extra": ""
-  },
   "jh193739404": {
    "name": "DAIWA PRESSO MX 62L-S",
    "price": null,
@@ -53736,6 +53726,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": ""
+  },
+  "jh192188362": {
+   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188362",
    "extra": ""
   },
   "ai190827450": {
@@ -60649,5 +60649,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T12:47:05+03:00"
+ "last_check": "2026-10-01T12:52:33+03:00"
 }
