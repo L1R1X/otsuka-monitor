@@ -2128,6 +2128,16 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15366167757014": {
+   "name": "SF FLAT（SFフラット　店舗限定カラー）",
+   "price": null,
+   "price_text": "850 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/sf-flat-sfフラット-店舗限定カラー",
+   "extra": ""
+  },
   "tr15365292064982": {
    "name": "CERBERUS RELEASER（ケルベロスリリーサー）",
    "price": null,
@@ -60649,5 +60659,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T13:02:53+03:00"
+ "last_check": "2026-10-01T13:07:26+03:00"
 }
