@@ -52694,16 +52694,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192584874",
    "extra": ""
   },
-  "jh192584737": {
-   "name": "ロブルアー バベコン 0.6g #LT5 ずぼら生活",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192584737",
-   "extra": ""
-  },
   "jh192584454": {
    "name": "ロブルアー メカバベル 0.5g #LT11 ずぼらの子守唄",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": ""
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T14:52:08+03:00"
+ "last_check": "2026-10-01T14:57:45+03:00"
 }
