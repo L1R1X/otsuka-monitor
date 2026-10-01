@@ -49049,16 +49049,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193728436",
    "extra": ""
   },
-  "jh193728434": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #8",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193728434",
-   "extra": ""
-  },
   "jh193728430": {
    "name": "ロデオクラフト RCライオンフック 12本入 #9",
    "price": null,
@@ -53757,6 +53747,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189037",
+   "extra": ""
+  },
+  "jh192188428": {
+   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": ""
   },
   "ai190827450": {
@@ -60670,5 +60670,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T11:32:53+03:00"
+ "last_check": "2026-10-01T11:37:29+03:00"
 }
