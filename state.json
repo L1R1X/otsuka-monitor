@@ -50644,16 +50644,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193381852",
    "extra": ""
   },
-  "jh193381844": {
-   "name": "New Drawer BANNA バンナ 1.7g #T-38 GFシエロ",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193381844",
-   "extra": ""
-  },
   "jh193381836": {
    "name": "New Drawer BANNA バンナ 1.7g #T-37 放流ばんちょー",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188362",
+   "extra": ""
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-01T14:22:25+03:00"
+ "last_check": "2026-10-01T14:27:58+03:00"
 }
