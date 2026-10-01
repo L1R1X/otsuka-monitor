@@ -48974,16 +48974,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193739560",
    "extra": ""
   },
-  "jh193739558": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #カジカ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739558",
-   "extra": ""
-  },
   "jh193739549": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #グローペレット",
    "price": null,
@@ -53752,6 +53742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175628",
+   "extra": ""
+  },
+  "jh192175621": {
+   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175621",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T00:32:22+03:00"
+ "last_check": "2026-10-02T00:37:14+03:00"
 }
