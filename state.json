@@ -48961,16 +48961,6 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
-  "jh193739568": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739568",
-   "extra": ""
-  },
   "jh193739560": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #モノトーン",
    "price": null,
@@ -53759,6 +53749,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": ""
   },
   "ai190827450": {
@@ -60672,5 +60672,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T06:52:17+03:00"
+ "last_check": "2026-10-02T06:56:58+03:00"
 }
