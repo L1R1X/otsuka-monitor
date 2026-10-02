@@ -48961,6 +48961,16 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
+  "jh193788785": {
+   "name": "なぶら家/城峰オリカラ VENUS ウェヌス 1.1g",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193788785",
+   "extra": ""
+  },
   "jh193739568": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
    "price": null,
@@ -53749,16 +53759,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": ""
-  },
-  "jh192188362": {
-   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188362",
    "extra": ""
   },
   "ai190827450": {
@@ -60672,5 +60672,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T09:57:18+03:00"
+ "last_check": "2026-10-02T10:05:37+03:00"
 }
