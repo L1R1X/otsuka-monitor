@@ -12,7 +12,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02375 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ カカポ 1.7g オオツカオリカラ\")\n\n#伊勢崎店オリカラ カカポ 1.7g オオツカオリカラ",
    "code": "4573265536516",
    "price": 627,
-   "stock": 10
+   "stock": 11
   },
   "53360101GKL02374": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ コンゴウ 1.7g オオツカオリカラ",
@@ -1300,7 +1300,7 @@
    "spec": "#スプリンクルタイプR 30mm 2.1g シンキング",
    "code": "4515744194688",
    "price": 1540,
-   "stock": 28
+   "stock": 29
   },
   "53360101G5600172": {
    "name": "タックルハウス ショアーズ  ペンシルポッパー44",
@@ -1426,7 +1426,7 @@
    "spec": "#伊勢崎店オリカラ バーマキ 40mm 3.8g シンキング",
    "code": "4548393379915",
    "price": 1595,
-   "stock": 22
+   "stock": 21
   },
   "53360101GLQ01137": {
    "name": "ディスプラウト メガガメクラ F",
@@ -48971,16 +48971,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193788785",
    "extra": ""
   },
-  "jh193739568": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739568",
-   "extra": ""
-  },
   "jh193739564": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
    "price": null,
@@ -49059,16 +49049,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193728436",
-   "extra": ""
-  },
-  "jh193728434": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #8",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193728434",
    "extra": ""
   },
   "jh193728430": {
@@ -53759,6 +53739,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": ""
+  },
+  "jh192188362": {
+   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188362",
+   "extra": ""
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": ""
   },
   "ai190827450": {
@@ -60672,5 +60672,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T11:41:43+03:00"
+ "last_check": "2026-10-02T11:53:19+03:00"
 }
