@@ -49444,16 +49444,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193573378",
    "extra": ""
   },
-  "jh193573330": {
-   "name": "ロデオクラフト RCライオンフック 12本入 #12",
-   "price": null,
-   "price_text": "615 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193573330",
-   "extra": ""
-  },
   "jh193573305": {
    "name": "ロデオクラフト RCライオンフック 12本入 #10",
    "price": null,
@@ -51122,16 +51112,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193229695",
-   "extra": ""
-  },
-  "jh193205887": {
-   "name": "ラッキークラフト ディープクラピーGS2 #ハラオリ【DLIVE×GATE】",
-   "price": null,
-   "price_text": "1,815 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193205887",
    "extra": ""
   },
   "jh193169160": {
@@ -53752,6 +53732,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T17:40:26+03:00"
+ "last_check": "2026-10-02T17:50:57+03:00"
 }
