@@ -52524,26 +52524,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192653921",
    "extra": ""
   },
-  "jh192653896": {
-   "name": "ValkeIN クーガ ハイドラ S #コアピンク",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653896",
-   "extra": ""
-  },
-  "jh192653886": {
-   "name": "ValkeIN クーガ ハイドラ S #コアグリーン",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653886",
-   "extra": ""
-  },
   "jh192653882": {
    "name": "ValkeIN クーガ ハイドラ S #猛烈パンダ",
    "price": null,
@@ -53752,6 +53732,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": ""
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": ""
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T16:13:08+03:00"
+ "last_check": "2026-10-02T16:23:37+03:00"
 }
