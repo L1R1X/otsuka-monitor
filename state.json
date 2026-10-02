@@ -51664,6 +51664,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192975612",
    "extra": ""
   },
+  "jh192975609": {
+   "name": "ラッキークラフト WAH ワウ 33F #九音【HERO'S】",
+   "price": null,
+   "price_text": "1,400 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192975609",
+   "extra": ""
+  },
   "jh192975606": {
    "name": "ラッキークラフト WAH ワウ 33F #満月【HERO'S】",
    "price": null,
@@ -53742,16 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
-   "extra": ""
-  },
-  "jh192175602": {
-   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T05:03:00+03:00"
+ "last_check": "2026-10-02T05:07:29+03:00"
 }
