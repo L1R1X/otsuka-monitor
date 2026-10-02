@@ -52014,6 +52014,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192818207",
    "extra": ""
   },
+  "jh192818195": {
+   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #クリアー",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192818195",
+   "extra": ""
+  },
   "jh192818157": {
    "name": "ロデオクラフト RC WAH ワウ 33HF♪ #RCポテトヘッド",
    "price": null,
@@ -53742,16 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-02T05:12:32+03:00"
+ "last_check": "2026-10-02T05:17:08+03:00"
 }
