@@ -48964,6 +48964,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193788785",
    "extra": ""
   },
+  "jh193739568": {
+   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193739568",
+   "extra": ""
+  },
   "jh193739564": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
    "price": null,
@@ -49074,6 +49084,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193728426",
    "extra": ""
   },
+  "jh193664214": {
+   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #04 粉末茶GG【DSコラボ】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193664214",
+   "extra": ""
+  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -49082,6 +49102,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193664195",
+   "extra": ""
+  },
+  "jh193664191": {
+   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #02 檸檬紅茶【DSコラボ】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193664191",
+   "extra": ""
+  },
+  "jh193664175": {
+   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #01 ハーフ&ハーフ【DSコラボ】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193664175",
    "extra": ""
   },
   "jh193656587": {
@@ -50492,6 +50532,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193462225",
+   "extra": ""
+  },
+  "jh193462201": {
+   "name": "DAIWA PRESSO LTD AGS 61MF",
+   "price": null,
+   "price_text": "56,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193462201",
    "extra": ""
   },
   "jh193453053": {
@@ -53702,56 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189048",
-   "extra": ""
-  },
-  "jh192189037": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #カステラ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189037",
-   "extra": ""
-  },
-  "jh192188428": {
-   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": ""
-  },
-  "jh192188362": {
-   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188362",
-   "extra": ""
-  },
-  "jh192175700": {
-   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": ""
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T03:48:20+03:00"
+ "last_check": "2026-10-03T03:58:12+03:00"
 }
