@@ -51174,6 +51174,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193229695",
    "extra": ""
   },
+  "jh193229483": {
+   "name": "スミス エリアネットスタンド #ブラック",
+   "price": null,
+   "price_text": "2,850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193229483",
+   "extra": ""
+  },
   "jh193169160": {
    "name": "ラッキークラフト WAH ワウ 33F #アマビエ",
    "price": null,
@@ -53742,16 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189037",
-   "extra": ""
-  },
-  "jh192188428": {
-   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T06:06:15+03:00"
+ "last_check": "2026-10-03T06:17:25+03:00"
 }
