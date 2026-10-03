@@ -2394,6 +2394,26 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15369387081942": {
+   "name": "Troutist MASUNOITO LEADER FC（トラウティスト鱒ﾉ糸リーダーFC）",
+   "price": null,
+   "price_text": "1 127 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/troutist-masunoito-leader-fc-トラウティスト鱒ﾉ糸リーダーfc",
+   "extra": ""
+  },
+  "tr15369392455894": {
+   "name": "Troutist MASUNOITO LEADER NY（トラウティスト鱒ﾉ糸リーダーNY）",
+   "price": null,
+   "price_text": "1 064 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/troutist-masunoito-leader-ny-トラウティスト鱒ﾉ糸リーダーny",
+   "extra": ""
+  },
   "tr15366167757014": {
    "name": "SF FLAT（SFフラット　店舗限定カラー）",
    "price": null,
@@ -60945,5 +60965,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T13:00:46+03:00"
+ "last_check": "2026-10-03T13:12:04+03:00"
 }
