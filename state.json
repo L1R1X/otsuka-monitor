@@ -2209,7 +2209,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/cerberus-releaser-ケルベロスリリーサー",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9450052911318": {
    "name": "JETGLIDE IHP t-Route Limited \"TRSPL\"（ジェットグライドIHP t-Routeオリカラ\"TRSPL\"）",
@@ -2469,7 +2469,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/pacchinscale-パッチンスケール",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9517490274518": {
    "name": "E-BEAT（エ・ビート）",
@@ -5689,7 +5689,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/spool-sleeve-スプールスリーブ-1",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9248279724246": {
    "name": "God Hands Spoon 2026 DREAM COLLABOLATION COLOR (ゴッドハンズスプーン2026ドリームコラボ)",
@@ -60742,5 +60742,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T08:59:13+03:00"
+ "last_check": "2026-10-03T09:05:32+03:00"
 }
