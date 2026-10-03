@@ -48964,16 +48964,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193788785",
    "extra": ""
   },
-  "jh193739568": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739568",
-   "extra": ""
-  },
   "jh193739564": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
    "price": null,
@@ -48992,26 +48982,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193739560",
-   "extra": ""
-  },
-  "jh193739558": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #カジカ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739558",
-   "extra": ""
-  },
-  "jh193739549": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #グローペレット",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739549",
    "extra": ""
   },
   "jh193739404": {
@@ -53752,6 +53722,36 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189037",
+   "extra": ""
+  },
+  "jh192188428": {
+   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": ""
+  },
+  "jh192188362": {
+   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188362",
+   "extra": ""
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T06:29:23+03:00"
+ "last_check": "2026-10-03T06:40:11+03:00"
 }
