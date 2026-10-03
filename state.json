@@ -13381,7 +13381,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-exchanger-rcエクスチェンジャー",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr8769394737366": {
    "name": "t-Route box logo Cap（ティールートボックスロゴキャップ）",
@@ -49293,26 +49293,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193664195",
    "extra": ""
   },
-  "jh193664191": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #02 檸檬紅茶【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664191",
-   "extra": ""
-  },
-  "jh193664175": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #01 ハーフ&ハーフ【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664175",
-   "extra": ""
-  },
   "jh193656587": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #サクラミソ",
    "price": null,
@@ -53253,26 +53233,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192532552",
    "extra": ""
   },
-  "jh192532478": {
-   "name": "ムカイ POGO38 HS #松川タートル【FPB】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532478",
-   "extra": ""
-  },
-  "jh192532451": {
-   "name": "ムカイ POGO38 HS #カントミルク【FPB】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532451",
-   "extra": ""
-  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -54011,6 +53971,46 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": ""
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
+   "extra": ""
+  },
+  "jh192175621": {
+   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": ""
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60924,5 +60924,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T12:06:37+03:00"
+ "last_check": "2026-10-03T12:17:05+03:00"
 }
