@@ -49044,6 +49044,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193728436",
    "extra": ""
   },
+  "jh193728434": {
+   "name": "ロデオクラフト RCライオンフック サービスパック #8",
+   "price": null,
+   "price_text": "1,805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193728434",
+   "extra": ""
+  },
   "jh193728430": {
    "name": "ロデオクラフト RCライオンフック 12本入 #9",
    "price": null,
@@ -49442,6 +49452,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193573378",
+   "extra": ""
+  },
+  "jh193573368": {
+   "name": "ロデオクラフト RCライオンフック サービスパック #10",
+   "price": null,
+   "price_text": "1,805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193573368",
+   "extra": ""
+  },
+  "jh193573330": {
+   "name": "ロデオクラフト RCライオンフック 12本入 #12",
+   "price": null,
+   "price_text": "615 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193573330",
    "extra": ""
   },
   "jh193573305": {
@@ -49982,6 +50012,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193519826",
+   "extra": ""
+  },
+  "jh193487651": {
+   "name": "VANFOOK エキスパートフック SP-21F #9 【50本入り】",
+   "price": null,
+   "price_text": "1,440 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193487651",
    "extra": ""
   },
   "jh193487645": {
@@ -53712,46 +53752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
-   "extra": ""
-  },
-  "jh192175658": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": ""
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
-   "extra": ""
-  },
-  "jh192175628": {
-   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175628",
-   "extra": ""
-  },
-  "jh192175621": {
-   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175621",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T03:37:55+03:00"
+ "last_check": "2026-10-03T03:48:20+03:00"
 }
