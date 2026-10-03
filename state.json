@@ -49044,26 +49044,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193739178",
    "extra": ""
   },
-  "jh193728436": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #9",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193728436",
-   "extra": ""
-  },
-  "jh193728434": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #8",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193728434",
-   "extra": ""
-  },
   "jh193728430": {
    "name": "ロデオクラフト RCライオンフック 12本入 #9",
    "price": null,
@@ -49492,16 +49472,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193573378",
-   "extra": ""
-  },
-  "jh193573368": {
-   "name": "ロデオクラフト RCライオンフック サービスパック #10",
-   "price": null,
-   "price_text": "1,805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193573368",
    "extra": ""
   },
   "jh193573330": {
@@ -53752,6 +53722,36 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189053",
+   "extra": ""
+  },
+  "jh192189048": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189048",
+   "extra": ""
+  },
+  "jh192189037": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #カステラ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189037",
+   "extra": ""
+  },
+  "jh192188428": {
+   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": ""
   },
   "ai190827450": {
@@ -60665,5 +60665,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T05:50:53+03:00"
+ "last_check": "2026-10-03T06:00:15+03:00"
 }
