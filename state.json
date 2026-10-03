@@ -49041,26 +49041,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193788785",
    "extra": ""
   },
-  "jh193739564": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739564",
-   "extra": ""
-  },
-  "jh193739560": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #モノトーン",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739560",
-   "extra": ""
-  },
   "jh193739404": {
    "name": "DAIWA PRESSO MX 62L-S",
    "price": null,
@@ -53829,6 +53809,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": ""
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": ""
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": ""
   },
   "ai190827450": {
@@ -60742,5 +60742,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-03T08:36:45+03:00"
+ "last_check": "2026-10-03T08:48:04+03:00"
 }
