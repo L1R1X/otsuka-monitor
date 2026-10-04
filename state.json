@@ -53264,6 +53264,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192532552",
    "extra": ""
   },
+  "jh192532478": {
+   "name": "ムカイ POGO38 HS #松川タートル【FPB】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532478",
+   "extra": ""
+  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -54032,16 +54042,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
-   "extra": ""
-  },
-  "jh192175602": {
-   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60955,5 +60955,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T04:00:22+03:00"
+ "last_check": "2026-10-04T04:07:40+03:00"
 }
