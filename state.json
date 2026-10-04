@@ -53620,16 +53620,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192388471",
    "extra": ""
   },
-  "jh192325573": {
-   "name": "ValkeIN シャインライド #マットクリアレッドパール【有頂天】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192325573",
-   "extra": ""
-  },
   "jh192325378": {
    "name": "ValkeIN ブラックブラスト 2.2g #イケイケゴールド【有頂天】",
    "price": null,
@@ -54038,6 +54028,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
+   "extra": ""
+  },
+  "jh192175590": {
+   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175590",
    "extra": ""
   },
   "ai190827450": {
@@ -60951,5 +60951,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T13:47:37+03:00"
+ "last_check": "2026-10-04T13:57:55+03:00"
 }
