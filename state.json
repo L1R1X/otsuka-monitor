@@ -2408,6 +2408,16 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15370025238742": {
+   "name": "ZOO Ⅱ YAK PL（ズーツーヤックPL）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/zoo-ⅱ-yak-pl-ズーツーヤックpl",
+   "extra": "нет в наличии"
+  },
   "tr15369387081942": {
    "name": "Troutist MASUNOITO LEADER FC（トラウティスト鱒ﾉ糸リーダーFC）",
    "price": null,
@@ -60969,5 +60979,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T09:13:47+03:00"
+ "last_check": "2026-10-04T09:23:12+03:00"
 }
