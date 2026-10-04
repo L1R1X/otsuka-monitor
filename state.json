@@ -49230,16 +49230,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193728430",
    "extra": ""
   },
-  "jh193728426": {
-   "name": "ロデオクラフト RCライオンフック 12本入 #8",
-   "price": null,
-   "price_text": "615 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193728426",
-   "extra": ""
-  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -53968,6 +53958,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175587",
+   "extra": ""
+  },
+  "jh192175567": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175567",
    "extra": ""
   },
   "ai190827450": {
@@ -60881,5 +60881,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-05T00:32:49+03:00"
+ "last_check": "2026-10-05T00:43:18+03:00"
 }
