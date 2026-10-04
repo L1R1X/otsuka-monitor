@@ -49834,12 +49834,12 @@
   "jh193546941": {
    "name": "ムカイ/城峰オリカラ 鯱 しゃちほこ 28HS",
    "price": null,
-   "price_text": "1,599 ¥(税込)",
+   "price_text": "—",
    "spec": "",
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193546941",
-   "extra": ""
+   "extra": "распродано"
   },
   "jh193544381": {
    "name": "EVERGREEN アルチザン AATS-61ML/RF",
@@ -60972,5 +60972,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T11:48:31+03:00"
+ "last_check": "2026-10-04T11:59:00+03:00"
 }
