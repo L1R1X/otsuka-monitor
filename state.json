@@ -50330,16 +50330,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193473560",
    "extra": ""
   },
-  "jh193473550": {
-   "name": "ロデオクラフト RC WAH 37HF #ミリタリスト【HERO'S】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473550",
-   "extra": ""
-  },
   "jh193472294": {
    "name": "ValkeIN ヴァルキャノン 2.8g #C268 ハンターオリーブ",
    "price": null,
@@ -54038,6 +54028,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175590",
+   "extra": ""
+  },
+  "jh192175587": {
+   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175587",
    "extra": ""
   },
   "ai190827450": {
@@ -60951,5 +60951,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T15:26:48+03:00"
+ "last_check": "2026-10-04T15:35:47+03:00"
 }
