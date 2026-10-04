@@ -49331,16 +49331,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193728426",
    "extra": ""
   },
-  "jh193664214": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #04 粉末茶GG【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664214",
-   "extra": ""
-  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -54059,6 +54049,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": ""
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": ""
   },
   "ai190827450": {
@@ -60972,5 +60972,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T11:38:51+03:00"
+ "last_check": "2026-10-04T11:48:31+03:00"
 }
