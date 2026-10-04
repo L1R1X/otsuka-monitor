@@ -51091,16 +51091,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193356806",
    "extra": ""
   },
-  "jh193344995": {
-   "name": "なぶら家/城峰オリカラ accuracy アキュラシー 0.9g 【菊島リクエスト】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193344995",
-   "extra": ""
-  },
   "jh193260068": {
    "name": "Noon bee Tactical #オブスキュラ",
    "price": null,
@@ -54059,6 +54049,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": ""
+  },
+  "jh192175594": {
+   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": ""
   },
   "ai190827450": {
@@ -60972,5 +60972,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T12:41:08+03:00"
+ "last_check": "2026-10-04T12:51:28+03:00"
 }
