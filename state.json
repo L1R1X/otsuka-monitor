@@ -51641,16 +51641,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193160615",
    "extra": ""
   },
-  "jh193146635": {
-   "name": "アンデッドファクトリー レム 23SSSR #MS06S",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193146635",
-   "extra": ""
-  },
   "jh193146615": {
    "name": "アンデッドファクトリー レム 23SSSR #O-SODOX",
    "price": null,
@@ -51669,16 +51659,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193146571",
-   "extra": ""
-  },
-  "jh193146565": {
-   "name": "アンデッドファクトリー レム 23SSSR #月吠",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193146565",
    "extra": ""
   },
   "jh193146558": {
@@ -54059,6 +54039,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": ""
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
+   "extra": ""
+  },
+  "jh192175621": {
+   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175621",
    "extra": ""
   },
   "ai190827450": {
@@ -60972,5 +60972,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T11:28:38+03:00"
+ "last_check": "2026-10-04T11:38:51+03:00"
 }
