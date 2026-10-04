@@ -49280,16 +49280,6 @@
    "link": "https://fishing-shop-jh.com/?pid=193739381",
    "extra": ""
   },
-  "jh193739178": {
-   "name": "アールグラット ケルベロス リリーサー",
-   "price": null,
-   "price_text": "7,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739178",
-   "extra": ""
-  },
   "jh193728430": {
    "name": "ロデオクラフト RCライオンフック 12本入 #9",
    "price": null,
@@ -54038,6 +54028,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175587",
+   "extra": ""
+  },
+  "jh192175567": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175567",
    "extra": ""
   },
   "ai190827450": {
@@ -60951,5 +60951,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-04T17:24:51+03:00"
+ "last_check": "2026-10-04T17:34:59+03:00"
 }
