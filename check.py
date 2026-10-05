@@ -1,0 +1,507 @@
+# -*- coding: utf-8 -*-
+"""
+Облачный монитор новинок Fishing Otsuka.
+Запускается автоматически на серверах GitHub каждые 5 минут.
+Магазины: Fishing Otsuka, t-Route, Ority.
+Компьютер пользователя не нужен вообще.
+"""
+
+import gzip
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.parse
+import urllib.request
+from datetime import datetime, timezone, timedelta
+
+# Дополнительные магазины (t-Route, Ority) живут в отдельном файле.
+try:
+    import sites
+    EXTRA_SHOPS = sites.SOURCES
+except Exception as _e:          # файла нет или он сломан - работаем без него
+    EXTRA_SHOPS = []
+    print("sites.py недоступен:", _e)
+
+# Фильтр по типу снасти: блёсны, воблеры, крючки, оригинальные расцветки.
+# Нужен, чтобы из больших магазинов не сыпались палатки и спальники.
+try:
+    import filters
+except Exception as _e:
+    filters = None
+    print("filters.py недоступен:", _e)
+
+# ============================================================
+#  НАСТРОЙКИ
+# ============================================================
+
+KEYWORDS = [
+    "オリカラ　スプーン",   # オオツカオリカラスプーン - блёсны
+    "オリカラ　プラグ",     # オオツカオリカラプラグ - воблеры
+]
+
+TARGET_CAT = "all"
+
+# Японский сайт блокирует запросы из дата-центров (ошибка 403 Forbidden),
+# поэтому с серверов GitHub идём через читающий прокси r.jina.ai.
+# Если однажды он перестанет работать - поставь False и запускай локально.
+USE_MIRROR = True
+
+NOTIFY_RESTOCK = True
+NOTIFY_PRICE_DROP = True
+
+# True  - присылать только блёсны, воблеры, крючки и оригинальные расцветки
+# False - присылать вообще все новинки
+ONLY_INTERESTING = True
+
+# Сколько незнакомых позиций у ОДНОГО магазина считать перенастройкой,
+# а не завозом. Выше порога - запоминаем молча, без спама в Telegram.
+BULK_NEW_LIMIT = 50
+
+# Сколько прогонов подряд магазин должен прийти «усохшим», прежде чем
+# мы перестанем считать это сбоем и примем новый состав.
+SHRINK_STRIKES = 3
+
+# Токен и chat_id берутся из «секретов» GitHub.
+TELEGRAM_TOKEN = os.environ.get("TG_TOKEN", "")
+
+# Кому слать. Можно несколько получателей: в секрете TG_CHAT
+# перечисли их через запятую, например:  111111111,222222222
+TELEGRAM_CHATS = [c.strip() for c in os.environ.get("TG_CHAT", "").split(",")
+                  if c.strip()]
+
+# ============================================================
+
+BASE = "https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php"
+ITEM_URL = "https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid={}"
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+# База сохраняется в КОРЕНЬ репозитория, а не рядом со скриптом.
+# Внутри .github/workflows/ GitHub запрещает боту создавать файлы
+# (нужно особое разрешение "workflows"), поэтому кладём наружу.
+STATE_FILE = os.path.join(os.getcwd(), "state.json")
+NET_TIMEOUT = 90
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/125.0 Safari/537.36",
+    "Accept-Language": "ja,en;q=0.8",
+    "Accept-Encoding": "gzip",
+}
+
+MSK = timezone(timedelta(hours=3))
+
+
+def log(msg):
+    print("[{}] {}".format(datetime.now(MSK).strftime("%Y-%m-%d %H:%M:%S"), msg),
+          flush=True)
+
+
+def fetch(url, tries=5):
+    """Качает страницу. С серверов GitHub - через прокси r.jina.ai,
+    потому что магазин отдаёт 403 на запросы из дата-центров."""
+    if USE_MIRROR:
+        target = "https://r.jina.ai/" + url
+        # r.jina.ai отвергает браузерные заголовки - шлём голый запрос
+        hdrs = {"Accept": "text/plain"}
+    else:
+        target = url
+        hdrs = HEADERS
+    last = None
+    delay = 5
+    for n in range(1, tries + 1):
+        try:
+            req = urllib.request.Request(target, headers=hdrs)
+            data = urllib.request.urlopen(req, timeout=NET_TIMEOUT).read()
+            if data[:2] == b"\x1f\x8b":
+                data = gzip.decompress(data)
+            return data.decode("utf-8", "replace")
+        except Exception as e:
+            last = e
+            log("  сеть моргнула ({}/{}): {}".format(n, tries, e))
+            if n < tries:
+                time.sleep(delay)
+                delay = min(delay * 2, 60)
+    raise last
+
+
+MIRROR_RE = re.compile(
+    r'\[!\[Image \d+:[^\]]*\]\([^)]*\)\]\('
+    r'[^)]*?uid=([A-Za-z0-9_-]+)\s+"([^"]*)"\)\s*'
+    r'([A-Za-z0-9_-]+)?\s*(.*?)\s*¥([\d,]+)\s*在庫\s*(\d+)', re.S)
+
+
+def parse_mirror(text):
+    """Разбор страницы, полученной через r.jina.ai (формат markdown)."""
+    items = {}
+    for m in MIRROR_RE.finditer(text):
+        uid, title, code, spec, price, stock = m.groups()
+        title = html.unescape(title).strip()
+        spec = html.unescape(spec or "").strip()
+        # имя товара = заголовок без хвоста со спецификацией
+        name = title
+        if spec and spec in title:
+            name = title.replace(spec, "").strip()
+        items[uid] = {
+            "name": name or title,
+            "spec": spec,
+            "code": (code or "").strip(),
+            "price": int(price.replace(",", "")),
+            "stock": int(stock),
+        }
+    return items
+
+
+def parse_cards(page_html):
+    items = {}
+    for ch in page_html.split('<div class="main_card">')[1:]:
+        uid = re.search(r'index\.php\?uid=([A-Za-z0-9_-]+)', ch)
+        if not uid:
+            continue
+        uid = uid.group(1)
+
+        title = re.search(r'title="(.*?)"', ch)
+        title = html.unescape(title.group(1)).strip() if title else ""
+
+        name = re.search(r'<div class="item_name">.*?>([^<]+)</a>', ch, re.S)
+        name = html.unescape(name.group(1)).strip() if name else title
+
+        spec = re.search(r'<div class="list_spec">(.*?)</div>', ch, re.S)
+        spec = html.unescape(re.sub(r"<[^>]+>", "", spec.group(1))).strip() if spec else ""
+
+        code = re.search(r'<small class="item_code">([^<]*)</small>', ch)
+        code = code.group(1).strip() if code else ""
+
+        price = re.search(r'main_price[^>]*>\s*(?:&yen;|¥)?\s*([\d,]+)', ch)
+        price = int(price.group(1).replace(",", "")) if price else None
+
+        stock = re.search(r'main_zaiko.*?badge[^>]*>([^<]*)<', ch, re.S)
+        stock_txt = stock.group(1).strip() if stock else ""
+        stock_n = int(stock_txt) if stock_txt.isdigit() else 0
+
+        items[uid] = {"name": name, "spec": spec, "code": code,
+                      "price": price, "stock": stock_n}
+    return items
+
+
+def scan_keyword(keyword, max_pages=40):
+    found = {}
+    for p in range(1, max_pages + 1):
+        params = {"target_cat": TARGET_CAT, "m": "keyword", "fm": "y", "p": str(p)}
+        if keyword:
+            params["keyword"] = keyword
+        url = BASE + "?" + urllib.parse.urlencode(params, encoding="utf-8")
+
+        page = fetch(url)
+
+        if USE_MIRROR:
+            items = parse_mirror(page)
+        else:
+            if "</html>" not in page[-2000:] and "</body>" not in page[-2000:]:
+                raise IOError("страница {} докачалась не полностью".format(p))
+            items = parse_cards(page)
+        if not items:
+            break
+        if set(items) <= set(found):
+            break
+        found.update(items)
+        time.sleep(1.5)
+    return found
+
+
+def _post_one(chat_id, text, tries=4):
+    """Шлёт одному получателю. Возвращает True/False."""
+    url = "https://api.telegram.org/bot{}/sendMessage".format(TELEGRAM_TOKEN)
+    payload = urllib.parse.urlencode({
+        "chat_id": chat_id,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": "false",
+    }).encode()
+    delay = 5
+    for n in range(1, tries + 1):
+        try:
+            urllib.request.urlopen(
+                urllib.request.Request(url, data=payload), timeout=60).read()
+            return True
+        except Exception as e:
+            # 400/403 = неверный id или не нажат Start. Повторять бессмысленно.
+            if "403" in str(e) or "400" in str(e):
+                log("Получатель {} недоступен (неверный id или не нажат "
+                    "Start у бота) - пропускаю".format(chat_id))
+                return False
+            log("Telegram не ответил для {} ({}/{}): {}".format(chat_id, n, tries, e))
+            if n < tries:
+                time.sleep(delay)
+                delay = min(delay * 2, 60)
+    return False
+
+
+def tg_send(text):
+    """Рассылает сообщение всем получателям из TG_CHAT."""
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHATS:
+        log("!!! Не заданы секреты TG_TOKEN / TG_CHAT")
+        log(re.sub(r"<[^>]+>", "", text))
+        return False
+    ok_count = 0
+    for chat_id in TELEGRAM_CHATS:
+        if _post_one(chat_id, text):
+            ok_count += 1
+        time.sleep(0.5)          # не частим, лимит Telegram ~30 msg/sec
+    if ok_count < len(TELEGRAM_CHATS):
+        log("Доставлено {} из {} получателей".format(ok_count, len(TELEGRAM_CHATS)))
+    return ok_count > 0
+
+
+def _interesting(it):
+    """Проходит ли товар фильтр по типу снасти."""
+    if not ONLY_INTERESTING or filters is None:
+        return True
+    # Магазины, где мы и так ищем только оригиналки, фильтровать по
+    # словарю нельзя: «ロブルアー バベル [RP5]» - настоящая приманка,
+    # просто без узнаваемого слова в названии. Отсекаем лишь
+    # снаряжение: нобы, ручки, сачки, releaser'ы.
+    if it.get("prefiltered"):
+        return not filters.is_accessory(it.get("name", ""))
+    return filters.is_interesting(it.get("name", ""))
+
+
+def _tags(it):
+    if filters is None:
+        return ""
+    t = filters.classify(it.get("name", ""))
+    if not t and it.get("prefiltered"):
+        # своя метка магазина, иначе - эксклюзивная расцветка
+        t = [it.get("tag") or "🎨 расцветка"]
+    return "  ".join(t)
+
+
+def describe(uid, it):
+    # товар из дополнительного магазина - у него другой набор полей
+    if it.get("shop"):
+        parts = ["<b>{}</b>".format(html.escape(it["name"]))]
+        if _tags(it):
+            parts.append(_tags(it))
+        line = it.get("price_text") or "цена не указана"
+        if it.get("extra"):
+            line += " · " + it["extra"]
+        parts.append(line)
+        parts.append("🏬 " + it["shop"])
+        parts.append(it["link"])
+        return "\n".join(parts)
+
+    price = "¥{:,}".format(it["price"]) if it["price"] else "цена не указана"
+    parts = ["<b>{}</b>".format(html.escape(it["name"]))]
+    if _tags(it):
+        parts.append(_tags(it))
+    if it["spec"]:
+        parts.append(html.escape(it["spec"]))
+    parts.append("{} · в наличии: {}".format(price, it["stock"]))
+    parts.append(ITEM_URL.format(uid))
+    return "\n".join(parts)
+
+
+def send_chunked(header, blocks):
+    chunk = [header]
+    for b in blocks:
+        if len("\n".join(chunk)) + len(b) > 3200:
+            tg_send("\n".join(chunk))
+            chunk = []
+        chunk.append("")
+        chunk.append(b)
+    if chunk:
+        tg_send("\n".join(chunk))
+
+
+def main():
+    all_items = {}
+    for kw in KEYWORDS:
+        got = scan_keyword(kw)
+        log("Запрос «{}»: найдено {} позиций".format(kw or "ВСЕ", len(got)))
+        all_items.update(got)
+
+    if not all_items:
+        log("Ничего не получено — выхожу, состояние не трогаю")
+        return 0
+
+    # --- дополнительные магазины ---------------------------------
+    shops_ok = []
+    for shop_name, fetch_fn in EXTRA_SHOPS:
+        try:
+            got = fetch_fn()
+        except Exception as e:
+            log("{}: ошибка {} — магазин пропущен".format(shop_name, e))
+            continue
+        if not got:
+            log("{}: пусто — пропускаю".format(shop_name))
+            continue
+        log("{}: найдено {} позиций".format(shop_name, len(got)))
+        shops_ok.append(shop_name)
+        for it in got:
+            all_items[it["uid"]] = {
+                "name": it["title"],
+                "price": None,
+                "price_text": it["price"],
+                "spec": "",
+                "stock": 0,
+                "shop": it["shop"],
+                "link": it["link"],
+                "extra": it.get("extra", ""),
+                "prefiltered": it.get("prefiltered", False),
+                "tag": it.get("tag", ""),
+            }
+
+    state = {}
+    if os.path.exists(STATE_FILE):
+        try:
+            state = json.load(open(STATE_FILE, encoding="utf-8"))
+        except Exception:
+            log("state.json повреждён, начинаю заново")
+
+    known = state.get("items", {})
+    first_run = not known
+
+    # Каждый магазин считаем отдельно: uid начинается с "tr"/"or",
+    # у Otsuka - с цифр. Так падение одного магазина не роняет остальные.
+    # Каждому магазину - свой префикс uid. Берём название прямо из
+    # записи товара, чтобы при добавлении магазина ничего не правил.
+    def group_of(uid):
+        it = all_items.get(uid) or known.get(uid) or {}
+        return it.get("shop") or "Otsuka"
+
+    now_by_group, known_by_group = {}, {}
+    for uid in all_items:
+        now_by_group.setdefault(group_of(uid), set()).add(uid)
+    for uid in known:
+        known_by_group.setdefault(group_of(uid), set()).add(uid)
+
+    # Магазин, которого ещё нет в базе, запоминаем молча -
+    # иначе первый запуск завалит чат тысячами "новинок".
+    silent_groups = set()
+    for g, uids in now_by_group.items():
+        if not known_by_group.get(g):
+            silent_groups.add(g)
+            log("{}: первое знакомство, запоминаю {} товаров без уведомлений"
+                .format(g, len(uids)))
+
+    # Проверка на сбой - по каждому магазину отдельно.
+    # Подозрительный магазин просто замораживаем: его старые записи
+    # переносим в новую базу как есть, а уведомления по нему не шлём.
+    # Остальные магазины при этом продолжают работать.
+    # Счётчик подряд идущих просадок, хранится в базе. Нужен, чтобы
+    # заморозка не стала вечной: если магазин усох не из-за сбоя, а
+    # потому что мы сами изменили способ сбора, через SHRINK_STRIKES
+    # прогонов принимаем новую реальность.
+    strikes = dict(state.get("shrink_strikes", {}))
+
+    broken_groups = set()
+    for g, old_uids in known_by_group.items():
+        now_uids = now_by_group.get(g, set())
+        if len(now_uids) < len(old_uids) * 0.65:
+            strikes[g] = strikes.get(g, 0) + 1
+            if strikes[g] >= SHRINK_STRIKES:
+                log("{}: получено {} вместо {} уже {}-й раз подряд - "
+                    "это не сбой, принимаю новый состав."
+                    .format(g, len(now_uids), len(old_uids), strikes[g]))
+                strikes.pop(g, None)
+                continue
+            broken_groups.add(g)
+            log("{}: получено {} вместо {} - похоже на сбой, "
+                "магазин заморожен до следующего раза ({}/{})."
+                .format(g, len(now_uids), len(old_uids),
+                        strikes[g], SHRINK_STRIKES))
+            for uid in old_uids:
+                all_items[uid] = known[uid]
+        else:
+            strikes.pop(g, None)
+
+    if broken_groups and len(broken_groups) == len(known_by_group):
+        log("Все магазины недоступны - состояние не трогаю")
+        return 0
+
+    # Перенастройка магазина. Если у знакомого магазина вдруг оказалось
+    # очень много незнакомых позиций - это не завоз, а смена способа
+    # сбора (например, JH перевели с «480 новейших» на «только
+    # оригиналки»). Молча запоминаем и шлём одну строчку вместо
+    # двухсот сообщений.
+    rebuilt = {}
+    for uid in all_items:
+        if uid not in known:
+            g = group_of(uid)
+            if g in broken_groups or g in silent_groups:
+                continue
+            rebuilt[g] = rebuilt.get(g, 0) + 1
+    rebuilt = {g: n for g, n in rebuilt.items() if n > BULK_NEW_LIMIT}
+    for g, n in rebuilt.items():
+        silent_groups.add(g)
+        log("{}: сразу {} незнакомых позиций - похоже на перенастройку, "
+            "запоминаю без уведомлений.".format(g, n))
+
+    new_items, restocked, cheaper = [], [], []
+    for uid, it in all_items.items():
+        old = known.get(uid)
+        g = group_of(uid)
+        if g in broken_groups:
+            continue
+        if old is None:
+            if g in silent_groups:
+                continue
+            if not _interesting(it):
+                continue
+            new_items.append((uid, it))
+        else:
+            if NOTIFY_RESTOCK:
+                if it.get("shop"):
+                    # t-Route / Ority: наличие хранится словами в "extra"
+                    # ("нет в наличии", "распродано"). Пусто = есть в продаже.
+                    if old.get("extra") and not it.get("extra") \
+                            and _interesting(it):
+                        restocked.append((uid, it))
+                elif old.get("stock", 0) == 0 and it["stock"] > 0 \
+                        and _interesting(it):
+                    restocked.append((uid, it))
+            if (NOTIFY_PRICE_DROP and old.get("price") and it["price"]
+                    and it["price"] < old["price"]):
+                cheaper.append((uid, it, old["price"]))
+
+    state = {"items": all_items,
+             "shrink_strikes": strikes,
+             "last_check": datetime.now(MSK).isoformat(timespec="seconds")}
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=1)
+
+    if first_run:
+        log("Первый запуск: запомнил {} товаров".format(len(all_items)))
+        tg_send("☁️ Облачный монитор запущен!\n\n"
+                "В базу записано {} товаров.\n"
+                "Теперь я работаю на серверах GitHub — компьютер можно "
+                "выключать, VPN не нужен.\n\n"
+                "Проверка каждые 5 минут.".format(len(all_items)))
+        return 0
+
+    if new_items:
+        log("НОВЫХ ТОВАРОВ: {}".format(len(new_items)))
+        send_chunked("🆕 <b>Новые товары ({})</b>:".format(len(new_items)),
+                     [describe(u, i) for u, i in new_items])
+
+    if restocked:
+        log("Вернулось в наличие: {}".format(len(restocked)))
+        send_chunked("♻️ <b>Снова в наличии ({})</b>:".format(len(restocked)),
+                     [describe(u, i) for u, i in restocked[:15]])
+
+    if cheaper:
+        log("Подешевело: {}".format(len(cheaper)))
+        send_chunked("📉 <b>Снижение цены ({})</b>:".format(len(cheaper)),
+                     ["{}\nбыло ¥{:,} → стало ¥{:,}".format(describe(u, i), o, i["price"])
+                      for u, i, o in cheaper[:15]])
+
+    if not (new_items or restocked or cheaper):
+        log("Изменений нет ({} позиций)".format(len(all_items)))
+
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
