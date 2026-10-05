@@ -53170,16 +53170,6 @@
    "link": "https://fishing-shop-jh.com/?pid=192462403",
    "extra": ""
   },
-  "jh192451106": {
-   "name": "小満屋ドラグ プラス シマノ用 Type S",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192451106",
-   "extra": ""
-  },
   "jh192451081": {
    "name": "小満屋ドラグ ダイワ用 Type D",
    "price": null,
@@ -53768,6 +53758,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175567",
+   "extra": ""
+  },
+  "jh192175558": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175558",
    "extra": ""
   },
   "ai190827450": {
@@ -60681,5 +60681,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-05T06:17:26+03:00"
+ "last_check": "2026-10-05T06:28:26+03:00"
 }
