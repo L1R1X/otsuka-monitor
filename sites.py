@@ -200,20 +200,18 @@ _JH_PRICE_RE = re.compile(r'class="item_price[^"]*">(.*?)</span>', re.S)
 _JH_SOLD_RE = re.compile(r'(SOLD\s*OUT|売り切れ|完売)', re.I)
 
 
-def _jh_page(base, keyword, page, prefix, shop_name):
-    """Одна страница поиска JH (вёрстка productlist_list)."""
-    kw = urllib.parse.quote(keyword.encode("euc_jp"))
-    url = f"{base}/?mode=srh&sort=n&keyword={kw}"
-    if page > 1:
-        url += f"&page={page}"
-    raw = _get(url)
-    # euc_jisx0213 - расширенный EUC-JP: понимает символы вроде Ⅱ, Ⅸ,
-    # на которых обычный euc_jp даёт кракозябры
-    try:
-        html = raw.decode("euc_jisx0213")
-    except (UnicodeDecodeError, LookupError):
-        html = raw.decode("euc_jp", "replace")
+# Два раздела каталога, которые отслеживаем. Сортировка sort=n -
+# сначала новые, поэтому новинки всегда на первых страницах и качать
+# весь раздел (а это 3000-3600 товаров) не нужно.
+JH_CATES = [
+    ("cate&cbid=2032714&csid=0", "トラウト エリアルアー", "🎣 приманка"),
+    ("cate&cbid=2032716&csid=0", "トラウト エリアスプーン", "🥄 блесна"),
+]
+JH_PAGES = 5          # 60 товаров на страницу -> по 300 свежайших
 
+
+def _jh_cards(html, tag):
+    """Разбор карточек productlist_list со страницы JH."""
     items = []
     for block in _JH_LI_RE.findall(html):
         m = _JH_PID_RE.search(block)
@@ -230,29 +228,53 @@ def _jh_page(base, keyword, page, prefix, shop_name):
             if pm else ""
         sold = bool(_JH_SOLD_RE.search(block))
         items.append({
-            "uid": f"{prefix}{pid}",
+            "uid": f"jh{pid}",
             "title": title,
-            # цену показываем и у распроданных: оригиналки часто
-            # возвращаются в продажу
             "price": price.replace("円", " ¥") if price else "—",
-            "link": f"{base}/?pid={pid}",
-            "shop": shop_name,
+            "link": f"{JH_URL}/?pid={pid}",
+            "shop": JH_NAME,
             "extra": "распродано" if sold else "",
-            # отобрано поиском оригиналок, словарный фильтр не применяем
+            # раздел каталога сам по себе гарантирует, что это снасть,
+            # поэтому словарный фильтр не применяем
             "prefiltered": True,
+            "tag": tag,
         })
     return items
 
 
-def fetch_jh(max_pages=10):
-    """JH - только оригинальные расцветки.
+def fetch_jh(max_pages=JH_PAGES):
+    """JH - свежие позиции из разделов эриа-приманок и эриа-блёсен.
 
-    Раньше брали 480 новейших товаров из всего каталога (10153 шт.),
-    теперь опрашиваем поиск по словам-оригиналкам, как у остальных
-    магазинов этой группы.
+    Раздел «城峰 オリジナルカラー» магазин завёл, но так и не заполнил:
+    там лежат подсачек и кепка, а все 26 подразделов по брендам пустые.
+    Сами оригиналки разложены по этим двум разделам, поэтому следим
+    за ними.
     """
-    return _fetch_colorme_orig(JH_URL, JH_NAME, "jh",
-                               max_pages=max_pages, page_fn=_jh_page)
+    items, seen = [], set()
+    for path, _name, tag in JH_CATES:
+        for page in range(1, max_pages + 1):
+            url = f"{JH_URL}/?mode={path}&sort=n"
+            if page > 1:
+                url += f"&page={page}"
+            try:
+                raw = _get(url)
+            except Exception:
+                break
+            # euc_jisx0213 - расширенный EUC-JP: понимает символы
+            # вроде Ⅱ, Ⅸ, на которых обычный euc_jp даёт кракозябры
+            try:
+                html = raw.decode("euc_jisx0213")
+            except (UnicodeDecodeError, LookupError):
+                html = raw.decode("euc_jp", "replace")
+            chunk = _jh_cards(html, tag)
+            if not chunk:
+                break
+            fresh = [c for c in chunk if c["uid"] not in seen]
+            if not fresh:
+                break
+            seen.update(c["uid"] for c in fresh)
+            items.extend(fresh)
+    return items
 
 
 # ------------------------------------------------- Area Island / Pro Shop Tomo
