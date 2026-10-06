@@ -31,12 +31,41 @@ jobs:
       - name: Sohranit bazu tovarov
         run: |
           rm -rf .github/workflows/__pycache__
-          if [[ -n "$(git status --porcelain state.json)" ]]; then
-            git config user.name  "otsuka-monitor"
-            git config user.email "actions@github.com"
+
+          if [[ -z "$(git status --porcelain state.json)" ]]; then
+            echo "izmeneniy net"
+            exit 0
+          fi
+
+          git config user.name  "otsuka-monitor"
+          git config user.email "actions@github.com"
+
+          # Baza tovarov - eto polnyy snimok, a ne pravka. Esli sosedniy
+          # progon uspel zapisat svoyu versiyu, prosto berem svezhuyu
+          # vetku i kladem svoy snimok sverhu. Ran'she push prosto padal.
+          cp state.json /tmp/state.new
+
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/state.new state.json
+
+            if [[ -z "$(git status --porcelain state.json)" ]]; then
+              echo "baza uzhe aktualna"
+              exit 0
+            fi
+
             git add state.json
             git commit -m "state update"
-            git push
-          else
-            echo "izmeneniy net"
-          fi
+
+            if git push; then
+              echo "baza sohranena s popytki $i"
+              exit 0
+            fi
+
+            echo "push ne proshel, popytka $i iz 5"
+            sleep $(( RANDOM % 5 + 3 ))
+          done
+
+          echo "ne udalos sohranit bazu za 5 popytok"
+          exit 1
