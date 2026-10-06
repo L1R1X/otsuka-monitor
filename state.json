@@ -49054,16 +49054,6 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
-  "jh193849604": {
-   "name": "REVIVE Funnel ファンネル シマノ用40ｍｍ #マットブラック/ライムグリーン",
-   "price": null,
-   "price_text": "18,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193849604",
-   "extra": ""
-  },
   "jh193739568": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
    "price": null,
@@ -53852,6 +53842,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
+   "extra": ""
+  },
+  "jh192175468": {
+   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T06:01:10+03:00"
+ "last_check": "2026-10-06T06:10:56+03:00"
 }
