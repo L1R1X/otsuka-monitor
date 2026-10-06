@@ -6,6 +6,7 @@
 Компьютер пользователя не нужен вообще.
 """
 
+import concurrent.futures
 import gzip
 import html
 import json
@@ -55,6 +56,18 @@ NOTIFY_PRICE_DROP = True
 # True  - присылать только блёсны, воблеры, крючки и оригинальные расцветки
 # False - присылать вообще все новинки
 ONLY_INTERESTING = True
+
+# Сколько незнакомых позиций у ОДНОГО магазина считать перенастройкой,
+# а не завозом. Выше порога - запоминаем молча, без спама в Telegram.
+BULK_NEW_LIMIT = 50
+
+# Сколько прогонов подряд магазин должен прийти «усохшим», прежде чем
+# мы перестанем считать это сбоем и примем новый состав.
+SHRINK_STRIKES = 3
+
+# Сколько магазинов опрашивать одновременно. Все на разных
+# сайтах, так что это вежливо по отношению к каждому.
+PARALLEL_SHOPS = 6
 
 # Токен и chat_id берутся из «секретов» GitHub.
 TELEGRAM_TOKEN = os.environ.get("TG_TOKEN", "")
@@ -251,6 +264,12 @@ def _interesting(it):
     """Проходит ли товар фильтр по типу снасти."""
     if not ONLY_INTERESTING or filters is None:
         return True
+    # Магазины, где мы и так ищем только оригиналки, фильтровать по
+    # словарю нельзя: «ロブルアー バベル [RP5]» - настоящая приманка,
+    # просто без узнаваемого слова в названии. Отсекаем лишь
+    # снаряжение: нобы, ручки, сачки, releaser'ы.
+    if it.get("prefiltered"):
+        return not filters.is_accessory(it.get("name", ""))
     return filters.is_interesting(it.get("name", ""))
 
 
@@ -258,6 +277,9 @@ def _tags(it):
     if filters is None:
         return ""
     t = filters.classify(it.get("name", ""))
+    if not t and it.get("prefiltered"):
+        # своя метка магазина, иначе - эксклюзивная расцветка
+        t = [it.get("tag") or "🎨 расцветка"]
     return "  ".join(t)
 
 
@@ -300,8 +322,12 @@ def send_chunked(header, blocks):
 
 def main():
     all_items = {}
-    for kw in KEYWORDS:
-        got = scan_keyword(kw)
+    # Запросы к Otsuka тоже параллельно: каждый идёт через медленный
+    # прокси r.jina.ai, по очереди это съедало больше половины времени.
+    with concurrent.futures.ThreadPoolExecutor(
+            max_workers=len(KEYWORDS) or 1) as pool:
+        scanned = list(pool.map(scan_keyword, KEYWORDS))
+    for kw, got in zip(KEYWORDS, scanned):
         log("Запрос «{}»: найдено {} позиций".format(kw or "ВСЕ", len(got)))
         all_items.update(got)
 
@@ -311,16 +337,32 @@ def main():
 
     # --- дополнительные магазины ---------------------------------
     shops_ok = []
-    for shop_name, fetch_fn in EXTRA_SHOPS:
+    # Магазины опрашиваем одновременно, а не по очереди. Все они на
+    # разных сайтах, поэтому нагрузки это не создаёт, зато общее время
+    # равно самому медленному магазину, а не сумме всех.
+    def _fetch_one(pair):
+        name, fn = pair
+        t0 = time.time()
         try:
-            got = fetch_fn()
+            return name, fn(), None, time.time() - t0
         except Exception as e:
-            log("{}: ошибка {} — магазин пропущен".format(shop_name, e))
+            return name, None, e, time.time() - t0
+
+    with concurrent.futures.ThreadPoolExecutor(
+            max_workers=PARALLEL_SHOPS) as pool:
+        # ex.map сохраняет порядок, поэтому лог читается как раньше
+        results = list(pool.map(_fetch_one, EXTRA_SHOPS))
+
+    for shop_name, got, err, secs in results:
+        if err is not None:
+            log("{}: ошибка {} — магазин пропущен ({:.0f} с)"
+                .format(shop_name, err, secs))
             continue
         if not got:
-            log("{}: пусто — пропускаю".format(shop_name))
+            log("{}: пусто — пропускаю ({:.0f} с)".format(shop_name, secs))
             continue
-        log("{}: найдено {} позиций".format(shop_name, len(got)))
+        log("{}: найдено {} позиций за {:.0f} с"
+            .format(shop_name, len(got), secs))
         shops_ok.append(shop_name)
         for it in got:
             all_items[it["uid"]] = {
@@ -332,6 +374,8 @@ def main():
                 "shop": it["shop"],
                 "link": it["link"],
                 "extra": it.get("extra", ""),
+                "prefiltered": it.get("prefiltered", False),
+                "tag": it.get("tag", ""),
             }
 
     state = {}
@@ -371,20 +415,54 @@ def main():
     # Подозрительный магазин просто замораживаем: его старые записи
     # переносим в новую базу как есть, а уведомления по нему не шлём.
     # Остальные магазины при этом продолжают работать.
+    # Счётчик подряд идущих просадок, хранится в базе. Нужен, чтобы
+    # заморозка не стала вечной: если магазин усох не из-за сбоя, а
+    # потому что мы сами изменили способ сбора, через SHRINK_STRIKES
+    # прогонов принимаем новую реальность.
+    strikes = dict(state.get("shrink_strikes", {}))
+
     broken_groups = set()
     for g, old_uids in known_by_group.items():
         now_uids = now_by_group.get(g, set())
         if len(now_uids) < len(old_uids) * 0.65:
+            strikes[g] = strikes.get(g, 0) + 1
+            if strikes[g] >= SHRINK_STRIKES:
+                log("{}: получено {} вместо {} уже {}-й раз подряд - "
+                    "это не сбой, принимаю новый состав."
+                    .format(g, len(now_uids), len(old_uids), strikes[g]))
+                strikes.pop(g, None)
+                continue
             broken_groups.add(g)
             log("{}: получено {} вместо {} - похоже на сбой, "
-                "магазин заморожен до следующего раза."
-                .format(g, len(now_uids), len(old_uids)))
+                "магазин заморожен до следующего раза ({}/{})."
+                .format(g, len(now_uids), len(old_uids),
+                        strikes[g], SHRINK_STRIKES))
             for uid in old_uids:
                 all_items[uid] = known[uid]
+        else:
+            strikes.pop(g, None)
 
     if broken_groups and len(broken_groups) == len(known_by_group):
         log("Все магазины недоступны - состояние не трогаю")
         return 0
+
+    # Перенастройка магазина. Если у знакомого магазина вдруг оказалось
+    # очень много незнакомых позиций - это не завоз, а смена способа
+    # сбора (например, JH перевели с «480 новейших» на «только
+    # оригиналки»). Молча запоминаем и шлём одну строчку вместо
+    # двухсот сообщений.
+    rebuilt = {}
+    for uid in all_items:
+        if uid not in known:
+            g = group_of(uid)
+            if g in broken_groups or g in silent_groups:
+                continue
+            rebuilt[g] = rebuilt.get(g, 0) + 1
+    rebuilt = {g: n for g, n in rebuilt.items() if n > BULK_NEW_LIMIT}
+    for g, n in rebuilt.items():
+        silent_groups.add(g)
+        log("{}: сразу {} незнакомых позиций - похоже на перенастройку, "
+            "запоминаю без уведомлений.".format(g, n))
 
     new_items, restocked, cheaper = [], [], []
     for uid, it in all_items.items():
@@ -414,6 +492,7 @@ def main():
                 cheaper.append((uid, it, old["price"]))
 
     state = {"items": all_items,
+             "shrink_strikes": strikes,
              "last_check": datetime.now(MSK).isoformat(timespec="seconds")}
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
