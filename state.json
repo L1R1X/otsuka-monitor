@@ -50354,6 +50354,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193473560",
    "extra": ""
   },
+  "jh193473550": {
+   "name": "ロデオクラフト RC WAH 37HF #ミリタリスト【HERO'S】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193473550",
+   "extra": ""
+  },
   "jh193472294": {
    "name": "ValkeIN ヴァルキャノン 2.8g #C268 ハンターオリーブ",
    "price": null,
@@ -53842,16 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189473",
-   "extra": ""
-  },
-  "jh192189462": {
-   "name": "ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189462",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T07:45:54+03:00"
+ "last_check": "2026-10-06T07:55:23+03:00"
 }
