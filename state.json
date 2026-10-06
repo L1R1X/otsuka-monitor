@@ -50874,6 +50874,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193381877",
    "extra": ""
   },
+  "jh193381872": {
+   "name": "New Drawer BANNA バンナ 1.7g #T-42 ハイサイ",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193381872",
+   "extra": ""
+  },
   "jh193381866": {
    "name": "New Drawer BANNA バンナ 1.7g #T-41 セカンドドラゴン",
    "price": null,
@@ -53842,16 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189419",
-   "extra": ""
-  },
-  "jh192189395": {
-   "name": "ロデオクラフト QM キューム 1.8g #放流オレピン【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189395",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T07:25:08+03:00"
+ "last_check": "2026-10-06T07:30:22+03:00"
 }
