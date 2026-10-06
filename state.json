@@ -2862,7 +2862,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/drift-spin",
-   "extra": "нет в наличии"
+   "extra": ""
   },
   "tr9492697186518": {
    "name": "Rodio Craft Plug Signature Color 2026（ロデオクラフトプラグ2026シグネイチャーカラー）",
@@ -19132,7 +19132,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/wl-net-changer-スペアネット",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr8076032671958": {
    "name": "NOA & NOA-B HERO'S（ノア）",
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T12:25:59+03:00"
+ "last_check": "2026-10-06T12:36:02+03:00"
 }
