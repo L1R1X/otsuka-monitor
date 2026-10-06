@@ -194,7 +194,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 46
+   "stock": 44
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -49054,16 +49054,6 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
-  "jh193850039": {
-   "name": "ムカイ バックストローク 45HS #カラオリRG",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850039",
-   "extra": ""
-  },
   "jh193850037": {
    "name": "ムカイ バックストローク 45HS #ウィニングブラウン",
    "price": null,
@@ -49112,16 +49102,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850023",
-   "extra": ""
-  },
-  "jh193850020": {
-   "name": "ムカイ バックストローク 45HS #グリーンピンクW-GLOW",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850020",
    "extra": ""
   },
   "jh193850018": {
@@ -53852,6 +53832,26 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240888",
+   "extra": ""
+  },
+  "jh192240884": {
+   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240884",
+   "extra": ""
+  },
+  "jh192240744": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240744",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T15:07:44+03:00"
+ "last_check": "2026-10-06T15:23:55+03:00"
 }
