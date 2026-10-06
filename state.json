@@ -49061,26 +49061,6 @@
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000001672",
    "extra": ""
   },
-  "jh193802993": {
-   "name": "DAYSPROUT/城峰オリカラ PICOPICO EAGLE PLAYER MS",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193802993",
-   "extra": "распродано"
-  },
-  "jh193788785": {
-   "name": "なぶら家/城峰オリカラ VENUS ウェヌス 1.1g",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193788785",
-   "extra": ""
-  },
   "jh193739404": {
    "name": "DAIWA PRESSO MX 62L-S",
    "price": null,
@@ -49600,16 +49580,6 @@
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193547218",
    "extra": ""
-  },
-  "jh193546941": {
-   "name": "ムカイ/城峰オリカラ 鯱 しゃちほこ 28HS",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193546941",
-   "extra": "распродано"
   },
   "jh193544381": {
    "name": "EVERGREEN アルチザン AATS-61ML/RF",
@@ -53859,6 +53829,36 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175468",
+   "extra": ""
+  },
+  "jh192175118": {
+   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175118",
+   "extra": ""
+  },
+  "jh192175110": {
+   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175110",
+   "extra": ""
+  },
+  "jh192175084": {
+   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": ""
   },
   "ai190827450": {
@@ -60772,5 +60772,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T03:55:27+03:00"
+ "last_check": "2026-10-06T04:05:43+03:00"
 }
