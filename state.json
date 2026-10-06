@@ -1734,7 +1734,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 25mm 1.6g ハイフロート オオツカオリカラ",
    "code": "4513907453870",
    "price": 1540,
-   "stock": 5
+   "stock": 4
   },
   "53360101GLB00920": {
    "name": "ムカイ トレモ スマッシュ トレモ25 HFGS #伊勢崎店 オリカラ パルヘリオ 25mm 1.6g ハイフロート",
@@ -15012,7 +15012,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/splitring-pincette-ex-スプリットリングピンセットex",
-   "extra": ""
+   "extra": "нет в наличии"
   },
   "tr8638165614806": {
    "name": "SPLITRING OPENER EX（スプリットリングオープナーEX）",
@@ -51614,6 +51614,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193160615",
    "extra": ""
   },
+  "jh193146635": {
+   "name": "アンデッドファクトリー レム 23SSSR #MS06S",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193146635",
+   "extra": ""
+  },
   "jh193146615": {
    "name": "アンデッドファクトリー レム 23SSSR #O-SODOX",
    "price": null,
@@ -51632,6 +51642,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193146571",
+   "extra": ""
+  },
+  "jh193146565": {
+   "name": "アンデッドファクトリー レム 23SSSR #月吠",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193146565",
    "extra": ""
   },
   "jh193146558": {
@@ -53614,6 +53634,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192388471",
    "extra": ""
   },
+  "jh192325573": {
+   "name": "ValkeIN シャインライド #マットクリアレッドパール【有頂天】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325573",
+   "extra": ""
+  },
   "jh192325378": {
    "name": "ValkeIN ブラックブラスト 2.2g #イケイケゴールド【有頂天】",
    "price": null,
@@ -53822,36 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240740",
-   "extra": ""
-  },
-  "jh192189487": {
-   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189487",
-   "extra": ""
-  },
-  "jh192189482": {
-   "name": "ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189482",
-   "extra": ""
-  },
-  "jh192189473": {
-   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189473",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T07:55:23+03:00"
+ "last_check": "2026-10-06T08:06:33+03:00"
 }
