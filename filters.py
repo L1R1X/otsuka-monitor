@@ -159,9 +159,19 @@ def _re_kata(ch):
     return bool(ch) and "ァ" <= ch <= "ヶ" or ch == "ー"
 
 
+def _no_colors(t):
+    """Убрать из названия метки цвета (#24ノブ, #マットレッド).
+
+    Внутри названия цвета могут оказаться слова из списка аксессуаров
+    (#24ノブ - это цвет «Нобу», а не ручка катушки), и тогда приманка
+    ошибочно считается снаряжением.
+    """
+    return COLOR_RE.sub(" ", t)
+
+
 def is_accessory(title):
     """Снаряжение и аксессуары: ноб, ручка, releaser, сачок, кепка."""
-    t = _norm(title)
+    t = _no_colors(_norm(title))
     return _has(t, NE_PRIMANKA) or _has_strict(t, NE_PRIMANKA_STRICT)
 
 
@@ -187,7 +197,8 @@ def classify(title):
             tags.append(label)
 
     # аксессуары и снаряжение метками не награждаем
-    if _has(t, NE_PRIMANKA) or _has_strict(t, NE_PRIMANKA_STRICT):
+    tc = _no_colors(t)
+    if _has(tc, NE_PRIMANKA) or _has_strict(tc, NE_PRIMANKA_STRICT):
         return [x for x in tags if x in ("🪝 крючки", "🧵 леска")]
 
     # пометка магазина в 【скобках】 - эксклюзивная расцветка
