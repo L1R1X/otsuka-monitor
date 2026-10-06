@@ -52794,6 +52794,16 @@
    "link": "https://fishing-shop-jh.com/?pid=192653931",
    "extra": ""
   },
+  "jh192653926": {
+   "name": "ValkeIN クーガ ハイドラ S #フライングアーミー",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653926",
+   "extra": ""
+  },
   "jh192653921": {
    "name": "ValkeIN クーガ ハイドラ S #ジャストショットピンク",
    "price": null,
@@ -52802,6 +52812,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192653921",
+   "extra": ""
+  },
+  "jh192653890": {
+   "name": "ValkeIN クーガ ハイドラ S #マットレッドグロー",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653890",
    "extra": ""
   },
   "jh192653882": {
@@ -53832,26 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240888",
-   "extra": ""
-  },
-  "jh192240884": {
-   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240884",
-   "extra": ""
-  },
-  "jh192240744": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240744",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T09:27:09+03:00"
+ "last_check": "2026-10-06T09:37:08+03:00"
 }
