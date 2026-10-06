@@ -49334,6 +49334,26 @@
    "link": "https://fishing-shop-jh.com/?pid=193739178",
    "extra": ""
   },
+  "jh193728430": {
+   "name": "ロデオクラフト RCライオンフック 12本入 #9",
+   "price": null,
+   "price_text": "615 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193728430",
+   "extra": ""
+  },
+  "jh193728426": {
+   "name": "ロデオクラフト RCライオンフック 12本入 #8",
+   "price": null,
+   "price_text": "615 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193728426",
+   "extra": ""
+  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -49722,6 +49742,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193573330",
+   "extra": ""
+  },
+  "jh193573305": {
+   "name": "ロデオクラフト RCライオンフック 12本入 #10",
+   "price": null,
+   "price_text": "615 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193573305",
    "extra": ""
   },
   "jh193572482": {
@@ -51422,16 +51452,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161129",
-   "extra": ""
-  },
-  "jh193161124": {
-   "name": "ALFRED クリアアルフ 0.8g #T-04 撒き餌クリアブラウン",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161124",
    "extra": ""
   },
   "jh193161116": {
@@ -53832,26 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189395",
-   "extra": ""
-  },
-  "jh192189053": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189053",
-   "extra": ""
-  },
-  "jh192189048": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189048",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T07:06:41+03:00"
+ "last_check": "2026-10-06T07:15:00+03:00"
 }
