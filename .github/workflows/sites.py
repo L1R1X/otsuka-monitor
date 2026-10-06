@@ -189,7 +189,6 @@ def fetch_ority(max_pages=60):
 # всегда там. Полный каталог качать каждые 5 минут смысла нет.
 JH_NAME = "JH"
 JH_URL = "https://fishing-shop-jh.com"
-JH_SEARCH = JH_URL + "/?mode=srh&sort=n&keyword="
 
 _JH_LI_RE = re.compile(
     r'<li[^>]*productlist_list[^>]*>(.*?)</li>', re.S)
@@ -201,16 +200,18 @@ _JH_PRICE_RE = re.compile(r'class="item_price[^"]*">(.*?)</span>', re.S)
 _JH_SOLD_RE = re.compile(r'(SOLD\s*OUT|売り切れ|完売)', re.I)
 
 
-def _jh_page(page):
-    url = JH_SEARCH if page == 1 else f"{JH_SEARCH}&page={page}"
-    raw = _get(url)
-    # euc_jisx0213 - расширенный EUC-JP: понимает символы вроде Ⅱ, Ⅸ,
-    # на которых обычный euc_jp даёт кракозябры
-    try:
-        html = raw.decode("euc_jisx0213")
-    except (UnicodeDecodeError, LookupError):
-        html = raw.decode("euc_jp", "replace")
+# Два раздела каталога, которые отслеживаем. Сортировка sort=n -
+# сначала новые, поэтому новинки всегда на первых страницах и качать
+# весь раздел (а это 3000-3600 товаров) не нужно.
+JH_CATES = [
+    ("cate&cbid=2032714&csid=0", "トラウト エリアルアー", "🎣 приманка"),
+    ("cate&cbid=2032716&csid=0", "トラウト エリアスプーン", "🥄 блесна"),
+]
+JH_PAGES = 5          # 60 товаров на страницу -> по 300 свежайших
 
+
+def _jh_cards(html, tag):
+    """Разбор карточек productlist_list со страницы JH."""
     items = []
     for block in _JH_LI_RE.findall(html):
         m = _JH_PID_RE.search(block)
@@ -229,31 +230,50 @@ def _jh_page(page):
         items.append({
             "uid": f"jh{pid}",
             "title": title,
-            "price": "—" if (sold or not price)
-                     else price.replace("円", " ¥"),
+            "price": price.replace("円", " ¥") if price else "—",
             "link": f"{JH_URL}/?pid={pid}",
             "shop": JH_NAME,
             "extra": "распродано" if sold else "",
+            # раздел каталога сам по себе гарантирует, что это снасть,
+            # поэтому словарный фильтр не применяем
+            "prefiltered": True,
+            "tag": tag,
         })
     return items
 
 
-def fetch_jh(max_pages=8):
-    """Новейшие товары магазина fishing-shop-jh.com."""
-    items = []
-    seen = set()
-    for page in range(1, max_pages + 1):
-        try:
-            chunk = _jh_page(page)
-        except Exception:
-            break
-        if not chunk:
-            break
-        fresh = [c for c in chunk if c["uid"] not in seen]
-        if not fresh:
-            break
-        seen.update(c["uid"] for c in fresh)
-        items.extend(fresh)
+def fetch_jh(max_pages=JH_PAGES):
+    """JH - свежие позиции из разделов эриа-приманок и эриа-блёсен.
+
+    Раздел «城峰 オリジナルカラー» магазин завёл, но так и не заполнил:
+    там лежат подсачек и кепка, а все 26 подразделов по брендам пустые.
+    Сами оригиналки разложены по этим двум разделам, поэтому следим
+    за ними.
+    """
+    items, seen = [], set()
+    for path, _name, tag in JH_CATES:
+        for page in range(1, max_pages + 1):
+            url = f"{JH_URL}/?mode={path}&sort=n"
+            if page > 1:
+                url += f"&page={page}"
+            try:
+                raw = _get(url)
+            except Exception:
+                break
+            # euc_jisx0213 - расширенный EUC-JP: понимает символы
+            # вроде Ⅱ, Ⅸ, на которых обычный euc_jp даёт кракозябры
+            try:
+                html = raw.decode("euc_jisx0213")
+            except (UnicodeDecodeError, LookupError):
+                html = raw.decode("euc_jp", "replace")
+            chunk = _jh_cards(html, tag)
+            if not chunk:
+                break
+            fresh = [c for c in chunk if c["uid"] not in seen]
+            if not fresh:
+                break
+            seen.update(c["uid"] for c in fresh)
+            items.extend(fresh)
     return items
 
 
@@ -307,18 +327,27 @@ def _colorme_orig_page(base, keyword, page, prefix, shop_name):
             "link": f"{base}/?pid={pid}",
             "shop": shop_name,
             "extra": "распродано" if sold else "",
+            # магазин отобран своим поиском оригиналок:
+            # общему фильтру тут доверять нельзя
+            "prefiltered": True,
         })
     return items
 
 
-def _fetch_colorme_orig(base, shop_name, prefix, max_pages=4):
-    """Только оригинальные расцветки: поиск по нескольким словам."""
+def _fetch_colorme_orig(base, shop_name, prefix, max_pages=4,
+                        page_fn=None):
+    """Только оригинальные расцветки: поиск по нескольким словам.
+
+    page_fn - разборщик одной страницы. У магазинов на Colorme темы
+    разные, поэтому вёрстку подставляем снаружи.
+    """
+    page_fn = page_fn or _colorme_orig_page
     items = []
     seen = set()
     for kw in ORIG_KEYWORDS:
         for page in range(1, max_pages + 1):
             try:
-                chunk = _colorme_orig_page(base, kw, page, prefix, shop_name)
+                chunk = page_fn(base, kw, page, prefix, shop_name)
             except Exception:
                 break
             if not chunk:
@@ -328,6 +357,101 @@ def _fetch_colorme_orig(base, shop_name, prefix, max_pages=4):
                 break
             seen.update(c["uid"] for c in fresh)
             items.extend(fresh)
+    return items
+
+
+# --- Kitiya: своя тема оформления, вёрстка c-item-list -------------
+_KI_TTL_RE = re.compile(
+    r'<div class="c-item-list__ttl">.*?<a href="\?pid=(\d+)">(.*?)</a>',
+    re.S)
+_KI_PRICE_RE = re.compile(
+    r'<div class="c-item-list__price([^"]*)">(.*?)</div>', re.S)
+
+
+def _kitiya_page(base, keyword, page, prefix, shop_name):
+    """Одна страница поиска Kitiya (вёрстка c-item-list__item)."""
+    kw = urllib.parse.quote(keyword.encode("euc_jp"))
+    url = f"{base}/?mode=srh&sort=n&keyword={kw}"
+    if page > 1:
+        url += f"&page={page}"
+    raw = _get(url)
+    try:
+        html = raw.decode("euc_jisx0213")
+    except (UnicodeDecodeError, LookupError):
+        html = raw.decode("euc_jp", "replace")
+
+    return _kitiya_cards(html, base, prefix, shop_name)
+
+
+def _kitiya_cards(html, base, prefix, shop_name, prefiltered=True,
+                  tag=""):
+    """Разбор карточек c-item-list из любого куска страницы Kitiya."""
+    items = []
+    for block in html.split('<li class="c-item-list__item">')[1:]:
+        nm = _KI_TTL_RE.search(block)
+        if not nm:
+            continue
+        pid, name_html = nm.group(1), nm.group(2)
+        # внутри названия сидит плашка <div class='mark1'>新入荷</div> -
+        # теги режем, иначе новинки потеряются
+        title = re.sub(r"\s+", " ", _TAG_RE.sub("", name_html)).strip()
+        # плашка приклеивается к имени вплотную: «新入荷【吉やオリカラ…»
+        title = re.sub(r"^(新色入荷|新入荷|再入荷|予約|SALE|NEW|■)\s*",
+                       "", title).strip()
+        if not title:
+            continue
+        pm = _KI_PRICE_RE.search(block)
+        # у распроданных вместо цены стоит 売り切れ и класс is-soldout
+        sold = bool(pm and "is-soldout" in pm.group(1))
+        price = re.sub(r"\s+", " ", _TAG_RE.sub("", pm.group(2))).strip() \
+            if pm else ""
+        if sold:
+            price = ""
+        items.append({
+            "uid": f"{prefix}{pid}",
+            "title": title,
+            "price": price.replace("円", " ¥") if price else "—",
+            "link": f"{base}/?pid={pid}",
+            "shop": shop_name,
+            "extra": "распродано" if sold else "",
+            "prefiltered": prefiltered,
+            "tag": tag,
+        })
+    return items
+
+
+KITIYA_NAME = "Kitiya"
+KITIYA_URL = "https://www.kitiya.jp"
+
+
+# Рекомендованные товары лежат прямо на главной: два блока
+# <h3 class="ktya-sub">PICK UP ピックアップ商品</h3>, по 12 позиций
+# (форель и бас). Отдельной страницы у них нет.
+_KI_PICKUP_RE = re.compile(
+    r'<h3[^>]*class="ktya-sub"[^>]*>.*?ピックアップ商品.*?</h3>'
+    r'\s*(<ul class="c-item-list">.*?</ul>)', re.S)
+
+
+def fetch_kitiya():
+    """Kitiya - рекомендованные магазином товары (PICK UP)."""
+    raw = _get(KITIYA_URL + "/")
+    try:
+        html = raw.decode("euc_jisx0213")
+    except (UnicodeDecodeError, LookupError):
+        html = raw.decode("euc_jp", "replace")
+
+    items, seen = [], set()
+    for block in _KI_PICKUP_RE.findall(html):
+        # PICK UP - подборка магазина, а не отбор по оригинальности.
+        # Словарь тут мимо: басовые приманки он не знает, зато
+        # удилище с 【...】 в названии принимает за расцветку.
+        # Поэтому показываем всё, кроме снаряжения, своей меткой.
+        for c in _kitiya_cards(block, KITIYA_URL, "ki", KITIYA_NAME,
+                               tag="⭐ рекомендует магазин"):
+            if c["uid"] in seen:
+                continue
+            seen.add(c["uid"])
+            items.append(c)
     return items
 
 
@@ -455,6 +579,7 @@ SOURCES = [
     ("JH", fetch_jh),
     ("Area Island", fetch_area_island),
     ("Pro Shop Tomo", fetch_tomo),
+    ("Kitiya", fetch_kitiya),
 ]
 
 
