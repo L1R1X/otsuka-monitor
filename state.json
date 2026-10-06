@@ -49964,6 +49964,16 @@
    "link": "https://fishing-shop-jh.com/?pid=193542573",
    "extra": ""
   },
+  "jh193542554": {
+   "name": "ValkeIN ハイバースト2.0g #26 ファイナルレッドゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542554",
+   "extra": ""
+  },
   "jh193542549": {
    "name": "ValkeIN ハイバースト2.0g #20 イエローオレンジ/ブラック",
    "price": null,
@@ -51462,6 +51472,16 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161129",
+   "extra": ""
+  },
+  "jh193161124": {
+   "name": "ALFRED クリアアルフ 0.8g #T-04 撒き餌クリアブラウン",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161124",
    "extra": ""
   },
   "jh193161116": {
@@ -53832,26 +53852,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189462",
-   "extra": ""
-  },
-  "jh192189443": {
-   "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189443",
-   "extra": ""
-  },
-  "jh192189419": {
-   "name": "ロデオクラフト QM キューム 1.8g #T.S IV【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189419",
    "extra": ""
   },
   "ai190827450": {
@@ -60765,5 +60765,5 @@
    "extra": "распродано"
   }
  },
- "last_check": "2026-10-06T07:36:01+03:00"
+ "last_check": "2026-10-06T07:45:54+03:00"
 }
