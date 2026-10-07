@@ -58365,6 +58365,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh193850039": {
+   "name": "ムカイ バックストローク 45HS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850039",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193850037": {
    "name": "ムカイ バックストローク 45HS #ウィニングブラウン",
    "price": null,
@@ -58421,6 +58433,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850023",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193850020": {
+   "name": "ムカイ バックストローク 45HS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850020",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61937,30 +61961,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797167",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797163": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #チルホド",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797163",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797155": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #五魔オイル",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797155",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74147,5 +74147,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T03:37:31+03:00"
+ "last_check": "2026-10-07T03:43:17+03:00"
 }
