@@ -2366,6 +2366,42 @@
    "price": 1650,
    "stock": 17
   },
+  "tr10314031857878": {
+   "name": "Mini Cicada S Rattle t-Route Limited（ミニシケイダーSラトル t-Routeオリカラ）",
+   "price": null,
+   "price_text": "1 400 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/mini-cicada-s-rattle-t-route-limited-ミニシケイダーsラトル-t-routeオリカラ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr8958945689814": {
+   "name": "Micro Cicada S t-Route Limited（マイクロシケイダーS t-Routeオリカラ）",
+   "price": null,
+   "price_text": "1 400 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/micro-cicada-t-route-limited-マイクロシケイダーt-routeオリカラ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9032759214294": {
+   "name": "Deep Paradox Spoon t-Route Limited2026（ディープパラドックススプーンt-Routeオリカラ2026）",
+   "price": null,
+   "price_text": "620 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/gravity-t-route-limited-グラビティt-routeオリカラ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15370025238742": {
    "name": "ZOO Ⅱ YAK PL（ズーツーヤックPL）",
    "price": null,
@@ -24418,7 +24454,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/ガレージファクトリーコルクルアー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74128,5 +74164,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T13:58:06+03:00"
+ "last_check": "2026-10-07T14:04:05+03:00"
 }
