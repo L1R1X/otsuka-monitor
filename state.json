@@ -2806,7 +2806,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/tackle-box-tb-custom-presso-sp-タックルボックスtb-カスタム-プレッソsp",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -24430,7 +24430,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/ガレージファクトリーコルクルアー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -61106,30 +61106,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113806": {
-   "name": "ValkeIN ライオーム NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113806",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113801": {
-   "name": "ValkeIN ライオーム NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113801",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113799": {
    "name": "ValkeIN ライオーム NANO #ARK4",
    "price": null,
@@ -61954,6 +61930,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797163",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797155": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #五魔オイル",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797155",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797146": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #隠れんぼGG",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797146",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74140,5 +74140,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T07:47:38+03:00"
+ "last_check": "2026-10-07T07:52:45+03:00"
 }
