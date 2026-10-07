@@ -73922,6 +73922,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193861428": {
+   "name": "クレハ シーガー PEX4 ステルスアーミー",
+   "price": null,
+   "price_text": "1,870 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193861428",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191244705": {
    "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル マットブラック",
    "price": null,
@@ -73978,18 +73990,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=171340051",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki177838675": {
-   "name": "ティモン ルアーレスキュー",
-   "price": null,
-   "price_text": "2,420 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=177838675",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74140,5 +74140,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T07:23:05+03:00"
+ "last_check": "2026-10-07T07:27:16+03:00"
 }
