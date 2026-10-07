@@ -61046,18 +61046,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192147566": {
-   "name": "ムカイ POGOCRA 30DR F #GARASHI",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147566",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192147532": {
    "name": "ムカイ バックストローク 55SS #カラオリRG",
    "price": null,
@@ -61978,6 +61966,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797138",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797132": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #マッドハウス",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797132",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74164,5 +74164,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T14:47:45+03:00"
+ "last_check": "2026-10-07T14:52:53+03:00"
 }
