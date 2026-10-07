@@ -73934,6 +73934,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193862274": {
+   "name": "ラッキークラフト ワウ37F Justace別注カラー",
+   "price": null,
+   "price_text": "1,386 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193862274",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191244705": {
    "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル マットブラック",
    "price": null,
@@ -73978,18 +73990,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193749670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki171340051": {
-   "name": "ベルベットアーツ フォルテ2.1g",
-   "price": null,
-   "price_text": "601 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=171340051",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74140,5 +74140,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T07:38:06+03:00"
+ "last_check": "2026-10-07T07:43:13+03:00"
 }
