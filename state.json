@@ -63381,18 +63381,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192681799": {
-   "name": "TROUT SPOONS Lab サジ カイト 1.3g #9 匙オジ BRUNO",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192681799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192681794": {
    "name": "TROUT SPOONS Lab サジ カイト 1.3g #8 匙オジ 海松色",
    "price": null,
@@ -63405,18 +63393,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192681790": {
-   "name": "TROUT SPOONS Lab サジ カイト 1.3g #7 匙オジ bise",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192681790",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192681750": {
    "name": "TROUT SPOONS Lab サジ カイト 1.3g #6 カイトイエロー",
    "price": null,
@@ -63425,18 +63401,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192681750",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192681747": {
-   "name": "TROUT SPOONS Lab サジ カイト 1.3g #5 カイトオレンジ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192681747",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65561,6 +65525,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191650593",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191650588": {
+   "name": "ウォーターランド アルミん 4.3g #LIG ライムゴールド",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191650588",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191650584": {
+   "name": "ウォーターランド アルミん 3.4g #LIG ライムゴールド",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191650584",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191650571": {
+   "name": "ウォーターランド アルミん 2.5g #LIG ライムゴールド",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191650571",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74147,5 +74147,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T05:53:11+03:00"
+ "last_check": "2026-10-07T05:57:56+03:00"
 }
