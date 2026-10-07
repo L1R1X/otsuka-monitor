@@ -61281,18 +61281,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113777": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113777",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113776": {
    "name": "ValkeIN クーガ NANO シンキング #ARK3",
    "price": null,
@@ -61961,6 +61949,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797167",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797163": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #チルホド",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797163",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74147,5 +74147,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T05:30:35+03:00"
+ "last_check": "2026-10-07T05:33:33+03:00"
 }
