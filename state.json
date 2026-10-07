@@ -74037,6 +74037,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193505990": {
+   "name": "ZAPPU（ザップ） ダウンショット【スタンダードシンカー】",
+   "price": null,
+   "price_text": "495 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193505990",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193506156": {
+   "name": "ZAPPU（ザップ） フリーリグ【スタンダードシンカー】",
+   "price": null,
+   "price_text": "495 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193506156",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193737536": {
    "name": "レヴォニック シンディ110SF-Mドライボーン",
    "price": null,
@@ -74120,32 +74144,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193599499": {
-   "name": "サンライン PE 撥ッスル",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193599499",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki181478139": {
-   "name": "デプス NEWスライドスイマー250ヘッドショット",
-   "price": null,
-   "price_text": "10,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=181478139",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T06:58:04+03:00"
+ "last_check": "2026-10-07T07:03:26+03:00"
 }
