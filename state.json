@@ -74042,18 +74042,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki192244349": {
-   "name": "ノリーズ タニーフロッグ",
-   "price": null,
-   "price_text": "1,155 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192244349",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193505990": {
    "name": "ZAPPU（ザップ） ダウンショット【スタンダードシンカー】",
    "price": null,
@@ -74161,8 +74149,20 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki193599499": {
+   "name": "サンライン PE 撥ッスル",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193599499",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T16:33:31+03:00"
+ "last_check": "2026-10-07T16:38:04+03:00"
 }
