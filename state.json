@@ -73917,6 +73917,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193861367": {
+   "name": "クレハ シーガー グランドマックスFX エステル",
+   "price": null,
+   "price_text": "1,089 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193861367",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191244705": {
    "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル マットブラック",
    "price": null,
@@ -73985,18 +73997,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=177838675",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193628075": {
-   "name": "フルクリップ マルチマウントフリップ（MMF）専用エクスチェンジャー",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193628075",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74147,5 +74147,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-07T07:13:29+03:00"
+ "last_check": "2026-10-07T07:16:04+03:00"
 }
