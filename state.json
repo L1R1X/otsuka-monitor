@@ -278,14 +278,14 @@
    "spec": "#伊勢崎店オリカラ 家畜オリバリン 0.7g",
    "code": "4573265536585",
    "price": 627,
-   "stock": 21
+   "stock": 22
   },
   "53360101GKH00349": {
    "name": "FPBルアーズ フロンティア タブー フロンティアタブー 0.7g",
    "spec": "#伊勢崎店オリカラ カカポ 0.7g",
    "code": "4573265536578",
    "price": 627,
-   "stock": 18
+   "stock": 19
   },
   "53360101GKH00264": {
    "name": "FPBルアーズ フロンティア タブー フロンティアタブー 0.7g",
@@ -313,7 +313,7 @@
    "spec": "#伊勢崎店オリカラ 家畜パール 0.5g",
    "code": "4573265536882",
    "price": 627,
-   "stock": 45
+   "stock": 46
   },
   "53360101GKH00275": {
    "name": "FPBルアーズ ベリーズ  0.5g",
@@ -327,7 +327,7 @@
    "spec": "#伊勢崎店オリカラ コバタン 0.5g",
    "code": "4573640550229",
    "price": 627,
-   "stock": 22
+   "stock": 23
   },
   "53360101GKP01927": {
    "name": "FPBルアーズ ベリーズ  0.5g",
@@ -2791,7 +2791,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/pacchinscale-パッチンスケール",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -10651,7 +10651,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/silicon-billet-releaser-シリコンビレットリリーサー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -15655,7 +15655,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-exchanger-rcエクスチェンジャー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -21571,7 +21571,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/t-connection-net-stand-ティーコネクションネットスタンド",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -26743,7 +26743,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mcラインカッター第一精工",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74173,5 +74173,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T12:23:27+03:00"
+ "last_check": "2026-10-08T12:27:57+03:00"
 }
