@@ -61238,18 +61238,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113799": {
-   "name": "ValkeIN ライオーム NANO #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113796": {
    "name": "ValkeIN ライオーム NANO #ARK3",
    "price": null,
@@ -61270,18 +61258,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113795",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113794": {
-   "name": "ValkeIN ライオーム NANO #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113794",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62098,6 +62074,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797125",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797118": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #バッテリー",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797118",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191776130": {
+   "name": "DAYSPROUT ディスプラウト DSミニシケイダーHF G2 #6 レッドヒップティー",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191776130",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74272,5 +74272,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T14:52:47+03:00"
+ "last_check": "2026-10-08T14:58:18+03:00"
 }
