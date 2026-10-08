@@ -58718,18 +58718,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193664191": {
-   "name": "1089工房 DSさかさにょろ SLIM 60FS+ #02 檸檬紅茶【DSコラボ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193664191",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193656587": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #サクラミソ",
    "price": null,
@@ -62098,6 +62086,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191776130",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191776128": {
+   "name": "DAYSPROUT ディスプラウト DSミニシケイダーHF G2 #5 かぶせ茶",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191776128",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74272,5 +74272,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T15:38:03+03:00"
+ "last_check": "2026-10-08T15:42:50+03:00"
 }
