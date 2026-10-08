@@ -61739,6 +61739,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191816487": {
    "name": "ValkeIN ヘイズ F #ARK3",
    "price": null,
@@ -61987,18 +61999,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797155",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797146": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #隠れんぼGG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797146",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74173,5 +74173,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T09:12:57+03:00"
+ "last_check": "2026-10-08T09:18:05+03:00"
 }
