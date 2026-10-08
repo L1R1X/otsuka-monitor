@@ -677,7 +677,7 @@
    "spec": "#メシア 0.9g 川越店オリカラ",
    "code": "4573672482277",
    "price": 572,
-   "stock": 4
+   "stock": 2
   },
   "53360101GLK01606": {
    "name": "アイジェットリンク アイジェットソード 1.4g",
@@ -1223,7 +1223,7 @@
    "spec": "#テクニカルオリーブ 3.4g 注意:3枚まで",
    "code": "4573151275581",
    "price": 605,
-   "stock": 49
+   "stock": 48
   },
   "53360101GKG00281": {
    "name": "ロデオクラフト ノア-B  3.4g",
@@ -1244,7 +1244,7 @@
    "spec": "#ヨセアゲG.O 3.4g 注意:3枚まで",
    "code": "4573151275697",
    "price": 605,
-   "stock": 6
+   "stock": 5
   },
   "53360101GKN00651": {
    "name": "ヴァルケイン アストラル  1.6g",
@@ -1958,7 +1958,7 @@
    "spec": "#伊勢崎店 オリカラ 八雲 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316328",
    "price": 1650,
-   "stock": 60
+   "stock": 56
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -58427,18 +58427,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193850039": {
-   "name": "ムカイ バックストローク 45HS #カラオリRG",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850039",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193850037": {
    "name": "ムカイ バックストローク 45HS #ウィニングブラウン",
    "price": null,
@@ -58555,18 +58543,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850007",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193850004": {
-   "name": "ムカイ バックストローク 45HS #チカチカ",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850004",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61999,6 +61975,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797155",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797146": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #隠れんぼGG",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797146",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797138": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #ギミックチョコ",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797138",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74173,5 +74173,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T10:21:30+03:00"
+ "last_check": "2026-10-08T10:24:27+03:00"
 }
