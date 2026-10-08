@@ -59078,18 +59078,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193473550": {
-   "name": "ロデオクラフト RC WAH 37HF #ミリタリスト【HERO'S】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473550",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193463435": {
    "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
    "price": null,
@@ -61978,6 +61966,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797167",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797163": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #チルホド",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797163",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74164,5 +74164,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T05:17:23+03:00"
+ "last_check": "2026-10-08T05:23:09+03:00"
 }
