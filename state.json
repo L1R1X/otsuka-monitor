@@ -2394,6 +2394,18 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15375399223510": {
+   "name": "SEAGUAR PEX4 STEALTH ARMY（シーガー PEX4 ステルスアーミー）",
+   "price": null,
+   "price_text": "2 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/seaguar-pex4-stealth-army-シーガー-pex4-ステルスアーミー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr10314031857878": {
    "name": "Mini Cicada S Rattle t-Route Limited（ミニシケイダーSラトル t-Routeオリカラ）",
    "price": null,
@@ -74192,5 +74204,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T13:13:18+03:00"
+ "last_check": "2026-10-08T13:18:22+03:00"
 }
