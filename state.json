@@ -40628,7 +40628,7 @@
   "w10000000000220516": {
    "name": "tent Mark DESIGNS　テンマクデザイン ｻｰｶｽTC+ ﾁﾑﾆｰｳｫｰﾙ",
    "price": null,
-   "price_text": "32 780 ¥",
+   "price_text": "19 800 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -43064,7 +43064,7 @@
   "w10000000000217834": {
    "name": "tent Mark DESIGNS　テンマクデザイン ｻｰｶｽTCDXMID+",
    "price": null,
-   "price_text": "39 380 ¥",
+   "price_text": "27 280 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -44540,7 +44540,7 @@
   "w10000000000216596": {
    "name": "tent Mark DESIGNS　テンマクデザイン ﾌﾛﾝﾄﾌﾗｯﾌﾟ WIDE",
    "price": null,
-   "price_text": "43 780 ¥",
+   "price_text": "19 800 ¥–43 780 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -74251,5 +74251,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T17:58:08+03:00"
+ "last_check": "2026-10-08T18:03:43+03:00"
 }
