@@ -2394,6 +2394,18 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15375418294486": {
+   "name": "Seaguar Grandmax FX ESTER（シーガー グランドマックスFX エステル）",
+   "price": null,
+   "price_text": "1 150 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/seaguar-grandmax-fx-ester-シーガー-グランドマックスfx-エステル",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15375399223510": {
    "name": "SEAGUAR PEX4 STEALTH ARMY（シーガー PEX4 ステルスアーミー）",
    "price": null,
@@ -74204,5 +74216,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-08T13:28:01+03:00"
+ "last_check": "2026-10-08T13:33:40+03:00"
 }
