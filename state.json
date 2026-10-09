@@ -73990,6 +73990,42 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki103776401": {
+   "name": "ロデオクラフト ウッサ シンキング",
+   "price": null,
+   "price_text": "1,683 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=103776401",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki152473491": {
+   "name": "ロデオクラフト ウッサエクストラシンキング ラトル",
+   "price": null,
+   "price_text": "1,733 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=152473491",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki155933704": {
+   "name": "ロデオクラフト ウッサ エキストラシンキング ノンラトル",
+   "price": null,
+   "price_text": "1,683 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=155933704",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki170383216": {
    "name": "【吉やオリカラ：苔】アルフレッド クリアアルフ",
    "price": null,
@@ -74010,6 +74046,30 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=170383236",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193890544": {
+   "name": "FPBルアーズ ビーゼロ 0.9g",
+   "price": null,
+   "price_text": "564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193890544",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193890637": {
+   "name": "FPBルアーズ ビーファンク 0.8g",
+   "price": null,
+   "price_text": "564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193890637",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74070,66 +74130,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193861367",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193861428": {
-   "name": "クレハ シーガー PEX4 ステルスアーミー",
-   "price": null,
-   "price_text": "1,870 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193861428",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890544": {
-   "name": "FPBルアーズ ビーゼロ 0.9g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890544",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890637": {
-   "name": "FPBルアーズ ビーファンク 0.8g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890637",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193897445": {
-   "name": "ムカイ 陰キャ、釣りにハマる。BIG ONE SELECT バックストローク各種",
-   "price": null,
-   "price_text": "2,090 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193897445",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191244705": {
-   "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル マットブラック",
-   "price": null,
-   "price_text": "18,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191244705",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74268,5 +74268,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T09:58:16+03:00"
+ "last_check": "2026-10-09T10:02:55+03:00"
 }
