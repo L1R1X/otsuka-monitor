@@ -58493,6 +58493,30 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh193890243": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #スケスケピンク【有頂天】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890243",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890234": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890234",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -58513,18 +58537,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193883419",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193883413": {
-   "name": "ロデオクラフト USSA ウッサ XS ノンラトル #クリアー(マット)",
-   "price": null,
-   "price_text": "1,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193883413",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62077,18 +62089,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815131",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815119": {
-   "name": "ムカイ Smash25MR (SSWG)#ブラウン隊長【モリケン】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815119",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74263,5 +74263,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T06:07:52+03:00"
+ "last_check": "2026-10-09T06:13:09+03:00"
 }
