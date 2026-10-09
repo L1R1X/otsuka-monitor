@@ -2007,14 +2007,14 @@
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 94
+   "stock": 92
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 73
+   "stock": 72
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2091,7 +2091,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512150",
    "price": 1870,
-   "stock": 84
+   "stock": 81
   },
   "53360101GLX01274": {
    "name": "ロデオクラフト ウッサ S",
@@ -2217,7 +2217,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.4g スローシンキング",
    "code": "4573632512198",
    "price": 1705,
-   "stock": 136
+   "stock": 135
   },
   "53360101GLX01279": {
    "name": "ロデオクラフト モカロン  S # M.A01暁(宇都宮店オリカラ) 57mm 3.3g シンキング",
@@ -58481,6 +58481,102 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh193883425": {
+   "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883425",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883419": {
+   "name": "ロデオクラフト USSA ウッサ XS ノンラトル #21ノブ",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883419",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883413": {
+   "name": "ロデオクラフト USSA ウッサ XS ノンラトル #クリアー(マット)",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883413",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883395": {
+   "name": "ロデオクラフト USSA ウッサ XS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883388": {
+   "name": "ロデオクラフト USSA ウッサ XS #21ノブ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883388",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883372": {
+   "name": "ロデオクラフト USSA ウッサ XS #クリアー(マット)",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883372",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883355": {
+   "name": "ロデオクラフト USSA ウッサ S #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883355",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883349": {
+   "name": "ロデオクラフト USSA ウッサ S #21ノブ",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883349",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193871188": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #ミリタリスト【HERO'S】",
    "price": null,
@@ -61981,102 +62077,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815119",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797195": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #クリアー",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797195",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797189": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #闇烏",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797189",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797167": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #ガスタンク",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797167",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797163": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #チルホド",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797163",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797155": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #五魔オイル",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797155",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797146": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #隠れんぼGG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797146",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797138": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #ギミックチョコ",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797138",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797132": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #マッドハウス",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797132",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74251,5 +74251,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T04:28:02+03:00"
+ "last_check": "2026-10-09T04:33:09+03:00"
 }
