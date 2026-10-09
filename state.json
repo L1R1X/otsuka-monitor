@@ -6130,18 +6130,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr7899542159574": {
-   "name": "UssA（ウッサ）",
-   "price": null,
-   "price_text": "1 700 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/ussa-rodiocraft",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr9286745456854": {
    "name": "DRYING STANDO（ドライニング スタンド）",
    "price": null,
@@ -26418,6 +26406,18 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/ラパラ-rhks-1-フックシャープナー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr7801720799446": {
+   "name": "第一精工 NOGISCALE125（ノギスケール）",
+   "price": null,
+   "price_text": "2 460 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/第一精工-nogiscale125-ノギスケール",
    "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
@@ -74256,5 +74256,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T11:07:36+03:00"
+ "last_check": "2026-10-09T11:13:19+03:00"
 }
