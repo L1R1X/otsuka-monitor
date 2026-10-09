@@ -63869,6 +63869,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192681799": {
+   "name": "TROUT SPOONS Lab サジ カイト 1.3g #9 匙オジ BRUNO",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192681799",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192681794": {
    "name": "TROUT SPOONS Lab サジ カイト 1.3g #8 匙オジ 海松色",
    "price": null,
@@ -65677,18 +65689,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191775723",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191775719": {
-   "name": "ディスプラウト Podium η 0.8g #10 パインカーリー",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775719",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73733,6 +73733,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "pt191236607": {
+   "name": "リヴァイブ ファンネル 限定マットカラー",
+   "price": null,
+   "price_text": "17,000 ¥(税込18,700 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=191236607",
+   "extra": "",
+   "prefiltered": true,
+   "tag": ""
+  },
   "pt190194082": {
    "name": "ハンクル シャッド５５ＳＳエリアバージョン限定ゆらゆらカラー",
    "price": null,
@@ -74263,5 +74275,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T08:12:52+03:00"
+ "last_check": "2026-10-09T08:17:36+03:00"
 }
