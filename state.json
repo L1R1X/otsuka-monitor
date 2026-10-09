@@ -677,7 +677,7 @@
    "spec": "#メシア 0.9g 川越店オリカラ",
    "code": "4573672482277",
    "price": 572,
-   "stock": 4
+   "stock": 0
   },
   "53360101GLK01606": {
    "name": "アイジェットリンク アイジェットソード 1.4g",
@@ -58789,18 +58789,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890723": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890723",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890692": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパグリーンスパイス",
    "price": null,
@@ -62181,6 +62169,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816486",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816478": {
+   "name": "ValkeIN ヘイズ F #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816478",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74367,5 +74367,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T21:33:34+03:00"
+ "last_check": "2026-10-09T21:38:13+03:00"
 }
