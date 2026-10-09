@@ -61757,6 +61757,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192113777": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113777",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192113776": {
    "name": "ValkeIN クーガ NANO シンキング #ARK3",
    "price": null,
@@ -62077,18 +62089,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74275,5 +74275,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T08:27:48+03:00"
+ "last_check": "2026-10-09T08:33:03+03:00"
 }
