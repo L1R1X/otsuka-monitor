@@ -58493,6 +58493,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh193897559": {
+   "name": "ロデオクラフト USSA ウッサ S #S.M Ⅵ C",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193897559",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193891027": {
    "name": "DAIWA ワブクラJr.25SS DR#ひよこピヨちゃん",
    "price": null,
@@ -62077,18 +62089,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816537": {
-   "name": "ValkeIN ヘイズ DD #ARK5",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816537",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74275,5 +74275,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T08:47:52+03:00"
+ "last_check": "2026-10-09T08:53:06+03:00"
 }
