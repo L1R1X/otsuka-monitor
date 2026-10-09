@@ -2422,18 +2422,6 @@
    "price": 1650,
    "stock": 17
   },
-  "tr15377100243158": {
-   "name": "BeFunk 0.8g（ビーファンク0.8g）",
-   "price": null,
-   "price_text": "0 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/befunk-0-8g-ビーファンク0-8g",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr15375418294486": {
    "name": "Seaguar Grandmax FX ESTER（シーガー グランドマックスFX エステル）",
    "price": null,
@@ -74280,5 +74268,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T10:53:14+03:00"
+ "last_check": "2026-10-09T10:57:17+03:00"
 }
