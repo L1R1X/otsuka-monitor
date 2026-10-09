@@ -58757,30 +58757,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890586": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパダブルピンク",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890586",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890234": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890234",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -62089,6 +62065,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74117,6 +74117,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193897445": {
+   "name": "ムカイ 陰キャ、釣りにハマる。BIG ONE SELECT バックストローク各種",
+   "price": null,
+   "price_text": "2,090 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193897445",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191244705": {
    "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル マットブラック",
    "price": null,
@@ -74125,18 +74137,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191244705",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193342340": {
-   "name": "スミス エリアネットスタンド",
-   "price": null,
-   "price_text": "3,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193342340",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74275,5 +74275,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T09:03:48+03:00"
+ "last_check": "2026-10-09T09:07:57+03:00"
 }
