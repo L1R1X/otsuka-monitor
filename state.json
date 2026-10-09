@@ -58532,18 +58532,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193883355": {
-   "name": "ロデオクラフト USSA ウッサ S #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193883355",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883349": {
    "name": "ロデオクラフト USSA ウッサ S #21ノブ",
    "price": null,
@@ -62068,6 +62056,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797189",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797167": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #ガスタンク",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797167",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74242,5 +74242,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T06:43:15+03:00"
+ "last_check": "2026-10-09T06:48:01+03:00"
 }
