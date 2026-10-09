@@ -58505,6 +58505,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193850039": {
+   "name": "ムカイ バックストローク 45HS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850039",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193850037": {
    "name": "ムカイ バックストローク 45HS #ウィニングブラウン",
    "price": null,
@@ -58561,6 +58573,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850023",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193850020": {
+   "name": "ムカイ バックストローク 45HS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850020",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61841,6 +61865,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191815439": {
+   "name": "ムカイ Quick 25SR HFWG #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815439",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191815424": {
    "name": "ムカイ トレモ Tremo35MR HFWG #レッドグロー・ブルパー【サウリブ】",
    "price": null,
@@ -62041,42 +62077,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191797132",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797125": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #ブルヘリオン",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797125",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191797118": {
-   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #バッテリー",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191797118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191776130": {
-   "name": "DAYSPROUT ディスプラウト DSミニシケイダーHF G2 #6 レッドヒップティー",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191776130",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74251,5 +74251,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T03:43:00+03:00"
+ "last_check": "2026-10-09T03:47:39+03:00"
 }
