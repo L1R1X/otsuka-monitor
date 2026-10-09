@@ -58493,18 +58493,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh193890243": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #スケスケピンク【有頂天】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890243",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890234": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
    "price": null,
@@ -62089,6 +62077,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815119",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191797195": {
+   "name": "アンデッドファクトリー ベビーメタクラ24HFDR #クリアー",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191797195",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74263,5 +74263,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T06:22:07+03:00"
+ "last_check": "2026-10-09T06:27:46+03:00"
 }
