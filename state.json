@@ -74103,6 +74103,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki188884454": {
+   "name": "ロデオクラフト RCワウ37【有頂天カラー】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188884454",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki103776401": {
    "name": "ロデオクラフト ウッサ シンキング",
    "price": null,
@@ -74231,18 +74243,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193856798",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193861367": {
-   "name": "クレハ シーガー グランドマックスFX エステル",
-   "price": null,
-   "price_text": "1,089 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193861367",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74381,5 +74381,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T15:52:45+03:00"
+ "last_check": "2026-10-09T15:57:48+03:00"
 }
