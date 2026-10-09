@@ -61597,18 +61597,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113796": {
-   "name": "ValkeIN ライオーム NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113796",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113795": {
    "name": "ValkeIN ライオーム NANO #ARK2",
    "price": null,
@@ -62181,6 +62169,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816478",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816197": {
+   "name": "ValkeIN シャインライド #ARK6",
+   "price": null,
+   "price_text": "1,665 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816197",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74367,5 +74367,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T21:38:13+03:00"
+ "last_check": "2026-10-09T21:43:02+03:00"
 }
