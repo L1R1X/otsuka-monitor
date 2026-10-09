@@ -59607,18 +59607,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193370393": {
-   "name": "ロデオクラフト USSA ウッサ XS #S.M Ⅵ C",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193370393",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193356915": {
    "name": "SHIMANO おおとろ 45S #008 ヅケマグロ",
    "price": null,
@@ -62195,6 +62183,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74381,5 +74381,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T14:08:31+03:00"
+ "last_check": "2026-10-09T14:13:10+03:00"
 }
