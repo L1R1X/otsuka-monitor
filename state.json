@@ -61913,6 +61913,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191815202": {
+   "name": "ムカイ Quick 25SR HFWG #グリーン隊長【モリケン】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815202",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191815131": {
    "name": "ムカイ Smash25MR (SSWG)#インフレカーキ【モリケン】",
    "price": null,
@@ -62065,18 +62077,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191776130",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191776128": {
-   "name": "DAYSPROUT ディスプラウト DSミニシケイダーHF G2 #5 かぶせ茶",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191776128",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74251,5 +74251,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T03:37:50+03:00"
+ "last_check": "2026-10-09T03:43:00+03:00"
 }
