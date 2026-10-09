@@ -61863,18 +61863,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191992967": {
-   "name": "ムカイ POGO38 HS WG #レッドグロー・ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992967",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh191991774": {
    "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
    "price": null,
@@ -62199,6 +62187,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816486": {
+   "name": "ValkeIN ヘイズ F #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816486",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193889332": {
    "name": "FPBルアーズ ビーファンク 0.8g #15 ジンクリアブルー",
    "price": null,
@@ -62327,18 +62327,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193889288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193889286": {
-   "name": "FPBルアーズ ビーファンク 0.8g #4 青銀",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889286",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65795,6 +65783,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191775715",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191775709": {
+   "name": "ディスプラウト Podium η 0.8g #8 ゴールディーオリーブ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191775709",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74381,5 +74381,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T15:27:15+03:00"
+ "last_check": "2026-10-09T15:33:46+03:00"
 }
