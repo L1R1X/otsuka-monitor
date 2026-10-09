@@ -26422,18 +26422,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr7801720799446": {
-   "name": "第一精工 NOGISCALE125（ノギスケール）",
-   "price": null,
-   "price_text": "2 460 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/第一精工-nogiscale125-ノギスケール",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr7796538573014": {
    "name": "office eucalyptus UVライト",
    "price": null,
@@ -74268,5 +74256,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T11:03:14+03:00"
+ "last_check": "2026-10-09T11:07:36+03:00"
 }
