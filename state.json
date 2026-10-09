@@ -1503,7 +1503,7 @@
    "spec": "#オリオリRG 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315642",
    "price": 1760,
-   "stock": 20
+   "stock": 21
   },
   "53360101GLP01034": {
    "name": "ゲート ミディアムクラピー GS2 #スプリンクルRG 34mm 2.9g オオツカオリカラ",
@@ -1587,7 +1587,7 @@
    "spec": "#スプリンクルタイプR 30mm 2.1g シンキング",
    "code": "4515744194688",
    "price": 1540,
-   "stock": 20
+   "stock": 22
   },
   "53360101G5600172": {
    "name": "タックルハウス ショアーズ  ペンシルポッパー44",
@@ -1993,21 +1993,21 @@
    "spec": "#伊勢崎店 オリカラ 恵比寿 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316335",
    "price": 1650,
-   "stock": 5
+   "stock": 9
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 100
+   "stock": 98
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 78
+   "stock": 79
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -18325,7 +18325,7 @@
   "tr8446457610454": {
    "name": "2win HERO`S（ツーウィンヒーローズ）",
    "price": null,
-   "price_text": "710 ¥",
+   "price_text": "760 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -40042,6 +40042,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000161895": {
+   "name": "TULALA　ツララ TULALA　ツララ　Glissando 72　グリッサンド 72",
+   "price": null,
+   "price_text": "49 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000161895",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000024176": {
    "name": "SIMMS　シムス 【廃番特価品】シムス ドライクリーク ロールトップバックパック【ミッドナイト】",
    "price": null,
@@ -58702,6 +58714,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890823": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #グリパRGスカッパノン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890823",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890815": {
    "name": "DAIWA ワブクラJr.25F DR#胡麻塩グロー",
    "price": null,
@@ -58774,6 +58798,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890737": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890737",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890723": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #ひよこピヨちゃん",
    "price": null,
@@ -58786,6 +58822,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890697": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #オレッドRG",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890697",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890692": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパグリーンスパイス",
    "price": null,
@@ -58794,6 +58842,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890692",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890586": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパダブルピンク",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890586",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -58914,6 +58974,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193871186",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193850037": {
+   "name": "ムカイ バックストローク 45HS #ウィニングブラウン",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850037",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -59562,6 +59634,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193463363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193370393": {
+   "name": "ロデオクラフト USSA ウッサ XS #S.M Ⅵ C",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193370393",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61594,6 +61678,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192113796": {
+   "name": "ValkeIN ライオーム NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113796",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192113795": {
    "name": "ValkeIN ライオーム NANO #ARK2",
    "price": null,
@@ -61602,6 +61698,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113795",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113794": {
+   "name": "ValkeIN ライオーム NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113794",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61974,102 +62082,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847759",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847755": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #07 ブルースプラッシュ",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847755",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847743": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847743",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835545": {
-   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835545",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835529": {
-   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816541": {
-   "name": "ValkeIN ヘイズ DD #ARK6",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816541",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816537": {
-   "name": "ValkeIN ヘイズ DD #ARK5",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816537",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74256,5 +74268,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T11:53:03+03:00"
+ "last_check": "2026-10-09T11:58:46+03:00"
 }
