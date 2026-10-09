@@ -2429,6 +2429,18 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15376959832278": {
+   "name": "Chibi Rex（チビレックス）",
+   "price": null,
+   "price_text": "1 360 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/chibi-rex-チビレックス",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15375418294486": {
    "name": "Seaguar Grandmax FX ESTER（シーガー グランドマックスFX エステル）",
    "price": null,
@@ -74335,5 +74347,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T13:33:03+03:00"
+ "last_check": "2026-10-09T13:37:40+03:00"
 }
