@@ -58637,18 +58637,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890871": {
-   "name": "DAIWA ワブクラJr.25F DR#Wレッド",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890871",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890868": {
    "name": "DAIWA ワブクラJr.25F DR#トッピングフード",
    "price": null,
@@ -58933,6 +58921,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193883372",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193883355": {
+   "name": "ロデオクラフト USSA ウッサ S #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883355",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74263,5 +74263,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-09T07:42:58+03:00"
+ "last_check": "2026-10-09T07:48:03+03:00"
 }
