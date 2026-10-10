@@ -74205,30 +74205,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki161592615": {
-   "name": "フィッシュアロー フリリグシンカー タングステン",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=161592615",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki175681653": {
-   "name": "エバーグリーン ルーシー3.2",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=175681653",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -74241,14 +74217,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki191533288": {
-   "name": "バークレイ マックスセント フラックスギル3.5インチ",
+  "ki193914044": {
+   "name": "ボトムアップ クネリー4.4",
    "price": null,
-   "price_text": "1,287 ¥(税込)",
+   "price_text": "1,023 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191533288",
+   "link": "https://www.kitiya.jp/?pid=193914044",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74261,6 +74237,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=192017800",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki175681653": {
+   "name": "エバーグリーン ルーシー3.2",
+   "price": null,
+   "price_text": "792 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=175681653",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74289,14 +74277,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193737536": {
-   "name": "レヴォニック シンディ110SF-Mドライボーン",
+  "ki191533288": {
+   "name": "バークレイ マックスセント フラックスギル3.5インチ",
    "price": null,
-   "price_text": "2,310 ¥(税込)",
+   "price_text": "1,287 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193737536",
+   "link": "https://www.kitiya.jp/?pid=191533288",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74313,14 +74301,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193810748": {
-   "name": "フジワラ ゼロスタンダードシンカー ブラック",
+  "ki161592615": {
+   "name": "フィッシュアロー フリリグシンカー タングステン",
    "price": null,
-   "price_text": "416 ¥(税込)",
+   "price_text": "715 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193810748",
+   "link": "https://www.kitiya.jp/?pid=161592615",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74336,8 +74324,20 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki193737536": {
+   "name": "レヴォニック シンディ110SF-Mドライボーン",
+   "price": null,
+   "price_text": "2,310 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193737536",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T11:58:07+03:00"
+ "last_check": "2026-10-10T12:03:22+03:00"
 }
