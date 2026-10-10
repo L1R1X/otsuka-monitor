@@ -58605,6 +58605,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890960": {
+   "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890960",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -58625,18 +58637,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890880",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890874": {
-   "name": "DAIWA ワブクラJr.25F DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890874",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74339,5 +74339,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T11:53:01+03:00"
+ "last_check": "2026-10-10T11:58:07+03:00"
 }
