@@ -74212,6 +74212,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki192683345": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192683345",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193491969": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193491969",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -74319,32 +74343,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193911243": {
-   "name": "フィッシュアロー フリリグシンカー タングステン ファット",
-   "price": null,
-   "price_text": "825 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193911243",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193737536": {
-   "name": "レヴォニック シンディ110SF-Mドライボーン",
-   "price": null,
-   "price_text": "2,310 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193737536",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T12:43:06+03:00"
+ "last_check": "2026-10-10T12:47:33+03:00"
 }
