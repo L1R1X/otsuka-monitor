@@ -74085,18 +74085,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193911426": {
-   "name": "ダイワ プレッソ リバースニョロクレイジー57F-DR",
-   "price": null,
-   "price_text": "1,287 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193911426",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193913807": {
    "name": "ムカイ SS-1602UL NIJIIKE SPECIAL XXX",
    "price": null,
@@ -74201,6 +74189,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191929173",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193608828": {
+   "name": "【吉やオリカラ：白桃RG】アルフレッド クリアアルフ",
+   "price": null,
+   "price_text": "902 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193608828",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74339,5 +74339,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T11:17:48+03:00"
+ "last_check": "2026-10-10T11:23:08+03:00"
 }
