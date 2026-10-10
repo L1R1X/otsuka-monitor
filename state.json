@@ -8520,7 +8520,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/juju-2025-1091-color-ジュジュ2025-1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -58948,18 +58948,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193883355": {
-   "name": "ロデオクラフト USSA ウッサ S #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193883355",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883349": {
    "name": "ロデオクラフト USSA ウッサ S #21ノブ",
    "price": null,
@@ -62184,6 +62172,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74370,5 +74370,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T13:46:26+03:00"
+ "last_check": "2026-10-10T13:51:02+03:00"
 }
