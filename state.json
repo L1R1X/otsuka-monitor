@@ -58785,6 +58785,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890775": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890775",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890772": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
    "price": null,
@@ -58805,6 +58817,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890757",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890744": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890744",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62129,30 +62153,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835545",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835529": {
-   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74097,6 +74097,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193913807": {
+   "name": "ムカイ SS-1602UL NIJIIKE SPECIAL XXX",
+   "price": null,
+   "price_text": "12,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193913807",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki103776401": {
    "name": "ロデオクラフト ウッサ シンキング",
    "price": null,
@@ -74189,18 +74201,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191929173",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193608828": {
-   "name": "【吉やオリカラ：白桃RG】アルフレッド クリアアルフ",
-   "price": null,
-   "price_text": "902 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193608828",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74339,5 +74339,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T10:38:02+03:00"
+ "last_check": "2026-10-10T10:43:05+03:00"
 }
