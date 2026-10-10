@@ -59435,18 +59435,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193532137": {
-   "name": "deps バズジェット TM #07 アマガエル",
-   "price": null,
-   "price_text": "1,375 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193532137",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193521157": {
    "name": "ValkeIN ハイドラム S リアルプリント #パイソンイエローレッドグロー",
    "price": null,
@@ -62167,6 +62155,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816197",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816062": {
+   "name": "ValkeIN シャインライド #ARK3",
+   "price": null,
+   "price_text": "1,665 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816062",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74353,5 +74353,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T04:08:15+03:00"
+ "last_check": "2026-10-10T04:12:43+03:00"
 }
