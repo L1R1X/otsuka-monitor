@@ -58899,30 +58899,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890243": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #スケスケピンク【有頂天】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890243",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890234": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890234",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -62195,6 +62171,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835507": {
+   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835507",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816541": {
+   "name": "ValkeIN ヘイズ DD #ARK6",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816541",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74381,5 +74381,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T07:38:14+03:00"
+ "last_check": "2026-10-10T07:43:07+03:00"
 }
