@@ -58624,18 +58624,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890966": {
-   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890966",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890960": {
    "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
    "price": null,
@@ -60988,18 +60976,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192652686": {
-   "name": "アンデッドファクトリー レム 23FSR #ピンクスパイダー",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192652686",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192584943": {
    "name": "フィッシングエリア帝釈 ちびっちょ F #川場ペレット(レッド)",
    "price": null,
@@ -61476,18 +61452,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240899",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240888": {
-   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240888",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62184,6 +62148,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816525": {
+   "name": "ValkeIN ヘイズ DD #ARK2",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816519": {
+   "name": "ValkeIN ヘイズ DD #ARK1",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74370,5 +74370,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T16:46:18+03:00"
+ "last_check": "2026-10-10T16:51:07+03:00"
 }
