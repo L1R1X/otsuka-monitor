@@ -1482,7 +1482,7 @@
    "spec": "#オリオリRG 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315642",
    "price": 1760,
-   "stock": 19
+   "stock": 16
   },
   "53360101GLP01034": {
    "name": "ゲート ミディアムクラピー GS2 #スプリンクルRG 34mm 2.9g オオツカオリカラ",
@@ -1496,7 +1496,7 @@
    "spec": "#ディアボロ 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315659",
    "price": 1760,
-   "stock": 18
+   "stock": 13
   },
   "53360101GIG02220": {
    "name": "スプリーモ バイラ  50HMD",
@@ -2685,7 +2685,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/upside-down-nyoro-slim-60fs-1089-daysprout-さかさにょろスリム60fs-1089-ディスプラウト",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -13929,7 +13929,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/pe-supa-scissors-ピースパッ-シザース-vaac-74",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -14709,7 +14709,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/gate-medium-cra-pea-gs2-uchoten-ゲートミディアムクラピーgs2有頂天",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74367,5 +74367,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T09:11:05+03:00"
+ "last_check": "2026-10-10T09:18:17+03:00"
 }
