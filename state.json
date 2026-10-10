@@ -58648,18 +58648,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890880": {
-   "name": "DAIWA ワブクラJr.25F DR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890880",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890871": {
    "name": "DAIWA ワブクラJr.25F DR#Wレッド",
    "price": null,
@@ -58668,18 +58656,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890871",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890868": {
-   "name": "DAIWA ワブクラJr.25F DR#トッピングフード",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890868",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -58704,18 +58680,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890855",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890850": {
-   "name": "DAIWA ワブクラJr.25F DR#桜ミストレッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890850",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62184,6 +62148,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816487": {
+   "name": "ValkeIN ヘイズ F #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816487",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816486": {
+   "name": "ValkeIN ヘイズ F #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816486",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74370,5 +74370,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T17:05:59+03:00"
+ "last_check": "2026-10-10T17:10:57+03:00"
 }
