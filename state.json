@@ -2380,6 +2380,30 @@
    "price": 1650,
    "stock": 17
   },
+  "tr15378563268822": {
+   "name": "PRESSO WABCRA Jr.25F/SS DR（プレッソ ワブクラJr.25F/SS DR）",
+   "price": null,
+   "price_text": "1 282 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/presso-wabcra-jr-25f-ss-dr-プレッソ-ワブクラjr-25f-ss-dr",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15378560188630": {
+   "name": "PRESSO REVERSE NYOROCLAZY 57F-DR（プレッソ リバースニョロクレイジー 57F-DR）",
+   "price": null,
+   "price_text": "1 282 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/presso-reverse-nyoroclazy-57f-dr-プレッソ-リバースニョロクレイジー-57f-dr",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr7899542159574": {
    "name": "UssA（ウッサ）",
    "price": null,
@@ -58744,18 +58768,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890772": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
    "price": null,
@@ -62160,6 +62172,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74346,5 +74370,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T13:35:54+03:00"
+ "last_check": "2026-10-10T13:41:06+03:00"
 }
