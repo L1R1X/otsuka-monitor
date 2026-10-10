@@ -5,7 +5,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02376 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ 家畜オリバリン 1.7g オオツカオリカラ\")\n\n#伊勢崎店オリカラ 家畜オリバリン 1.7g オオツカオリカラ",
    "code": "4573265536523",
    "price": 627,
-   "stock": 55
+   "stock": 53
   },
   "53360101GKH00363": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ 家畜パール 1.7g オオツカオリカラ",
@@ -4929,7 +4929,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hariko-針子-ハリコ",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -23301,7 +23301,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/line-stopper-seal-ラインストッパーシール",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74367,5 +74367,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T09:07:30+03:00"
+ "last_check": "2026-10-10T09:11:05+03:00"
 }
