@@ -62463,6 +62463,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193888844": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #5 ハイドチャート",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888844",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193888812": {
    "name": "FPBルアーズ ビーゼロ 0.9g #4 青銀",
    "price": null,
@@ -74235,6 +74247,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki161592615": {
+   "name": "フィッシュアロー フリリグシンカー タングステン",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=161592615",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki175681653": {
    "name": "エバーグリーン ルーシー3.2",
    "price": null,
@@ -74255,6 +74279,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191533288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki192017800": {
+   "name": "エバーグリーン ゾワゾワ3.5",
+   "price": null,
+   "price_text": "1,045 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192017800",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74319,6 +74355,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193911243": {
+   "name": "フィッシュアロー フリリグシンカー タングステン ファット",
+   "price": null,
+   "price_text": "825 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193911243",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki183747240": {
    "name": "レイドジャパン GHOST WIRE NEXT LEVEL（ゴーストワイヤーネクストレベル）",
    "price": null,
@@ -74330,44 +74378,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193741898": {
-   "name": "イマカツ カバーウェイカー",
-   "price": null,
-   "price_text": "2,178 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193741898",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki190140609": {
-   "name": "レヴォニック シェキラー78SF",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190140609",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193663443": {
-   "name": "エンジン スキルフルコラボ タイニースコブルJet",
-   "price": null,
-   "price_text": "3,231 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193663443",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T08:12:25+03:00"
+ "last_check": "2026-10-10T08:18:05+03:00"
 }
