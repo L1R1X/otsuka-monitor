@@ -58770,18 +58770,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890823": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #グリパRGスカッパノン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890823",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890815": {
    "name": "DAIWA ワブクラJr.25F DR#胡麻塩グロー",
    "price": null,
@@ -58850,18 +58838,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890737": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890737",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62174,6 +62150,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847743",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835560": {
+   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835560",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74360,5 +74360,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T06:22:53+03:00"
+ "last_check": "2026-10-10T06:27:58+03:00"
 }
