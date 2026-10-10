@@ -58787,6 +58787,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890243": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #スケスケピンク【有頂天】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890243",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890234": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890234",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -59551,6 +59575,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193463363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193370393": {
+   "name": "ロデオクラフト USSA ウッサ XS #S.M Ⅵ C",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193370393",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -60343,6 +60379,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192952053",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192820310": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192820310",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62119,54 +62167,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816487",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816486": {
-   "name": "ValkeIN ヘイズ F #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816486",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816478": {
-   "name": "ValkeIN ヘイズ F #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816478",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816197": {
-   "name": "ValkeIN シャインライド #ARK6",
-   "price": null,
-   "price_text": "1,665 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816197",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816062": {
-   "name": "ValkeIN シャインライド #ARK3",
-   "price": null,
-   "price_text": "1,665 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816062",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74353,5 +74353,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T04:47:43+03:00"
+ "last_check": "2026-10-10T04:52:48+03:00"
 }
