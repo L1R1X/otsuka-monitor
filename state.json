@@ -58854,18 +58854,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890697": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #オレッドRG",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890697",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890692": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパグリーンスパイス",
    "price": null,
@@ -62174,6 +62162,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835529": {
+   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835529",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74360,5 +74360,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T06:27:58+03:00"
+ "last_check": "2026-10-10T06:33:02+03:00"
 }
