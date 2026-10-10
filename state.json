@@ -1260,6 +1260,13 @@
    "price": 583,
    "stock": 27
   },
+  "53360101GLE00529": {
+   "name": "ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g",
+   "spec": "[ヴァルケイン サーヴァントスピア 1.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00529 \"ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g\")\n\n#伊勢崎店 オリカラ ブルージェイ 1.4g",
+   "code": "4582671323566",
+   "price": 616,
+   "stock": 16
+  },
   "53360101GLE00543": {
    "name": "ヴァルケイン シャイラ  1.2g #伊勢崎店オリカラ コンゴウ 1.2g",
    "spec": "[ヴァルケイン シャイラ 1.2g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00543 \"ヴァルケイン シャイラ  1.2g #伊勢崎店オリカラ コンゴウ 1.2g \")\n\n#伊勢崎店オリカラ コンゴウ 1.2g 伊勢崎店オリジナルカラー",
@@ -1406,13 +1413,6 @@
    "code": "J0201GDD00054",
    "price": 627,
    "stock": 3
-  },
-  "53360101GLE00529": {
-   "name": "ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g",
-   "spec": "[ヴァルケイン サーヴァントスピア 1.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00529 \"ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g\")\n\n#伊勢崎店 オリカラ ブルージェイ 1.4g",
-   "code": "4582671323566",
-   "price": 616,
-   "stock": 16
   },
   "53360101GL201151": {
    "name": "クマタニトラスト ミナモブレイカー  #白骨 36mm　2.9g フローティング",
@@ -20255,7 +20255,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/lucky-craft-1091-color-ラッキークラフト1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74381,5 +74381,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T07:23:29+03:00"
+ "last_check": "2026-10-10T07:28:16+03:00"
 }
