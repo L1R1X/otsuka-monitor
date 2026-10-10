@@ -124,7 +124,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01417 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ カカポ 2.3g \")\n\n#伊勢崎店オリカラ カカポ 2.3g",
    "code": "4573640552087",
    "price": 627,
-   "stock": 37
+   "stock": 36
   },
   "53360101GLZ01414": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コバタン 2.3g",
@@ -58768,18 +58768,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890823": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #グリパRGスカッパノン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890823",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890815": {
    "name": "DAIWA ワブクラJr.25F DR#胡麻塩グロー",
    "price": null,
@@ -58800,18 +58788,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890802",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62160,6 +62136,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835560",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835529": {
+   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835529",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74346,5 +74346,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T10:13:23+03:00"
+ "last_check": "2026-10-10T10:18:20+03:00"
 }
