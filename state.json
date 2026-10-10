@@ -65787,18 +65787,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh191775705": {
-   "name": "ディスプラウト Podium η 0.8g #6 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775705",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "ai190827450": {
    "name": "ヴァルケイン クーガFFS 【オリカラ・天照】",
    "price": null,
@@ -74115,6 +74103,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193911426": {
+   "name": "ダイワ プレッソ リバースニョロクレイジー57F-DR",
+   "price": null,
+   "price_text": "1,287 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193911426",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki103776401": {
    "name": "ロデオクラフト ウッサ シンキング",
    "price": null,
@@ -74235,18 +74235,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193856798": {
-   "name": "ムカイ バックストローク 45HS",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193856798",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki175681653": {
    "name": "エバーグリーン ルーシー3.2",
    "price": null,
@@ -74255,6 +74243,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=175681653",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki191533288": {
+   "name": "バークレイ マックスセント フラックスギル3.5インチ",
+   "price": null,
+   "price_text": "1,287 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191533288",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74366,20 +74366,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193599499": {
-   "name": "サンライン PE 撥ッスル",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193599499",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-10T08:08:18+03:00"
+ "last_check": "2026-10-10T08:12:25+03:00"
 }
