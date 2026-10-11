@@ -2126,7 +2126,7 @@
    "spec": "#高崎店オリジナルカラー 鶯 30mm 2.9g エキストラシンキング ラトルin オオツカオリカラ",
    "code": "4573632512044",
    "price": 1925,
-   "stock": 210
+   "stock": 209
   },
   "53360101GLX01219": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 神姫 24mm 1.6g シンキング",
@@ -58727,6 +58727,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890744": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890723": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #ひよこピヨちゃん",
    "price": null,
@@ -58747,6 +58759,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890692",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890586": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパダブルピンク",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890586",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62143,18 +62167,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816197",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816062": {
-   "name": "ValkeIN シャインライド #ARK3",
-   "price": null,
-   "price_text": "1,665 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816062",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74341,5 +74353,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-11T10:11:04+03:00"
+ "last_check": "2026-10-11T10:16:02+03:00"
 }
