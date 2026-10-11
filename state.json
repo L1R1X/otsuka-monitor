@@ -58646,18 +58646,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890859": {
-   "name": "DAIWA ワブクラJr.25F DR#クリア胡麻塩ライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890859",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890855": {
    "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
    "price": null,
@@ -62170,6 +62158,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816062",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815797": {
+   "name": "ValkeIN シャインライド #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815797",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74356,5 +74356,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-11T03:01:30+03:00"
+ "last_check": "2026-10-11T03:05:58+03:00"
 }
