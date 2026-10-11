@@ -74178,6 +74178,42 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki189110424": {
+   "name": "【吉やオリカラ メンターイコライザー】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110424",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189110486": {
+   "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110486",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189110494": {
+   "name": "【吉やオリカラ スジコオレンジ】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110494",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki188884454": {
    "name": "ロデオクラフト RCワウ37【有頂天カラー】",
    "price": null,
@@ -74282,42 +74318,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=170383236",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890544": {
-   "name": "FPBルアーズ ビーゼロ 0.9g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890544",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890637": {
-   "name": "FPBルアーズ ビーファンク 0.8g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890637",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191929173": {
-   "name": "BKK OCDタックルシステム スモール",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191929173",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74442,6 +74442,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki191929173": {
+   "name": "BKK OCDタックルシステム スモール",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191929173",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki161592615": {
    "name": "フィッシュアロー フリリグシンカー タングステン",
    "price": null,
@@ -74456,5 +74468,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-11T14:56:02+03:00"
+ "last_check": "2026-10-11T15:01:26+03:00"
 }
