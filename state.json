@@ -166,7 +166,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02356 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g \")\n\n#伊勢崎店オリカラ 家畜オリバリン 2.8g オオツカオリカラ",
    "code": "4573265536295",
    "price": 627,
-   "stock": 44
+   "stock": 43
   },
   "53360101GKH00357": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ カカポ 2.8g",
@@ -187,28 +187,28 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00358 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g \")\n\n#伊勢崎店オリカラ コンゴウ 2.8g オオツカオリカラ",
    "code": "4573265536264",
    "price": 627,
-   "stock": 31
+   "stock": 29
   },
   "53360101GKS00856": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 34
+   "stock": 33
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00352 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g \")\n\n#伊勢崎店オリカラ ペレゴン 2.8g オオツカオリカラ",
    "code": "4573265536271",
    "price": 627,
-   "stock": 36
+   "stock": 35
   },
   "53360101GKH00354": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #オオツカオリカラ トライアングル 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00354 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #オオツカオリカラ トライアングル 2.8g \")\n\n#オオツカオリカラ トライアングル 2.8g オオツカオリカラ",
    "code": "4573265535939",
    "price": 627,
-   "stock": 32
+   "stock": 30
   },
   "53360101GKH00362": {
    "name": "FPBルアーズ フロンティア  1.7g #伊勢崎店オリカラ ブルージェイ 1.7g オオツカオリカラ",
@@ -34243,7 +34243,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/モカdr2フックss2-3g-全層攻略できる万能クランク",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -35023,7 +35023,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/バービーガールf0-7g",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74353,5 +74353,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-11T09:50:54+03:00"
+ "last_check": "2026-10-11T09:55:52+03:00"
 }
