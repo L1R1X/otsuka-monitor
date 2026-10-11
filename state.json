@@ -58766,6 +58766,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890234": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #オラオラオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890234",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -62162,18 +62174,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191815797": {
-   "name": "ValkeIN シャインライド #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815797",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193889332": {
    "name": "FPBルアーズ ビーファンク 0.8g #15 ジンクリアブルー",
    "price": null,
@@ -62294,6 +62294,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193889286": {
+   "name": "FPBルアーズ ビーファンク 0.8g #4 青銀",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193889286",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193889278": {
    "name": "FPBルアーズ ビーファンク 0.8g #3 カナリアテール",
    "price": null,
@@ -62350,6 +62362,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193889200",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193889139": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #13 偽金オリーブ",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193889139",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -62434,6 +62458,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193888877",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193888844": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #5 ハイドチャート",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888844",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65734,42 +65770,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191775719",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191775715": {
-   "name": "ディスプラウト Podium η 0.8g #9 マジョーラピンクB",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775715",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191775709": {
-   "name": "ディスプラウト Podium η 0.8g #8 ゴールディーオリーブ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775709",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191775705": {
-   "name": "ディスプラウト Podium η 0.8g #6 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775705",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74356,5 +74356,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-11T04:01:23+03:00"
+ "last_check": "2026-10-11T04:05:55+03:00"
 }
