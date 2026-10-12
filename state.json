@@ -74190,6 +74190,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki193815240": {
+   "name": "ヴァルケイン×freex シャインライドビート 【中林大佑(バヤシ)監修】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193815240",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki189110424": {
    "name": "【吉やオリカラ メンターイコライザー】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
    "price": null,
@@ -74318,18 +74330,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=170383216",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki170383236": {
-   "name": "【吉やオリカラ：落ち葉】アルフレッド クリアアルフ",
-   "price": null,
-   "price_text": "902 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=170383236",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74480,5 +74480,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-12T17:55:54+03:00"
+ "last_check": "2026-10-12T18:01:32+03:00"
 }
