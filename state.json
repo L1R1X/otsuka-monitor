@@ -33669,6 +33669,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "vl15433633661216": {
+   "name": "『釣と人生』 創刊号",
+   "price": null,
+   "price_text": "13 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Velvet Arts",
+   "link": "https://velvetarts.co.jp/products/magazine001",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "vl10579015467296": {
    "name": "THE ANSWER 2 各パーツ単品販売",
    "price": null,
@@ -74447,5 +74459,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-12T04:51:03+03:00"
+ "last_check": "2026-10-12T04:55:54+03:00"
 }
