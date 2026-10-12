@@ -59351,6 +59351,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193532289": {
+   "name": "deps バズジェット TM #20 UVクリア",
+   "price": null,
+   "price_text": "1,375 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193532289",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193532278": {
    "name": "deps バズジェット TM #19 グリーンパンプキン",
    "price": null,
@@ -62263,18 +62275,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815797": {
-   "name": "ValkeIN シャインライド #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815797",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74473,5 +74473,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-12T08:16:02+03:00"
+ "last_check": "2026-10-12T08:20:55+03:00"
 }
