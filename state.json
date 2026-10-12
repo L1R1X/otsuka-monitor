@@ -61461,6 +61461,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192240888": {
+   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240888",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192240884": {
    "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
    "price": null,
@@ -62249,18 +62261,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815797": {
-   "name": "ValkeIN シャインライド #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815797",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74459,5 +74459,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-12T06:10:58+03:00"
+ "last_check": "2026-10-12T06:16:01+03:00"
 }
