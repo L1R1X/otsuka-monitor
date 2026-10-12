@@ -58722,18 +58722,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890960": {
-   "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890960",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -58754,18 +58742,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890880",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890874": {
-   "name": "DAIWA ワブクラJr.25F DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890874",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62282,6 +62258,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815797",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815424": {
+   "name": "ムカイ トレモ Tremo35MR HFWG #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815424",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815410": {
+   "name": "ムカイ トレモ Tremo35MR HFWG #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815410",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74480,5 +74480,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-12T18:11:04+03:00"
+ "last_check": "2026-10-12T18:16:03+03:00"
 }
