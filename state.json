@@ -40228,6 +40228,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000233437": {
+   "name": "FENWICK　フェンウィック フェンウィック　ローキー LK49SXUL-2 ”Chubtrek” C1P",
+   "price": null,
+   "price_text": "25 740 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000233437",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000240988": {
    "name": "tent Mark DESIGNS　テンマクデザイン ﾗｲﾄｽﾄﾚｰｼﾞﾊﾞｯｸ",
    "price": null,
@@ -40332,18 +40344,6 @@
    "stock": 0,
    "shop": "Wild-1",
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000236371",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "w10000000000233437": {
-   "name": "FENWICK　フェンウィック フェンウィック　ローキー LK49SXUL-2 ”Chubtrek” C1P",
-   "price": null,
-   "price_text": "25 740 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Wild-1",
-   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000233437",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T12:50:57+03:00"
+ "last_check": "2026-10-13T12:55:52+03:00"
 }
