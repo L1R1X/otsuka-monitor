@@ -62548,6 +62548,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193888812": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #4 青銀",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888812",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193888800": {
    "name": "FPBルアーズ ビーゼロ 0.9g #3 カナリアテール",
    "price": null,
@@ -65856,18 +65868,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191775709",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191775705": {
-   "name": "ディスプラウト Podium η 0.8g #6 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191775705",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74454,5 +74454,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T11:25:52+03:00"
+ "last_check": "2026-10-13T11:31:19+03:00"
 }
