@@ -62075,18 +62075,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191816537": {
-   "name": "ValkeIN ヘイズ DD #ARK5",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816537",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh191816534": {
    "name": "ValkeIN ヘイズ DD #ARK4",
    "price": null,
@@ -62275,6 +62263,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815256",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815251": {
+   "name": "ムカイ POGO38 HS WG #ゴールデンカステラ【モリケン】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815251",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -70835,18 +70835,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ai188916803": {
-   "name": "アングラーズシステム ドーナ2.0g 【大会イベント限定カラー：TI放流】",
-   "price": null,
-   "price_text": "590 ¥(税込649 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Area Island",
-   "link": "https://www.area-island.com/?pid=188916803",
-   "extra": "",
-   "prefiltered": true,
-   "tag": ""
-  },
   "ai188916449": {
    "name": "1089工房 さかさにょろ60FS【大会イベント限定カラー：TIパステルグロー】",
    "price": null,
@@ -74473,5 +74461,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T06:51:14+03:00"
+ "last_check": "2026-10-13T06:56:10+03:00"
 }
