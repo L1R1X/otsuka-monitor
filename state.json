@@ -74260,18 +74260,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193913807": {
-   "name": "ムカイ SS-1602UL NIJIIKE SPECIAL XXX",
-   "price": null,
-   "price_text": "12,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193913807",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki103776401": {
    "name": "ロデオクラフト ウッサ シンキング",
    "price": null,
@@ -74328,6 +74316,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=170383236",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193890544": {
+   "name": "FPBルアーズ ビーゼロ 0.9g",
+   "price": null,
+   "price_text": "564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193890544",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T17:11:01+03:00"
+ "last_check": "2026-10-13T17:16:16+03:00"
 }
