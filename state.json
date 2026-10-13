@@ -1083,7 +1083,7 @@
    "spec": "#マイスター H.E01 1.8g 注意:3枚まで 熊谷店オリカラ",
    "code": "4573151274935",
    "price": 583,
-   "stock": 15
+   "stock": 14
   },
   "53360101GLU00449": {
    "name": "ロデオクラフト キューム -G 9g #F.S01グローSP 9g",
@@ -58876,6 +58876,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193883395": {
+   "name": "ロデオクラフト USSA ウッサ XS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193883388": {
    "name": "ロデオクラフト USSA ウッサ XS #21ノブ",
    "price": null,
@@ -74442,5 +74454,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T11:05:58+03:00"
+ "last_check": "2026-10-13T11:11:14+03:00"
 }
