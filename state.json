@@ -58732,6 +58732,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890874": {
+   "name": "DAIWA ワブクラJr.25F DR#デリシャスペレット",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890874",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890871": {
    "name": "DAIWA ワブクラJr.25F DR#Wレッド",
    "price": null,
@@ -62080,6 +62092,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191816534": {
    "name": "ValkeIN ヘイズ DD #ARK4",
    "price": null,
@@ -62244,30 +62268,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815424",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815410": {
-   "name": "ムカイ トレモ Tremo35MR HFWG #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815410",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815256": {
-   "name": "ムカイ POGO38 HS WG #アンパイブラウン【モリケン】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815256",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74454,5 +74454,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T11:11:14+03:00"
+ "last_check": "2026-10-13T11:15:58+03:00"
 }
