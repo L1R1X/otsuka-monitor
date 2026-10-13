@@ -58912,18 +58912,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193883395": {
-   "name": "ロデオクラフト USSA ウッサ XS #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193883395",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883388": {
    "name": "ロデオクラフト USSA ウッサ XS #21ノブ",
    "price": null,
@@ -62292,6 +62280,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815410",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815256": {
+   "name": "ムカイ POGO38 HS WG #アンパイブラウン【モリケン】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815256",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T02:21:04+03:00"
+ "last_check": "2026-10-14T02:25:53+03:00"
 }
