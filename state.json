@@ -61403,18 +61403,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192325573": {
-   "name": "ValkeIN シャインライド #マットクリアレッドパール【有頂天】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192325573",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -62275,6 +62263,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815410",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815256": {
+   "name": "ムカイ POGO38 HS WG #アンパイブラウン【モリケン】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815256",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74473,5 +74473,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T06:06:00+03:00"
+ "last_check": "2026-10-13T06:11:00+03:00"
 }
