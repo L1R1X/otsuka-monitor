@@ -1741,7 +1741,7 @@
    "spec": "#伊勢崎店オリカラ パルヘリオ 25mm 1.8g フローティング 伊勢崎店オリジナルカラー",
    "code": "4513907445141",
    "price": 1540,
-   "stock": 32
+   "stock": 31
   },
   "53360101GLB00916": {
    "name": "ムカイ トレモ スマッシュ トレモ25MR S #伊勢崎店 オリカラ パルヘリオ 25mm 2.1g シンキング",
@@ -2056,7 +2056,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512150",
    "price": 1870,
-   "stock": 79
+   "stock": 75
   },
   "53360101GLX01274": {
    "name": "ロデオクラフト ウッサ S",
@@ -62260,18 +62260,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191816062": {
-   "name": "ValkeIN シャインライド #ARK3",
-   "price": null,
-   "price_text": "1,665 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh191815797": {
    "name": "ValkeIN シャインライド #ARK2",
    "price": null,
@@ -62292,6 +62280,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815424",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815410": {
+   "name": "ムカイ トレモ Tremo35MR HFWG #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815410",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-13T14:51:05+03:00"
+ "last_check": "2026-10-13T14:56:03+03:00"
 }
