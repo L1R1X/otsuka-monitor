@@ -73420,6 +73420,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "pt133786717": {
+   "name": "ロデオクラフト プラグ各種 当店オリジナルカラー",
+   "price": null,
+   "price_text": "1,500 ¥(税込1,650 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Pro Shop Tomo",
+   "link": "https://www.proshoptomo.com/?pid=133786717",
+   "extra": "",
+   "prefiltered": true,
+   "tag": ""
+  },
   "pt118632637": {
    "name": "ロデオクラフト スプーン各種 当店オリジナルカラー",
    "price": null,
@@ -73608,18 +73620,6 @@
    "stock": 0,
    "shop": "Pro Shop Tomo",
    "link": "https://www.proshoptomo.com/?pid=135444288",
-   "extra": "распродано",
-   "prefiltered": true,
-   "tag": ""
-  },
-  "pt133786717": {
-   "name": "ロデオクラフト プラグ各種 当店オリジナルカラー",
-   "price": null,
-   "price_text": "1,500 ¥(税込1,650 ¥) SOLD OUT",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=133786717",
    "extra": "распродано",
    "prefiltered": true,
    "tag": ""
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T07:55:53+03:00"
+ "last_check": "2026-10-14T08:01:22+03:00"
 }
