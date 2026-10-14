@@ -3029,14 +3029,14 @@
    "tag": ""
   },
   "tr9510159286486": {
-   "name": "RC WAH37HF HERO'S Tester Color 2026 Autumn（RCワウ37HFヒーローズテスターカラー2026秋）",
+   "name": "RC WAH37HF/37FⅡ HERO'S Tester Color 2026 Autumn（RCワウ37HF/37FⅡヒーローズテスターカラー2026秋）",
    "price": null,
    "price_text": "1 600 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-wah37hf-heros-tester-color-2026-autumn-rcワウ37hfヒーローズテスターカラー2026秋",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -58912,6 +58912,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890775": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890775",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890772": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890757": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #クリア",
    "price": null,
@@ -62268,30 +62292,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816525",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816519": {
-   "name": "ValkeIN ヘイズ DD #ARK1",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816519",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816499": {
-   "name": "ValkeIN ヘイズ F #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T09:55:52+03:00"
+ "last_check": "2026-10-14T10:01:21+03:00"
 }
