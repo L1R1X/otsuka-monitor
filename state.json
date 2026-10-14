@@ -2056,7 +2056,7 @@
    "spec": "#オクターヴ(ベリー部ケイムラ飛ばし 37mm 2.3g フローティング. 川越店オリカラ",
    "code": "4514447320134",
    "price": 1540,
-   "stock": 3
+   "stock": 1
   },
   "53360101GLS01062": {
    "name": "ラッキークラフト ワウ  40F #高崎店オリジナルカラー 鶯 40mm 3.0g フローティング",
@@ -2091,7 +2091,7 @@
    "spec": "#伊勢崎店 オリカラ 八雲 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316328",
    "price": 1650,
-   "stock": 67
+   "stock": 66
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2112,7 +2112,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 58
+   "stock": 57
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -74410,162 +74410,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki192853391": {
-   "name": "ディープパラドックス タイソン（TYSON）1.3g",
-   "price": null,
-   "price_text": "660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192853391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki103776401": {
-   "name": "ロデオクラフト ウッサ シンキング",
-   "price": null,
-   "price_text": "1,683 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=103776401",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192683345": {
-   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192683345",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191929173": {
-   "name": "BKK OCDタックルシステム スモール",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191929173",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191533288": {
-   "name": "バークレイ マックスセント フラックスギル3.5インチ",
-   "price": null,
-   "price_text": "1,287 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191533288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki188884454": {
-   "name": "ロデオクラフト RCワウ37【有頂天カラー】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=188884454",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192017800": {
-   "name": "エバーグリーン ゾワゾワ3.5",
-   "price": null,
-   "price_text": "1,045 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192017800",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki190861522": {
-   "name": "エバーグリーン ブルポイントシャッド",
-   "price": null,
-   "price_text": "970 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190861522",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193491969": {
-   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193491969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki152473491": {
-   "name": "ロデオクラフト ウッサエクストラシンキング ラトル",
-   "price": null,
-   "price_text": "1,733 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=152473491",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189110494": {
-   "name": "【吉やオリカラ スジコオレンジ】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
-   "price": null,
-   "price_text": "1,727 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189110494",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189110486": {
-   "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
-   "price": null,
-   "price_text": "1,727 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189110486",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki175681653": {
-   "name": "エバーグリーン ルーシー3.2",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=175681653",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki192687425": {
    "name": "ディープパラドックス タイソン（TYSON）1.3g【全15色セット】",
    "price": null,
@@ -74578,26 +74422,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193911426": {
-   "name": "ダイワ プレッソ リバースニョロクレイジー57F-DR",
+  "ki192853391": {
+   "name": "ディープパラドックス タイソン（TYSON）1.3g",
    "price": null,
-   "price_text": "1,287 ¥(税込)",
+   "price_text": "660 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193911426",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193749670": {
-   "name": "ムカイ ステップスティック 鯱",
-   "price": null,
-   "price_text": "9,900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193749670",
+   "link": "https://www.kitiya.jp/?pid=192853391",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74614,6 +74446,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193815240": {
+   "name": "ヴァルケイン×freex シャインライドビート 【中林大佑(バヤシ)監修】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193815240",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki189110424": {
    "name": "【吉やオリカラ メンターイコライザー】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
    "price": null,
@@ -74626,14 +74470,122 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193506156": {
-   "name": "ZAPPU（ザップ） フリーリグ【スタンダードシンカー】",
+  "ki189110486": {
+   "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
    "price": null,
-   "price_text": "495 ¥(税込)",
+   "price_text": "1,727 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193506156",
+   "link": "https://www.kitiya.jp/?pid=189110486",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189110494": {
+   "name": "【吉やオリカラ スジコオレンジ】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110494",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki188884454": {
+   "name": "ロデオクラフト RCワウ37【有頂天カラー】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188884454",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193749670": {
+   "name": "ムカイ ステップスティック 鯱",
+   "price": null,
+   "price_text": "9,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193749670",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193911426": {
+   "name": "ダイワ プレッソ リバースニョロクレイジー57F-DR",
+   "price": null,
+   "price_text": "1,287 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193911426",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki103776401": {
+   "name": "ロデオクラフト ウッサ シンキング",
+   "price": null,
+   "price_text": "1,683 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=103776401",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki152473491": {
+   "name": "ロデオクラフト ウッサエクストラシンキング ラトル",
+   "price": null,
+   "price_text": "1,733 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=152473491",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki192683345": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192683345",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193491969": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193491969",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki190861522": {
+   "name": "エバーグリーン ブルポイントシャッド",
+   "price": null,
+   "price_text": "970 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=190861522",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74650,26 +74602,62 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193815240": {
-   "name": "ヴァルケイン×freex シャインライドビート 【中林大佑(バヤシ)監修】",
+  "ki192017800": {
+   "name": "エバーグリーン ゾワゾワ3.5",
    "price": null,
-   "price_text": "1,760 ¥(税込)",
+   "price_text": "1,045 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193815240",
+   "link": "https://www.kitiya.jp/?pid=192017800",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki161592615": {
-   "name": "フィッシュアロー フリリグシンカー タングステン",
+  "ki175681653": {
+   "name": "エバーグリーン ルーシー3.2",
    "price": null,
-   "price_text": "715 ¥(税込)",
+   "price_text": "792 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=161592615",
+   "link": "https://www.kitiya.jp/?pid=175681653",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193505990": {
+   "name": "ZAPPU（ザップ） ダウンショット【スタンダードシンカー】",
+   "price": null,
+   "price_text": "495 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193505990",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193506156": {
+   "name": "ZAPPU（ザップ） フリーリグ【スタンダードシンカー】",
+   "price": null,
+   "price_text": "495 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193506156",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki191533288": {
+   "name": "バークレイ マックスセント フラックスギル3.5インチ",
+   "price": null,
+   "price_text": "1,287 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191533288",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74686,21 +74674,31 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193505990": {
-   "name": "ZAPPU（ザップ） ダウンショット【スタンダードシンカー】",
+  "ki191929173": {
+   "name": "BKK OCDタックルシステム スモール",
    "price": null,
-   "price_text": "495 ¥(税込)",
+   "price_text": "1,980 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193505990",
+   "link": "https://www.kitiya.jp/?pid=191929173",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki161592615": {
+   "name": "フィッシュアロー フリリグシンカー タングステン",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=161592615",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   }
  },
- "shrink_strikes": {
-  "Kitiya": 1
- },
- "last_check": "2026-10-14T15:31:39+03:00"
+ "shrink_strikes": {},
+ "last_check": "2026-10-14T15:36:02+03:00"
 }
