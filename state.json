@@ -5256,7 +5256,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/zigzag-magic-heros-color-ジグザグマジックヒーローズカラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -6072,7 +6072,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hekoheko-majic-hero-s-tester-color-ヘコヘコマジックヒーローズテスターカラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -11100,7 +11100,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/2win-heros-2025-tester-color-ツーウィンヒーローズテスターカラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -14580,7 +14580,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mukai-plug-tester-yamamura-color-ムカイプラグテスター山村カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -58912,30 +58912,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890772": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890772",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890757": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #クリア",
    "price": null,
@@ -62292,6 +62268,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816519": {
+   "name": "ValkeIN ヘイズ DD #ARK1",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T09:50:56+03:00"
+ "last_check": "2026-10-14T09:55:52+03:00"
 }
