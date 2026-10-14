@@ -2506,6 +2506,30 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15383284285654": {
+   "name": "Sauribu Spoon HERO'S Tester Color 2026（サウリブスプーンヒーローズテスターカラー2026）",
+   "price": null,
+   "price_text": "620 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/sauribu-spoon-heros-tester-color-2026-サウリブスプーンヒーローズテスターカラー2026",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15383278747862": {
+   "name": "UZUMAKI YouTuber Color（ウズマキ　ユーチューバーカラー）",
+   "price": null,
+   "price_text": "1 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/uzumaki-youtuber-color-ウズマキ-ユーチューバーカラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15378563268822": {
    "name": "PRESSO WABCRA Jr.25F/SS DR（プレッソ ワブクラJr.25F/SS DR）",
    "price": null,
@@ -74676,5 +74700,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T13:51:06+03:00"
+ "last_check": "2026-10-14T13:55:58+03:00"
 }
