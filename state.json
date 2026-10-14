@@ -58768,30 +58768,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890871": {
-   "name": "DAIWA ワブクラJr.25F DR#Wレッド",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890871",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890859": {
-   "name": "DAIWA ワブクラJr.25F DR#クリア胡麻塩ライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890859",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890815": {
    "name": "DAIWA ワブクラJr.25F DR#胡麻塩グロー",
    "price": null,
@@ -62292,6 +62268,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191815256",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815251": {
+   "name": "ムカイ POGO38 HS WG #ゴールデンカステラ【モリケン】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815251",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191815230": {
+   "name": "ムカイ POGO38 HS WG #ミカヅキモ【モリケン】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191815230",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T03:01:41+03:00"
+ "last_check": "2026-10-14T03:05:52+03:00"
 }
