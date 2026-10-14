@@ -74188,6 +74188,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki193947376": {
+   "name": "リセント XスティックMD",
+   "price": null,
+   "price_text": "713 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193947376",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki189110424": {
    "name": "【吉やオリカラ メンターイコライザー】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
    "price": null,
@@ -74316,18 +74328,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=170383236",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890544": {
-   "name": "FPBルアーズ ビーゼロ 0.9g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890544",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T07:25:53+03:00"
+ "last_check": "2026-10-14T07:31:13+03:00"
 }
