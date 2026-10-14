@@ -74200,6 +74200,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki192853391": {
+   "name": "ディープパラドックス タイソン（TYSON）1.3g",
+   "price": null,
+   "price_text": "660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192853391",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193947376": {
    "name": "リセント XスティックMD",
    "price": null,
@@ -74316,18 +74328,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=155933704",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki170383216": {
-   "name": "【吉やオリカラ：苔】アルフレッド クリアアルフ",
-   "price": null,
-   "price_text": "902 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=170383216",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74478,5 +74478,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-14T08:25:51+03:00"
+ "last_check": "2026-10-14T08:31:12+03:00"
 }
