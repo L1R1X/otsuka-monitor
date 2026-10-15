@@ -2310,6 +2310,42 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15384826937558": {
+   "name": "BACKSTROKE BIG ONE SELECT color（バックストロークビッグワンセレクトカラー）",
+   "price": null,
+   "price_text": "1 900 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/backstroke-big-one-select-color-バックストロークビッグワンセレクトカラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15384831688918": {
+   "name": "Hi-STAMP（ハイスタンプ）",
+   "price": null,
+   "price_text": "741 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/hi-stamp-ハイスタンプ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15384907481302": {
+   "name": "≪予約商品≫(2026年10月下旬お届け予定）CANVAS HOOK（キャンバスフック）",
+   "price": null,
+   "price_text": "450 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/予約商品-2026年10月下旬お届け予定-canvas-hook-キャンバスフック",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15383284285654": {
    "name": "Sauribu Spoon HERO'S Tester Color 2026（サウリブスプーンヒーローズテスターカラー2026）",
    "price": null,
@@ -45657,7 +45693,7 @@
   "w10000000000215954": {
    "name": "jointer　ジョインター Jointer ジョインター NEW GENERATION ニュージェネレーション8656",
    "price": null,
-   "price_text": "19 789 ¥",
+   "price_text": "16 698 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46255,9 +46291,9 @@
    "tag": ""
   },
   "w10000000000210652": {
-   "name": "Dalton　ダルトン SECTION BOX <JOINTER×DUL",
+   "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【ネイビー】",
    "price": null,
-   "price_text": "399 ¥",
+   "price_text": "83 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46267,9 +46303,9 @@
    "tag": ""
   },
   "w10000000000210651": {
-   "name": "Dalton　ダルトン SECTION BOX <JOINTER×DUL",
+   "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【コヨーテ】",
    "price": null,
-   "price_text": "399 ¥",
+   "price_text": "83 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46279,9 +46315,9 @@
    "tag": ""
   },
   "w10000000000210650": {
-   "name": "Dalton　ダルトン SECTION BOX <JOINTER×DUL",
+   "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【オレンジ】",
    "price": null,
-   "price_text": "399 ¥",
+   "price_text": "83 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -74528,5 +74564,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T11:46:05+03:00"
+ "last_check": "2026-10-15T11:51:01+03:00"
 }
