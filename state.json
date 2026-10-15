@@ -74277,6 +74277,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki193890544": {
+   "name": "FPBルアーズ ビーゼロ 0.9g",
+   "price": null,
+   "price_text": "564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193890544",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193890637": {
+   "name": "FPBルアーズ ビーファンク 0.8g",
+   "price": null,
+   "price_text": "564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193890637",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki192687425": {
    "name": "ディープパラドックス タイソン（TYSON）1.3g【全15色セット】",
    "price": null,
@@ -74393,30 +74417,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193911426",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki103776401": {
-   "name": "ロデオクラフト ウッサ シンキング",
-   "price": null,
-   "price_text": "1,683 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=103776401",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki152473491": {
-   "name": "ロデオクラフト ウッサエクストラシンキング ラトル",
-   "price": null,
-   "price_text": "1,733 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=152473491",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74567,5 +74567,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T05:51:06+03:00"
+ "last_check": "2026-10-15T05:55:52+03:00"
 }
