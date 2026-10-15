@@ -257,7 +257,7 @@
    "spec": "#伊勢崎店オリカラ ペレゴン 2.5g オオツカオリカラ",
    "code": "4573265536349",
    "price": 550,
-   "stock": 3
+   "stock": 5
   },
   "53360101GKW01404": {
    "name": "FPBルアーズ フロンティア  2.5g",
@@ -64540,6 +64540,42 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192650530": {
+   "name": "Deep Paradox TYSON 1.3g #5 ゲンちゃんブラウニー",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192650530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192650527": {
+   "name": "Deep Paradox TYSON 1.3g #4 ゲンちゃんセカンド",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192650527",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192650522": {
+   "name": "Deep Paradox TYSON 1.3g #3 コバユウの金",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192650522",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192650516": {
    "name": "Deep Paradox TYSON 1.3g #2 2022松本カラー",
    "price": null,
@@ -74562,5 +74598,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T07:06:04+03:00"
+ "last_check": "2026-10-15T07:11:01+03:00"
 }
