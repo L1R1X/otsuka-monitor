@@ -58123,18 +58123,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193656545": {
-   "name": "ラッキークラフト WAH ワウ 45 Beta MAX F #ゴマシャーベットII",
-   "price": null,
-   "price_text": "1,375 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193656545",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193656542": {
    "name": "ラッキークラフト WAH ワウ 45 Beta MAX F #クリアー",
    "price": null,
@@ -60999,6 +60987,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73185,5 +73185,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T15:35:55+03:00"
+ "last_check": "2026-10-15T15:41:06+03:00"
 }
