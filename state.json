@@ -565,7 +565,7 @@
    "spec": "#ニライカナイ(グロー 0.9g 川越店オリカラ",
    "code": "4560456882408",
    "price": 605,
-   "stock": 10
+   "stock": 8
   },
   "53360101GLU01145": {
    "name": "なぶら家 アキュラシー  1.3g #マイスター H.E01 1.3g",
@@ -642,7 +642,7 @@
    "spec": "#オオツカオリカラ トライアングル 0.4g",
    "code": "4573119907790",
    "price": 605,
-   "stock": 11
+   "stock": 13
   },
   "53360101GLR00052": {
    "name": "なぶら家 プリッジ  0.5g #高崎店オリジナルカラーMSミルキーウェイ 0.5g",
@@ -831,14 +831,14 @@
    "spec": "#伊勢崎店オリカラ 家畜パール 2.2g 伊勢崎店オリカラ",
    "code": "4570139193486",
    "price": 605,
-   "stock": 59
+   "stock": 60
   },
   "53360101GL101662": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ ペレゴン 2.2g",
    "spec": "#伊勢崎店オリカラ ペレゴン 2.2g 伊勢崎店オリカラ",
    "code": "4570139193554",
    "price": 605,
-   "stock": 3
+   "stock": 4
   },
   "53360101GKS00802": {
    "name": "ペスカ ペスカ  10g",
@@ -74308,6 +74308,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki189267385": {
+   "name": "ムカイ 陰キャ、釣りにハマBIG ONE SELECT",
+   "price": null,
+   "price_text": "1,540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189267385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193980287": {
    "name": "ムカイ ポゴ38HS 匠シリーズ",
    "price": null,
@@ -74436,18 +74448,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=189110494",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki188884454": {
-   "name": "ロデオクラフト RCワウ37【有頂天カラー】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=188884454",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74598,5 +74598,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T07:11:01+03:00"
+ "last_check": "2026-10-15T07:16:15+03:00"
 }
