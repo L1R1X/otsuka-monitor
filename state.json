@@ -38560,18 +38560,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "zk10048364609810": {
-   "name": "シーガーPEX4ルアーエディション150m",
-   "price": null,
-   "price_text": "1 540 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/シーガーpex4ルアーエディション150m",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "zk10048361988370": {
    "name": "アンフェア",
    "price": null,
@@ -39305,7 +39293,7 @@
    "tag": ""
   },
   "zk9851680653586": {
-   "name": "トラウティスト　鱒ノ糸　ソフト",
+   "name": "トラウティスト 鱒ノ糸 ソフト",
    "price": null,
    "price_text": "924 ¥",
    "spec": "",
@@ -39317,7 +39305,7 @@
    "tag": ""
   },
   "zk9851688485138": {
-   "name": "トラウティスト　鱒ノ糸 　ハード",
+   "name": "トラウティスト 鱒ノ糸  ハード",
    "price": null,
    "price_text": "924 ¥",
    "spec": "",
@@ -74790,5 +74778,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T02:51:02+03:00"
+ "last_check": "2026-10-16T02:55:53+03:00"
 }
