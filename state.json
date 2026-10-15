@@ -62317,18 +62317,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193959740": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #頂鱒の素",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959735": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #ピンキー",
    "price": null,
@@ -65841,6 +65829,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835254": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835254",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74427,5 +74427,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T03:36:02+03:00"
+ "last_check": "2026-10-15T03:40:54+03:00"
 }
