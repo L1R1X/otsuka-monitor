@@ -131,7 +131,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01414 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コバタン 2.3g \")\n\n#伊勢崎店オリカラ コバタン 2.3g",
    "code": "4573640553350",
    "price": 627,
-   "stock": 26
+   "stock": 25
   },
   "53360101GLZ01418": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コンゴウ 2.3g",
@@ -180,7 +180,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK01581 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コバタン 2.8g \")\n\n#伊勢崎店オリカラ コバタン 2.8g",
    "code": "4573640550151",
    "price": 627,
-   "stock": 22
+   "stock": 20
   },
   "53360101GKH00358": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g",
@@ -34253,6 +34253,30 @@
    "stock": 0,
    "shop": "Velvet Arts",
    "link": "https://velvetarts.co.jp/products/stickers",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15405256081682": {
+   "name": "タイソン(TYSON)1.3g26年10月再入荷‼",
+   "price": null,
+   "price_text": "9 900 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/タイソンtyson1-3g-コピー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15405256048914": {
+   "name": "粋凛(すいりん) SR-S455-BR 宅急便80で発送のため送料が別途掛かります。26年10月入荷分",
+   "price": null,
+   "price_text": "24 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/粋凛すいりん-sr-s455-br-宅急便80で発送のため送料が別途掛かります-26年10月入荷分",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74567,5 +74591,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T05:55:52+03:00"
+ "last_check": "2026-10-15T06:01:26+03:00"
 }
