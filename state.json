@@ -45693,7 +45693,7 @@
   "w10000000000215954": {
    "name": "jointer　ジョインター Jointer ジョインター NEW GENERATION ニュージェネレーション8656",
    "price": null,
-   "price_text": "16 698 ¥",
+   "price_text": "19 789 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46293,7 +46293,7 @@
   "w10000000000210652": {
    "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【ネイビー】",
    "price": null,
-   "price_text": "83 ¥",
+   "price_text": "399 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46305,7 +46305,7 @@
   "w10000000000210651": {
    "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【コヨーテ】",
    "price": null,
-   "price_text": "83 ¥",
+   "price_text": "399 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -46317,7 +46317,7 @@
   "w10000000000210650": {
    "name": "Dalton　ダルトン Jointer×DULTON　セクションボックス【オレンジ】",
    "price": null,
-   "price_text": "83 ¥",
+   "price_text": "399 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -74564,5 +74564,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T11:51:01+03:00"
+ "last_check": "2026-10-15T11:55:51+03:00"
 }
