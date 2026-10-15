@@ -73720,6 +73720,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193984689": {
+   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193984689",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -73827,20 +73839,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki161592615": {
-   "name": "フィッシュアロー フリリグシンカー タングステン",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=161592615",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T09:31:12+03:00"
+ "last_check": "2026-10-15T09:35:52+03:00"
 }
