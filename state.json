@@ -1678,7 +1678,7 @@
    "spec": "#伊勢崎店オリカラ 水蛭子 40mm 3.8g シンキング",
    "code": "4548393384728",
    "price": 1595,
-   "stock": 43
+   "stock": 44
   },
   "53360101GKY00763": {
    "name": "ディスプラウト ベビーバイブ DS G2",
@@ -1741,7 +1741,7 @@
    "spec": "#伊勢崎店オリカラ パルヘリオ 25mm 1.8g フローティング 伊勢崎店オリジナルカラー",
    "code": "4513907445141",
    "price": 1540,
-   "stock": 30
+   "stock": 31
   },
   "53360101GLB00916": {
    "name": "ムカイ トレモ スマッシュ トレモ25MR S #伊勢崎店 オリカラ パルヘリオ 25mm 2.1g シンキング",
@@ -74361,6 +74361,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193968893": {
+   "name": "ロブルアー×カルテラス RURAN (ルラン) 0.8g",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193968893",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193815240": {
    "name": "ヴァルケイン×freex シャインライドビート 【中林大佑(バヤシ)監修】",
    "price": null,
@@ -74429,18 +74441,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193749670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193911426": {
-   "name": "ダイワ プレッソ リバースニョロクレイジー57F-DR",
-   "price": null,
-   "price_text": "1,287 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193911426",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74591,5 +74591,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T06:31:17+03:00"
+ "last_check": "2026-10-15T06:35:57+03:00"
 }
