@@ -62374,18 +62374,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193959772": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #スケスケオリーブハーフ",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959772",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -62418,18 +62406,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193959741",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193959722": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #しもペナ",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959722",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65970,6 +65946,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835053",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835043": {
+   "name": "なぶら家 VENUS ウェヌス 1.1g #ゴールドエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835043",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835038": {
+   "name": "なぶら家 VENUS ウェヌス 1.1g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835038",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74556,5 +74556,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-15T08:35:56+03:00"
+ "last_check": "2026-10-15T08:41:06+03:00"
 }
