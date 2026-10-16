@@ -978,7 +978,7 @@
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.95g オオツカオリカラ",
    "code": "4582782654696",
    "price": 638,
-   "stock": 20
+   "stock": 18
   },
   "53360101GLZ01240": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
@@ -59080,18 +59080,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890951": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890951",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -62592,6 +62580,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74778,5 +74778,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T03:36:04+03:00"
+ "last_check": "2026-10-16T03:41:12+03:00"
 }
