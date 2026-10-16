@@ -74601,18 +74601,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki189110424": {
-   "name": "【吉やオリカラ メンターイコライザー】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
-   "price": null,
-   "price_text": "1,727 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189110424",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki189110486": {
    "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
    "price": null,
@@ -74621,6 +74609,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=189110486",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189110494": {
+   "name": "【吉やオリカラ スジコオレンジ】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110494",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74771,5 +74771,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T06:16:03+03:00"
+ "last_check": "2026-10-16T06:20:57+03:00"
 }
