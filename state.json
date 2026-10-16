@@ -59236,6 +59236,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890744": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890737": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
    "price": null,
@@ -62580,18 +62592,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816492",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816490": {
-   "name": "ValkeIN ヘイズ F #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816490",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74778,5 +74778,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T03:02:52+03:00"
+ "last_check": "2026-10-16T03:05:57+03:00"
 }
