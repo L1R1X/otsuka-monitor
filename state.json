@@ -5000,18 +5000,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr9347012624598": {
-   "name": "Chibi Futten FS（ちびフッテンFS）",
-   "price": null,
-   "price_text": "1 450 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/chibi-futten-fs-ちびフッテンfs",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr9346988507350": {
    "name": "Usahuwa 2026 TSUNEMI color（うさふわ2026ツネミ展示会カラー）",
    "price": null,
@@ -6041,18 +6029,6 @@
    "shop": "t-Route",
    "link": "https://t-route.net/products/deep-cra-pea-ts-color-ディープクラピー谷山オリジナルカラー",
    "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "tr9302949167318": {
-   "name": "MICRO PANICRA（マイクロパニクラ）",
-   "price": null,
-   "price_text": "1 300 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/micro-panicra-マイクロパニクラ",
-   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74710,5 +74686,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T10:31:46+03:00"
+ "last_check": "2026-10-16T10:35:57+03:00"
 }
