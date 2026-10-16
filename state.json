@@ -38286,7 +38286,7 @@
   "zk10119397540114": {
    "name": "リクーゼ0.6ｇ",
    "price": null,
-   "price_text": "485 ¥",
+   "price_text": "459 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -39179,18 +39179,6 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/bスパーク",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "zk9864731525394": {
-   "name": "ロミー☆東山湖FAおすすめのスライドスプーン☆定価の20％引き",
-   "price": null,
-   "price_text": "440 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/ロミー",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74729,5 +74717,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T09:01:42+03:00"
+ "last_check": "2026-10-16T09:06:14+03:00"
 }
