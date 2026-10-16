@@ -58995,18 +58995,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985651": {
-   "name": "TIMON ちびフッテンFS #カドニキハーフグロー",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985651",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985621": {
    "name": "TIMON ちびフッテンFS #タッキートロピカルクリアー",
    "price": null,
@@ -62567,6 +62555,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835560",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74753,5 +74753,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T11:35:56+03:00"
+ "last_check": "2026-10-16T11:41:01+03:00"
 }
