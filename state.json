@@ -74522,6 +74522,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki96671120": {
+   "name": "ヴァルケイン シャインライド",
+   "price": null,
+   "price_text": "1,634 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=96671120",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193983741": {
    "name": "ドライブ コルサ 56L-ST (Type-S)",
    "price": null,
@@ -74650,18 +74662,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=189110486",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189110494": {
-   "name": "【吉やオリカラ スジコオレンジ】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
-   "price": null,
-   "price_text": "1,727 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189110494",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74812,5 +74812,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T13:31:19+03:00"
+ "last_check": "2026-10-16T13:36:02+03:00"
 }
