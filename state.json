@@ -565,21 +565,21 @@
    "spec": "#4kd 0.9g",
    "code": "4560456884358",
    "price": 605,
-   "stock": 40
+   "stock": 39
   },
   "53360101G5901113": {
    "name": "なぶら家 アキュラシー  0.9g #CPC(川越店オリカラ)  0.9g オオツカオリカラ",
    "spec": "#CPC(川越店オリカラ) 0.9g オオツカオリカラ",
    "code": "4560456882910",
    "price": 605,
-   "stock": 8
+   "stock": 7
   },
   "53360101GLZ00073": {
    "name": "なぶら家 アキュラシー  0.9g #にごり酒 0.9g マスケンリクエストカラー",
    "spec": "#にごり酒 0.9g マスケンリクエストカラー 川越水上公園店オリカラ",
    "code": "4573648247015",
    "price": 605,
-   "stock": 6
+   "stock": 5
   },
   "53360101GLU01145": {
    "name": "なぶら家 アキュラシー  1.3g #マイスター H.E01 1.3g",
@@ -733,7 +733,7 @@
    "spec": "#高崎店オリジナルカラーMSミルキーウェイ 0.5g オオツカオリカラ",
    "code": "4573648242799",
    "price": 550,
-   "stock": 26
+   "stock": 25
   },
   "53360101GLZ00072": {
    "name": "なぶら家 プリッジ  0.5g #にごり酒 0.5g マスケンリクエストカラー",
@@ -59001,18 +59001,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985651": {
-   "name": "TIMON ちびフッテンFS #カドニキハーフグロー",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985651",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985621": {
    "name": "TIMON ちびフッテンFS #タッキートロピカルクリアー",
    "price": null,
@@ -62585,6 +62573,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74771,5 +74771,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T05:36:00+03:00"
+ "last_check": "2026-10-16T05:41:19+03:00"
 }
