@@ -70984,6 +70984,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ai194015524": {
+   "name": "ラッキークラフト ワウシリーズ【ファイブコア限定カラー】",
+   "price": null,
+   "price_text": "1,260 ¥(税込1,386 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Area Island",
+   "link": "https://www.area-island.com/?pid=194015524",
+   "extra": "",
+   "prefiltered": true,
+   "tag": ""
+  },
   "ai193661704": {
    "name": "SLPワークス Iコルクノブ-TM3 【限定カラー】",
    "price": null,
@@ -74802,5 +74814,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T12:31:16+03:00"
+ "last_check": "2026-10-16T12:36:00+03:00"
 }
