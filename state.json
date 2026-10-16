@@ -34383,6 +34383,54 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15406083604754": {
+   "name": "☆予約販売☆ベルベットアーツ キャンバスフック(CANVAS HOOK)10/23出荷予定",
+   "price": null,
+   "price_text": "495 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/キャンバスフック",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15406041399570": {
+   "name": "ロミー37ｍｍ☆東山湖FAおすすめのスライドスプーン☆定価の20％引き",
+   "price": null,
+   "price_text": "458 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ロミー37ｍｍ-東山湖faおすすめのスライドスプーン-定価の20-引き",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15406041170194": {
+   "name": "ロミー31ｍｍ☆東山湖FAおすすめのスライドスプーン☆定価の20％引き",
+   "price": null,
+   "price_text": "440 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ロミー31ｍｍ-東山湖faおすすめのスライドスプーン-定価の20-引き",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15406081409298": {
+   "name": "ルラン0.8g20.5ｍｍ",
+   "price": null,
+   "price_text": "15 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ルラン0-8g20-5ｍｍ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15405256081682": {
    "name": "タイソン(TYSON)1.3g26年10月再入荷‼",
    "price": null,
@@ -58923,6 +58971,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194013874": {
+   "name": "ValkeIN シャインライド #マットブラウンスプラッシュグロー",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194013874",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193985680": {
    "name": "TIMON ちびフッテンFS #シャインWオレピンGR",
    "price": null,
@@ -62507,18 +62567,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835560",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835545": {
-   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835545",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74705,5 +74753,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T11:25:56+03:00"
+ "last_check": "2026-10-16T11:31:18+03:00"
 }
