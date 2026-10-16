@@ -2534,6 +2534,42 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15386995261654": {
+   "name": "RURAN（ルラン）",
+   "price": null,
+   "price_text": "1 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/ruran-ルラン",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9347012624598": {
+   "name": "Chibi Futten FS（ちびフッテンFS）",
+   "price": null,
+   "price_text": "1 450 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/chibi-futten-fs-ちびフッテンfs",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9302949167318": {
+   "name": "MICRO PANICRA（マイクロパニクラ）",
+   "price": null,
+   "price_text": "1 300 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/micro-panicra-マイクロパニクラ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15384826937558": {
    "name": "BACKSTROKE BIG ONE SELECT color（バックストロークビッグワンセレクトカラー）",
    "price": null,
@@ -59042,18 +59078,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985553": {
-   "name": "TIMON ちびフッテンFS #ヤジーフロートメロン",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985553",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985519": {
    "name": "TIMON ちびフッテンFS #W蛍光パンチ",
    "price": null,
@@ -62186,18 +62210,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113794": {
-   "name": "ValkeIN ライオーム NANO #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113791": {
    "name": "ValkeIN シャインライド NANO #ARK6",
    "price": null,
@@ -62614,6 +62626,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835507": {
+   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835507",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816541": {
+   "name": "ValkeIN ヘイズ DD #ARK6",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816541",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74812,5 +74848,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T13:50:58+03:00"
+ "last_check": "2026-10-16T13:56:01+03:00"
 }
