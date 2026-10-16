@@ -62068,18 +62068,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192147585": {
-   "name": "ムカイ バックストローク 55S #GARASHI スパイラルRG",
-   "price": null,
-   "price_text": "1,615 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147585",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192147566": {
    "name": "ムカイ POGOCRA 30DR F #GARASHI",
    "price": null,
@@ -62592,6 +62580,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835507": {
+   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835507",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74778,5 +74778,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T05:15:58+03:00"
+ "last_check": "2026-10-16T05:21:00+03:00"
 }
