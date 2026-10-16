@@ -60085,18 +60085,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193370393": {
-   "name": "ロデオクラフト USSA ウッサ XS #S.M Ⅵ C",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193370393",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193356915": {
    "name": "SHIMANO おおとろ 45S #008 ヅケマグロ",
    "price": null,
@@ -62493,6 +62481,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835560",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74679,5 +74679,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T10:51:06+03:00"
+ "last_check": "2026-10-16T10:55:55+03:00"
 }
