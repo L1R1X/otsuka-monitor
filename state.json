@@ -2212,6 +2212,13 @@
    "price": 1870,
    "stock": 179
   },
+  "53360101GLX01271": {
+   "name": "ロデオクラフト ウッサ XS",
+   "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
+   "code": "4573632512167",
+   "price": 1925,
+   "stock": 3
+  },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
@@ -59259,6 +59266,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890772": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890757": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #クリア",
    "price": null,
@@ -62507,18 +62526,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74705,5 +74712,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T09:41:07+03:00"
+ "last_check": "2026-10-16T09:46:09+03:00"
 }
