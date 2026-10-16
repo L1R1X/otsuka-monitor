@@ -59364,18 +59364,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890772": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
    "price": null,
@@ -59396,18 +59384,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890757",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890744": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #トッピングフード",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890744",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62636,6 +62612,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816530": {
+   "name": "ValkeIN ヘイズ DD #ARK3",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74834,5 +74834,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T15:26:26+03:00"
+ "last_check": "2026-10-16T15:31:20+03:00"
 }
