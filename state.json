@@ -34432,6 +34432,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk9830229377298": {
+   "name": "デカブング☆東山湖FAのティモンカップでウイニングルアー☆",
+   "price": null,
+   "price_text": "607 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/デカブング",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15406083604754": {
    "name": "☆予約販売☆ベルベットアーツ キャンバスフック(CANVAS HOOK)10/23出荷予定",
    "price": null,
@@ -59032,18 +59044,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985680": {
-   "name": "TIMON ちびフッテンFS #シャインWオレピンGR",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985680",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985621": {
    "name": "TIMON ちびフッテンFS #タッキートロピカルクリアー",
    "price": null,
@@ -62616,6 +62616,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835529": {
+   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835529",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74814,5 +74826,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T12:51:07+03:00"
+ "last_check": "2026-10-16T12:55:59+03:00"
 }
