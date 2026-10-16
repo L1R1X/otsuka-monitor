@@ -62596,6 +62596,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193959772": {
+   "name": "カルテラス×ロブルアー ルラン 0.8g #スケスケオリーブハーフ",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193959772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -64132,6 +64144,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161124": {
+   "name": "ALFRED クリアアルフ 0.8g #T-04 撒き餌クリアブラウン",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161124",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161116": {
    "name": "ALFRED クリアアルフ 0.8g #T-03 BPクリアオリーブ",
    "price": null,
@@ -64336,6 +64360,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192681799": {
+   "name": "TROUT SPOONS Lab サジ カイト 1.3g #9 匙オジ BRUNO",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192681799",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192681794": {
    "name": "TROUT SPOONS Lab サジ カイト 1.3g #8 匙オジ 海松色",
    "price": null,
@@ -64368,6 +64404,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192681747",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192681745": {
+   "name": "TROUT SPOONS Lab サジ カイト 1.3g #4 カイトグリーン",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192681745",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66144,54 +66192,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191810442",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810437": {
-   "name": "オフィスユーカリ B-SPARK 2.9g #森チョコゴージャス",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810437",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810426": {
-   "name": "オフィスユーカリ B-SPARK 2.5g #森チョコ改",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810426",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810418": {
-   "name": "オフィスユーカリ B-SPARK 2.5g #森チョコゴージャス",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810418",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810410": {
-   "name": "オフィスユーカリ B-SPARK 2.0g #森チョコ改",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810410",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74778,5 +74778,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-16T03:50:56+03:00"
+ "last_check": "2026-10-16T03:56:01+03:00"
 }
