@@ -59667,18 +59667,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193739568": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #ツブツブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739568",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193739564": {
    "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #Pスプラッシュ",
    "price": null,
@@ -62615,6 +62603,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74813,5 +74813,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T05:31:11+03:00"
+ "last_check": "2026-10-17T05:35:54+03:00"
 }
