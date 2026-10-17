@@ -59379,6 +59379,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890744": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890737": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
    "price": null,
@@ -62607,17 +62619,17 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191816537": {
-   "name": "ValkeIN ヘイズ DD #ARK5",
+  "jh194019490": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
-   "price_text": "1,570 ¥(税込)",
+   "price_text": "12,100 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "link": "https://fishing-shop-jh.com/?pid=194019490",
    "extra": "",
    "prefiltered": true,
-   "tag": "🎣 приманка"
+   "tag": "🥄 блесна"
   },
   "jh194019176": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #97 クリアーレッド",
@@ -62831,18 +62843,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019151",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019149": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #17 グロー(夜光)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019149",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74813,5 +74813,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T06:16:11+03:00"
+ "last_check": "2026-10-17T06:21:03+03:00"
 }
