@@ -62624,18 +62624,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019176": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #97 クリアーレッド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019176",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019169": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
    "price": null,
@@ -62764,18 +62752,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019151",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019147": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #15 Mグリーン",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019147",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66208,6 +66184,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995617",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995608": {
+   "name": "ロデオクラフト ノア NOA-S 1.0g #US-8 イエロー/OR 裏OR【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995608",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974098": {
+   "name": "ValkeIN シャイラ 1.2g #GLT4 ゴッドブレス",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974098",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74806,5 +74806,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T06:35:54+03:00"
+ "last_check": "2026-10-17T06:41:03+03:00"
 }
