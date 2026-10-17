@@ -1811,7 +1811,7 @@
    "spec": "#伊勢崎店オリカラ バーマキ 40mm 3.8g シンキング",
    "code": "4548393379915",
    "price": 1595,
-   "stock": 19
+   "stock": 18
   },
   "53360101GLQ01137": {
    "name": "ディスプラウト メガガメクラ F",
@@ -2105,7 +2105,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 56
+   "stock": 55
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2217,7 +2217,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 73
+   "stock": 71
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
@@ -2280,7 +2280,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.3g スローシンキング",
    "code": "4573632512181",
    "price": 1650,
-   "stock": 118
+   "stock": 117
   },
   "53360101GLW01318": {
    "name": "ロデオクラフト モカ  ラトルDR 2フックF",
@@ -62638,18 +62638,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019169": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019169",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019166": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
    "price": null,
@@ -62682,18 +62670,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019159",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019158": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #33 スーパーダークオリーブ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019158",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66222,6 +66198,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191857920",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191857914": {
+   "name": "ValkeIN ハイバースト2.4g #1 ゴールド",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191857914",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835465": {
+   "name": "サウリブ Shaath P シャース ピー 1.1g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835465",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74820,5 +74820,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T09:21:06+03:00"
+ "last_check": "2026-10-17T09:26:02+03:00"
 }
