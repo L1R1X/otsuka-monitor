@@ -11042,7 +11042,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/area-releaser-case",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -11198,7 +11198,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/trash-pouch-a-mun-smith-color-あーむん",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -16610,7 +16610,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/fullclip-display-decal-フルクリップディスプレイ-デカール",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74876,5 +74876,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T11:16:02+03:00"
+ "last_check": "2026-10-17T11:21:13+03:00"
 }
