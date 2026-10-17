@@ -2126,7 +2126,7 @@
    "spec": "#高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316205",
    "price": 1650,
-   "stock": 69
+   "stock": 68
   },
   "53360101GLR01063": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鶯 33mm 1.8g スーパーデッドスローシンキング",
@@ -2434,7 +2434,7 @@
    "spec": "#伊勢崎店オリカラ 水蛭子 36mm 2.5g シンキング 伊勢崎店オリジナルカラー",
    "code": "4582671320114",
    "price": 1650,
-   "stock": 11
+   "stock": 10
   },
   "53360101GLC00197": {
    "name": "ヴァルケイン クーガ S #伊勢崎店オリカラ パルヘリオ 36mm 2.5g シンキング",
@@ -62669,30 +62669,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019161": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #39 マットチョコレート",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019161",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019157": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #30 和からし(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019157",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019156": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
    "price": null,
@@ -66229,6 +66205,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191857920",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191857914": {
+   "name": "ValkeIN ハイバースト2.4g #1 ゴールド",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191857914",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835465": {
+   "name": "サウリブ Shaath P シャース ピー 1.1g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835465",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74827,5 +74827,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T10:25:54+03:00"
+ "last_check": "2026-10-17T10:31:28+03:00"
 }
