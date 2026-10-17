@@ -15595,7 +15595,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/prism-design-1091-color-プリズムデザイン1091カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74579,6 +74579,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194023971": {
+   "name": "フィッシングエリア帝釈 ジョイントブラザーズ",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194023971",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki134673989": {
    "name": "ディスプラウト ガメクラ",
    "price": null,
@@ -74707,18 +74719,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=192853391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193947376": {
-   "name": "リセント XスティックMD",
-   "price": null,
-   "price_text": "713 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193947376",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74869,5 +74869,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T11:55:57+03:00"
+ "last_check": "2026-10-17T12:01:29+03:00"
 }
