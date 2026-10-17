@@ -64395,6 +64395,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192681790": {
+   "name": "TROUT SPOONS Lab サジ カイト 1.3g #7 匙オジ bise",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192681790",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192681750": {
    "name": "TROUT SPOONS Lab サジ カイト 1.3g #6 カイトイエロー",
    "price": null,
@@ -64427,6 +64439,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192681745",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192681664": {
+   "name": "TROUT SPOONS Lab サジ カイト 1.3g #2 カイトカーキ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192681664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66191,30 +66215,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835038",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810442": {
-   "name": "オフィスユーカリ B-SPARK 2.9g #森チョコ改",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810442",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810437": {
-   "name": "オフィスユーカリ B-SPARK 2.9g #森チョコゴージャス",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810437",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74813,5 +74813,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T05:55:58+03:00"
+ "last_check": "2026-10-17T06:01:34+03:00"
 }
