@@ -59166,18 +59166,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985473": {
-   "name": "TIMON ちびフッテンFS #蛍光ピンク",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985469": {
    "name": "TIMON ちびフッテンFS #クリアー",
    "price": null,
@@ -62690,6 +62678,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835529": {
+   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835529",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74888,5 +74888,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T13:51:14+03:00"
+ "last_check": "2026-10-17T13:55:59+03:00"
 }
