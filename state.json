@@ -1594,14 +1594,14 @@
    "spec": "#オリオリRG 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315642",
    "price": 1760,
-   "stock": 14
+   "stock": 15
   },
   "53360101GLP01034": {
    "name": "ゲート ミディアムクラピー GS2 #スプリンクルRG 34mm 2.9g オオツカオリカラ",
    "spec": "#スプリンクルRG 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315666",
    "price": 1760,
-   "stock": 17
+   "stock": 18
   },
   "53360101GLP01032": {
    "name": "ゲート ミディアムクラピー GS2 #ディアボロ 34mm 2.9g オオツカオリカラ",
@@ -2077,7 +2077,7 @@
    "spec": "#伊勢崎店 オリカラ 八雲 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316328",
    "price": 1650,
-   "stock": 62
+   "stock": 63
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2161,7 +2161,7 @@
    "spec": "#ブラウンフライグロー 37.5mm 4.4g フローティング オオツカオリカラ",
    "code": "4573151277295",
    "price": 1705,
-   "stock": 4
+   "stock": 3
   },
   "53360101GLX01273": {
    "name": "ロデオクラフト ウッサ S",
@@ -2238,14 +2238,14 @@
    "spec": "#高崎店オリジナルカラー 神姫 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632512051",
    "price": 1760,
-   "stock": 40
+   "stock": 38
   },
   "53360101GLX01220": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング",
    "spec": "#高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632511931",
    "price": 1760,
-   "stock": 104
+   "stock": 102
   },
   "53360101GLW01319": {
    "name": "ロデオクラフト モカ  DR2フックF",
@@ -62768,18 +62768,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019143": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019140": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
    "price": null,
@@ -62812,18 +62800,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019092",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019086": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #1 ゴールド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019086",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66208,6 +66184,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974098",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974091": {
+   "name": "ValkeIN シャイラ 1.2g #GLT3 ウインディー",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974091",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974080": {
+   "name": "ValkeIN シャイラ 1.2g #GLT2 ジャポネスク",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974080",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74806,5 +74806,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T07:10:58+03:00"
+ "last_check": "2026-10-17T07:16:04+03:00"
 }
