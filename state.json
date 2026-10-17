@@ -74528,18 +74528,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki192970490": {
-   "name": "ロデオクラフト キメラオーヴァー61ML-e",
-   "price": null,
-   "price_text": "74,800 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192970490",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193983741": {
    "name": "ドライブ コルサ 56L-ST (Type-S)",
    "price": null,
@@ -74656,6 +74644,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193968893",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189110486": {
+   "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
+   "price": null,
+   "price_text": "1,727 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189110486",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74806,5 +74806,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T07:31:44+03:00"
+ "last_check": "2026-10-17T07:35:53+03:00"
 }
