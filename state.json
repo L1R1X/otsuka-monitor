@@ -10522,7 +10522,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-wah37hf-2025-1091-color-rcワウ37hf-2025-1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74570,6 +74570,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki188666235": {
+   "name": "【吉やオリカラ：安燈】シマノ そことろ 30S",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188666235",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki188666249": {
+   "name": "【吉やオリカラ：メンターイコライザー】シマノ そことろ 30S",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188666249",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194023971": {
    "name": "フィッシングエリア帝釈 ジョイントブラザーズ",
    "price": null,
@@ -74686,30 +74710,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193890637",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192687425": {
-   "name": "ディープパラドックス タイソン（TYSON）1.3g【全15色セット】",
-   "price": null,
-   "price_text": "9,900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192687425",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192853391": {
-   "name": "ディープパラドックス タイソン（TYSON）1.3g",
-   "price": null,
-   "price_text": "660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192853391",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74860,5 +74860,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T15:11:06+03:00"
+ "last_check": "2026-10-17T15:16:05+03:00"
 }
