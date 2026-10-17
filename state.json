@@ -62681,18 +62681,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019159": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019159",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019157": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #30 和からし(マット)",
    "price": null,
@@ -62765,6 +62753,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019143": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019143",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019098": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #5 鉄板!!南関東",
    "price": null,
@@ -62773,6 +62773,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019098",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019092": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #2 シルバー",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019092",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66217,18 +66229,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191857920",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191857914": {
-   "name": "ValkeIN ハイバースト2.4g #1 ゴールド",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191857914",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74827,5 +74827,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T10:15:59+03:00"
+ "last_check": "2026-10-17T10:20:59+03:00"
 }
