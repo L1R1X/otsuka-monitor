@@ -62654,30 +62654,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019166": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019166",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019156": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019156",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019153": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
    "price": null,
@@ -66238,6 +66214,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835254": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835254",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835083": {
+   "name": "なぶら家 VENUS ウェヌス 1.4g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835083",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74836,5 +74836,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T18:35:56+03:00"
+ "last_check": "2026-10-17T18:41:06+03:00"
 }
