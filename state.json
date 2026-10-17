@@ -59093,6 +59093,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193985488": {
+   "name": "TIMON ちびフッテンFS #ラムレーズン",
+   "price": null,
+   "price_text": "1,450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193985488",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193985473": {
    "name": "TIMON ちびフッテンFS #蛍光ピンク",
    "price": null,
@@ -62621,18 +62633,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191835529": {
-   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -62645,6 +62645,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019169": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019169",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019166": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
    "price": null,
@@ -62653,6 +62665,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019166",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019161": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #39 マットチョコレート",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019161",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -62725,6 +62749,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019151",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019149": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #17 グロー(夜光)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019149",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66193,42 +66229,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191857914",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835465": {
-   "name": "サウリブ Shaath P シャース ピー 1.1g #ゴージャスペレット【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835465",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835463": {
-   "name": "サウリブ Shaath P シャース ピー 1.1g #マダムオリーブ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835463",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835280": {
-   "name": "サウリブ Shaath P シャース ピー 0.8g #ゴージャスペレット【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835280",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74827,5 +74827,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T10:11:12+03:00"
+ "last_check": "2026-10-17T10:15:59+03:00"
 }
