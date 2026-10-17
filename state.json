@@ -62768,18 +62768,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019092": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #2 シルバー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019092",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -66208,6 +66196,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191967840",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191857920": {
+   "name": "ValkeIN ハイバースト2.4g #2 シルバー",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191857920",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74806,5 +74806,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T07:45:59+03:00"
+ "last_check": "2026-10-17T07:51:02+03:00"
 }
