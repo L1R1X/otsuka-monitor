@@ -2562,6 +2562,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15388199289046": {
+   "name": "RC Drift Spin 42（RCドリフトスピン42）",
+   "price": null,
+   "price_text": "600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-drift-spin-42-rcドリフトスピン42",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15386995261654": {
    "name": "RURAN（ルラン）",
    "price": null,
@@ -74876,5 +74888,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T13:46:13+03:00"
+ "last_check": "2026-10-17T13:51:14+03:00"
 }
