@@ -62730,18 +62730,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019154": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #24 ダークオリーブ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019154",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019153": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
    "price": null,
@@ -66278,6 +66266,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835463",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835280": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835280",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74876,5 +74876,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T11:11:07+03:00"
+ "last_check": "2026-10-17T11:16:02+03:00"
 }
