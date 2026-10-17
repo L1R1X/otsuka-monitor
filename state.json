@@ -27110,7 +27110,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/dohna-uchoten",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74586,6 +74586,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki134673989": {
+   "name": "ディスプラウト ガメクラ",
+   "price": null,
+   "price_text": "1,485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=134673989",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki147105244": {
+   "name": "ディスプラウト メガガメクラ",
+   "price": null,
+   "price_text": "1,535 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=147105244",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki96671120": {
    "name": "ヴァルケイン シャインライド",
    "price": null,
@@ -74702,30 +74726,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193947376",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193968893": {
-   "name": "ロブルアー×カルテラス RURAN (ルラン) 0.8g",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193968893",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189110486": {
-   "name": "【吉やオリカラ ITO】ハンクル ザッガー50B1 RI（ラトルいっぱい）",
-   "price": null,
-   "price_text": "1,727 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189110486",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74876,5 +74876,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T11:25:53+03:00"
+ "last_check": "2026-10-17T11:32:09+03:00"
 }
