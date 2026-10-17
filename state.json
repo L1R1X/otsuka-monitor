@@ -957,21 +957,21 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.35g オオツカオリカラ",
    "code": "4582782654597",
    "price": 638,
-   "stock": 17
+   "stock": 16
   },
   "53360101GLG00408": {
    "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー ゴッドノーズ 1.35g",
    "spec": "#高崎店オリジナルカラー ゴッドノーズ 1.35g オオツカオリカラ",
    "code": "4582782651091",
    "price": 638,
-   "stock": 5
+   "stock": 3
   },
   "53360101GLZ01237": {
    "name": "ディープパラドックス グラビティ  1.65g #高崎店オリジナルカラー MSミルキーウェイ 1.65g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.65g オオツカオリカラ",
    "code": "4582782654580",
    "price": 638,
-   "stock": 1
+   "stock": 0
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -64670,6 +64670,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192653226": {
+   "name": "Deep Paradox TYSON 1.3g #全色セット15枚入り",
+   "price": null,
+   "price_text": "9,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653226",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192650841": {
    "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
    "price": null,
@@ -66226,18 +66238,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835079": {
-   "name": "なぶら家 VENUS ウェヌス 1.4g #ゴールドエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835079",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74836,5 +74836,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-17T22:31:18+03:00"
+ "last_check": "2026-10-17T22:36:09+03:00"
 }
