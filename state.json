@@ -59429,18 +59429,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890772": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #トリプルRG",
    "price": null,
@@ -62717,6 +62705,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -64769,18 +64769,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192650841": {
-   "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192650841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650788": {
    "name": "Deep Paradox TYSON 1.3g #14 ソルティマジョーラ",
    "price": null,
@@ -66313,6 +66301,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835083",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835079": {
+   "name": "なぶら家 VENUS ウェヌス 1.4g #ゴールドエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835079",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74911,5 +74911,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-19T01:01:37+03:00"
+ "last_check": "2026-10-19T01:05:54+03:00"
 }
