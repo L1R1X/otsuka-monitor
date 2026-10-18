@@ -62803,6 +62803,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019143": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019143",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019140": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019140",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019098": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #5 鉄板!!南関東",
    "price": null,
@@ -62811,6 +62835,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019098",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019092": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #2 シルバー",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019092",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66279,42 +66315,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974044",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191967840": {
-   "name": "ロデオクラフト QM キューム 3.3g #マダムオリーブ【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191967840",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191857920": {
-   "name": "ValkeIN ハイバースト2.4g #2 シルバー",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191857920",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191857914": {
-   "name": "ValkeIN ハイバースト2.4g #1 ゴールド",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191857914",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74913,5 +74913,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T03:43:48+03:00"
+ "last_check": "2026-10-18T03:46:03+03:00"
 }
