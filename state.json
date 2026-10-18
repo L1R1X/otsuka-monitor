@@ -866,84 +866,105 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.6g オオツカオリカラ",
    "code": "4582782654641",
    "price": 638,
-   "stock": 63
+   "stock": 68
   },
   "53360101GLZ01247": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ジュゲム 0.6g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.6g オオツカオリカラ",
    "code": "4582782654658",
    "price": 638,
-   "stock": 53
+   "stock": 58
   },
   "53360101GLZ01245": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ソルティアルバス 0.6g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.6g オオツカオリカラ",
    "code": "4582782654634",
    "price": 638,
-   "stock": 69
+   "stock": 75
   },
   "53360101GLZ01250": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー MSミルキーウェイ 0.8g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.8g オオツカオリカラ",
    "code": "4582782654610",
    "price": 638,
-   "stock": 68
+   "stock": 73
   },
   "53360101GLZ01248": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ジュゲム 0.8g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.8g オオツカオリカラ",
    "code": "4582782654627",
    "price": 638,
-   "stock": 77
+   "stock": 82
   },
   "53360101GLZ01249": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ソルティアルバス 0.8g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.8g オオツカオリカラ",
    "code": "4582782654603",
    "price": 638,
-   "stock": 66
+   "stock": 65
   },
   "53360101GLZ01239": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー MSミルキーウェイ 0.95g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.95g オオツカオリカラ",
    "code": "4582782654702",
    "price": 638,
-   "stock": 34
+   "stock": 40
   },
   "53360101GLZ01242": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ジュゲム 0.95g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.95g オオツカオリカラ",
    "code": "4582782654719",
    "price": 638,
-   "stock": 59
+   "stock": 65
   },
   "53360101GLZ01243": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ソルティアルバス 0.95g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.95g オオツカオリカラ",
    "code": "4582782654696",
    "price": 638,
-   "stock": 5
+   "stock": 6
   },
   "53360101GLZ01240": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
    "code": "4582782654672",
    "price": 638,
-   "stock": 22
+   "stock": 28
   },
   "53360101GLZ01241": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
    "spec": "#高崎店オリジナルカラー ジュゲム 1.2g オオツカオリカラ",
    "code": "4582782654689",
    "price": 638,
-   "stock": 40
+   "stock": 46
+  },
+  "53360101GLZ01244": {
+   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ソルティアルバス 1.2g",
+   "spec": "#高崎店オリジナルカラー ソルティアルバス 1.2g オオツカオリカラ",
+   "code": "4582782654665",
+   "price": 638,
+   "stock": 6
   },
   "53360101GLZ01238": {
    "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー MSミルキーウェイ 1.35g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.35g オオツカオリカラ",
    "code": "4582782654597",
    "price": 638,
-   "stock": 8
+   "stock": 10
+  },
+  "53360101GLG00407": {
+   "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー ソルティアルバス 1.35g",
+   "spec": "#高崎店オリジナルカラー ソルティアルバス 1.35g オオツカオリカラ",
+   "code": "4582782651107",
+   "price": 638,
+   "stock": 1
+  },
+  "53360101GLZ01237": {
+   "name": "ディープパラドックス グラビティ  1.65g #高崎店オリジナルカラー MSミルキーウェイ 1.65g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.65g オオツカオリカラ",
+   "code": "4582782654580",
+   "price": 638,
+   "stock": 2
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -986,27 +1007,6 @@
    "code": "4570068290317",
    "price": 792,
    "stock": 6
-  },
-  "53360101GKS00807": {
-   "name": "ペスカ ペスカ  6.5g",
-   "spec": "#伊勢崎店 オリカラ トライアングル 6.5g",
-   "code": "4570068290348",
-   "price": 792,
-   "stock": 18
-  },
-  "53360101GKS00806": {
-   "name": "ペスカ ペスカ  6.5g",
-   "spec": "#伊勢崎店 オリカラ ピンクロビン 6.5g",
-   "code": "4570068290355",
-   "price": 792,
-   "stock": 31
-  },
-  "53360101GKS00811": {
-   "name": "ペスカ ペスカ  8ｇ",
-   "spec": "#伊勢崎店 オリカラ カカポ 8.0g",
-   "code": "4570068290379",
-   "price": 792,
-   "stock": 27
   },
   "53360101GKS00812": {
    "name": "ペスカ ペスカ  8ｇ #伊勢崎店 オリカラ コンゴウ 8.0g",
@@ -62710,6 +62710,90 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019166": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019166",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019161": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #39 マットチョコレート",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019161",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019159": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019159",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019157": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #30 和からし(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019157",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019156": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019156",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019153": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019153",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019151": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #18 草色",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019151",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -66210,90 +66294,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835254",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835083": {
-   "name": "なぶら家 VENUS ウェヌス 1.4g #シルバーエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835079": {
-   "name": "なぶら家 VENUS ウェヌス 1.4g #ゴールドエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835079",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835068": {
-   "name": "なぶら家 VENUS ウェヌス 1.4g #放流オレピン【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835068",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835053": {
-   "name": "なぶら家 VENUS ウェヌス 1.1g #シルバーエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835053",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835043": {
-   "name": "なぶら家 VENUS ウェヌス 1.1g #ゴールドエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835043",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835038": {
-   "name": "なぶら家 VENUS ウェヌス 1.1g #放流オレピン【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835038",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191810442": {
-   "name": "オフィスユーカリ B-SPARK 2.9g #森チョコ改",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191810442",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74892,5 +74892,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T11:16:03+03:00"
+ "last_check": "2026-10-18T11:21:16+03:00"
 }
