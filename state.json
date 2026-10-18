@@ -62822,18 +62822,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019151": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #18 草色",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019151",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -66334,6 +66322,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835254",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835083": {
+   "name": "なぶら家 VENUS ウェヌス 1.4g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835083",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74932,5 +74932,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T16:11:05+03:00"
+ "last_check": "2026-10-18T16:16:05+03:00"
 }
