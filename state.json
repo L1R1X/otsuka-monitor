@@ -2548,6 +2548,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15389448995030": {
+   "name": "JOINT BROTHERS（ジョイントブラザーズ）",
+   "price": null,
+   "price_text": "1 736 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/joint-brothers-ジョイントブラザーズ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15388199289046": {
    "name": "RC Drift Spin 42（RCドリフトスピン42）",
    "price": null,
@@ -74934,5 +74946,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T13:55:57+03:00"
+ "last_check": "2026-10-18T14:01:25+03:00"
 }
