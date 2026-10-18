@@ -74623,6 +74623,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194024128": {
+   "name": "ロデオクラフト ドリフトスピン42",
+   "price": null,
+   "price_text": "660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194024128",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194023971": {
    "name": "フィッシングエリア帝釈 ジョイントブラザーズ",
    "price": null,
@@ -74751,18 +74763,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=192687425",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192853391": {
-   "name": "ディープパラドックス タイソン（TYSON）1.3g",
-   "price": null,
-   "price_text": "660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192853391",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74913,5 +74913,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T05:16:00+03:00"
+ "last_check": "2026-10-18T05:21:04+03:00"
 }
