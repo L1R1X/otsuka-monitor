@@ -59182,6 +59182,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890996": {
+   "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890996",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890973": {
    "name": "DAIWA ワブクラJr.25SS DR#トッピングフード",
    "price": null,
@@ -59226,6 +59238,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890960",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890951": {
+   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890951",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62674,30 +62698,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191816499": {
-   "name": "ValkeIN ヘイズ F #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816499",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816492": {
-   "name": "ValkeIN ヘイズ F #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816492",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -64326,18 +64326,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161224",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193161191": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #17 GAL",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161191",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66294,6 +66282,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835465",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835463": {
+   "name": "サウリブ Shaath P シャース ピー 1.1g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835463",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74892,5 +74892,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T06:56:16+03:00"
+ "last_check": "2026-10-18T07:01:24+03:00"
 }
