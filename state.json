@@ -64310,18 +64310,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161143": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #16 PAPA オレ",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161135": {
    "name": "ALFRED クリアアルフ 0.8g #T-06 イトミミズ",
    "price": null,
@@ -66322,6 +66310,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835079",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835068": {
+   "name": "なぶら家 VENUS ウェヌス 1.4g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835068",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74920,5 +74920,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T08:01:26+03:00"
+ "last_check": "2026-10-18T08:05:52+03:00"
 }
