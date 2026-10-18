@@ -64210,18 +64210,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161270": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #20 ヤジーシルホワ UV【TIMON】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161270",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161224": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #19 ウズラ【TIMON】",
    "price": null,
@@ -66294,6 +66282,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835038",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191810442": {
+   "name": "オフィスユーカリ B-SPARK 2.9g #森チョコ改",
+   "price": null,
+   "price_text": "740 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191810442",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74892,5 +74892,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T10:31:17+03:00"
+ "last_check": "2026-10-18T10:35:51+03:00"
 }
