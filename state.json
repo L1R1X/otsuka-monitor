@@ -62836,18 +62836,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019098": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #5 鉄板!!南関東",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019098",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -66336,6 +66324,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835254": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835254",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74934,5 +74934,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T13:35:54+03:00"
+ "last_check": "2026-10-18T13:41:03+03:00"
 }
