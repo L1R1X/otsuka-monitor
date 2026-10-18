@@ -62503,18 +62503,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191885062": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #18 プレベリー【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh191885046": {
    "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
    "price": null,
@@ -62719,6 +62707,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816492": {
+   "name": "ValkeIN ヘイズ F #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -62727,18 +62727,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019490",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019166": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019166",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66315,6 +66303,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835254": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835254",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74913,5 +74913,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T03:11:05+03:00"
+ "last_check": "2026-10-18T03:16:02+03:00"
 }
