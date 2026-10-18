@@ -62710,42 +62710,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019169": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019169",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019154": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #24 ダークオリーブ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019154",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019153": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019153",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959769": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #マジョクロ",
    "price": null,
@@ -66294,6 +66258,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835068",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835053": {
+   "name": "なぶら家 VENUS ウェヌス 1.1g #シルバーエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835053",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835043": {
+   "name": "なぶら家 VENUS ウェヌス 1.1g #ゴールドエンド【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835043",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835038": {
+   "name": "なぶら家 VENUS ウェヌス 1.1g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835038",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74892,5 +74892,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-18T10:11:15+03:00"
+ "last_check": "2026-10-18T10:16:04+03:00"
 }
