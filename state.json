@@ -60147,18 +60147,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193483661": {
-   "name": "ValkeIN ライオーム NANO #マルドリRG【TSカラー】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193483661",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193473560": {
    "name": "ロデオクラフト RC WAH 37HF #Neoイリュージョンペレット【HERO'S】",
    "price": null,
@@ -62699,6 +62687,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816499",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816492": {
+   "name": "ValkeIN ヘイズ F #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816492",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74897,5 +74897,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-19T04:46:03+03:00"
+ "last_check": "2026-10-19T04:51:00+03:00"
 }
