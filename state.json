@@ -62753,18 +62753,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019159": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019159",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019157": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #30 和からし(マット)",
    "price": null,
@@ -66313,6 +66301,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835079",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835068": {
+   "name": "なぶら家 VENUS ウェヌス 1.4g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835068",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74911,5 +74911,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-19T04:20:58+03:00"
+ "last_check": "2026-10-19T04:25:56+03:00"
 }
