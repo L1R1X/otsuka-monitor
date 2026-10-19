@@ -64759,6 +64759,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192650841": {
+   "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192650841",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192650788": {
    "name": "Deep Paradox TYSON 1.3g #14 ソルティマジョーラ",
    "price": null,
@@ -66315,18 +66327,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835068",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835053": {
-   "name": "なぶら家 VENUS ウェヌス 1.1g #シルバーエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74925,5 +74925,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-19T06:41:01+03:00"
+ "last_check": "2026-10-19T06:46:05+03:00"
 }
