@@ -64283,18 +64283,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161101": {
-   "name": "ALFRED クリアアルフ 0.8g #T-02 フロッグクリアオリーブ",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161101",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161087": {
    "name": "ALFRED クリアアルフ 0.8g #T-01 マットクリアオリーブ",
    "price": null,
@@ -66187,6 +66175,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835465",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835463": {
+   "name": "サウリブ Shaath P シャース ピー 1.1g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835463",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74785,5 +74785,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T12:55:51+03:00"
+ "last_check": "2026-10-20T13:01:26+03:00"
 }
