@@ -1386,13 +1386,6 @@
    "price": 627,
    "stock": 3
   },
-  "53360101GLU01459": {
-   "name": "1089工房 さかさにょろスリム  45FS  #スプラッシュグロー 45mm 3.1g ファストシンキング",
-   "spec": "#スプラッシュグロー 45mm 3.1g ファストシンキング オオツカオリカラ",
-   "code": "4580764716356",
-   "price": 1760,
-   "stock": 0
-  },
   "53360101GL201151": {
    "name": "クマタニトラスト ミナモブレイカー  #白骨 36mm　2.9g フローティング",
    "spec": "#白骨 36mm 2.9g フローティング",
@@ -37056,7 +37049,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/バーサスvs-355ss",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -66076,18 +66069,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh191995650": {
-   "name": "ロデオクラフト ノア NOA-S 1.4g #US-9 ブラックMグリーン【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995650",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh191995631": {
    "name": "ロデオクラフト ノア NOA-S 1.0g #US-13 ピンクゴールド【有頂天】",
    "price": null,
@@ -66240,6 +66221,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835463",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835280": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835280",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74838,5 +74831,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T14:25:55+03:00"
+ "last_check": "2026-10-20T14:31:35+03:00"
 }
