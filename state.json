@@ -64234,18 +64234,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262084": {
-   "name": "スミス くるん Type1 1.1g #12 オリーブドラブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262084",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262079": {
    "name": "スミス くるん Type1 1.1g #11 マットブラウン",
    "price": null,
@@ -65586,6 +65574,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268756",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192268378": {
+   "name": "ALFRED ALF duralumin 0.9g #6 ホットピンク",
+   "price": null,
+   "price_text": "630 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192268378",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74904,5 +74904,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T07:55:56+03:00"
+ "last_check": "2026-10-20T08:01:18+03:00"
 }
