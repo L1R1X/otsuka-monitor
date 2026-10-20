@@ -64426,6 +64426,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161270": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #20 ヤジーシルホワ UV【TIMON】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161270",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161224": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #19 ウズラ【TIMON】",
    "price": null,
@@ -64438,6 +64450,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161204": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #18 ヨッシー UV",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193161191": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #17 GAL",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161191",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161144": {
    "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
    "price": null,
@@ -64446,6 +64482,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161144",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193161143": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #16 PAPA オレ",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161143",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66270,54 +66318,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995626",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191995617": {
-   "name": "ロデオクラフト ノア NOA-S 1.0g #US-10 イエロー/ミルクココア【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995617",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191995608": {
-   "name": "ロデオクラフト ノア NOA-S 1.0g #US-8 イエロー/OR 裏OR【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995608",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191974098": {
-   "name": "ValkeIN シャイラ 1.2g #GLT4 ゴッドブレス",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191974098",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191974091": {
-   "name": "ValkeIN シャイラ 1.2g #GLT3 ウインディー",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191974091",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T04:41:50+03:00"
+ "last_check": "2026-10-20T04:45:59+03:00"
 }
