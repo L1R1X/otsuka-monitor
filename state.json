@@ -65590,18 +65590,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192268378": {
-   "name": "ALFRED ALF duralumin 0.9g #6 ホットピンク",
-   "price": null,
-   "price_text": "630 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192268378",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192189443": {
    "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
    "price": null,
@@ -66306,6 +66294,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974091",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974080": {
+   "name": "ValkeIN シャイラ 1.2g #GLT2 ジャポネスク",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974080",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74904,5 +74904,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T07:50:59+03:00"
+ "last_check": "2026-10-20T07:55:56+03:00"
 }
