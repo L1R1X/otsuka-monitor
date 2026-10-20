@@ -698,7 +698,7 @@
    "spec": "#F.S01グローSP 0.9g 熊谷店オリカラ",
    "code": "4573672480600",
    "price": 572,
-   "stock": 3
+   "stock": 2
   },
   "53360101GLK01606": {
    "name": "アイジェットリンク アイジェットソード 1.4g",
@@ -74692,6 +74692,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194070500": {
+   "name": "スミス へドン CHVCラッキー13",
+   "price": null,
+   "price_text": "2,970 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194070500",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -74763,20 +74775,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki191533288": {
-   "name": "バークレイ マックスセント フラックスギル3.5インチ",
-   "price": null,
-   "price_text": "1,287 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191533288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T13:31:27+03:00"
+ "last_check": "2026-10-20T13:35:58+03:00"
 }
