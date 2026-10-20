@@ -64390,18 +64390,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161270": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #20 ヤジーシルホワ UV【TIMON】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161270",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161224": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #19 ウズラ【TIMON】",
    "price": null,
@@ -65598,6 +65586,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268929",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192268756": {
+   "name": "ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％",
+   "price": null,
+   "price_text": "800 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192268756",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T06:31:15+03:00"
+ "last_check": "2026-10-20T06:35:58+03:00"
 }
