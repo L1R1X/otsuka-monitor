@@ -59266,18 +59266,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193891027": {
-   "name": "DAIWA ワブクラJr.25SS DR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193891027",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193891021": {
    "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
    "price": null,
@@ -59346,30 +59334,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890960",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890951": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890951",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890941": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩グロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890941",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62722,6 +62686,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816537": {
+   "name": "ValkeIN ヘイズ DD #ARK5",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816530": {
+   "name": "ValkeIN ヘイズ DD #ARK3",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -62754,18 +62754,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019161",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019153": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019153",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -64290,18 +64278,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262004",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193261995": {
-   "name": "スミス くるん Type1 1.1g #04 クリアーレッド",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261995",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66318,6 +66294,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995608",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974098": {
+   "name": "ValkeIN シャイラ 1.2g #GLT4 ゴッドブレス",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974098",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974091": {
+   "name": "ValkeIN シャイラ 1.2g #GLT3 ウインディー",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974091",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T06:05:55+03:00"
+ "last_check": "2026-10-20T06:11:13+03:00"
 }
