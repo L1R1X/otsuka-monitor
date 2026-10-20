@@ -64725,18 +64725,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192650841": {
-   "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192650841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650788": {
    "name": "Deep Paradox TYSON 1.3g #14 ソルティマジョーラ",
    "price": null,
@@ -66233,6 +66221,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835280",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191835262": {
+   "name": "サウリブ Shaath P シャース ピー 0.8g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835262",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74831,5 +74831,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T15:16:07+03:00"
+ "last_check": "2026-10-20T15:21:18+03:00"
 }
