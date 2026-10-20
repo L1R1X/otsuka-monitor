@@ -74647,18 +74647,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194014965": {
-   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
-   "price": null,
-   "price_text": "91,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194014965",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -74754,8 +74742,20 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki191929173": {
+   "name": "BKK OCDタックルシステム スモール",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191929173",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T09:31:11+03:00"
+ "last_check": "2026-10-20T09:36:00+03:00"
 }
