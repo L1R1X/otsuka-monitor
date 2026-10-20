@@ -3274,7 +3274,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/drift-spin",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74558,6 +74558,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki191779576": {
+   "name": "フォーカス スウェイ1.7ｇ",
+   "price": null,
+   "price_text": "660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191779576",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194024128": {
    "name": "ロデオクラフト ドリフトスピン42",
    "price": null,
@@ -74686,18 +74698,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193890637",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192687425": {
-   "name": "ディープパラドックス タイソン（TYSON）1.3g【全15色セット】",
-   "price": null,
-   "price_text": "9,900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192687425",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74848,5 +74848,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T08:35:57+03:00"
+ "last_check": "2026-10-20T08:40:56+03:00"
 }
