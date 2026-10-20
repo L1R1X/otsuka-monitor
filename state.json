@@ -64234,18 +64234,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262058": {
-   "name": "スミス くるん Type1 1.1g #08 カラシ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262052": {
    "name": "スミス くるん Type1 1.1g #07 FLライムチャート",
    "price": null,
@@ -64278,6 +64266,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262004",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193261995": {
+   "name": "スミス くるん Type1 1.1g #04 クリアーレッド",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193261995",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -64414,6 +64414,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161204": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #18 ヨッシー UV",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161191": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #17 GAL",
    "price": null,
@@ -64434,6 +64446,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161144",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193161143": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #16 PAPA オレ",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161143",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65578,18 +65602,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192268756": {
-   "name": "ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％",
-   "price": null,
-   "price_text": "800 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192268756",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192268378": {
    "name": "ALFRED ALF duralumin 0.9g #6 ホットピンク",
    "price": null,
@@ -66306,18 +66318,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974091",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191974080": {
-   "name": "ValkeIN シャイラ 1.2g #GLT2 ジャポネスク",
-   "price": null,
-   "price_text": "475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191974080",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T06:25:51+03:00"
+ "last_check": "2026-10-20T06:31:15+03:00"
 }
