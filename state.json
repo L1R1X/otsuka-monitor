@@ -59626,6 +59626,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193883395": {
+   "name": "ロデオクラフト USSA ウッサ XS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193883395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193883388": {
    "name": "ロデオクラフト USSA ウッサ XS #21ノブ",
    "price": null,
@@ -62706,18 +62718,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816534",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816530": {
-   "name": "ValkeIN ヘイズ DD #ARK3",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T06:16:00+03:00"
+ "last_check": "2026-10-20T06:21:12+03:00"
 }
