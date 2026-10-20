@@ -873,42 +873,42 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.6g オオツカオリカラ",
    "code": "4582782654641",
    "price": 638,
-   "stock": 59
+   "stock": 58
   },
   "53360101GLZ01247": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ジュゲム 0.6g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.6g オオツカオリカラ",
    "code": "4582782654658",
    "price": 638,
-   "stock": 53
+   "stock": 52
   },
   "53360101GLZ01245": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ソルティアルバス 0.6g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.6g オオツカオリカラ",
    "code": "4582782654634",
    "price": 638,
-   "stock": 71
+   "stock": 68
   },
   "53360101GLZ01250": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー MSミルキーウェイ 0.8g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.8g オオツカオリカラ",
    "code": "4582782654610",
    "price": 638,
-   "stock": 59
+   "stock": 58
   },
   "53360101GLZ01248": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ジュゲム 0.8g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.8g オオツカオリカラ",
    "code": "4582782654627",
    "price": 638,
-   "stock": 73
+   "stock": 72
   },
   "53360101GLZ01249": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ソルティアルバス 0.8g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.8g オオツカオリカラ",
    "code": "4582782654603",
    "price": 638,
-   "stock": 62
+   "stock": 59
   },
   "53360101GLZ01239": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー MSミルキーウェイ 0.95g",
@@ -59218,18 +59218,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985488": {
-   "name": "TIMON ちびフッテンFS #ラムレーズン",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985488",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985473": {
    "name": "TIMON ちびフッテンFS #蛍光ピンク",
    "price": null,
@@ -62722,6 +62710,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191835507": {
+   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835507",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -64426,18 +64426,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161204": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #18 ヨッシー UV",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161204",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161144": {
    "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
    "price": null,
@@ -64446,18 +64434,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161144",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193161143": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #16 PAPA オレ",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161143",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66318,6 +66294,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995608",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974098": {
+   "name": "ValkeIN シャイラ 1.2g #GLT4 ゴッドブレス",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974098",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974091": {
+   "name": "ValkeIN シャイラ 1.2g #GLT3 ウインディー",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974091",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T07:11:01+03:00"
+ "last_check": "2026-10-20T07:16:21+03:00"
 }
