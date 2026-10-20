@@ -59109,18 +59109,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985553": {
-   "name": "TIMON ちびフッテンFS #ヤジーフロートメロン",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985553",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985519": {
    "name": "TIMON ちびフッテンFS #W蛍光パンチ",
    "price": null,
@@ -62633,6 +62621,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835507",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816541": {
+   "name": "ValkeIN ヘイズ DD #ARK6",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816541",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74831,5 +74831,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T16:23:44+03:00"
+ "last_check": "2026-10-20T16:28:33+03:00"
 }
