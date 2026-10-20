@@ -5299,7 +5299,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hyper-coated-pe-scissors-ハイパーコートpeシザース",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -10375,7 +10375,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/spool-case-スプールケースaac-76",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -10531,7 +10531,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/presso-lure-catcher-set-プレッソフルアーキャッチャーセット",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74785,5 +74785,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T11:45:58+03:00"
+ "last_check": "2026-10-20T11:50:59+03:00"
 }
