@@ -64103,18 +64103,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262091": {
-   "name": "スミス くるん Type1 1.1g #13 マットブラック",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262091",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262052": {
    "name": "スミス くるん Type1 1.1g #07 FLライムチャート",
    "price": null,
@@ -66187,6 +66175,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191857920",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191857914": {
+   "name": "ValkeIN ハイバースト2.4g #1 ゴールド",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191857914",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74785,5 +74785,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T10:51:05+03:00"
+ "last_check": "2026-10-20T10:55:54+03:00"
 }
