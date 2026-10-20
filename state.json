@@ -74687,6 +74687,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194068816": {
+   "name": "デプス サカマタシャッド4インチ",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068816",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki190861522": {
    "name": "エバーグリーン ブルポイントシャッド",
    "price": null,
@@ -74770,20 +74782,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193762943": {
-   "name": "バークレイ マックスセント クラッドクロー4インチ",
-   "price": null,
-   "price_text": "1,287 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193762943",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T12:05:52+03:00"
+ "last_check": "2026-10-20T12:11:02+03:00"
 }
