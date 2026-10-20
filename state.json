@@ -64414,18 +64414,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161204": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #18 ヨッシー UV",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161204",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161191": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #17 GAL",
    "price": null,
@@ -66318,6 +66306,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974091",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191974080": {
+   "name": "ValkeIN シャイラ 1.2g #GLT2 ジャポネスク",
+   "price": null,
+   "price_text": "475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191974080",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T06:11:13+03:00"
+ "last_check": "2026-10-20T06:16:00+03:00"
 }
