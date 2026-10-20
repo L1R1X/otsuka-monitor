@@ -2380,6 +2380,42 @@
    "price": 1650,
    "stock": 15
   },
+  "tr9199253487830": {
+   "name": "Sway（スウェイ）",
+   "price": null,
+   "price_text": "8 180 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/sway-スウェイ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15392065028310": {
+   "name": "GOD HANDS Spoon 2026 Autumn Color（ゴッドハンズスプーン2026オータムカラー）",
+   "price": null,
+   "price_text": "573 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/god-hands-spoon-2026-autumn-color-ゴッドハンズスプーン2026オータムカラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15391976620246": {
+   "name": "KURUN（くるん）",
+   "price": null,
+   "price_text": "773 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/kurun-くるん",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15389448995030": {
    "name": "JOINT BROTHERS（ジョイントブラザーズ）",
    "price": null,
@@ -74802,5 +74838,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T14:16:01+03:00"
+ "last_check": "2026-10-20T14:21:02+03:00"
 }
