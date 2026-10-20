@@ -726,7 +726,7 @@
    "spec": "#F.S01グローSP 0.9g 熊谷店オリカラ",
    "code": "4573672480600",
    "price": 572,
-   "stock": 16
+   "stock": 5
   },
   "53360101GLK01606": {
    "name": "アイジェットリンク アイジェットソード 1.4g",
@@ -64474,18 +64474,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161143": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #16 PAPA オレ",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161135": {
    "name": "ALFRED クリアアルフ 0.8g #T-06 イトミミズ",
    "price": null,
@@ -66318,6 +66306,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995617",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995608": {
+   "name": "ロデオクラフト ノア NOA-S 1.0g #US-8 イエロー/OR 裏OR【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995608",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74916,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T05:55:58+03:00"
+ "last_check": "2026-10-20T06:01:36+03:00"
 }
