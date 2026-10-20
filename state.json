@@ -64238,18 +64238,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193261969": {
-   "name": "スミス くるん Type1 1.1g #02 クリアーピンクBP",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193248274": {
    "name": "ウォーターランド レンゲ 4g #ORG",
    "price": null,
@@ -66250,6 +66238,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191974044",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191967840": {
+   "name": "ロデオクラフト QM キューム 3.3g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191967840",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74848,5 +74848,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-20T09:05:56+03:00"
+ "last_check": "2026-10-20T09:10:56+03:00"
 }
