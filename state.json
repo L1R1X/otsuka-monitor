@@ -17822,7 +17822,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/splitring-pincette-ex-スプリットリングピンセットex",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -30811,7 +30811,7 @@
    "tag": ""
   },
   "zk10425094177042": {
-   "name": "ミディアムクラピーGS2 9月18日到着予定",
+   "name": "ミディアムクラピーGS2",
    "price": null,
    "price_text": "5 000 ¥",
    "spec": "",
@@ -31461,7 +31461,7 @@
   "zk10370866610450": {
    "name": "レム23HFSR1.0g",
    "price": null,
-   "price_text": "1 584 ¥",
+   "price_text": "1 232 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -36248,5 +36248,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T16:58:46+03:00"
+ "last_check": "2026-10-21T17:03:42+03:00"
 }
