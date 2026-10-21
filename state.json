@@ -2415,18 +2415,6 @@
    "price": 1650,
    "stock": 15
   },
-  "tr15394906439894": {
-   "name": "B-SPA Tik（ビースパティック）",
-   "price": null,
-   "price_text": "841 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/b-spa-tik-ビースパティック",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr15394884321494": {
    "name": "esa Pellet color（エサペレットカラー）",
    "price": null,
@@ -11412,6 +11400,18 @@
    "shop": "t-Route",
    "link": "https://t-route.net/products/croto-dr-hf-クロト-dr-hf",
    "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9047825187030": {
+   "name": "25IPRIMI（25イプリミ）",
+   "price": null,
+   "price_text": "20 820 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/予約商品-2025年9月お届け予定-2025-autumn-daiwa-new-rod-reel-2025秋-ダイワ-新ロッド-リール",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74921,5 +74921,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T14:13:22+03:00"
+ "last_check": "2026-10-21T14:17:48+03:00"
 }
