@@ -62789,18 +62789,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019086": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #1 ゴールド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019086",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959772": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #スケスケオリーブハーフ",
    "price": null,
@@ -64565,18 +64553,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193261969": {
-   "name": "スミス くるん Type1 1.1g #02 クリアーピンクBP",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193261948": {
    "name": "スミス くるん Type1 1.1g #01 FLピンク",
    "price": null,
@@ -66289,6 +66265,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006627": {
+   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006627",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T10:28:20+03:00"
+ "last_check": "2026-10-21T10:33:27+03:00"
 }
