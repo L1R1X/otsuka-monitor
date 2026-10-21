@@ -61078,18 +61078,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873982": {
-   "name": "ロデオクラフト ファットウッサJr XS #20安塚",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873982",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873921": {
    "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
    "price": null,
@@ -62682,6 +62670,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847743",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835560": {
+   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835560",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -66270,18 +66270,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995738",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191995734": {
-   "name": "ロデオクラフト ノア NOA-B 2.2g #US-12 ブラックチャート【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995734",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74880,5 +74868,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T07:37:49+03:00"
+ "last_check": "2026-10-21T07:43:16+03:00"
 }
