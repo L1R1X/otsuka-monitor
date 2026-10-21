@@ -66007,6 +66007,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh191995650": {
+   "name": "ロデオクラフト ノア NOA-S 1.4g #US-9 ブラックMグリーン【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995650",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh191995631": {
    "name": "ロデオクラフト ノア NOA-S 1.0g #US-13 ピンクゴールド【有頂天】",
    "price": null,
@@ -66207,18 +66219,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh191835079": {
-   "name": "なぶら家 VENUS ウェヌス 1.4g #ゴールドエンド【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835079",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74817,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T04:28:19+03:00"
+ "last_check": "2026-10-21T04:33:37+03:00"
 }
