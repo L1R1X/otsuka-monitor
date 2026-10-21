@@ -866,7 +866,7 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.95g オオツカオリカラ",
    "code": "4582782654702",
    "price": 638,
-   "stock": 17
+   "stock": 18
   },
   "53360101GLZ01242": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ジュゲム 0.95g",
@@ -874,6 +874,13 @@
    "code": "4582782654719",
    "price": 638,
    "stock": 42
+  },
+  "53360101GLZ01240": {
+   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
+   "code": "4582782654672",
+   "price": 638,
+   "stock": 1
   },
   "53360101GLZ01241": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
@@ -886,6 +893,13 @@
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ソルティアルバス 1.2g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 1.2g オオツカオリカラ",
    "code": "4582782654665",
+   "price": 638,
+   "stock": 2
+  },
+  "53360101GLZ01238": {
+   "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー MSミルキーウェイ 1.35g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.35g オオツカオリカラ",
+   "code": "4582782654597",
    "price": 638,
    "stock": 2
   },
@@ -995,15 +1009,15 @@
    "stock": 19
   },
   "53360101GL000352": {
-   "name": "ヤリエ スプーン TフレッシュEVO 0.8g",
-   "spec": "#伊勢崎店オリカラ ピンクロビン 0.8g",
+   "name": "ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ピンクロビン 0.8g",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 0.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000352 \"ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ピンクロビン 0.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 0.8g",
    "code": "4511135239808",
    "price": 550,
    "stock": 1
   },
   "53360101GL000376": {
    "name": "ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ブルージェイ 0.8g",
-   "spec": "#伊勢崎店オリカラ ブルージェイ 0.8g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 0.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000376 \"ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ブルージェイ 0.8g \")\n\n#伊勢崎店オリカラ ブルージェイ 0.8g オオツカオリカラ",
    "code": "4511135239693",
    "price": 550,
    "stock": 16
@@ -62753,6 +62767,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019176": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #97 クリアーレッド",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019176",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019172": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #62 安塚リクエスト",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019172",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019169": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
    "price": null,
@@ -62773,6 +62811,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019166",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019165": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #41 ガチャピン",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019165",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019161": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #39 マットチョコレート",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019161",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019158": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #33 スーパーダークオリーブ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019158",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019156": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019156",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66253,90 +66339,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087666": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087661": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087661",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192079125": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192079125",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006627": {
-   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006627",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74935,5 +74937,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T11:04:02+03:00"
+ "last_check": "2026-10-21T11:08:20+03:00"
 }
