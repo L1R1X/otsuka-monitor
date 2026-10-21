@@ -166,35 +166,35 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02356 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g \")\n\n#伊勢崎店オリカラ 家畜オリバリン 2.8g オオツカオリカラ",
    "code": "4573265536295",
    "price": 627,
-   "stock": 35
+   "stock": 36
   },
   "53360101GKH00357": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ カカポ 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00357 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ カカポ 2.8g \")\n\n#伊勢崎店オリカラ カカポ 2.8g オオツカオリカラ",
    "code": "4573265536288",
    "price": 627,
-   "stock": 29
+   "stock": 30
   },
   "53360101GLK01581": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コバタン 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK01581 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コバタン 2.8g \")\n\n#伊勢崎店オリカラ コバタン 2.8g",
    "code": "4573640550151",
    "price": 627,
-   "stock": 2
+   "stock": 3
   },
   "53360101GKH00358": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00358 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g \")\n\n#伊勢崎店オリカラ コンゴウ 2.8g オオツカオリカラ",
    "code": "4573265536264",
    "price": 627,
-   "stock": 12
+   "stock": 13
   },
   "53360101GKS00856": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 11
+   "stock": 12
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -61157,18 +61157,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873954": {
-   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873954",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873942": {
    "name": "ロデオクラフト ファットウッサJr XS #さちおの茶",
    "price": null,
@@ -62689,6 +62677,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991206",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991192": {
+   "name": "ムカイ UpWard残無35S #レッドバグ【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991192",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T06:08:11+03:00"
+ "last_check": "2026-10-21T06:12:04+03:00"
 }
