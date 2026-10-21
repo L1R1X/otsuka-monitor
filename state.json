@@ -61097,6 +61097,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192874032": {
+   "name": "ロデオクラフト ファットウッサJr XS #21ノブ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874032",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192874028": {
    "name": "ロデオクラフト ファットウッサJr XS #ラーテル",
    "price": null,
@@ -61121,6 +61133,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192874006": {
+   "name": "ロデオクラフト ファットウッサJr XS #19早乙女",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192873982": {
    "name": "ロデオクラフト ファットウッサJr XS #20安塚",
    "price": null,
@@ -61129,6 +61153,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873982",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873954": {
+   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873954",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873942": {
+   "name": "ロデオクラフト ファットウッサJr XS #さちおの茶",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873942",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873934": {
+   "name": "ロデオクラフト ファットウッサJr XS #S.M VI C",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873934",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62629,66 +62689,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991206",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991192": {
-   "name": "ムカイ UpWard残無35S #レッドバグ【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991192",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885062": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #18 プレベリー【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885046": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885046",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847773": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847773",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847768": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T06:03:32+03:00"
+ "last_check": "2026-10-21T06:08:11+03:00"
 }
