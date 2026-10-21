@@ -1939,6 +1939,13 @@
    "price": 1540,
    "stock": 79
   },
+  "53360101GLJ01412": {
+   "name": "ラッキークラフト クラピー FCT ミディアム #伊勢崎店オリカラ バーマキ 34mm 2.8g フローティング",
+   "spec": "#伊勢崎店オリカラ バーマキ 34mm 2.8g フローティング 伊勢崎店オリカラ",
+   "code": "4514447313044",
+   "price": 1540,
+   "stock": 70
+  },
   "53360101G0824988": {
    "name": "ラッキークラフト フラットクラピー MR",
    "spec": "#オオツカオリカラ マホガニーブラウン 35mm 2.4g フローティング",
@@ -2119,14 +2126,14 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 140
+   "stock": 141
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512228",
    "price": 1925,
-   "stock": 99
+   "stock": 100
   },
   "53360101GLX01272": {
    "name": "ロデオクラフト ウッサ XS",
@@ -62715,18 +62722,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019159": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019159",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019156": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
    "price": null,
@@ -66275,6 +66270,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995738",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995734": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-12 ブラックチャート【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995734",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74873,5 +74880,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T07:33:01+03:00"
+ "last_check": "2026-10-21T07:37:49+03:00"
 }
