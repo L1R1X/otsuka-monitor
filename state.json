@@ -64603,6 +64603,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193261948": {
+   "name": "スミス くるん Type1 1.1g #01 FLピンク",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193261948",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193248274": {
    "name": "ウォーターランド レンゲ 4g #ORG",
    "price": null,
@@ -64743,6 +64755,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161116",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193161101": {
+   "name": "ALFRED クリアアルフ 0.8g #T-02 フロッグクリアオリーブ",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161101",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66195,18 +66219,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175024",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175006": {
-   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175006",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74805,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T04:43:56+03:00"
+ "last_check": "2026-10-21T04:47:48+03:00"
 }
