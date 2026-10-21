@@ -65117,6 +65117,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192653226": {
+   "name": "Deep Paradox TYSON 1.3g #全色セット15枚入り",
+   "price": null,
+   "price_text": "9,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653226",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192650788": {
    "name": "Deep Paradox TYSON 1.3g #14 ソルティマジョーラ",
    "price": null,
@@ -66277,18 +66289,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192079125": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192079125",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74609,6 +74609,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194085569": {
+   "name": "フルクリップ ジェットグライドIHP (テープ幅38mm)",
+   "price": null,
+   "price_text": "4,851 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194085569",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191779576": {
    "name": "フォーカス スウェイ1.7ｇ",
    "price": null,
@@ -74725,18 +74737,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193983757",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189267385": {
-   "name": "ムカイ 陰キャ、釣りにハマBIG ONE SELECT",
-   "price": null,
-   "price_text": "1,540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189267385",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T10:18:27+03:00"
+ "last_check": "2026-10-21T10:23:07+03:00"
 }
