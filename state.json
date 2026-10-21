@@ -61109,6 +61109,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192874036": {
+   "name": "ロデオクラフト ファットウッサJr XS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874036",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192874032": {
    "name": "ロデオクラフト ファットウッサJr XS #21ノブ",
    "price": null,
@@ -61157,18 +61169,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874006": {
-   "name": "ロデオクラフト ファットウッサJr XS #19早乙女",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874006",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873982": {
    "name": "ロデオクラフト ファットウッサJr XS #20安塚",
    "price": null,
@@ -61177,6 +61177,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873982",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873954": {
+   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873954",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62677,18 +62689,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991579",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991237": {
-   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991237",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -64213,18 +64213,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193463633",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193463606": {
-   "name": "オフィスユーカリ B-SPA Tik 2.5g #S3 サーキットUVステルス",
-   "price": null,
-   "price_text": "845 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463606",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66289,6 +66277,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:52:37+03:00"
+ "last_check": "2026-10-21T05:58:29+03:00"
 }
