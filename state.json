@@ -62691,18 +62691,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019176": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #97 クリアーレッド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019176",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019169": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
    "price": null,
@@ -62723,18 +62711,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019166",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019161": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #39 マットチョコレート",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019161",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -64611,18 +64587,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161144": {
-   "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161144",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161135": {
    "name": "ALFRED クリアアルフ 0.8g #T-06 イトミミズ",
    "price": null,
@@ -64643,18 +64607,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161129",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193161124": {
-   "name": "ALFRED クリアアルフ 0.8g #T-04 撒き餌クリアブラウン",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161124",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66275,6 +66227,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006614": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006614",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006598": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM茶トラ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006598",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006584": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LMみけ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006584",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995738": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-13 ピンクゴールド【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995738",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74873,5 +74873,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T07:07:07+03:00"
+ "last_check": "2026-10-21T07:12:39+03:00"
 }
