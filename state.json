@@ -2105,7 +2105,7 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512273",
    "price": 1870,
-   "stock": 41
+   "stock": 40
   },
   "53360101GLX01216": {
    "name": "ロデオクラフト ウッサ S #高崎店オリジナルカラー 神姫 30mm 2.7g シンキング",
@@ -2140,7 +2140,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512228",
    "price": 1925,
-   "stock": 100
+   "stock": 101
   },
   "53360101GLX01272": {
    "name": "ロデオクラフト ウッサ XS",
@@ -62729,30 +62729,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019156": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019156",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019154": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #24 ダークオリーブ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019154",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019153": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
    "price": null,
@@ -62797,30 +62773,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019142": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #12 X.Oオリーブ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019142",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019140": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019140",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66289,6 +66241,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087661": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087661",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T09:36:19+03:00"
+ "last_check": "2026-10-21T09:38:48+03:00"
 }
