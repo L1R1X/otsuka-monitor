@@ -2422,6 +2422,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15394884321494": {
+   "name": "esa Pellet color（エサペレットカラー）",
+   "price": null,
+   "price_text": "1 450 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/esa-pellet-color-エサペレットカラー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr9199253487830": {
    "name": "Sway（スウェイ）",
    "price": null,
@@ -62974,18 +62986,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193959740": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #頂鱒の素",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959735": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #ピンキー",
    "price": null,
@@ -64578,18 +64578,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262072",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193262066": {
-   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262066",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66318,6 +66306,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099385": {
+   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099363": {
+   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099363",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74916,5 +74928,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T13:17:45+03:00"
+ "last_check": "2026-10-21T13:22:41+03:00"
 }
