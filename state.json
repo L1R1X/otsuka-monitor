@@ -62911,18 +62911,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019143": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019142": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #12 X.Oオリーブ",
    "price": null,
@@ -62931,18 +62919,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019142",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019140": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019140",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66351,6 +66327,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175024",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175006": {
+   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74949,5 +74949,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T11:17:41+03:00"
+ "last_check": "2026-10-21T11:23:01+03:00"
 }
