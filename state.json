@@ -44420,18 +44420,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193889332": {
-   "name": "FPBルアーズ ビーファンク 0.8g #15 ジンクリアブルー",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889332",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193889326": {
    "name": "FPBルアーズ ビーファンク 0.8g #14 蛍火",
    "price": null,
@@ -44572,18 +44560,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193889270",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193889243": {
-   "name": "FPBルアーズ ビーゼロ 0.9g #15 ジンクリアブルー",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889243",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -47800,6 +47776,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006627",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006619": {
+   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006619",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006614": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006614",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56398,5 +56398,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T15:48:16+03:00"
+ "last_check": "2026-10-21T15:52:31+03:00"
 }
