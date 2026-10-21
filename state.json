@@ -2418,7 +2418,7 @@
   "tr15394906439894": {
    "name": "B-SPA Tik（ビースパティック）",
    "price": null,
-   "price_text": "0 ¥",
+   "price_text": "841 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -11412,18 +11412,6 @@
    "shop": "t-Route",
    "link": "https://t-route.net/products/croto-dr-hf-クロト-dr-hf",
    "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "tr9047825187030": {
-   "name": "25IPRIMI（25イプリミ）",
-   "price": null,
-   "price_text": "20 820 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/予約商品-2025年9月お届け予定-2025-autumn-daiwa-new-rod-reel-2025秋-ダイワ-新ロッド-リール",
-   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -61095,18 +61083,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874075": {
-   "name": "ロデオクラフト ファットウッサJr XS #クリアーピンク",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874075",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62735,6 +62711,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835507",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816541": {
+   "name": "ValkeIN ヘイズ DD #ARK6",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816541",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74933,5 +74921,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T14:08:10+03:00"
+ "last_check": "2026-10-21T14:13:22+03:00"
 }
