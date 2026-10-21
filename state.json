@@ -61147,18 +61147,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873977": {
-   "name": "ロデオクラフト ファットウッサJr XS #黒まんじゅう",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873977",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873971": {
    "name": "ロデオクラフト ファットウッサJr XS #2015ノブカラー",
    "price": null,
@@ -62619,6 +62607,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993050",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191992983": {
+   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191992983",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -64483,30 +64483,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262066": {
-   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262066",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193262058": {
-   "name": "スミス くるん Type1 1.1g #08 カラシ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262052": {
    "name": "スミス くるん Type1 1.1g #07 FLライムチャート",
    "price": null,
@@ -66219,6 +66195,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087672": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74817,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:18:09+03:00"
+ "last_check": "2026-10-21T05:22:45+03:00"
 }
