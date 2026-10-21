@@ -60991,18 +60991,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192880595": {
-   "name": "ロデオクラフト ファットウッサJr XS #FOCUSオリーブ C",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192880595",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192880374": {
    "name": "ロデオクラフト ファットウッサJr XS #蛍光ピンク",
    "price": null,
@@ -61107,18 +61095,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873982",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192873954": {
-   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873954",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62623,6 +62599,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191991237": {
+   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991237",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991206": {
+   "name": "ムカイ UpWard残無35S #マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991206",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -62643,18 +62643,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019176",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019172": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #62 安塚リクエスト",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019172",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66219,6 +66207,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74817,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:33:07+03:00"
+ "last_check": "2026-10-21T05:38:07+03:00"
 }
