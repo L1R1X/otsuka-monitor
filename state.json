@@ -74609,6 +74609,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194082887": {
+   "name": "スミス くるん",
+   "price": null,
+   "price_text": "880 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194082887",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194024128": {
    "name": "ロデオクラフト ドリフトスピン42",
    "price": null,
@@ -74725,18 +74737,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193980287",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193890544": {
-   "name": "FPBルアーズ ビーゼロ 0.9g",
-   "price": null,
-   "price_text": "564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193890544",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T09:38:48+03:00"
+ "last_check": "2026-10-21T09:42:42+03:00"
 }
