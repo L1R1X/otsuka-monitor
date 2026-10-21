@@ -64833,6 +64833,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161144": {
+   "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161144",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161135": {
    "name": "ALFRED クリアアルフ 0.8g #T-06 イトミミズ",
    "price": null,
@@ -64853,6 +64865,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161129",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193161124": {
+   "name": "ALFRED クリアアルフ 0.8g #T-04 撒き餌クリアブラウン",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161124",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66341,30 +66365,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192113833": {
-   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
-   "price": null,
-   "price_text": "12,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099385": {
-   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099385",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74963,5 +74963,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T12:12:37+03:00"
+ "last_check": "2026-10-21T12:18:11+03:00"
 }
