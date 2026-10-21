@@ -62769,18 +62769,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019176": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #97 クリアーレッド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019176",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019172": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #62 安塚リクエスト",
    "price": null,
@@ -66353,6 +66341,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74951,5 +74951,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T12:38:05+03:00"
+ "last_check": "2026-10-21T12:43:14+03:00"
 }
