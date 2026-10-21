@@ -819,6 +819,76 @@
    "price": 583,
    "stock": 22
   },
+  "53360101GLZ01246": {
+   "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー MSミルキーウェイ 0.6g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.6g オオツカオリカラ",
+   "code": "4582782654641",
+   "price": 638,
+   "stock": 56
+  },
+  "53360101GLZ01247": {
+   "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ジュゲム 0.6g",
+   "spec": "#高崎店オリジナルカラー ジュゲム 0.6g オオツカオリカラ",
+   "code": "4582782654658",
+   "price": 638,
+   "stock": 50
+  },
+  "53360101GLZ01245": {
+   "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ソルティアルバス 0.6g",
+   "spec": "#高崎店オリジナルカラー ソルティアルバス 0.6g オオツカオリカラ",
+   "code": "4582782654634",
+   "price": 638,
+   "stock": 67
+  },
+  "53360101GLZ01250": {
+   "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー MSミルキーウェイ 0.8g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.8g オオツカオリカラ",
+   "code": "4582782654610",
+   "price": 638,
+   "stock": 54
+  },
+  "53360101GLZ01248": {
+   "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ジュゲム 0.8g",
+   "spec": "#高崎店オリジナルカラー ジュゲム 0.8g オオツカオリカラ",
+   "code": "4582782654627",
+   "price": 638,
+   "stock": 68
+  },
+  "53360101GLZ01249": {
+   "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ソルティアルバス 0.8g",
+   "spec": "#高崎店オリジナルカラー ソルティアルバス 0.8g オオツカオリカラ",
+   "code": "4582782654603",
+   "price": 638,
+   "stock": 56
+  },
+  "53360101GLZ01239": {
+   "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー MSミルキーウェイ 0.95g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.95g オオツカオリカラ",
+   "code": "4582782654702",
+   "price": 638,
+   "stock": 23
+  },
+  "53360101GLZ01242": {
+   "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ジュゲム 0.95g",
+   "spec": "#高崎店オリジナルカラー ジュゲム 0.95g オオツカオリカラ",
+   "code": "4582782654719",
+   "price": 638,
+   "stock": 46
+  },
+  "53360101GLZ01240": {
+   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
+   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
+   "code": "4582782654672",
+   "price": 638,
+   "stock": 2
+  },
+  "53360101GLZ01241": {
+   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
+   "spec": "#高崎店オリジナルカラー ジュゲム 1.2g オオツカオリカラ",
+   "code": "4582782654689",
+   "price": 638,
+   "stock": 29
+  },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
    "spec": "#伊勢崎店オリカラ 家畜パール 2.2g 伊勢崎店オリカラ",
@@ -940,322 +1010,322 @@
   },
   "53360101GKG01197": {
    "name": "ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ペレゴン 0.8g",
-   "spec": "#伊勢崎店オリカラ ペレゴン 0.8g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 0.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01197 \"ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ペレゴン 0.8g \")\n\n#伊勢崎店オリカラ ペレゴン 0.8g オオツカオリカラ",
    "code": "4511135998590",
    "price": 550,
    "stock": 6
   },
   "53360101GL000378": {
    "name": "ヤリエ スプーン TフレッシュEVO 1.1g #伊勢崎店オリカラ ブルージェイ 1.1g",
-   "spec": "#伊勢崎店オリカラ ブルージェイ 1.1g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 1.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000378 \"ヤリエ スプーン TフレッシュEVO 1.1g #伊勢崎店オリカラ ブルージェイ 1.1g \")\n\n#伊勢崎店オリカラ ブルージェイ 1.1g オオツカオリカラ",
    "code": "4511135239709",
    "price": 550,
    "stock": 10
   },
   "53360101GKG01204": {
    "name": "ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店 オリカラ 家畜パール 1.5g",
-   "spec": "#伊勢崎店 オリカラ 家畜パール 1.5g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 1.5g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01204 \"ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店 オリカラ 家畜パール 1.5g \")\n\n#伊勢崎店 オリカラ 家畜パール 1.5g オオツカオリカラ",
    "code": "4511135998477",
    "price": 550,
    "stock": 16
   },
   "53360101GKG01203": {
    "name": "ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店 オリカラ ペレゴン 1.5g",
-   "spec": "#伊勢崎店 オリカラ ペレゴン 1.5g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 1.5g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01203 \"ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店 オリカラ ペレゴン 1.5g \")\n\n#伊勢崎店 オリカラ ペレゴン 1.5g オオツカオリカラ",
    "code": "4511135998484",
    "price": 550,
    "stock": 9
   },
   "53360101GL000375": {
    "name": "ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店オリカラ ブルージェイ 1.5g",
-   "spec": "#伊勢崎店オリカラ ブルージェイ 1.5g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 1.5g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000375 \"ヤリエ スプーン TフレッシュEVO 1.5g #伊勢崎店オリカラ ブルージェイ 1.5g \")\n\n#伊勢崎店オリカラ ブルージェイ 1.5g オオツカオリカラ",
    "code": "4511135239679",
    "price": 550,
    "stock": 8
   },
   "53360101GKG01184": {
-   "name": "ヤリエ スプーン TフレッシュEVO 1.8g",
-   "spec": "#伊勢崎店オリカラ カカポ 1.8g",
+   "name": "ヤリエ スプーン TフレッシュEVO 1.8g #伊勢崎店オリカラ カカポ 1.8g",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 1.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01184 \"ヤリエ スプーン TフレッシュEVO 1.8g #伊勢崎店オリカラ カカポ 1.8g \")\n\n#伊勢崎店オリカラ カカポ 1.8g",
    "code": "4511135998521",
    "price": 550,
    "stock": 3
   },
   "53360101GKG01224": {
-   "name": "ヤリエ スプーン ピリカモア 0.4g",
-   "spec": "# 伊勢崎店オリカラ カカポ 0.4g",
+   "name": "ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ カカポ 0.4g",
+   "spec": "[ヤリエ スプーン ピリカモア 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01224 \"ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ カカポ 0.4g\")\n\n# 伊勢崎店オリカラ カカポ 0.4g",
    "code": "4511135998200",
    "price": 550,
    "stock": 9
   },
   "53360101GL000366": {
-   "name": "ヤリエ スプーン ピリカモア 0.4g",
-   "spec": "# 伊勢崎店オリカラ コンゴウ 0.4g",
+   "name": "ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ コンゴウ 0.4g",
+   "spec": "[ヤリエ スプーン ピリカモア 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000366 \"ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ コンゴウ 0.4g\")\n\n# 伊勢崎店オリカラ コンゴウ 0.4g",
    "code": "4511135702524",
    "price": 550,
    "stock": 17
   },
   "53360101GL000365": {
-   "name": "ヤリエ スプーン ピリカモア 0.4g",
-   "spec": "# 伊勢崎店オリカラ ブルージェイ 0.4g",
+   "name": "ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ ブルージェイ 0.4g",
+   "spec": "[ヤリエ スプーン ピリカモア 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000365 \"ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ ブルージェイ 0.4g\")\n\n# 伊勢崎店オリカラ ブルージェイ 0.4g",
    "code": "4511135239617",
    "price": 550,
    "stock": 4
   },
   "53360101GKG01225": {
-   "name": "ヤリエ スプーン ピリカモア 0.4g",
-   "spec": "# 伊勢崎店オリカラ ペレゴン 0.4g",
+   "name": "ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ ペレゴン 0.4g",
+   "spec": "[ヤリエ スプーン ピリカモア 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01225 \"ヤリエ スプーン ピリカモア 0.4g # 伊勢崎店オリカラ ペレゴン 0.4g\")\n\n# 伊勢崎店オリカラ ペレゴン 0.4g",
    "code": "4511135998217",
    "price": 550,
    "stock": 15
   },
   "53360101GL000363": {
-   "name": "ヤリエ スプーン ピリカモア 0.7g",
-   "spec": "# 伊勢崎店オリカラ コンゴウ 0.7g",
+   "name": "ヤリエ スプーン ピリカモア 0.7g # 伊勢崎店オリカラ コンゴウ 0.7g",
+   "spec": "[ヤリエ スプーン ピリカモア 0.7g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL000363 \"ヤリエ スプーン ピリカモア 0.7g # 伊勢崎店オリカラ コンゴウ 0.7g\")\n\n# 伊勢崎店オリカラ コンゴウ 0.7g",
    "code": "4511135702531",
    "price": 550,
    "stock": 9
   },
   "53360101GJ601505": {
    "name": "ヤリエ スプーン ピリカモア 1.0g #伊勢崎店 オリカラ コンゴウ 1.0g",
-   "spec": "#伊勢崎店 オリカラ コンゴウ 1.0g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン ピリカモア 1.0g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GJ601505 \"ヤリエ スプーン ピリカモア 1.0g #伊勢崎店 オリカラ コンゴウ 1.0g \")\n\n#伊勢崎店 オリカラ コンゴウ 1.0g オオツカオリカラ",
    "code": "4511135996961",
    "price": 550,
    "stock": 9
   },
   "53360101GLP00524": {
-   "name": "ヤリエ スプーン マイクロデクスター 0.4g",
-   "spec": "#伊勢崎店 オリカラ カカポ 0.4g",
+   "name": "ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ カカポ 0.4g",
+   "spec": "[ヤリエ スプーン マイクロデクスター 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP00524 \"ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ カカポ 0.4g \")\n\n#伊勢崎店 オリカラ カカポ 0.4g",
    "code": "4511135833198",
    "price": 550,
    "stock": 10
   },
   "53360101GLP00517": {
-   "name": "ヤリエ スプーン マイクロデクスター 0.4g",
-   "spec": "#伊勢崎店 オリカラ コンゴウ 0.4g",
+   "name": "ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ コンゴウ 0.4g",
+   "spec": "[ヤリエ スプーン マイクロデクスター 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP00517 \"ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ コンゴウ 0.4g \")\n\n#伊勢崎店 オリカラ コンゴウ 0.4g",
    "code": "4511135833181",
    "price": 550,
    "stock": 17
   },
   "53360101GLP00521": {
-   "name": "ヤリエ スプーン マイクロデクスター 0.4g",
-   "spec": "#伊勢崎店 オリカラ ブルージェイ 0.4g",
+   "name": "ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ ブルージェイ 0.4g",
+   "spec": "[ヤリエ スプーン マイクロデクスター 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP00521 \"ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ ブルージェイ 0.4g \")\n\n#伊勢崎店 オリカラ ブルージェイ 0.4g",
    "code": "4511135833235",
    "price": 550,
    "stock": 5
   },
   "53360101GLP00523": {
-   "name": "ヤリエ スプーン マイクロデクスター 0.4g",
-   "spec": "#伊勢崎店 オリカラ ペレゴン 0.4g",
+   "name": "ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ ペレゴン 0.4g",
+   "spec": "[ヤリエ スプーン マイクロデクスター 0.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP00523 \"ヤリエ スプーン マイクロデクスター 0.4g #伊勢崎店 オリカラ ペレゴン 0.4g \")\n\n#伊勢崎店 オリカラ ペレゴン 0.4g",
    "code": "4511135833211",
    "price": 550,
    "stock": 1
   },
   "53360101GLP00518": {
-   "name": "ヤリエ スプーン マイクロデクスター 0.6g",
-   "spec": "#伊勢崎店 オリカラ コンゴウ 0.6g",
+   "name": "ヤリエ スプーン マイクロデクスター 0.6g #伊勢崎店 オリカラ コンゴウ 0.6g",
+   "spec": "[ヤリエ スプーン マイクロデクスター 0.6g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP00518 \"ヤリエ スプーン マイクロデクスター 0.6g #伊勢崎店 オリカラ コンゴウ 0.6g \")\n\n#伊勢崎店 オリカラ コンゴウ 0.6g",
    "code": "4511135833273",
    "price": 550,
    "stock": 5
   },
   "53360101GLL01322": {
    "name": "ロデオクラフト オンビート  1.6g #ホワイング 1.6g 注意:3枚まで",
-   "spec": "#ホワイング 1.6g 注意:3枚まで 熊谷店オリカラ",
+   "spec": "[ロデオクラフト オンビート 1.6g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLL01322 \"ロデオクラフト オンビート  1.6g #ホワイング 1.6g 注意:3枚まで\")\n\n#ホワイング 1.6g 注意:3枚まで 熊谷店オリカラ",
    "code": "4573151274706",
    "price": 583,
    "stock": 3
   },
   "53360101GLL01323": {
    "name": "ロデオクラフト キューム  1.8g #ホワイング 1.8g 注意:3枚まで",
-   "spec": "#ホワイング 1.8g 注意:3枚まで 熊谷店オリカラ",
+   "spec": "[ロデオクラフト キューム 1.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLL01323 \"ロデオクラフト キューム  1.8g #ホワイング 1.8g 注意:3枚まで\")\n\n#ホワイング 1.8g 注意:3枚まで 熊谷店オリカラ",
    "code": "4573151274713",
    "price": 583,
    "stock": 12
   },
   "53360101GLL01299": {
    "name": "ロデオクラフト キューム  1.8g #マイスター H.E01 1.8g 注意:3枚まで",
-   "spec": "#マイスター H.E01 1.8g 注意:3枚まで 熊谷店オリカラ",
+   "spec": "[ロデオクラフト キューム 1.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLL01299 \"ロデオクラフト キューム  1.8g #マイスター H.E01 1.8g 注意:3枚まで\")\n\n#マイスター H.E01 1.8g 注意:3枚まで 熊谷店オリカラ",
    "code": "4573151274935",
    "price": 583,
    "stock": 8
   },
   "53360101GLU00449": {
    "name": "ロデオクラフト キューム -G 9g #F.S01グローSP 9g",
-   "spec": "#F.S01グローSP 9g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト キューム -G 9g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00449 \"ロデオクラフト キューム -G 9g #F.S01グローSP 9g\")\n\n#F.S01グローSP 9g 熊谷店オリカラ",
    "code": "4573632513195",
    "price": 858,
    "stock": 18
   },
   "53360101GLU00451": {
    "name": "ロデオクラフト キューム -G 9g #H.E01 9g",
-   "spec": "#H.E01 9g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト キューム -G 9g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00451 \"ロデオクラフト キューム -G 9g #H.E01 9g\")\n\n#H.E01 9g 熊谷店オリカラ",
    "code": "4573632513140",
    "price": 858,
    "stock": 29
   },
   "53360101GLU00450": {
    "name": "ロデオクラフト キューム -G 9g #ホワイトマジック 9g",
-   "spec": "#ホワイトマジック 9g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト キューム -G 9g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00450 \"ロデオクラフト キューム -G 9g #ホワイトマジック 9g\")\n\n#ホワイトマジック 9g 熊谷店オリカラ",
    "code": "4573632513126",
    "price": 858,
    "stock": 21
   },
   "53360101GLK00377": {
    "name": "ロデオクラフト ノア  2.1g #高崎店オリジナルカラー ジュゲム 2.1g 注意:3枚まで",
-   "spec": "#高崎店オリジナルカラー ジュゲム 2.1g 注意:3枚まで オオツカオリカラ",
+   "spec": "[ロデオクラフト ノア 2.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK00377 \"ロデオクラフト ノア  2.1g #高崎店オリジナルカラー ジュゲム 2.1g 注意:3枚まで\")\n\n#高崎店オリジナルカラー ジュゲム 2.1g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274201",
    "price": 583,
    "stock": 62
   },
   "53360101GLU00445": {
    "name": "ロデオクラフト ノア -G 11g #F.S01グローSP 11g",
-   "spec": "#F.S01グローSP 11g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 11g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00445 \"ロデオクラフト ノア -G 11g #F.S01グローSP 11g\")\n\n#F.S01グローSP 11g 熊谷店オリカラ",
    "code": "4573632513164",
    "price": 858,
    "stock": 3
   },
   "53360101GKJ00003": {
    "name": "ロデオクラフト ノア -G 11g #H.E01 11g",
-   "spec": "#H.E01 11g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 11g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKJ00003 \"ロデオクラフト ノア -G 11g #H.E01 11g\")\n\n#H.E01 11g 熊谷店オリカラ",
    "code": "4573151255842",
    "price": 858,
    "stock": 18
   },
   "53360101GIM00893": {
    "name": "ロデオクラフト ノア -G 11g #ホワイトマジック 11g",
-   "spec": "#ホワイトマジック 11g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 11g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GIM00893 \"ロデオクラフト ノア -G 11g #ホワイトマジック 11g\")\n\n#ホワイトマジック 11g 熊谷店オリカラ",
    "code": "4573151235578",
    "price": 858,
    "stock": 38
   },
   "53360101GLU00446": {
    "name": "ロデオクラフト ノア -G 14g #F.S01グローSP 14g",
-   "spec": "#F.S01グローSP 14g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 14g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00446 \"ロデオクラフト ノア -G 14g #F.S01グローSP 14g\")\n\n#F.S01グローSP 14g 熊谷店オリカラ",
    "code": "4573632513171",
    "price": 913,
    "stock": 2
   },
   "53360101GKJ00009": {
    "name": "ロデオクラフト ノア -G 14g #H.E01 14g",
-   "spec": "#H.E01 14g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 14g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKJ00009 \"ロデオクラフト ノア -G 14g #H.E01 14g\")\n\n#H.E01 14g 熊谷店オリカラ",
    "code": "4573151255859",
    "price": 913,
    "stock": 8
   },
   "53360101GKJ00011": {
    "name": "ロデオクラフト ノア -G 14g #ホワイトマジック 14g",
-   "spec": "#ホワイトマジック 14g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 14g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKJ00011 \"ロデオクラフト ノア -G 14g #ホワイトマジック 14g\")\n\n#ホワイトマジック 14g 熊谷店オリカラ",
    "code": "4573151255767",
    "price": 913,
    "stock": 31
   },
   "53360101GLU00448": {
    "name": "ロデオクラフト ノア -G 17g #ホワイトマジック 17g",
-   "spec": "#ホワイトマジック 17g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 17g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00448 \"ロデオクラフト ノア -G 17g #ホワイトマジック 17g\")\n\n#ホワイトマジック 17g 熊谷店オリカラ",
    "code": "4573632513119",
    "price": 913,
    "stock": 35
   },
   "53360101GLU00444": {
    "name": "ロデオクラフト ノア -G 8.0g #F.S01グローSP 8g",
-   "spec": "#F.S01グローSP 8g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 8.0g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLU00444 \"ロデオクラフト ノア -G 8.0g #F.S01グローSP 8g\")\n\n#F.S01グローSP 8g 熊谷店オリカラ",
    "code": "4573632513157",
    "price": 858,
    "stock": 6
   },
   "53360101GKJ00008": {
    "name": "ロデオクラフト ノア -G 8.0g #H.E01 8g",
-   "spec": "#H.E01 8g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 8.0g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKJ00008 \"ロデオクラフト ノア -G 8.0g #H.E01 8g\")\n\n#H.E01 8g 熊谷店オリカラ",
    "code": "4573151255835",
    "price": 858,
    "stock": 15
   },
   "53360101GKJ00007": {
    "name": "ロデオクラフト ノア -G 8.0g #ホワイトマジック 8g",
-   "spec": "#ホワイトマジック 8g 熊谷店オリカラ",
+   "spec": "[ロデオクラフト ノア -G 8.0g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKJ00007 \"ロデオクラフト ノア -G 8.0g #ホワイトマジック 8g\")\n\n#ホワイトマジック 8g 熊谷店オリカラ",
    "code": "4573151255750",
    "price": 858,
    "stock": 34
   },
   "53360101GLK00376": {
    "name": "ロデオクラフト ノア-B  2.2g #高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで",
-   "spec": "#高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで オオツカオリカラ",
+   "spec": "[ロデオクラフト ノア-B 2.2g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK00376 \"ロデオクラフト ノア-B  2.2g #高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで\")\n\n#高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274218",
    "price": 583,
    "stock": 23
   },
   "53360101GLK00375": {
    "name": "ロデオクラフト ノア-B  2.6g #高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで",
-   "spec": "#高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで オオツカオリカラ",
+   "spec": "[ロデオクラフト ノア-B 2.6g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK00375 \"ロデオクラフト ノア-B  2.6g #高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで\")\n\n#高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274225",
    "price": 583,
    "stock": 21
   },
   "53360101GLK00382": {
    "name": "ロデオクラフト ノア-B  3.4g #高崎店オリジナルカラー ジュゲム 3.4g 注意:3枚まで",
-   "spec": "#高崎店オリジナルカラー ジュゲム 3.4g 注意:3枚まで オオツカオリカラ",
+   "spec": "[ロデオクラフト ノア-B 3.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK00382 \"ロデオクラフト ノア-B  3.4g #高崎店オリジナルカラー ジュゲム 3.4g 注意:3枚まで\")\n\n#高崎店オリジナルカラー ジュゲム 3.4g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274232",
    "price": 605,
    "stock": 46
   },
   "53360101GLK00401": {
    "name": "ロデオクラフト ノア-B  3.4g #高崎店オリジナルカラー ブレインダムド 3.4g 注意:3枚まで",
-   "spec": "#高崎店オリジナルカラー ブレインダムド 3.4g 注意:3枚まで オオツカオリカラ",
+   "spec": "[ロデオクラフト ノア-B 3.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK00401 \"ロデオクラフト ノア-B  3.4g #高崎店オリジナルカラー ブレインダムド 3.4g 注意:3枚まで\")\n\n#高崎店オリジナルカラー ブレインダムド 3.4g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274027",
    "price": 605,
    "stock": 19
   },
   "53360101GKN00651": {
-   "name": "ヴァルケイン アストラル  1.6g",
-   "spec": "# 菊汁二番(宇都宮店オリカラ) 1.6g",
+   "name": "ヴァルケイン アストラル  1.6g # 菊汁二番(宇都宮店オリカラ) 1.6g",
+   "spec": "[ヴァルケイン アストラル 1.6g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKN00651 \"ヴァルケイン アストラル  1.6g # 菊汁二番(宇都宮店オリカラ) 1.6g\")\n\n# 菊汁二番(宇都宮店オリカラ) 1.6g",
    "code": "4570027046047",
    "price": 583,
    "stock": 5
   },
   "53360101GKN00635": {
-   "name": "ヴァルケイン サーヴァントスピア  1.1g",
-   "spec": "# 菊汁二番(宇都宮店オリカラ) 1.1g",
+   "name": "ヴァルケイン サーヴァントスピア  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g",
+   "spec": "[ヴァルケイン サーヴァントスピア 1.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKN00635 \"ヴァルケイン サーヴァントスピア  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g\")\n\n# 菊汁二番(宇都宮店オリカラ) 1.1g",
    "code": "4570027046078",
    "price": 583,
    "stock": 20
   },
   "53360101GLE00529": {
-   "name": "ヴァルケイン サーヴァントスピア  1.4g",
-   "spec": "#伊勢崎店 オリカラ ブルージェイ 1.4g",
+   "name": "ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g",
+   "spec": "[ヴァルケイン サーヴァントスピア 1.4g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00529 \"ヴァルケイン サーヴァントスピア  1.4g #伊勢崎店 オリカラ ブルージェイ 1.4g\")\n\n#伊勢崎店 オリカラ ブルージェイ 1.4g",
    "code": "4582671323566",
    "price": 616,
    "stock": 16
   },
   "53360101GLE00543": {
    "name": "ヴァルケイン シャイラ  1.2g #伊勢崎店オリカラ コンゴウ 1.2g",
-   "spec": "#伊勢崎店オリカラ コンゴウ 1.2g 伊勢崎店オリジナルカラー",
+   "spec": "[ヴァルケイン シャイラ 1.2g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00543 \"ヴァルケイン シャイラ  1.2g #伊勢崎店オリカラ コンゴウ 1.2g \")\n\n#伊勢崎店オリカラ コンゴウ 1.2g 伊勢崎店オリジナルカラー",
    "code": "4582671323306",
    "price": 583,
    "stock": 12
   },
   "53360101GLH01143": {
-   "name": "ヴァルケイン シャノン  1.1g",
-   "spec": "# 菊汁二番(宇都宮店オリカラ) 1.1g",
+   "name": "ヴァルケイン シャノン  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g",
+   "spec": "[ヴァルケイン シャノン 1.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLH01143 \"ヴァルケイン シャノン  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g\")\n\n# 菊汁二番(宇都宮店オリカラ) 1.1g",
    "code": "4582671332018",
    "price": 583,
    "stock": 21
   },
   "53360101GIY00019": {
    "name": "ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ",
-   "spec": "#伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
+   "spec": "[ヴァルケイン ハイバースト 1.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GIY00019 \"ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ\")\n\n#伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
    "code": "4589873979706",
    "price": 583,
-   "stock": 6
+   "stock": 5
   },
   "53360101GJ600203": {
-   "name": "丸湖 丸湖スプーン  1.2gコンペティション",
-   "spec": "#伊勢崎店オリカラ 家畜オリバリン 1.2g",
+   "name": "丸湖 丸湖スプーン  1.2gコンペティション #伊勢崎店オリカラ 家畜オリバリン 1.2g",
+   "spec": "[丸湖 丸湖スプーン 1.2gコンペティション](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GJ600203 \"丸湖 丸湖スプーン  1.2gコンペティション #伊勢崎店オリカラ 家畜オリバリン 1.2g\")\n\n#伊勢崎店オリカラ 家畜オリバリン 1.2g",
    "code": "J0201GA900196",
    "price": 627,
    "stock": 13
   },
   "53360101GJ501117": {
-   "name": "丸湖 丸湖スプーン  1.2gコンペティション",
-   "spec": "#伊勢崎店オリカラ 家畜パール 1.2g",
+   "name": "丸湖 丸湖スプーン  1.2gコンペティション #伊勢崎店オリカラ 家畜パール 1.2g",
+   "spec": "[丸湖 丸湖スプーン 1.2gコンペティション](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GJ501117 \"丸湖 丸湖スプーン  1.2gコンペティション #伊勢崎店オリカラ 家畜パール 1.2g\")\n\n#伊勢崎店オリカラ 家畜パール 1.2g",
    "code": "J0201GA801095",
    "price": 627,
    "stock": 10
@@ -60991,6 +61061,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192880595": {
+   "name": "ロデオクラフト ファットウッサJr XS #FOCUSオリーブ C",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192880595",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192880374": {
    "name": "ロデオクラフト ファットウッサJr XS #蛍光ピンク",
    "price": null,
@@ -61039,6 +61121,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192874036": {
+   "name": "ロデオクラフト ファットウッサJr XS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874036",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192874032": {
    "name": "ロデオクラフト ファットウッサJr XS #21ノブ",
    "price": null,
@@ -61059,6 +61153,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192874028",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192874021": {
+   "name": "ロデオクラフト ファットウッサJr XS #24ノブ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874021",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61087,6 +61193,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192873994": {
+   "name": "ロデオクラフト ファットウッサJr XS #RCポテトヘッド",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873994",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192873982": {
    "name": "ロデオクラフト ファットウッサJr XS #20安塚",
    "price": null,
@@ -61095,6 +61213,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873982",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873954": {
+   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873954",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192873947": {
+   "name": "ロデオクラフト ファットウッサJr XS #キラキラ",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873947",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62547,78 +62689,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991615": {
-   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991615",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991603": {
-   "name": "ムカイ 鯱 シャチホコ 23S#琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991603",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991582": {
-   "name": "ムカイ 鯱 シャチホコ 23S#マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991582",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991579": {
-   "name": "ムカイ 鯱 シャチホコ 23S#レッドバグ【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991579",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991237": {
-   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991237",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991206": {
-   "name": "ムカイ UpWard残無35S #マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991206",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74817,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:38:07+03:00"
+ "last_check": "2026-10-21T05:43:12+03:00"
 }
