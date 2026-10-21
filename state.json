@@ -62897,6 +62897,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193959747": {
+   "name": "カルテラス×ロブルアー ルラン 0.8g #G6",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193959747",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193959741": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #ホタルノヒカリ",
    "price": null,
@@ -62909,6 +62921,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193959740": {
+   "name": "カルテラス×ロブルアー ルラン 0.8g #頂鱒の素",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193959740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193959735": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #ピンキー",
    "price": null,
@@ -62917,6 +62941,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193959735",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193959722": {
+   "name": "カルテラス×ロブルアー ルラン 0.8g #しもペナ",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193959722",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193959714": {
+   "name": "カルテラス×ロブルアー ルラン 0.8g #枝豆グロー",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193959714",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66241,54 +66289,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087666": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T09:18:21+03:00"
+ "last_check": "2026-10-21T09:21:54+03:00"
 }
