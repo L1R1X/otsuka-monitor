@@ -74695,6 +74695,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194088055": {
+   "name": "オフィスユーカリ ジョーカーメチャ2 Limited White",
+   "price": null,
+   "price_text": "44,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194088055",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191779576": {
    "name": "フォーカス スウェイ1.7ｇ",
    "price": null,
@@ -74787,18 +74799,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=96671120",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193983741": {
-   "name": "ドライブ コルサ 56L-ST (Type-S)",
-   "price": null,
-   "price_text": "66,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193983741",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74949,5 +74949,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T11:42:56+03:00"
+ "last_check": "2026-10-21T11:48:04+03:00"
 }
