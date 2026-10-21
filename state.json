@@ -2422,6 +2422,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15394906439894": {
+   "name": "B-SPA Tik（ビースパティック）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/b-spa-tik-ビースパティック",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15394884321494": {
    "name": "esa Pellet color（エサペレットカラー）",
    "price": null,
@@ -74928,5 +74940,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T13:48:12+03:00"
+ "last_check": "2026-10-21T13:53:12+03:00"
 }
