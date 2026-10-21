@@ -1916,7 +1916,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447313082",
    "price": 1650,
-   "stock": 13
+   "stock": 12
   },
   "53360101GK801511": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -2077,7 +2077,7 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 108
+   "stock": 107
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
@@ -61123,18 +61123,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873994": {
-   "name": "ロデオクラフト ファットウッサJr XS #RCポテトヘッド",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873994",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873982": {
    "name": "ロデオクラフト ファットウッサJr XS #20安塚",
    "price": null,
@@ -62619,6 +62607,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191992983",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991774": {
+   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74817,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:22:45+03:00"
+ "last_check": "2026-10-21T05:28:40+03:00"
 }
