@@ -3849,18 +3849,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr9450008215766": {
-   "name": "Fat UssA Jr.（ファットウッサJr.）",
-   "price": null,
-   "price_text": "1 750 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/fat-ussa-jr-ファットウッサjr",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr8131209396438": {
    "name": "TIMON RING PLIERS（ティモン リング プライヤー）",
    "price": null,
@@ -74963,5 +74951,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T12:33:07+03:00"
+ "last_check": "2026-10-21T12:38:05+03:00"
 }
