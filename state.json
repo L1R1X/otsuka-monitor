@@ -34947,7 +34947,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/bスパーク-3代目ｂスパ神カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -64303,18 +64303,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193463606": {
-   "name": "オフィスユーカリ B-SPA Tik 2.5g #S3 サーキットUVステルス",
-   "price": null,
-   "price_text": "845 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463606",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193463581": {
    "name": "オフィスユーカリ B-SPA Tik 2.5g #S2 サーキットグローハック",
    "price": null,
@@ -66351,6 +66339,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099385": {
+   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099385",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74949,5 +74949,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T11:27:56+03:00"
+ "last_check": "2026-10-21T11:33:14+03:00"
 }
