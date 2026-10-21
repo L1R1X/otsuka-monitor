@@ -61169,18 +61169,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873934": {
-   "name": "ロデオクラフト ファットウッサJr XS #S.M VI C",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873934",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873921": {
    "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
    "price": null,
@@ -62689,6 +62677,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991192",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191885062": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #18 プレベリー【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885062",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T06:12:04+03:00"
+ "last_check": "2026-10-21T06:18:32+03:00"
 }
