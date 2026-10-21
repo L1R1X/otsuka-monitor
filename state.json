@@ -2415,6 +2415,54 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15394935931094": {
+   "name": "Area Tray（エリアトレイ）",
+   "price": null,
+   "price_text": "754 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/area-tray-エリアトレイ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15394932392150": {
+   "name": "RC DS CASE（RCドリフトスピンケース）",
+   "price": null,
+   "price_text": "5 800 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-ds-case-rcドリフトスピンケース",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15394906439894": {
+   "name": "B-SPA Tik（ビースパティック）",
+   "price": null,
+   "price_text": "841 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/b-spa-tik-ビースパティック",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9450008215766": {
+   "name": "Fat UssA Jr.（ファットウッサJr.）",
+   "price": null,
+   "price_text": "1 750 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/fat-ussa-jr-ファットウッサjr",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15394884321494": {
    "name": "esa Pellet color（エサペレットカラー）",
    "price": null,
@@ -56357,5 +56405,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T15:18:13+03:00"
+ "last_check": "2026-10-21T15:21:08+03:00"
 }
