@@ -572,7 +572,7 @@
    "spec": "#CPC(川越店オリカラ) 0.9g オオツカオリカラ",
    "code": "4560456882910",
    "price": 605,
-   "stock": 4
+   "stock": 3
   },
   "53360101GLZ00068": {
    "name": "なぶら家 ウェヌス  1.1g #にごり酒 1.1g マスケンリクエストカラー",
@@ -791,6 +791,13 @@
    "price": 583,
    "stock": 1
   },
+  "53360101GLQ01551": {
+   "name": "サウリブ シャース  3.4g",
+   "spec": "#ビタオレ 3.4g オオツカオリカラ",
+   "code": "4580838920290",
+   "price": 583,
+   "stock": 2
+  },
   "53360101GLV00799": {
    "name": "サウリブ シャース  ピー 1.1g #高崎店オリジナルカラー MSミルキーウェイ 1.1g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.1g オオツカオリカラ",
@@ -866,21 +873,21 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 0.95g オオツカオリカラ",
    "code": "4582782654719",
    "price": 638,
-   "stock": 44
-  },
-  "53360101GLZ01240": {
-   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
-   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
-   "code": "4582782654672",
-   "price": 638,
-   "stock": 1
+   "stock": 46
   },
   "53360101GLZ01241": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
    "spec": "#高崎店オリジナルカラー ジュゲム 1.2g オオツカオリカラ",
    "code": "4582782654689",
    "price": 638,
-   "stock": 27
+   "stock": 28
+  },
+  "53360101GLZ01244": {
+   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ソルティアルバス 1.2g",
+   "spec": "#高崎店オリジナルカラー ソルティアルバス 1.2g オオツカオリカラ",
+   "code": "4582782654665",
+   "price": 638,
+   "stock": 2
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -1003,7 +1010,7 @@
   },
   "53360101GKG01197": {
    "name": "ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ペレゴン 0.8g",
-   "spec": "#伊勢崎店オリカラ ペレゴン 0.8g オオツカオリカラ",
+   "spec": "[ヤリエ スプーン TフレッシュEVO 0.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKG01197 \"ヤリエ スプーン TフレッシュEVO 0.8g #伊勢崎店オリカラ ペレゴン 0.8g \")\n\n#伊勢崎店オリカラ ペレゴン 0.8g オオツカオリカラ",
    "code": "4511135998590",
    "price": 550,
    "stock": 6
@@ -61078,18 +61085,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873921": {
-   "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873921",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62686,6 +62681,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -62718,18 +62725,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019166",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019159": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019159",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66282,6 +66277,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995738",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995734": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-12 ブラックチャート【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995734",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74880,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T07:48:07+03:00"
+ "last_check": "2026-10-21T07:53:21+03:00"
 }
