@@ -61051,18 +61051,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874036": {
-   "name": "ロデオクラフト ファットウッサJr XS #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874036",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192874032": {
    "name": "ロデオクラフト ファットウッサJr XS #21ノブ",
    "price": null,
@@ -61083,18 +61071,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192874028",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192874021": {
-   "name": "ロデオクラフト ファットウッサJr XS #24ノブ",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874021",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61135,18 +61111,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873971": {
-   "name": "ロデオクラフト ファットウッサJr XS #2015ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873971",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873954": {
    "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
    "price": null,
@@ -61155,18 +61119,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873954",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192873947": {
-   "name": "ロデオクラフト ファットウッサJr XS #キラキラ",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873947",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62619,6 +62571,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991615": {
+   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991615",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991603": {
+   "name": "ムカイ 鯱 シャチホコ 23S#琥珀【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991603",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991582": {
+   "name": "ムカイ 鯱 シャチホコ 23S#マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991582",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991579": {
+   "name": "ムカイ 鯱 シャチホコ 23S#レッドバグ【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991579",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74817,5 +74817,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-21T05:28:40+03:00"
+ "last_check": "2026-10-21T05:33:07+03:00"
 }
