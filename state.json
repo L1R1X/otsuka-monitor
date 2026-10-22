@@ -42520,6 +42520,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192873977": {
+   "name": "ロデオクラフト ファットウッサJr XS #黒まんじゅう",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192873977",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192873921": {
    "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
    "price": null,
@@ -44148,18 +44160,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T10:22:39+03:00"
+ "last_check": "2026-10-22T10:27:45+03:00"
 }
