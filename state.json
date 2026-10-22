@@ -2364,7 +2364,7 @@
    "spec": "#K`sオリカラ MSクラッシュグロー 24mm 1.8g フローティング",
    "code": "4582671315868",
    "price": 1650,
-   "stock": 0
+   "stock": 96
   },
   "53360101GL900009": {
    "name": "ヴァルケイン ヘイズ  ナノ SS #伊勢崎店オリカラ　水蛭子 24mm 1.9g スローシンキング",
@@ -42532,18 +42532,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874032": {
-   "name": "ロデオクラフト ファットウッサJr XS #21ノブ",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874032",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192874028": {
    "name": "ロデオクラフト ファットウッサJr XS #ラーテル",
    "price": null,
@@ -42588,30 +42576,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192873982",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192873971": {
-   "name": "ロデオクラフト ファットウッサJr XS #2015ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873971",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192873954": {
-   "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873954",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -44160,6 +44124,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847768",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847759": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #08 グリーンスプラッシュ",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847759",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847755": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #07 ブルースプラッシュ",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847755",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847743": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847743",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T11:33:33+03:00"
+ "last_check": "2026-10-22T11:37:42+03:00"
 }
