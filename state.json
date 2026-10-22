@@ -56104,18 +56104,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194084858": {
-   "name": "ロデオクラフト RC DSケース（RCドリフトスピンケース）",
-   "price": null,
-   "price_text": "6,380 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194084858",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194085569": {
    "name": "フルクリップ ジェットグライドIHP (テープ幅38mm)",
    "price": null,
@@ -56208,6 +56196,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=134673989",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki147105244": {
+   "name": "ディスプラウト メガガメクラ",
+   "price": null,
+   "price_text": "1,535 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=147105244",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T09:18:03+03:00"
+ "last_check": "2026-10-22T09:22:32+03:00"
 }
