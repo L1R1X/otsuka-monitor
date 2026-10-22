@@ -5064,7 +5064,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/easy-rod-band-for-separate-grip-u-a55-57-easyロッドバンド-セパレート用u-a55-57",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -42508,18 +42508,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874069": {
-   "name": "ロデオクラフト ファットウッサJr XS #まほ丸",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874069",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192874063": {
    "name": "ロデオクラフト ファットウッサJr XS #クリアーホロ",
    "price": null,
@@ -44160,6 +44148,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847743",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191835560": {
+   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835560",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T11:48:36+03:00"
+ "last_check": "2026-10-22T11:52:58+03:00"
 }
