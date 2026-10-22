@@ -446,7 +446,7 @@
    "spec": "#伊勢崎店オリカラ コンゴウ 1.0g オオツカオリカラ",
    "code": "4573265537445",
    "price": 627,
-   "stock": 71
+   "stock": 70
   },
   "53360101GKS00839": {
    "name": "FPBルアーズ ベリーズ  1.0g",
@@ -677,7 +677,7 @@
    "spec": "#マイスター H.E01 0.8g 熊谷店オリカラ",
    "code": "4573119905277",
    "price": 605,
-   "stock": 7
+   "stock": 5
   },
   "53360101GLK01606": {
    "name": "アイジェットリンク アイジェットソード 1.4g",
@@ -2508,7 +2508,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/ruran-ルラン",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -23112,7 +23112,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/komaya-drag-コマヤドラグプラス",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T09:37:52+03:00"
+ "last_check": "2026-10-22T09:43:04+03:00"
 }
