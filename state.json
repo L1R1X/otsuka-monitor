@@ -56080,6 +56080,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki191779576": {
+   "name": "フォーカス スウェイ1.7ｇ",
+   "price": null,
+   "price_text": "660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191779576",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194027391": {
+   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
+   "price": null,
+   "price_text": "3,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194027391",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194084858": {
    "name": "ロデオクラフト RC DSケース（RCドリフトスピンケース）",
    "price": null,
@@ -56124,30 +56148,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194088055",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191779576": {
-   "name": "フォーカス スウェイ1.7ｇ",
-   "price": null,
-   "price_text": "660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191779576",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194027391": {
-   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
-   "price": null,
-   "price_text": "3,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194027391",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T07:43:01+03:00"
+ "last_check": "2026-10-22T07:47:58+03:00"
 }
