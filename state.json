@@ -56206,18 +56206,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193088456": {
-   "name": "【吉やオリカラ：安燈】 ムカイプラグ ポゴ38WG",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193088456",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193088460": {
    "name": "【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG",
    "price": null,
@@ -56286,6 +56274,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194086898",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194088055": {
+   "name": "オフィスユーカリ ジョーカーメチャ2 Limited White",
+   "price": null,
+   "price_text": "44,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194088055",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -56436,5 +56436,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T17:23:01+03:00"
+ "last_check": "2026-10-22T17:27:44+03:00"
 }
