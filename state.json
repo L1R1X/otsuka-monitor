@@ -2380,6 +2380,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15396927602902": {
+   "name": "GYRO HOOK RIDE（ジャイロフックライド）",
+   "price": null,
+   "price_text": "444 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/gyro-hook-ride-ジャイロフックライド",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15394935931094": {
    "name": "Area Tray（エリアトレイ）",
    "price": null,
@@ -56358,5 +56370,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T13:27:59+03:00"
+ "last_check": "2026-10-22T13:33:28+03:00"
 }
