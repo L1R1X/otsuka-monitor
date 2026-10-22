@@ -14448,7 +14448,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/24luvias-24ルビアス",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -17808,7 +17808,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/splitring-pincette-ex-スプリットリングピンセットex",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T09:32:53+03:00"
+ "last_check": "2026-10-22T09:37:52+03:00"
 }
