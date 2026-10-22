@@ -44272,18 +44272,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019149": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #17 グロー(夜光)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019149",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019145": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #14 蛍光イエロー",
    "price": null,
@@ -47796,6 +47784,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006627",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006619": {
+   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006619",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56394,5 +56394,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T13:43:09+03:00"
+ "last_check": "2026-10-22T13:48:19+03:00"
 }
