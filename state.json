@@ -18720,7 +18720,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/landing-shaft-600-ランディングシャフト600",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -27024,7 +27024,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/dohna-uchoten",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T09:47:34+03:00"
+ "last_check": "2026-10-22T09:53:18+03:00"
 }
