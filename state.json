@@ -44164,54 +44164,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194102853": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102853",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102794": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102727": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃119 雪国せんべい",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102727",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102624": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃70 JOKER",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102624",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -47760,6 +47712,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006598",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006584": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LMみけ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006584",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995738": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-13 ピンクゴールド【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995738",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995734": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-12 ブラックチャート【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995734",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995724": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-11 グローOLBD/DKOL【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995724",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T10:17:40+03:00"
+ "last_check": "2026-10-22T10:22:39+03:00"
 }
