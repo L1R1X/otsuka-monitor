@@ -56061,6 +56061,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki192717778": {
+   "name": "ロデオクラフト ファットウッサJr（XS）",
+   "price": null,
+   "price_text": "1,925 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192717778",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194084858": {
    "name": "ロデオクラフト RC DSケース（RCドリフトスピンケース）",
    "price": null,
@@ -56193,14 +56205,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki96671120": {
-   "name": "ヴァルケイン シャインライド",
+  "ki177514349": {
+   "name": "ベトベト ベロ120F（VERO120F）",
    "price": null,
-   "price_text": "1,634 ¥(税込)",
+   "price_text": "5,060 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=96671120",
+   "link": "https://www.kitiya.jp/?pid=177514349",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -56336,20 +56348,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193505990": {
-   "name": "ZAPPU（ザップ） ダウンショット【スタンダードシンカー】",
-   "price": null,
-   "price_text": "495 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193505990",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T06:48:10+03:00"
+ "last_check": "2026-10-22T06:53:21+03:00"
 }
