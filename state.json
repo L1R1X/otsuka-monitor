@@ -42556,18 +42556,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873921": {
-   "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873921",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -44164,6 +44152,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191835545": {
+   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191835545",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -44280,18 +44280,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019098",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019092": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #2 シルバー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019092",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -47760,6 +47748,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192079125",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006627": {
+   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006627",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56358,5 +56358,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T10:57:32+03:00"
+ "last_check": "2026-10-22T11:03:23+03:00"
 }
