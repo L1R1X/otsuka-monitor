@@ -2380,6 +2380,30 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15396859609302": {
+   "name": "ICEGUARD（アイスガード解凍）",
+   "price": null,
+   "price_text": "2 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/iceguard-アイスガード解凍",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15396883857622": {
+   "name": "GYRO HOOK（ジャイロフック）",
+   "price": null,
+   "price_text": "444 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/gyro-hook-ジャイロフック",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15396927602902": {
    "name": "GYRO HOOK RIDE（ジャイロフックライド）",
    "price": null,
@@ -56370,5 +56394,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-22T13:33:28+03:00"
+ "last_check": "2026-10-22T13:38:04+03:00"
 }
