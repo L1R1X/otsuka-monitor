@@ -1944,7 +1944,7 @@
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 88
+   "stock": 87
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -11849,7 +11849,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/glasses-anti-fog-gel-メガネのくもり止め濃密ジェル",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74999,5 +74999,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T16:02:31+03:00"
+ "last_check": "2026-10-23T16:06:25+03:00"
 }
