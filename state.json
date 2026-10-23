@@ -1475,7 +1475,7 @@
    "spec": "#伊勢崎店 オリカラ パルヘリオ 34mm 2.9g",
    "code": "4514447315611",
    "price": 1760,
-   "stock": 17
+   "stock": 16
   },
   "53360101GLP00892": {
    "name": "ゲート ミディアムクラピー GS2 #キャンコGG 34mm 2.9g",
@@ -1636,7 +1636,7 @@
    "spec": "#伊勢崎店オリカラ パルヘリオ 34mm 3.1g フローティング",
    "code": "4548393384674",
    "price": 1595,
-   "stock": 83
+   "stock": 82
   },
   "53360101GKX01450": {
    "name": "ディスプラウト ベビーバイブ DS",
@@ -42739,18 +42739,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192818235": {
-   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #ラーテル",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192818235",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192818231": {
    "name": "ロデオクラフト RC WAH ワウ 33HF♪ #FOCUSオリーブ",
    "price": null,
@@ -44175,6 +44163,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847773",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847768": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56373,5 +56373,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T04:41:01+03:00"
+ "last_check": "2026-10-23T04:47:31+03:00"
 }
