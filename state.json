@@ -42583,18 +42583,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874006": {
-   "name": "ロデオクラフト ファットウッサJr XS #19早乙女",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874006",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873994": {
    "name": "ロデオクラフト ファットウッサJr XS #RCポテトヘッド",
    "price": null,
@@ -42735,6 +42723,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192818238",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192818235": {
+   "name": "ロデオクラフト RC WAH ワウ 33HF♪ #ラーテル",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192818235",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56373,5 +56373,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T04:47:31+03:00"
+ "last_check": "2026-10-23T04:51:00+03:00"
 }
