@@ -44213,18 +44213,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019175": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #92 透過チャート/裏グロー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019175",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019169": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #56 キャメルココア",
    "price": null,
@@ -44413,18 +44401,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019142",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019140": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019140",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -47761,6 +47737,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099385": {
+   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099363": {
+   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099363",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56359,5 +56359,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T07:23:01+03:00"
+ "last_check": "2026-10-23T07:27:12+03:00"
 }
