@@ -44705,6 +44705,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193889139": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #13 偽金オリーブ",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193889139",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193889106": {
    "name": "FPBルアーズ ビーゼロ 0.9g #12 メテオシャワー",
    "price": null,
@@ -44785,6 +44797,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193888877",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193888844": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #5 ハイドチャート",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888844",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193888812": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #4 青銀",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888812",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -47725,42 +47761,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175468": {
-   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175468",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175118": {
-   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175110": {
-   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175110",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56359,5 +56359,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T08:07:26+03:00"
+ "last_check": "2026-10-23T08:11:19+03:00"
 }
