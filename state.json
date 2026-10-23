@@ -44160,18 +44160,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -56366,5 +56354,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T06:10:59+03:00"
+ "last_check": "2026-10-23T06:16:36+03:00"
 }
