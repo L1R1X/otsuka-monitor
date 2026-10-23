@@ -64665,18 +64665,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262084": {
-   "name": "スミス くるん Type1 1.1g #12 オリーブドラブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262084",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262079": {
    "name": "スミス くるん Type1 1.1g #11 マットブラウン",
    "price": null,
@@ -66401,6 +66389,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74999,5 +74999,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T14:07:06+03:00"
+ "last_check": "2026-10-23T14:12:42+03:00"
 }
