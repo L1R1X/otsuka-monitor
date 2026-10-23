@@ -2352,6 +2352,18 @@
    "price": 1650,
    "stock": 15
   },
+  "tr15400002322646": {
+   "name": "REIKU（レイク）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/reiku-レイク",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15396859609302": {
    "name": "ICEGUARD（アイスガード解凍）",
    "price": null,
@@ -62772,18 +62784,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194104734": {
-   "name": "なぶら家 2WIN 2g #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194104734",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66344,6 +66344,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175118",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175110": {
+   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175110",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74942,5 +74954,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T11:36:02+03:00"
+ "last_check": "2026-10-23T11:41:42+03:00"
 }
