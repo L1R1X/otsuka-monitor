@@ -44165,6 +44165,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194104755": {
+   "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194104755",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194104740": {
+   "name": "なぶら家 2WIN 2g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194104740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194104734": {
+   "name": "なぶら家 2WIN 2g #三ケ日みかん【1091】",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194104734",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -47725,42 +47761,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099385": {
-   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099385",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099363": {
-   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56359,5 +56359,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T07:17:36+03:00"
+ "last_check": "2026-10-23T07:23:01+03:00"
 }
