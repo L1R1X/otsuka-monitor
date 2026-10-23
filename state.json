@@ -64683,18 +64683,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262079": {
-   "name": "スミス くるん Type1 1.1g #11 マットブラウン",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262079",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262072": {
    "name": "スミス くるん Type1 1.1g #10 マットクリアーブラウン",
    "price": null,
@@ -64763,18 +64751,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193261995",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193261969": {
-   "name": "スミス くるん Type1 1.1g #02 クリアーピンクBP",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261969",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66443,6 +66419,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087661": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087661",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75041,5 +75041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T02:22:59+03:00"
+ "last_check": "2026-10-24T02:25:51+03:00"
 }
