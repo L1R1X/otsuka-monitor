@@ -44261,18 +44261,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019160": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #38 透過チャート",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019160",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019159": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #37 表 SDO（M）/裏 Mチョコ",
    "price": null,
@@ -47761,6 +47749,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175468": {
+   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56359,5 +56359,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T08:37:01+03:00"
+ "last_check": "2026-10-23T08:41:55+03:00"
 }
