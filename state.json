@@ -44196,42 +44196,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019145": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #14 蛍光イエロー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019145",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019143": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019143",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019092": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #2 シルバー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019092",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959772": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #スケスケオリーブハーフ",
    "price": null,
@@ -47768,6 +47732,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995715",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995708": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-8 イエロー/OR 裏OR【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995708",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995665": {
+   "name": "ロデオクラフト ノア NOA-S 1.4g #US-13 ピンクゴールド【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995665",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995656": {
+   "name": "ロデオクラフト ノア NOA-S 1.4g #US-10 イエロー/ミルクココア【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995656",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -56366,5 +56366,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T06:47:40+03:00"
+ "last_check": "2026-10-23T06:51:01+03:00"
 }
