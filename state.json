@@ -42588,18 +42588,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873971": {
-   "name": "ロデオクラフト ファットウッサJr XS #2015ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873971",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873954": {
    "name": "ロデオクラフト ファットウッサJr XS #2014ノブカラー",
    "price": null,
@@ -44168,6 +44156,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847768",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847759": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #08 グリーンスプラッシュ",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847759",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -56366,5 +56366,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-23T08:51:15+03:00"
+ "last_check": "2026-10-23T08:56:26+03:00"
 }
