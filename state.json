@@ -152,7 +152,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01415 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g \")\n\n#伊勢崎店オリカラ ペレゴン 2.3g",
    "code": "4573640552070",
    "price": 627,
-   "stock": 25
+   "stock": 24
   },
   "53360101GM000088": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g",
@@ -2400,6 +2400,18 @@
    "code": "4582671335828",
    "price": 1650,
    "stock": 15
+  },
+  "tr9450008215766": {
+   "name": "Fat UssA Jr.（ファットウッサJr.）",
+   "price": null,
+   "price_text": "1 750 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/fat-ussa-jr-ファットウッサjr",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
   },
   "tr15399680114902": {
    "name": "2WIN 1091Color 2026　Autumn（ツーウィン1091カラー2026秋）",
@@ -75015,5 +75027,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T13:43:09+03:00"
+ "last_check": "2026-10-24T13:47:42+03:00"
 }
