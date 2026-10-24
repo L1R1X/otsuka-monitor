@@ -59343,18 +59343,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193891027": {
-   "name": "DAIWA ワブクラJr.25SS DR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193891027",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193891021": {
    "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
    "price": null,
@@ -59363,18 +59351,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193891021",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890996": {
-   "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890996",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -59399,18 +59375,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890968",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890966": {
-   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890966",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61959,18 +61923,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192471630": {
-   "name": "DAIWA ワブクラJr.25F SR#レッドグローライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192471630",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192462441": {
    "name": "アンカーコア 空P くうぴー #6 グリペレグロー",
    "price": null,
@@ -62511,18 +62463,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh191993058": {
    "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
    "price": null,
@@ -62843,6 +62783,66 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816519": {
+   "name": "ValkeIN ヘイズ DD #ARK1",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816492": {
+   "name": "ValkeIN ヘイズ F #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816487": {
+   "name": "ValkeIN ヘイズ F #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816487",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -64683,18 +64683,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262072": {
-   "name": "スミス くるん Type1 1.1g #10 マットクリアーブラウン",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262072",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262058": {
    "name": "スミス くるん Type1 1.1g #08 カラシ",
    "price": null,
@@ -66443,6 +66431,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75041,5 +75041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T03:27:19+03:00"
+ "last_check": "2026-10-24T03:31:09+03:00"
 }
