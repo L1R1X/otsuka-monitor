@@ -62938,18 +62938,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193959722": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #しもペナ",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959722",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193889332": {
    "name": "FPBルアーズ ビーファンク 0.8g #15 ジンクリアブルー",
    "price": null,
@@ -66366,6 +66354,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006614": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006614",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74964,5 +74964,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T01:46:21+03:00"
+ "last_check": "2026-10-25T01:50:58+03:00"
 }
