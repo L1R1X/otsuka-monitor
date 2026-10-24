@@ -62360,18 +62360,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113782": {
-   "name": "ValkeIN シャインライド NANO #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113782",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113780": {
    "name": "ValkeIN クーガ NANO シンキング #ARK6",
    "price": null,
@@ -62828,17 +62816,17 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194104755": {
-   "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
+  "jh191816486": {
+   "name": "ValkeIN ヘイズ F #ARK2",
    "price": null,
-   "price_text": "715 ¥(税込)",
+   "price_text": "1,425 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194104755",
+   "link": "https://fishing-shop-jh.com/?pid=191816486",
    "extra": "",
    "prefiltered": true,
-   "tag": "🥄 блесна"
+   "tag": "🎣 приманка"
   },
   "jh194104740": {
    "name": "なぶら家 2WIN 2g #マダムオリーブ【1091】",
@@ -66424,6 +66412,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75022,5 +75022,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T11:47:02+03:00"
+ "last_check": "2026-10-24T11:51:41+03:00"
 }
