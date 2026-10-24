@@ -64685,18 +64685,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262066": {
-   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262066",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262058": {
    "name": "スミス くるん Type1 1.1g #08 カラシ",
    "price": null,
@@ -66457,6 +66445,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75055,5 +75055,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T07:51:42+03:00"
+ "last_check": "2026-10-24T07:56:22+03:00"
 }
