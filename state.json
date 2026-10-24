@@ -74849,6 +74849,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194027391": {
+   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
+   "price": null,
+   "price_text": "3,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194027391",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194118225": {
    "name": "MTCW ICEGUARD-解凍-",
    "price": null,
@@ -74893,18 +74905,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194085569",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194086898": {
-   "name": "ヴァルケイン プラグ各種 【谷山商事限定カラー】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194086898",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -75055,5 +75055,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T07:17:18+03:00"
+ "last_check": "2026-10-24T07:22:23+03:00"
 }
