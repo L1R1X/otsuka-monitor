@@ -1771,13 +1771,6 @@
    "price": 1760,
    "stock": 2
   },
-  "53360101GLL00769": {
-   "name": "ムカイ トレモ スマッシュ 25HFWG #高崎店オリジナルカラー 神姫 25mm 1.6g ハイフロート",
-   "spec": "#高崎店オリジナルカラー 神姫 25mm 1.6g ハイフロート オオツカオリカラ",
-   "code": "4513907453870",
-   "price": 1540,
-   "stock": 2
-  },
   "53360101GLB00920": {
    "name": "ムカイ トレモ スマッシュ トレモ25 HFGS #伊勢崎店 オリカラ パルヘリオ 25mm 1.6g ハイフロート",
    "spec": "#伊勢崎店 オリカラ パルヘリオ 25mm 1.6g ハイフロート 伊勢崎店オリジナルカラー",
@@ -2007,7 +2000,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 52
+   "stock": 51
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2248,8 +2241,8 @@
    "stock": 78
   },
   "53360101GKS00613": {
-   "name": "ヴァルケイン クーガ  #伊勢崎店オリカラ 水蛭子 36mm 2.1g フローティング",
-   "spec": "[ヴァルケイン クーガ](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00613 \"ヴァルケイン クーガ  #伊勢崎店オリカラ 水蛭子 36mm 2.1g フローティング\")\n\n#伊勢崎店オリカラ 水蛭子 36mm 2.1g フローティング",
+   "name": "ヴァルケイン クーガ",
+   "spec": "#伊勢崎店オリカラ 水蛭子 36mm 2.1g フローティング",
    "code": "4582671296976",
    "price": 1650,
    "stock": 33
@@ -28002,7 +27995,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/plura",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74782,18 +74775,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194027391": {
-   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
-   "price": null,
-   "price_text": "3,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194027391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194118225": {
    "name": "MTCW ICEGUARD-解凍-",
    "price": null,
@@ -74898,6 +74879,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193088108",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193088216": {
+   "name": "【吉やオリカラ：アンノウン】 ムカイ バックストローク55HS",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193088216",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -75048,5 +75041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T10:15:57+03:00"
+ "last_check": "2026-10-24T10:22:32+03:00"
 }
