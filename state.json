@@ -194,7 +194,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 10
+   "stock": 9
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -2476,7 +2476,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/area-tray-エリアトレイ",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -5152,7 +5152,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/easy-rod-band-for-separate-grip-u-a55-57-easyロッドバンド-セパレート用u-a55-57",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -75034,5 +75034,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T10:26:03+03:00"
+ "last_check": "2026-10-24T10:32:27+03:00"
 }
