@@ -62427,18 +62427,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113775": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192113774": {
    "name": "ValkeIN クーガ NANO シンキング #ARK1",
    "price": null,
@@ -62843,6 +62831,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816487",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816486": {
+   "name": "ValkeIN ヘイズ F #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816486",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75041,5 +75041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T03:37:32+03:00"
+ "last_check": "2026-10-24T03:40:56+03:00"
 }
