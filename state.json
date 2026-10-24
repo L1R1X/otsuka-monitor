@@ -2504,18 +2504,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr9450008215766": {
-   "name": "Fat UssA Jr.（ファットウッサJr.）",
-   "price": null,
-   "price_text": "1 750 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/fat-ussa-jr-ファットウッサjr",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr15394884321494": {
    "name": "esa Pellet color（エサペレットカラー）",
    "price": null,
@@ -20404,6 +20392,18 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/予約商品-2024年2月下旬お届け予定-fairy",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr8256062980310": {
+   "name": "≪予約商品≫(2024年4月下旬お届け予定）Fino Air",
+   "price": null,
+   "price_text": "4 440 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/予約商品-2024年4月下旬お届け予定-fino-air",
    "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
@@ -75022,5 +75022,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-24T10:47:38+03:00"
+ "last_check": "2026-10-24T10:51:21+03:00"
 }
