@@ -2322,7 +2322,7 @@
    "spec": "[ヴァルケイン シャインライド](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL600090 \"ヴァルケイン シャインライド  #伊勢崎店オリカラ 水蛭子 45mm 3.6g シンキング\")\n\n#伊勢崎店オリカラ 水蛭子 45mm 3.6g シンキング 伊勢崎店オリジナルカラー",
    "code": "4582671314809",
    "price": 1650,
-   "stock": 16
+   "stock": 15
   },
   "53360101GLK01472": {
    "name": "ヴァルケイン スウェーバー  S 伊勢崎店オリカラ 八雲 45mm 2.9g シンキング",
@@ -62824,18 +62824,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194104740": {
-   "name": "なぶら家 2WIN 2g #マダムオリーブ【1091】",
-   "price": null,
-   "price_text": "715 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194104740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66408,6 +66396,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75006,5 +75006,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T17:20:58+03:00"
+ "last_check": "2026-10-25T17:27:51+03:00"
 }
