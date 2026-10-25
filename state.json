@@ -27959,7 +27959,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/micro-cra-pea",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -62931,18 +62931,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019172": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #62 安塚リクエスト",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019172",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019166": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #48 本日のラッキーカラー",
    "price": null,
@@ -66443,6 +66431,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75041,5 +75041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T05:55:53+03:00"
+ "last_check": "2026-10-25T06:02:51+03:00"
 }
