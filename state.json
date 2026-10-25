@@ -64641,18 +64641,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193261995": {
-   "name": "スミス くるん Type1 1.1g #04 クリアーレッド",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261995",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193261969": {
    "name": "スミス くるん Type1 1.1g #02 クリアーピンクBP",
    "price": null,
@@ -66401,6 +66389,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006627",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006619": {
+   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006619",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74999,5 +74999,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T21:37:37+03:00"
+ "last_check": "2026-10-25T21:42:36+03:00"
 }
