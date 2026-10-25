@@ -59482,6 +59482,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890823": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #グリパRGスカッパノン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890823",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890815": {
    "name": "DAIWA ワブクラJr.25F DR#胡麻塩グロー",
    "price": null,
@@ -59550,6 +59562,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890737": {
+   "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890737",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61846,6 +61870,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192471630": {
+   "name": "DAIWA ワブクラJr.25F SR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192471630",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192462441": {
    "name": "アンカーコア 空P くうぴー #6 グリペレグロー",
    "price": null,
@@ -62410,6 +62446,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191993058": {
    "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
    "price": null,
@@ -62718,42 +62766,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816530",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816525": {
-   "name": "ValkeIN ヘイズ DD #ARK2",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816525",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816519": {
-   "name": "ValkeIN ヘイズ DD #ARK1",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816519",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816499": {
-   "name": "ValkeIN ヘイズ F #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74952,5 +74964,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T05:07:20+03:00"
+ "last_check": "2026-10-25T05:12:31+03:00"
 }
