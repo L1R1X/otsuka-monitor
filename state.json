@@ -59230,6 +59230,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193985553": {
+   "name": "TIMON ちびフッテンFS #ヤジーフロートメロン",
+   "price": null,
+   "price_text": "1,450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193985553",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193985519": {
    "name": "TIMON ちびフッテンFS #W蛍光パンチ",
    "price": null,
@@ -62290,6 +62302,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192113782": {
+   "name": "ValkeIN シャインライド NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113782",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192113780": {
    "name": "ValkeIN クーガ NANO シンキング #ARK6",
    "price": null,
@@ -62334,6 +62358,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113776",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113775": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113775",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62730,42 +62766,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816490",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816487": {
-   "name": "ValkeIN ヘイズ F #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816487",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816486": {
-   "name": "ValkeIN ヘイズ F #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816486",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816478": {
-   "name": "ValkeIN ヘイズ F #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816478",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74964,5 +74964,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T04:55:52+03:00"
+ "last_check": "2026-10-25T05:02:47+03:00"
 }
