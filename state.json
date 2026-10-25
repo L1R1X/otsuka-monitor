@@ -1419,28 +1419,28 @@
    "spec": "#白骨 36mm 2.9g フローティング",
    "code": "J0301GBC01139",
    "price": 1760,
-   "stock": 0
+   "stock": 1
   },
   "53360101GL201140": {
    "name": "クマタニトラスト ミナモブレイカー  #キアタマ 36mm　2.9g フローティング",
    "spec": "#キアタマ 36mm 2.9g フローティング",
    "code": "J0301GBC01138",
    "price": 1760,
-   "stock": 0
+   "stock": 2
   },
   "53360101GL201147": {
    "name": "クマタニトラスト ミナモブレイカー III #白骨 36mm　2.6g フローティング",
    "spec": "#白骨 36mm 2.6g フローティング",
    "code": "J0301GBC01145",
    "price": 1760,
-   "stock": 0
+   "stock": 3
   },
   "53360101GL201153": {
    "name": "クマタニトラスト ミナモブレイカー III #キアタマ 36mm　2.6g フローティング",
    "spec": "#キアタマ 36mm 2.6g フローティング",
    "code": "J0301GBC01143",
    "price": 1760,
-   "stock": 0
+   "stock": 3
   },
   "53360101GLP01103": {
    "name": "ゲート ミディアムクラピー GS2",
@@ -1475,7 +1475,7 @@
    "spec": "#ディアボロ 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315659",
    "price": 1760,
-   "stock": 0
+   "stock": 18
   },
   "53360101GIG02220": {
    "name": "スプリーモ バイラ  50HMD",
@@ -1608,7 +1608,7 @@
    "spec": "#ドッピオ 30mm 1.6g フローティング オオツカオリカラ",
    "code": "4548393368339",
    "price": 1595,
-   "stock": 0
+   "stock": 38
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -62861,18 +62861,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019174": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #91 蛍光ピンク(グロー)/裏ゴールド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019174",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019172": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #62 安塚リクエスト",
    "price": null,
@@ -66373,6 +66361,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175024",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175006": {
+   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175006",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74971,5 +74971,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T05:40:58+03:00"
+ "last_check": "2026-10-25T05:46:00+03:00"
 }
