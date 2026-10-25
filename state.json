@@ -3312,7 +3312,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-wah37hf-heros-tester-color-2026-autumn-rcワウ37hfヒーローズテスターカラー2026秋",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -59644,18 +59644,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890586": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #ブルパダブルピンク",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890586",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193883425": {
    "name": "ロデオクラフト USSA ウッサ XS ノンラトル #FOCUSおまめ",
    "price": null,
@@ -62808,6 +62796,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75006,5 +75006,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T17:43:05+03:00"
+ "last_check": "2026-10-25T17:46:06+03:00"
 }
