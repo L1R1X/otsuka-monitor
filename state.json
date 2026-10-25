@@ -61054,6 +61054,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192874006": {
+   "name": "ロデオクラフト ファットウッサJr XS #19早乙女",
+   "price": null,
+   "price_text": "1,750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192874006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62754,18 +62766,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816478",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191815424": {
-   "name": "ムカイ トレモ Tremo35MR HFWG #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191815424",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74964,5 +74964,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-25T04:52:03+03:00"
+ "last_check": "2026-10-25T04:55:52+03:00"
 }
