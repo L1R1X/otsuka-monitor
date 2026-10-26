@@ -59385,18 +59385,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193891021": {
-   "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193891021",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890996": {
    "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
    "price": null,
@@ -62873,6 +62861,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816499",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816492": {
+   "name": "ValkeIN ヘイズ F #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816492",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75071,5 +75071,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-26T08:57:11+03:00"
+ "last_check": "2026-10-26T09:01:52+03:00"
 }
