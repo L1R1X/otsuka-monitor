@@ -65284,18 +65284,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192653226": {
-   "name": "Deep Paradox TYSON 1.3g #全色セット15枚入り",
-   "price": null,
-   "price_text": "9,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653226",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650788": {
    "name": "Deep Paradox TYSON 1.3g #14 ソルティマジョーラ",
    "price": null,
@@ -66492,6 +66480,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006614": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006614",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75090,5 +75090,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-26T12:22:41+03:00"
+ "last_check": "2026-10-26T12:25:53+03:00"
 }
