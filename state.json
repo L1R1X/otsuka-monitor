@@ -64468,18 +64468,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193463499": {
-   "name": "オフィスユーカリ B-SPA Tik 2.0g #S2 サーキットグローハック",
-   "price": null,
-   "price_text": "845 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463499",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193463490": {
    "name": "オフィスユーカリ B-SPA Tik 2.0g #S1 サーキットダーク",
    "price": null,
@@ -66516,6 +66504,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006598",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006584": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LMみけ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006584",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75114,5 +75114,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-26T17:16:07+03:00"
+ "last_check": "2026-10-26T17:21:07+03:00"
 }
