@@ -34540,6 +34540,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15412928413970": {
+   "name": "☆予約受付☆デイジー0.7g全20色各1個計20個セット※11月下旬発送予定",
+   "price": null,
+   "price_text": "12 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/予約受付-デイジー0-7g全20色各1個計20個セット-11月下旬発送予定",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15409871552786": {
    "name": "ベルベットアーツ キャンバスフック(CANVAS HOOK)",
    "price": null,
@@ -40704,6 +40716,18 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/ロデオクラフト-noa",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "w10000000000241678": {
+   "name": "ROB LURE　ロブルアー ロブルアー トラウトロッド ケーニッヒ スネーカー KS58-H",
+   "price": null,
+   "price_text": "82 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000241678",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -75090,5 +75114,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-26T12:57:55+03:00"
+ "last_check": "2026-10-26T13:02:27+03:00"
 }
