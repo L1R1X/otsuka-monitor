@@ -57531,7 +57531,7 @@
    "tag": ""
   },
   "w10000000000044146": {
-   "name": "PIKESTREETMARKET　パイクストリートマーケット ハングリーベア　ライセンスホルダー 【piombo ブラウン】(HUNGRY BEAR )",
+   "name": "PIKE STREET MARKET　パイクストリートマーケット ハングリーベア　ライセンスホルダー 【piombo ブラウン】(HUNGRY BEAR )",
    "price": null,
    "price_text": "13 999 ¥",
    "spec": "",
@@ -57543,7 +57543,7 @@
    "tag": ""
   },
   "w10000000000044145": {
-   "name": "PIKESTREETMARKET　パイクストリートマーケット ハングリーベア　ライセンスホルダー 【nero ブラック】(HUNGRY BEAR )",
+   "name": "PIKE STREET MARKET　パイクストリートマーケット ハングリーベア　ライセンスホルダー 【nero ブラック】(HUNGRY BEAR )",
    "price": null,
    "price_text": "13 999 ¥",
    "spec": "",
@@ -59318,18 +59318,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193891021": {
-   "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193891021",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890996": {
    "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
    "price": null,
@@ -59362,18 +59350,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890968",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890960": {
-   "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890960",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62806,6 +62782,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816492",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816490": {
+   "name": "ValkeIN ヘイズ F #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816490",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816487": {
+   "name": "ValkeIN ヘイズ F #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816487",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75004,5 +75004,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T17:52:01+03:00"
+ "last_check": "2026-10-27T17:56:39+03:00"
 }
