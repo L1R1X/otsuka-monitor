@@ -59299,6 +59299,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194184417": {
+   "name": "ValkeIN シャインライド #アベレージヒッター【有頂天】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194184417",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019545": {
    "name": "DAYSPROUT ディスプラウト ガメクラ F #PPチョコチップ",
    "price": null,
@@ -62191,6 +62203,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192325578": {
+   "name": "ValkeIN シャインライド #ビビビオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325578",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -62871,30 +62895,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816530",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816525": {
-   "name": "ValkeIN ヘイズ DD #ARK2",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816525",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816519": {
-   "name": "ValkeIN ヘイズ DD #ARK1",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816519",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -64735,6 +64735,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262084": {
+   "name": "スミス くるん Type1 1.1g #12 オリーブドラブ",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262084",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262079": {
    "name": "スミス くるん Type1 1.1g #11 マットブラウン",
    "price": null,
@@ -64755,6 +64767,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262072",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193262066": {
+   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262066",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66471,30 +66495,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75093,5 +75093,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T05:51:02+03:00"
+ "last_check": "2026-10-27T05:56:11+03:00"
 }
