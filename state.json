@@ -65767,18 +65767,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192571092": {
-   "name": "ディスプラウト Reccoa 1.3g #10 メテオラOB",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192571092",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192571034": {
    "name": "ディスプラウト Reccoa 1.3g #9 蛍光ピンク",
    "price": null,
@@ -66483,6 +66471,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087672": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087672",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75081,5 +75081,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T07:35:57+03:00"
+ "last_check": "2026-10-27T07:42:57+03:00"
 }
