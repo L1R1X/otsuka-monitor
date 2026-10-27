@@ -74791,6 +74791,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki191351827": {
+   "name": "ディスプラウト×DLIVE νフュージョン",
+   "price": null,
+   "price_text": "69,850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191351827",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki189471881": {
    "name": "【吉やオリカラ：緑龍】 ムカイ 鯱28HS",
    "price": null,
@@ -74919,18 +74931,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193687350",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193687359": {
-   "name": "【吉やオリカラ：安燈】 ムカイ Smash25MR(S)WG スマッシュ25MR",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193687359",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -75081,5 +75081,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T07:05:57+03:00"
+ "last_check": "2026-10-27T07:11:00+03:00"
 }
