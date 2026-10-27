@@ -1909,7 +1909,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447276172",
    "price": 1650,
-   "stock": 9
+   "stock": 8
   },
   "53360101GLJ01736": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -1923,7 +1923,7 @@
    "spec": "#高崎店オリカラ 鬼灯 40mm 2.4g ハイフロート",
    "code": "4514447286508",
    "price": 1650,
-   "stock": 16
+   "stock": 15
   },
   "53360101GLR01069": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -62923,6 +62923,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194102853": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102853",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102794": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102794",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66459,42 +66483,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006627",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006619": {
-   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006619",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006614": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006614",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006598": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM茶トラ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006598",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75093,5 +75081,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T04:50:59+03:00"
+ "last_check": "2026-10-27T04:55:57+03:00"
 }
