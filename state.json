@@ -4320,7 +4320,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/valkein-plug-2026-uchoten-color-2026-ヴァルケインプラグ有頂天カラー2026",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -20220,7 +20220,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/zagger-50-f1-r-1091-ザッガー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -75006,5 +75006,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T13:03:12+03:00"
+ "last_check": "2026-10-27T13:07:11+03:00"
 }
