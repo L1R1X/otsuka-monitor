@@ -61132,18 +61132,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873971": {
-   "name": "ロデオクラフト ファットウッサJr XS #2015ノブカラー",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873971",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62820,6 +62808,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816534",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816530": {
+   "name": "ValkeIN ヘイズ DD #ARK3",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75018,5 +75018,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T10:36:09+03:00"
+ "last_check": "2026-10-27T10:41:59+03:00"
 }
