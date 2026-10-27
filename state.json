@@ -62953,42 +62953,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194102853": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102853",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102794": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102727": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃119 雪国せんべい",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102727",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194102624": {
    "name": "ノリーズ CHIBI ZX 1.8g ＃70 JOKER",
    "price": null,
@@ -66525,6 +66489,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087661": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087661",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75123,5 +75123,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T08:17:21+03:00"
+ "last_check": "2026-10-27T08:22:59+03:00"
 }
