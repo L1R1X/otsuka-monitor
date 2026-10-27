@@ -62203,6 +62203,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192325598": {
+   "name": "ValkeIN ハイドラム S #ビビビオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,995 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325598",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192325595": {
+   "name": "ValkeIN ハイドラム S #ドンチャックドン【有頂天】",
+   "price": null,
+   "price_text": "1,995 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325595",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192325578": {
    "name": "ValkeIN シャインライド #ビビビオレンジ【有頂天】",
    "price": null,
@@ -62871,30 +62895,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816537",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816534": {
-   "name": "ValkeIN ヘイズ DD #ARK4",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816534",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816530": {
-   "name": "ValkeIN ヘイズ DD #ARK3",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75093,5 +75093,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T05:56:11+03:00"
+ "last_check": "2026-10-27T06:01:27+03:00"
 }
