@@ -60979,18 +60979,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193125473": {
-   "name": "ValkeIN ハイドラム F #ワラシナシューティングフルチャート",
-   "price": null,
-   "price_text": "1,900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193125473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193125461": {
    "name": "ValkeIN ハイドラム F #夢幻トロピカル",
    "price": null,
@@ -62887,6 +62875,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -64207,18 +64207,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193471890": {
-   "name": "ValkeIN ヴァルキャノン 2.8g #M140 スプリットオーカーグロー",
-   "price": null,
-   "price_text": "740 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193471890",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193471799": {
    "name": "ValkeIN ヴァルキャノン 2.8g #M139 パッショングロー",
    "price": null,
@@ -64839,18 +64827,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193261969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193261948": {
-   "name": "スミス くるん Type1 1.1g #01 FLピンク",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261948",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65767,6 +65743,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192571092": {
+   "name": "ディスプラウト Reccoa 1.3g #10 メテオラOB",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192571092",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192571034": {
    "name": "ディスプラウト Reccoa 1.3g #9 蛍光ピンク",
    "price": null,
@@ -66483,6 +66471,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75081,5 +75081,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T07:42:57+03:00"
+ "last_check": "2026-10-27T07:46:05+03:00"
 }
