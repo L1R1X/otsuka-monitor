@@ -62953,18 +62953,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194102624": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃70 JOKER",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102624",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66525,6 +66513,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75123,5 +75123,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-27T08:30:10+03:00"
+ "last_check": "2026-10-27T08:33:29+03:00"
 }
