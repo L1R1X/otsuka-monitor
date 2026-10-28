@@ -34555,6 +34555,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk10357784248594": {
+   "name": "マイクロパニクラMRーSS",
+   "price": null,
+   "price_text": "1 430 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/マイクロパニクラmrーss",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk9966261272850": {
    "name": "シーガーR18 フロロリミテッド100m※宅急便コンパクトでの発送",
    "price": null,
@@ -59599,18 +59611,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890838": {
-   "name": "DAIWA ワブクラJr.25F DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890838",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890823": {
    "name": "DAIWA リバースニョロクレイジー 57F DR #グリパRGスカッパノン",
    "price": null,
@@ -62919,6 +62919,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816537",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816534": {
+   "name": "ValkeIN ヘイズ DD #ARK4",
+   "price": null,
+   "price_text": "1,570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816534",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75117,5 +75129,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T16:01:56+03:00"
+ "last_check": "2026-10-28T16:07:41+03:00"
 }
