@@ -2397,12 +2397,12 @@
   "tr15415965548758": {
    "name": "Rattlin’ CRANK 40 AREA（ラトリンクランク40エリア）",
    "price": null,
-   "price_text": "0 ¥",
+   "price_text": "1 522 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rattlin-crank-40-area-ラトリンクランク40エリア",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -75128,5 +75128,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T12:46:05+03:00"
+ "last_check": "2026-10-28T12:52:41+03:00"
 }
