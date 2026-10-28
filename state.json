@@ -62915,18 +62915,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194200304": {
-   "name": "サウリブ Shaath シャース 0.75g #26 いなご",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200304",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65791,6 +65779,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570812",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570803": {
+   "name": "ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570803",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75109,5 +75109,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T08:21:03+03:00"
+ "last_check": "2026-10-28T08:26:09+03:00"
 }
