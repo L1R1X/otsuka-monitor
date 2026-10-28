@@ -2394,6 +2394,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15415965548758": {
+   "name": "Rattlin’ CRANK 40 AREA（ラトリンクランク40エリア）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rattlin-crank-40-area-ラトリンクランク40エリア",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr9393296867542": {
    "name": "Rodio Craft Spoon t-Route Limited 2026（ロデオクラフトスプーンt-Routeオリカラ2026）",
    "price": null,
@@ -75116,5 +75128,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T12:42:42+03:00"
+ "last_check": "2026-10-28T12:46:05+03:00"
 }
