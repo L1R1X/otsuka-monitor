@@ -13270,7 +13270,7 @@
    "tag": ""
   },
   "tr8942111949014": {
-   "name": "ZAGGER 38 B1(ザッガー）",
+   "name": "ZAGGER 38 B1(ザッガー38 B1）",
    "price": null,
    "price_text": "1 500 ¥",
    "spec": "",
@@ -20314,7 +20314,7 @@
    "tag": ""
   },
   "tr8257945501910": {
-   "name": "ZAGGER 50 F1-R 1091（ザッガー）",
+   "name": "ZAGGER 50 F1-R 1091（ザッガー50 F1-R 1091）",
    "price": null,
    "price_text": "1 520 ¥",
    "spec": "",
@@ -75107,5 +75107,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T13:53:50+03:00"
+ "last_check": "2026-10-28T13:57:54+03:00"
 }
