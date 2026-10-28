@@ -62761,6 +62761,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194104755": {
+   "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
+   "price": null,
+   "price_text": "715 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194104755",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194104740": {
    "name": "なぶら家 2WIN 2g #マダムオリーブ【1091】",
    "price": null,
@@ -66345,18 +66357,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006614": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006614",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74955,5 +74955,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T06:23:16+03:00"
+ "last_check": "2026-10-28T06:26:02+03:00"
 }
