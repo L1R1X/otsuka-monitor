@@ -74644,6 +74644,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194200437": {
+   "name": "リチャーズ WILD JoCARD CruXLinK 5104UL-st",
+   "price": null,
+   "price_text": "57,860 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194200437",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191351827": {
    "name": "ディスプラウト×DLIVE νフュージョン",
    "price": null,
@@ -74772,18 +74784,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193094630",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193687350": {
-   "name": "【吉やオリカラ：緑龍】 ムカイ Smash25MR(S)WG スマッシュ25MR",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193687350",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74934,5 +74934,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T07:45:56+03:00"
+ "last_check": "2026-10-28T07:51:44+03:00"
 }
