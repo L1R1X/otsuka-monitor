@@ -65795,18 +65795,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192570803": {
-   "name": "ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570803",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192570799": {
    "name": "ディスプラウト Reccoa 1.3g #2 グリーンメタル",
    "price": null,
@@ -66511,6 +66499,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006627",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006619": {
+   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006619",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75109,5 +75109,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T08:17:16+03:00"
+ "last_check": "2026-10-28T08:21:03+03:00"
 }
