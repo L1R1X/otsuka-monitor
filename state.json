@@ -2373,6 +2373,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15415985635542": {
+   "name": "DAYSPROUT×DLIVE ROD STAND V FUSION（ディスプラウト×ドライブ　ロッドスタンドVフュージョン）",
+   "price": null,
+   "price_text": "63 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/daysprout-dlive-rod-stand-v-fusion-ディスプラウト-ドライブ-ロッドスタンドvフュージョン",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15415965548758": {
    "name": "Rattlin’ CRANK 40 AREA（ラトリンクランク40エリア）",
    "price": null,
@@ -15425,7 +15437,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/shaath-075-シャース075",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -75107,5 +75119,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T14:33:21+03:00"
+ "last_check": "2026-10-28T14:37:58+03:00"
 }
