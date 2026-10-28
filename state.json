@@ -74819,18 +74819,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki194200437": {
-   "name": "リチャーズ WILD JoCARD CruXLinK 5104UL-st",
-   "price": null,
-   "price_text": "57,860 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194200437",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki191351827": {
    "name": "ディスプラウト×DLIVE νフュージョン",
    "price": null,
@@ -74963,6 +74951,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193687350": {
+   "name": "【吉やオリカラ：緑龍】 ムカイ Smash25MR(S)WG スマッシュ25MR",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193687350",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki177514349": {
    "name": "ベトベト ベロ120F（VERO120F）",
    "price": null,
@@ -74971,6 +74971,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=177514349",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki190140374": {
+   "name": "レヴォニック サラモアポロ",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=190140374",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -75094,20 +75106,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki175681653": {
-   "name": "エバーグリーン ルーシー3.2",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=175681653",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T08:26:09+03:00"
+ "last_check": "2026-10-28T08:31:14+03:00"
 }
