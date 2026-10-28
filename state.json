@@ -13281,12 +13281,12 @@
   "tr8942111949014": {
    "name": "ZAGGER 38 B1(ザッガー）",
    "price": null,
-   "price_text": "1 460 ¥",
+   "price_text": "1 500 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/予約商品-2025年9月お届け予定-zagger-38-b1ザッガー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -75116,5 +75116,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-28T12:21:27+03:00"
+ "last_check": "2026-10-28T12:27:14+03:00"
 }
