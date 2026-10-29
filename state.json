@@ -62945,18 +62945,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194200288": {
-   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -66517,6 +66505,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75115,5 +75115,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T07:05:54+03:00"
+ "last_check": "2026-10-29T07:11:06+03:00"
 }
