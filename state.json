@@ -2373,6 +2373,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15417525829846": {
+   "name": "AhoDolly（アホドリー）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/ahodolly-アホドリー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15415985635542": {
    "name": "DAYSPROUT×DLIVE ROD STAND V FUSION（ディスプラウト×ドライブ　ロッドスタンドVフュージョン）",
    "price": null,
@@ -74807,5 +74819,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T11:31:25+03:00"
+ "last_check": "2026-10-29T11:36:44+03:00"
 }
