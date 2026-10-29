@@ -62959,6 +62959,54 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194102853": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102853",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102794": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102794",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102727": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃119 雪国せんべい",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102727",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102624": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃70 JOKER",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102624",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66483,54 +66531,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087664",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087661": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087661",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192079125": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192079125",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006627": {
-   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006627",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006619": {
-   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006619",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75129,5 +75129,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T04:46:08+03:00"
+ "last_check": "2026-10-29T04:51:00+03:00"
 }
