@@ -60273,6 +60273,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193463435": {
+   "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193463435",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193463363": {
    "name": "DAIWA ダブルクラッチ 60F1 #デリシャスペレット",
    "price": null,
@@ -60833,6 +60845,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193137210",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193125473": {
+   "name": "ValkeIN ハイドラム F #ワラシナシューティングフルチャート",
+   "price": null,
+   "price_text": "1,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193125473",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62121,6 +62145,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192240744": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192240740": {
    "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
    "price": null,
@@ -62573,42 +62609,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191885062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885046": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885046",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847773": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847773",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847768": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74807,5 +74807,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T11:01:30+03:00"
+ "last_check": "2026-10-29T11:05:53+03:00"
 }
