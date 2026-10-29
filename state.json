@@ -20753,7 +20753,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/t-crankup-jr-1091-color-ティークランカップジュニア1091カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -25709,7 +25709,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/herper-vibe-1091",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74819,5 +74819,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T12:12:24+03:00"
+ "last_check": "2026-10-29T12:16:10+03:00"
 }
