@@ -63487,18 +63487,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193888795": {
-   "name": "FPBルアーズ ビーゼロ 0.9g #2 レディネイル",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193888795",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193888784": {
    "name": "FPBルアーズ ビーゼロ 0.9g #1 オレ金",
    "price": null,
@@ -66543,6 +66531,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006614",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006598": {
+   "name": "ルアマガ にゃんこすぷ〜ん #LM茶トラ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006598",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75141,5 +75141,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T03:27:35+03:00"
+ "last_check": "2026-10-29T03:32:59+03:00"
 }
