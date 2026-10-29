@@ -12269,7 +12269,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/no-940-professional-releaser-プロフェッショナルリリーサー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -61113,18 +61113,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873982": {
-   "name": "ロデオクラフト ファットウッサJr XS #20安塚",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873982",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192873921": {
    "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
    "price": null,
@@ -62621,6 +62609,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191885062",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191885046": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885046",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74819,5 +74819,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T12:07:41+03:00"
+ "last_check": "2026-10-29T12:12:24+03:00"
 }
