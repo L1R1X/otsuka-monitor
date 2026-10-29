@@ -62935,6 +62935,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194200318": {
+   "name": "サウリブ Shaath シャース 0.75g #29 ヘタ付とねとうがらし",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200318",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200304": {
+   "name": "サウリブ Shaath シャース 0.75g #26 いなご",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200304",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200288": {
+   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -66495,42 +66531,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087666": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75129,5 +75129,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T05:01:21+03:00"
+ "last_check": "2026-10-29T05:05:55+03:00"
 }
