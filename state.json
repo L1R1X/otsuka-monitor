@@ -59385,18 +59385,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194213853": {
-   "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING SALMON",
-   "price": null,
-   "price_text": "1,475 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194213853",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194213685": {
    "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING MUSTARD",
    "price": null,
@@ -62945,6 +62933,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847773": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847773",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75143,5 +75143,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T09:01:29+03:00"
+ "last_check": "2026-10-29T09:07:22+03:00"
 }
