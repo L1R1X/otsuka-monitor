@@ -1944,14 +1944,14 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 57
+   "stock": 58
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "# トライデントGG 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319718",
    "price": 1650,
-   "stock": 59
+   "stock": 60
   },
   "53360101GLR01062": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング",
@@ -2376,12 +2376,12 @@
   "tr15417525829846": {
    "name": "AhoDolly（アホドリー）",
    "price": null,
-   "price_text": "0 ¥",
+   "price_text": "1 400 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/ahodolly-アホドリー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -3173,7 +3173,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-lion-hook-rcライオンフック",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -12797,7 +12797,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/288-stoker-288ストッカー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74819,5 +74819,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T11:36:44+03:00"
+ "last_check": "2026-10-29T11:41:49+03:00"
 }
