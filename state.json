@@ -59045,6 +59045,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194213685": {
+   "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING MUSTARD",
+   "price": null,
+   "price_text": "1,475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194213685",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194213532": {
    "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING WHITE",
    "price": null,
@@ -62581,18 +62593,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847743",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74791,5 +74791,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T02:47:40+03:00"
+ "last_check": "2026-10-30T02:52:21+03:00"
 }
