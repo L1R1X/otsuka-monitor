@@ -880,7 +880,7 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 0.6g オオツカオリカラ",
    "code": "4582782654658",
    "price": 638,
-   "stock": 13
+   "stock": 12
   },
   "53360101GLZ01245": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ソルティアルバス 0.6g",
@@ -901,7 +901,7 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 0.8g オオツカオリカラ",
    "code": "4582782654627",
    "price": 638,
-   "stock": 38
+   "stock": 37
   },
   "53360101GLZ01249": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ソルティアルバス 0.8g",
@@ -922,7 +922,7 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 0.95g オオツカオリカラ",
    "code": "4582782654719",
    "price": 638,
-   "stock": 49
+   "stock": 47
   },
   "53360101GLZ01243": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ソルティアルバス 0.95g",
@@ -938,47 +938,33 @@
    "price": 638,
    "stock": 13
   },
-  "53360101GLZ01241": {
-   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
-   "spec": "#高崎店オリジナルカラー ジュゲム 1.2g オオツカオリカラ",
-   "code": "4582782654689",
-   "price": 638,
-   "stock": 1
-  },
-  "53360101GLZ01244": {
-   "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ソルティアルバス 1.2g",
-   "spec": "#高崎店オリジナルカラー ソルティアルバス 1.2g オオツカオリカラ",
-   "code": "4582782654665",
-   "price": 638,
-   "stock": 2
-  },
   "53360101GLZ01238": {
    "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー MSミルキーウェイ 1.35g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.35g オオツカオリカラ",
    "code": "4582782654597",
    "price": 638,
-   "stock": 6
+   "stock": 5
   },
   "53360101GLG00407": {
    "name": "ディープパラドックス グラビティ  1.35g #高崎店オリジナルカラー ソルティアルバス 1.35g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 1.35g オオツカオリカラ",
    "code": "4582782651107",
    "price": 638,
-   "stock": 5
+   "stock": 4
   },
   "53360101GLZ01237": {
    "name": "ディープパラドックス グラビティ  1.65g #高崎店オリジナルカラー MSミルキーウェイ 1.65g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.65g オオツカオリカラ",
    "code": "4582782654580",
    "price": 638,
-   "stock": 3
+   "stock": 1
   },
   "53360101GLG00411": {
    "name": "ディープパラドックス グラビティ  1.65g #高崎店オリジナルカラー ソルティアルバス 1.65g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 1.65g オオツカオリカラ",
    "code": "4582782651077",
    "price": 638,
-   "stock": 8
+   "stock": 5
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -1261,15 +1247,15 @@
    "stock": 6
   },
   "53360101GLH01143": {
-   "name": "ヴァルケイン シャノン  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g",
-   "spec": "[ヴァルケイン シャノン 1.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLH01143 \"ヴァルケイン シャノン  1.1g # 菊汁二番(宇都宮店オリカラ) 1.1g\")\n\n# 菊汁二番(宇都宮店オリカラ) 1.1g",
+   "name": "ヴァルケイン シャノン  1.1g",
+   "spec": "# 菊汁二番(宇都宮店オリカラ) 1.1g",
    "code": "4582671332018",
    "price": 583,
    "stock": 2
   },
   "53360101GIY00019": {
    "name": "ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ",
-   "spec": "[ヴァルケイン ハイバースト 1.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GIY00019 \"ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ\")\n\n#伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
+   "spec": "#伊勢崎店オリカラ コンゴウ 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
    "code": "4589873979706",
    "price": 583,
    "stock": 13
@@ -62999,54 +62985,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194102853": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102853",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102794": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102727": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃119 雪国せんべい",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102727",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194102624": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃70 JOKER",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102624",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -66559,6 +66497,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087672": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75157,5 +75143,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T08:40:56+03:00"
+ "last_check": "2026-10-29T08:48:25+03:00"
 }
