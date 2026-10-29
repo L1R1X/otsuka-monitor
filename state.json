@@ -59395,6 +59395,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193985553": {
+   "name": "TIMON ちびフッテンFS #ヤジーフロートメロン",
+   "price": null,
+   "price_text": "1,450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193985553",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193985519": {
    "name": "TIMON ちびフッテンFS #W蛍光パンチ",
    "price": null,
@@ -62923,18 +62935,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191816519": {
-   "name": "ValkeIN ヘイズ DD #ARK1",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816519",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -63471,6 +63471,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193888800",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193888795": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #2 レディネイル",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193888795",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -64743,6 +64755,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262072",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193262066": {
+   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262066",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66507,30 +66531,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006614": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006614",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006598": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM茶トラ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006598",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -75129,5 +75129,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T04:26:06+03:00"
+ "last_check": "2026-10-29T04:31:44+03:00"
 }
