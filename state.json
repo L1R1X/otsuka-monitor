@@ -60597,18 +60597,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193463435": {
-   "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463435",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193463363": {
    "name": "DAIWA ダブルクラッチ 60F1 #デリシャスペレット",
    "price": null,
@@ -62457,18 +62445,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192240744": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192240740": {
    "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
    "price": null,
@@ -62945,6 +62921,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847773",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847768": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847768",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847759": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #08 グリーンスプラッシュ",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847759",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -75143,5 +75143,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-29T09:37:29+03:00"
+ "last_check": "2026-10-29T09:42:24+03:00"
 }
