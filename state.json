@@ -852,7 +852,7 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.6g オオツカオリカラ",
    "code": "4582782654641",
    "price": 638,
-   "stock": 75
+   "stock": 74
   },
   "53360101GLZ01247": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ジュゲム 0.6g",
@@ -866,7 +866,7 @@
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.6g オオツカオリカラ",
    "code": "4582782654634",
    "price": 638,
-   "stock": 124
+   "stock": 123
   },
   "53360101GLZ01250": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー MSミルキーウェイ 0.8g",
@@ -923,13 +923,6 @@
    "code": "4582782654689",
    "price": 638,
    "stock": 2
-  },
-  "53360101GLZ01237": {
-   "name": "ディープパラドックス グラビティ  1.65g #高崎店オリジナルカラー MSミルキーウェイ 1.65g",
-   "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.65g オオツカオリカラ",
-   "code": "4582782654580",
-   "price": 638,
-   "stock": 1
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -1262,7 +1255,7 @@
   },
   "53360101GLE00515": {
    "name": "ヴァルケイン ブラックブラスト  1.8g #伊勢崎店オリカラ ペレゴン 1.8g",
-   "spec": "[ヴァルケイン ブラックブラスト 1.8g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLE00515 \"ヴァルケイン ブラックブラスト  1.8g #伊勢崎店オリカラ ペレゴン 1.8g\")\n\n#伊勢崎店オリカラ ペレゴン 1.8g 伊勢崎店オリジナルカラー",
+   "spec": "#伊勢崎店オリカラ ペレゴン 1.8g 伊勢崎店オリジナルカラー",
    "code": "4582671323474",
    "price": 638,
    "stock": 10
@@ -62810,18 +62803,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240708": {
-   "name": "ウォーターランド アルミん 3.4g #NC04 ピンク/レッドカモ",
-   "price": null,
-   "price_text": "700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240708",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240651": {
    "name": "ウォーターランド アルミん 3.4g #NC03 Pホワイト/チャートカモ",
    "price": null,
@@ -62902,18 +62883,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240003",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194239976": {
-   "name": "ウォーターランド アルミん 2.5g #NC02 オレンジ/レッドカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194239976",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66310,6 +66279,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175521",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175518": {
+   "name": "ロブルアー バベルV3 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175518",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175504": {
+   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175504",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74908,5 +74901,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T18:07:16+03:00"
+ "last_check": "2026-10-30T18:13:39+03:00"
 }
