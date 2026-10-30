@@ -34233,14 +34233,14 @@
    "prefiltered": false,
    "tag": ""
   },
-  "zk15416181326098": {
+  "zk15416262852882": {
    "name": "ドリフトスピン32 1.0g☆26年10月発売の新サイズ☆",
    "price": null,
    "price_text": "660 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/ドリフトスピン32-1-0g-26年10月発売の新サイズ",
+   "link": "https://fishingshop-zarky.com/products/ドリフトスピン32-1-0g-26年10月発売の新サイズ-1",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -59289,18 +59289,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985651": {
-   "name": "TIMON ちびフッテンFS #カドニキハーフグロー",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985651",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985621": {
    "name": "TIMON ちびフッテンFS #タッキートロピカルクリアー",
    "price": null,
@@ -62669,6 +62657,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847773",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847768": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74867,5 +74867,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T11:05:58+03:00"
+ "last_check": "2026-10-30T11:10:59+03:00"
 }
