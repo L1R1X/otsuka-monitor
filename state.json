@@ -2352,6 +2352,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15419168325846": {
+   "name": "DLIVE ROD STAND FUSION X（ドライブロッドスタンドフュージョンX）",
+   "price": null,
+   "price_text": "62 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/dlive-rod-stand-fusion-x-ドライブロッドスタンドフュージョンx",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15419236090070": {
    "name": "OPEN LIMITER BLOCK（オープンリミッターブロック）",
    "price": null,
@@ -74870,5 +74882,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T13:46:00+03:00"
+ "last_check": "2026-10-30T13:53:18+03:00"
 }
