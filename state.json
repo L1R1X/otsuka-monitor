@@ -64481,6 +64481,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262079": {
+   "name": "スミス くるん Type1 1.1g #11 マットブラウン",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262079",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262058": {
    "name": "スミス くるん Type1 1.1g #08 カラシ",
    "price": null,
@@ -66181,18 +66193,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099385": {
-   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099385",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74791,5 +74791,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T04:25:53+03:00"
+ "last_check": "2026-10-30T04:31:42+03:00"
 }
