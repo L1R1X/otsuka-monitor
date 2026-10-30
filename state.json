@@ -2352,6 +2352,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15388199289046": {
+   "name": "RC Drift Spin 32/42（RCドリフトスピン32/42）",
+   "price": null,
+   "price_text": "600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-drift-spin-42-rcドリフトスピン42",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15419168325846": {
    "name": "DLIVE ROD STAND FUSION X（ドライブロッドスタンドフュージョンX）",
    "price": null,
@@ -74882,5 +74894,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T13:55:54+03:00"
+ "last_check": "2026-10-30T14:03:25+03:00"
 }
