@@ -59873,6 +59873,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193656579": {
+   "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #ウッドランドペレットオールスターズ",
+   "price": null,
+   "price_text": "1,375 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193656579",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193656574": {
    "name": "ラッキークラフト WAH ワウ 55 Sub MAX SS #ゴマシャーベットII",
    "price": null,
@@ -60157,6 +60169,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193521021",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193520986": {
+   "name": "ValkeIN ハイドラム F リアルプリント #パイソンイエローレッドグロー",
+   "price": null,
+   "price_text": "1,900 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193520986",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -60565,6 +60589,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161766",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193161627": {
+   "name": "ValkeIN シャインライド #ツブラッシュ・マウンテン【パワーショップ限定】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161627",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62525,6 +62561,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191885046": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh191847773": {
    "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
    "price": null,
@@ -62545,54 +62593,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847768",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847759": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #08 グリーンスプラッシュ",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847759",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847755": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #07 ブルースプラッシュ",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847755",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847743": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847743",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74791,5 +74791,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T04:31:42+03:00"
+ "last_check": "2026-10-30T04:35:55+03:00"
 }
