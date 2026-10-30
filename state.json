@@ -2594,18 +2594,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr15388199289046": {
-   "name": "RC Drift Spin 42（RCドリフトスピン42）",
-   "price": null,
-   "price_text": "600 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/rc-drift-spin-42-rcドリフトスピン42",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr15386995261654": {
    "name": "RURAN（ルラン）",
    "price": null,
@@ -29362,6 +29350,18 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rcグラスホッパー-1091カラー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr7669697118422": {
+   "name": "MOCA（モカ）[有頂天カラー]",
+   "price": null,
+   "price_text": "1 330 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/モカ-有頂天カラー",
    "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
@@ -74812,5 +74812,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T08:42:03+03:00"
+ "last_check": "2026-10-30T08:47:07+03:00"
 }
