@@ -166,7 +166,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02356 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g \")\n\n#伊勢崎店オリカラ 家畜オリバリン 2.8g オオツカオリカラ",
    "code": "4573265536295",
    "price": 627,
-   "stock": 39
+   "stock": 38
   },
   "53360101GKH00357": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ カカポ 2.8g",
@@ -174,13 +174,6 @@
    "code": "4573265536288",
    "price": 627,
    "stock": 35
-  },
-  "53360101GLK01581": {
-   "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コバタン 2.8g",
-   "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK01581 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コバタン 2.8g \")\n\n#伊勢崎店オリカラ コバタン 2.8g",
-   "code": "4573640550151",
-   "price": 627,
-   "stock": 0
   },
   "53360101GKH00358": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g",
@@ -253,8 +246,8 @@
    "stock": 16
   },
   "53360101GKL02352": {
-   "name": "FPBルアーズ フロンティア  2.5g",
-   "spec": "#伊勢崎店オリカラ ペレゴン 2.5g オオツカオリカラ",
+   "name": "FPBルアーズ フロンティア  2.5g #伊勢崎店オリカラ ペレゴン 2.5g オオツカオリカラ",
+   "spec": "[FPBルアーズ フロンティア 2.5g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02352 \"FPBルアーズ フロンティア  2.5g #伊勢崎店オリカラ ペレゴン 2.5g オオツカオリカラ\")\n\n#伊勢崎店オリカラ ペレゴン 2.5g オオツカオリカラ",
    "code": "4573265536349",
    "price": 550,
    "stock": 10
@@ -558,14 +551,14 @@
    "spec": "#4kd 0.9g",
    "code": "4560456884358",
    "price": 605,
-   "stock": 33
+   "stock": 32
   },
   "53360101G5901113": {
    "name": "なぶら家 アキュラシー  0.9g #CPC(川越店オリカラ)  0.9g オオツカオリカラ",
    "spec": "#CPC(川越店オリカラ) 0.9g オオツカオリカラ",
    "code": "4560456882910",
    "price": 605,
-   "stock": 2
+   "stock": 1
   },
   "53360101GLZ00068": {
    "name": "なぶら家 ウェヌス  1.1g #にごり酒 1.1g マスケンリクエストカラー",
@@ -1262,7 +1255,7 @@
   },
   "53360101GIV00803": {
    "name": "ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ ペレゴン 1.3g オオツカオリカラ",
-   "spec": "[ヴァルケイン ハイバースト 1.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GIV00803 \"ヴァルケイン ハイバースト  1.3g #伊勢崎店オリカラ ペレゴン 1.3g オオツカオリカラ\")\n\n#伊勢崎店オリカラ ペレゴン 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
+   "spec": "#伊勢崎店オリカラ ペレゴン 1.3g オオツカオリカラ 伊勢崎店オリジナルカラー",
    "code": "4589873978341",
    "price": 583,
    "stock": 6
@@ -64485,18 +64478,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262091": {
-   "name": "スミス くるん Type1 1.1g #13 マットブラック",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262091",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262084": {
    "name": "スミス くるん Type1 1.1g #12 オリーブドラブ",
    "price": null,
@@ -64577,18 +64558,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193261983",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193261969": {
-   "name": "スミス くるん Type1 1.1g #02 クリアーピンクBP",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261969",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66233,6 +66202,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74831,5 +74824,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T08:20:58+03:00"
+ "last_check": "2026-10-30T08:26:51+03:00"
 }
