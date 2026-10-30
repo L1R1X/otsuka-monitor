@@ -62657,6 +62657,54 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019158": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #33 スーパーダークオリーブ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019158",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019157": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #30 和からし(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019157",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019156": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #25 ミルクココア(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019156",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019153": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019153",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019151": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #18 草色",
    "price": null,
@@ -66133,66 +66181,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087664",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087661": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087661",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192079125": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192079125",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006627": {
-   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006627",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006619": {
-   "name": "ルアマガ にゃんこすぷ〜ん #ベンガル",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006619",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006614": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006614",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74791,5 +74779,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T04:11:57+03:00"
+ "last_check": "2026-10-30T04:18:03+03:00"
 }
