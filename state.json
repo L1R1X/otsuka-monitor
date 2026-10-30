@@ -62705,6 +62705,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194019152": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #19 鉄板!!北関東",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019152",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194019151": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #18 草色",
    "price": null,
@@ -62713,6 +62725,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019151",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194019149": {
+   "name": "ロデオクラフト RCドリフトスピン42 2.0g #17 グロー(夜光)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194019149",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66169,18 +66193,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74779,5 +74791,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T04:18:03+03:00"
+ "last_check": "2026-10-30T04:22:21+03:00"
 }
