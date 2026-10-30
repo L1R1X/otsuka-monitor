@@ -29366,18 +29366,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr7669697118422": {
-   "name": "MOCA（モカ）[有頂天カラー]",
-   "price": null,
-   "price_text": "1 330 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/モカ-有頂天カラー",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr7669664809174": {
    "name": "チャタクラDR G2（IVYLINE,Incコラボレーションカラー）",
    "price": null,
@@ -74824,5 +74812,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T08:35:53+03:00"
+ "last_check": "2026-10-30T08:42:03+03:00"
 }
