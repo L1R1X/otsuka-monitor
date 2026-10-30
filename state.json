@@ -63093,18 +63093,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019153": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019153",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019151": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #18 草色",
    "price": null,
@@ -63173,18 +63161,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194019140",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194019098": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #5 鉄板!!南関東",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019098",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66317,6 +66293,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175594": {
+   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74915,5 +74915,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T15:21:04+03:00"
+ "last_check": "2026-10-30T15:28:12+03:00"
 }
