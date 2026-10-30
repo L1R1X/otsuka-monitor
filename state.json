@@ -2366,6 +2366,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15419236090070": {
+   "name": "OPEN LIMITER BLOCK（オープンリミッターブロック）",
+   "price": null,
+   "price_text": "690 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/open-limiter-block-オープンリミッターブロック",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15419232616662": {
    "name": "MAGDOCK（マグドック）",
    "price": null,
@@ -74872,5 +74884,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T12:03:00+03:00"
+ "last_check": "2026-10-30T12:07:18+03:00"
 }
