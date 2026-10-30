@@ -74767,6 +74767,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki188578335": {
+   "name": "フィッシュアロー ウィールヘッド2",
+   "price": null,
+   "price_text": "770 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188578335",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki190140374": {
    "name": "レヴォニック サラモアポロ",
    "price": null,
@@ -74886,20 +74898,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki192017800": {
-   "name": "エバーグリーン ゾワゾワ3.5",
-   "price": null,
-   "price_text": "1,045 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192017800",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-30T18:55:59+03:00"
+ "last_check": "2026-10-30T19:02:52+03:00"
 }
