@@ -152,7 +152,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01415 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g \")\n\n#伊勢崎店オリカラ ペレゴン 2.3g",
    "code": "4573640552070",
    "price": 627,
-   "stock": 29
+   "stock": 28
   },
   "53360101GM000088": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g",
@@ -62969,18 +62969,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194200288": {
-   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -66289,6 +66277,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T05:51:43+03:00"
+ "last_check": "2026-10-31T05:55:56+03:00"
 }
