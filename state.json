@@ -59438,6 +59438,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890966": {
+   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890966",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890960": {
    "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
    "price": null,
@@ -59554,6 +59566,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890850",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890838": {
+   "name": "DAIWA ワブクラJr.25F DR#胡麻塩レッドグロー",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890838",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62690,30 +62714,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191847773": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847773",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847768": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847768",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62906,6 +62906,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240511": {
+   "name": "ウォーターランド アルミん 3.4g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240511",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240412": {
    "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -62914,6 +62926,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240412",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240383": {
+   "name": "ウォーターランド アルミん 2.5g #NC06 オレンジ/イエローカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240383",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66286,30 +66310,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188362",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175700": {
-   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74908,5 +74908,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T07:08:01+03:00"
+ "last_check": "2026-10-31T07:12:51+03:00"
 }
