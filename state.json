@@ -61148,18 +61148,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192874069": {
-   "name": "ロデオクラフト ファットウッサJr XS #まほ丸",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192874069",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62692,6 +62680,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847755",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847743": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847743",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T20:01:38+03:00"
+ "last_check": "2026-10-31T20:06:20+03:00"
 }
