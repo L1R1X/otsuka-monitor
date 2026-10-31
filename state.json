@@ -63728,18 +63728,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193542573": {
-   "name": "ValkeIN ハイバースト2.0g #28 Rオレンジゴールド",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193542573",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193542554": {
    "name": "ValkeIN ハイバースト2.0g #26 ファイナルレッドゴールド",
    "price": null,
@@ -66292,6 +66280,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099385": {
+   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099385",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T00:41:07+03:00"
+ "last_check": "2026-11-01T00:45:58+03:00"
 }
