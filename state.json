@@ -74621,6 +74621,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194249170": {
+   "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
+   "price": null,
+   "price_text": "6,050 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194249170",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191351827": {
    "name": "ディスプラウト×DLIVE νフュージョン",
    "price": null,
@@ -74725,18 +74737,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193094606",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193094623": {
-   "name": "【吉やオリカラ：アンノウン】 ムカイ UP WARD ZANMU35(S)",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193094623",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T06:46:43+03:00"
+ "last_check": "2026-10-31T06:51:36+03:00"
 }
