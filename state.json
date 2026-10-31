@@ -2021,7 +2021,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512228",
    "price": 1925,
-   "stock": 343
+   "stock": 342
   },
   "53360101GLX01272": {
    "name": "ロデオクラフト ウッサ XS",
@@ -2287,7 +2287,7 @@
    "spec": "#伊勢崎店オリカラ 美鬼 40mm 2.9g フローティング 伊勢崎店オリジナルカラー",
    "code": "4570027028166",
    "price": 1650,
-   "stock": 4
+   "stock": 5
   },
   "53360101GL600090": {
    "name": "ヴァルケイン シャインライド  #伊勢崎店オリカラ 水蛭子 45mm 3.6g シンキング",
@@ -14739,7 +14739,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/eagle-player-mr-pico-eagle-player-g2-yarie-daysprout-color-イーグルプレーヤー50スリムgjヤリエ-ディスプラウトカラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -62923,30 +62923,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240383": {
-   "name": "ウォーターランド アルミん 2.5g #NC06 オレンジ/イエローカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240383",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240364": {
-   "name": "ウォーターランド アルミん 2.5g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240364",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240063": {
    "name": "ウォーターランド アルミん 2.5g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -66303,6 +66279,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74901,5 +74901,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T10:52:46+03:00"
+ "last_check": "2026-10-31T10:58:39+03:00"
 }
