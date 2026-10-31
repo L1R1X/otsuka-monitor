@@ -2366,6 +2366,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15421158654166": {
+   "name": "HAND WARMER Ⅲ WITH BODY WARMER POCKET（カイロポケット付き手甲Ⅲ）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/hand-warmer-ⅲ-with-body-warmer-pocket-カイロポケット付き手甲ⅲ",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15421132538070": {
    "name": "3FINGERLESS PALM LESS GLOVES with W hand warmer pocket（3フィンガーレスWカイログローブ37.5™）",
    "price": null,
@@ -74920,5 +74932,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T11:46:50+03:00"
+ "last_check": "2026-10-31T11:51:07+03:00"
 }
