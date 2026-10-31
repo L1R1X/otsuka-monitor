@@ -14579,7 +14579,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/24luvias-24ルビアス",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -59415,18 +59415,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890968": {
-   "name": "DAIWA ワブクラJr.25SS DR#クリア胡麻塩ライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890968",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890966": {
    "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
    "price": null,
@@ -62699,6 +62687,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847773",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847768": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74897,5 +74897,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T12:51:15+03:00"
+ "last_check": "2026-10-31T12:56:00+03:00"
 }
