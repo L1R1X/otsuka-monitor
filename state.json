@@ -62969,6 +62969,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194200288": {
+   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -66277,18 +66289,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T06:36:30+03:00"
+ "last_check": "2026-10-31T06:41:10+03:00"
 }
