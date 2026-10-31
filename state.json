@@ -62707,6 +62707,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194248204": {
+   "name": "サウリブ Shaath シャース 0.75g #25 やまかがし",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194248204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -66291,18 +66303,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74901,5 +74901,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T05:12:41+03:00"
+ "last_check": "2026-10-31T05:17:44+03:00"
 }
