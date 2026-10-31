@@ -1881,7 +1881,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447313082",
    "price": 1650,
-   "stock": 39
+   "stock": 38
   },
   "53360101GK801511": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -2007,7 +2007,7 @@
    "spec": "#高崎店オリジナルカラー 鶯 30mm 2.7g シンキング オオツカオリカラ",
    "code": "4573632512037",
    "price": 1870,
-   "stock": 180
+   "stock": 179
   },
   "53360101GLX01271": {
    "name": "ロデオクラフト ウッサ XS",
@@ -62995,18 +62995,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194200288": {
-   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -66303,6 +66291,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74901,5 +74901,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T09:47:25+03:00"
+ "last_check": "2026-10-31T09:52:31+03:00"
 }
