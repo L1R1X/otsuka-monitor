@@ -59345,18 +59345,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985473": {
-   "name": "TIMON ちびフッテンFS #蛍光ピンク",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985469": {
    "name": "TIMON ちびフッテンFS #クリアー",
    "price": null,
@@ -62693,6 +62681,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191847768": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847768",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -65588,7 +65588,7 @@
   "jh192585102": {
    "name": "ロブルアー バベコンジャイアント 2.5g #LT5 ずぼら生活",
    "price": null,
-   "price_text": "810 ¥(税込)",
+   "price_text": "760 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
@@ -65600,7 +65600,7 @@
   "jh192584874": {
    "name": "ロブルアー バベコン 1.1g #LT5 ずぼら生活",
    "price": null,
-   "price_text": "715 ¥(税込)",
+   "price_text": "670 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
@@ -74887,5 +74887,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T05:32:11+03:00"
+ "last_check": "2026-10-31T05:36:16+03:00"
 }
