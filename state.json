@@ -63415,18 +63415,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193889243": {
-   "name": "FPBルアーズ ビーゼロ 0.9g #15 ジンクリアブルー",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889243",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193889200": {
    "name": "FPBルアーズ ビーゼロ 0.9g #14 蛍火",
    "price": null,
@@ -66327,6 +66315,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74925,5 +74925,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T12:16:29+03:00"
+ "last_check": "2026-10-31T12:22:04+03:00"
 }
