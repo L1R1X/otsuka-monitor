@@ -74621,6 +74621,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki178717937": {
+   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
+   "price": null,
+   "price_text": "0 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=178717937",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194198668": {
    "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
    "price": null,
@@ -74749,18 +74761,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193094601",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193094606": {
-   "name": "【吉やオリカラ：メンターイコライザー】 ムカイ UP WARD ZANMU35(S)",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193094606",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74911,5 +74911,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T14:55:57+03:00"
+ "last_check": "2026-10-31T15:01:24+03:00"
 }
