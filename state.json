@@ -59395,6 +59395,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193891027": {
+   "name": "DAIWA ワブクラJr.25SS DR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193891027",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193891021": {
+   "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193891021",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890996": {
    "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
    "price": null,
@@ -59403,6 +59427,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890996",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890968": {
+   "name": "DAIWA ワブクラJr.25SS DR#クリア胡麻塩ライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890968",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62667,42 +62703,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847759",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847755": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #07 ブルースプラッシュ",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847755",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847743": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847743",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74901,5 +74901,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T04:07:23+03:00"
+ "last_check": "2026-10-31T04:11:04+03:00"
 }
