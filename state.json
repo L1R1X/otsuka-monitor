@@ -2366,6 +2366,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15421132538070": {
+   "name": "3FINGERLESS PALM LESS GLOVES with W hand warmer pocket（3フィンガーレスWカイログローブ37.5™）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/3fingerless-palm-less-gloves-with-w-hand-warmer-pocket-3フィンガーレスwカイログローブ37-5™",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15388199289046": {
    "name": "RC Drift Spin 32/42（RCドリフトスピン32/42）",
    "price": null,
@@ -74908,5 +74920,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T11:26:22+03:00"
+ "last_check": "2026-10-31T11:33:25+03:00"
 }
