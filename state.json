@@ -1909,7 +1909,7 @@
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 87
+   "stock": 86
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1923,14 +1923,14 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 57
+   "stock": 56
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "# トライデントGG 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319718",
    "price": 1650,
-   "stock": 59
+   "stock": 58
   },
   "53360101GLR01062": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング",
@@ -61200,18 +61200,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192873921": {
-   "name": "ロデオクラフト ファットウッサJr XS #クリアー(マット)",
-   "price": null,
-   "price_text": "1,750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192873921",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192820310": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #26福田",
    "price": null,
@@ -62720,6 +62708,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847768",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847759": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #08 グリーンスプラッシュ",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847759",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74918,5 +74918,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-10-31T13:55:55+03:00"
+ "last_check": "2026-10-31T14:03:08+03:00"
 }
