@@ -66318,7 +66318,7 @@
    "stock": 0,
    "shop": "Area Island",
    "link": "https://www.area-island.com/?pid=190827450",
-   "extra": "",
+   "extra": "распродано",
    "prefiltered": true,
    "tag": ""
   },
@@ -66330,7 +66330,7 @@
    "stock": 0,
    "shop": "Area Island",
    "link": "https://www.area-island.com/?pid=190827396",
-   "extra": "",
+   "extra": "распродано",
    "prefiltered": true,
    "tag": ""
   },
@@ -66366,7 +66366,7 @@
    "stock": 0,
    "shop": "Area Island",
    "link": "https://www.area-island.com/?pid=186441813",
-   "extra": "",
+   "extra": "распродано",
    "prefiltered": true,
    "tag": ""
   },
@@ -66378,7 +66378,7 @@
    "stock": 0,
    "shop": "Area Island",
    "link": "https://www.area-island.com/?pid=186441752",
-   "extra": "",
+   "extra": "распродано",
    "prefiltered": true,
    "tag": ""
   },
@@ -66606,7 +66606,7 @@
    "stock": 0,
    "shop": "Area Island",
    "link": "https://www.area-island.com/?pid=176693941",
-   "extra": "",
+   "extra": "распродано",
    "prefiltered": true,
    "tag": ""
   },
@@ -74904,5 +74904,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T09:16:05+03:00"
+ "last_check": "2026-11-01T09:22:41+03:00"
 }
