@@ -74636,6 +74636,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194236332": {
+   "name": "ロブルアー パンチ【爆釣チューン】ラストパンチ！",
+   "price": null,
+   "price_text": "1,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194236332",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194249170": {
    "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
    "price": null,
@@ -74728,18 +74740,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193094531",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193094601": {
-   "name": "【吉やオリカラ：MAXのおやつ】 ムカイ UP WARD ZANMU35(S)",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193094601",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T07:12:04+03:00"
+ "last_check": "2026-11-01T07:16:06+03:00"
 }
