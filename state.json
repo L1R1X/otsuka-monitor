@@ -1888,7 +1888,7 @@
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 86
+   "stock": 85
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1902,7 +1902,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 56
+   "stock": 55
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1958,21 +1958,21 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512150",
    "price": 1870,
-   "stock": 19
+   "stock": 18
   },
   "53360101GLX01274": {
    "name": "ロデオクラフト ウッサ S",
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512211",
    "price": 1870,
-   "stock": 179
+   "stock": 178
   },
   "53360101GLX01276": {
    "name": "ロデオクラフト ウッサ S",
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.7g シンキング",
    "code": "4573632512273",
    "price": 1870,
-   "stock": 51
+   "stock": 50
   },
   "53360101GLX01216": {
    "name": "ロデオクラフト ウッサ S #高崎店オリジナルカラー 神姫 30mm 2.7g シンキング",
@@ -2000,21 +2000,21 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 113
+   "stock": 112
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512228",
    "price": 1925,
-   "stock": 341
+   "stock": 340
   },
   "53360101GLX01272": {
    "name": "ロデオクラフト ウッサ XS",
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 108
+   "stock": 107
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
@@ -2056,14 +2056,14 @@
    "spec": "#高崎店オリジナルカラー 神姫 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632512051",
    "price": 1760,
-   "stock": 29
+   "stock": 28
   },
   "53360101GLX01220": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング",
    "spec": "#高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632511931",
    "price": 1760,
-   "stock": 103
+   "stock": 102
   },
   "53360101GLW01319": {
    "name": "ロデオクラフト モカ  DR2フックF",
@@ -2105,7 +2105,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 30mm 2.4g スローシンキング",
    "code": "4573632512198",
    "price": 1705,
-   "stock": 141
+   "stock": 138
   },
   "53360101GLW01311": {
    "name": "ロデオクラフト モカ  ラトルDR 2フックSS",
@@ -62696,6 +62696,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194241209": {
+   "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194241209",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240955": {
+   "name": "ウォーターランド アルミん 5.0g #NC05 トロピカルカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240955",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240929": {
+   "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240929",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240917": {
    "name": "ウォーターランド アルミん 5.0g #NC03 Pホワイト/チャートカモ",
    "price": null,
@@ -62704,6 +62740,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240917",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240908": {
+   "name": "ウォーターランド アルミん 5.0g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240908",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240896": {
+   "name": "ウォーターランド アルミん 5.0g #NC01 ピンク/ブラウンカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240896",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -62768,6 +62828,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240651": {
+   "name": "ウォーターランド アルミん 3.4g #NC03 Pホワイト/チャートカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240651",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240511": {
+   "name": "ウォーターランド アルミん 3.4g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240511",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240412": {
    "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -62776,6 +62860,78 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240412",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240383": {
+   "name": "ウォーターランド アルミん 2.5g #NC06 オレンジ/イエローカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240383",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240364": {
+   "name": "ウォーターランド アルミん 2.5g #NC05 トロピカルカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240364",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240063": {
+   "name": "ウォーターランド アルミん 2.5g #NC04 ピンク/レッドカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240063",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240003": {
+   "name": "ウォーターランド アルミん 2.5g #NC03 Pホワイト/チャートカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240003",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194239976": {
+   "name": "ウォーターランド アルミん 2.5g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194239976",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194239772": {
+   "name": "ウォーターランド アルミん 2.5g #NC01 ピンク/ブラウンカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194239772",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66136,162 +66292,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175468": {
-   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175468",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175118": {
-   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175110": {
-   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175110",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175084": {
-   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175084",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175024": {
-   "name": "ロブルアー バベルV3 0.38g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175024",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175006": {
-   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175006",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192113833": {
-   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
-   "price": null,
-   "price_text": "12,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113833",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099385": {
-   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099385",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192099363": {
-   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
-   "price": null,
-   "price_text": "1,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087666": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T05:05:58+03:00"
+ "last_check": "2026-11-01T05:11:15+03:00"
 }
