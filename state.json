@@ -63260,6 +63260,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193889243": {
+   "name": "FPBルアーズ ビーゼロ 0.9g #15 ジンクリアブルー",
+   "price": null,
+   "price_text": "540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193889243",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193889200": {
    "name": "FPBルアーズ ビーゼロ 0.9g #14 蛍火",
    "price": null,
@@ -63832,6 +63844,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193542582",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193542573": {
+   "name": "ValkeIN ハイバースト2.0g #28 Rオレンジゴールド",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193542573",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66268,30 +66292,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175521",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175518": {
-   "name": "ロブルアー バベルV3 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175518",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175504": {
-   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175504",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T05:16:02+03:00"
+ "last_check": "2026-11-01T05:21:05+03:00"
 }
