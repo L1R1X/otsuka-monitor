@@ -59134,18 +59134,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216841": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #4 とんこつ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216816": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #3 凸ポングロー",
    "price": null,
@@ -62706,6 +62694,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991579",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991237": {
+   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991237",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74904,5 +74904,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T10:01:31+03:00"
+ "last_check": "2026-11-01T10:07:39+03:00"
 }
