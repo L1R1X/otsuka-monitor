@@ -131,7 +131,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01414 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コバタン 2.3g \")\n\n#伊勢崎店オリカラ コバタン 2.3g",
    "code": "4573640553350",
    "price": 627,
-   "stock": 23
+   "stock": 22
   },
   "53360101GLZ01418": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コンゴウ 2.3g",
@@ -152,14 +152,14 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01415 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g \")\n\n#伊勢崎店オリカラ ペレゴン 2.3g",
    "code": "4573640552070",
    "price": 627,
-   "stock": 29
+   "stock": 28
   },
   "53360101GM000088": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GM000088 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g \")\n\n#オオツカオリカラ トライアングル 2.3g オオツカオリジナルカラー",
    "code": "4573640552117",
    "price": 627,
-   "stock": 20
+   "stock": 19
   },
   "53360101GKL02356": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g",
@@ -64673,6 +64673,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262066": {
+   "name": "スミス くるん Type1 1.1g #09 クリアーオリーブ",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262066",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262058": {
    "name": "スミス くるん Type1 1.1g #08 カラシ",
    "price": null,
@@ -66289,18 +66301,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175468": {
-   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74899,5 +74899,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T12:11:16+03:00"
+ "last_check": "2026-11-01T12:17:34+03:00"
 }
