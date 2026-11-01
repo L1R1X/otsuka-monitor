@@ -59312,6 +59312,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194184417": {
+   "name": "ValkeIN シャインライド #アベレージヒッター【有頂天】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194184417",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194019545": {
    "name": "DAYSPROUT ディスプラウト ガメクラ F #PPチョコチップ",
    "price": null,
@@ -59488,6 +59500,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890880",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890874": {
+   "name": "DAIWA ワブクラJr.25F DR#デリシャスペレット",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890874",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62156,6 +62180,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192325595": {
+   "name": "ValkeIN ハイドラム S #ドンチャックドン【有頂天】",
+   "price": null,
+   "price_text": "1,995 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325595",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192325578": {
+   "name": "ValkeIN シャインライド #ビビビオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325578",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -62644,54 +62692,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991206",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991192": {
-   "name": "ムカイ UpWard残無35S #レッドバグ【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991192",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885046": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885046",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847773": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847773",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847768": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T05:21:05+03:00"
+ "last_check": "2026-11-01T05:25:58+03:00"
 }
