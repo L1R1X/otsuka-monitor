@@ -62780,18 +62780,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194229545": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #97 クリアーレッド",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194229545",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194229544": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #92 透過チャート/裏グロー",
    "price": null,
@@ -62876,18 +62864,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222460": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #24 ダークオリーブ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222460",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194222454": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #23 サンドベージュ(マット)",
    "price": null,
@@ -62920,18 +62896,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194222391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194222388": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #13 ブラック",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222388",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66292,6 +66256,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175590",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175587": {
+   "name": "ロブルアー バベルエース 0.7g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175587",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175567": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175567",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175558": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175558",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74890,5 +74890,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T03:04:30+03:00"
+ "last_check": "2026-11-01T03:05:58+03:00"
 }
