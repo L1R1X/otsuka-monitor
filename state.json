@@ -62722,6 +62722,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240955": {
+   "name": "ウォーターランド アルミん 5.0g #NC05 トロピカルカモ",
+   "price": null,
+   "price_text": "850 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240955",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240929": {
    "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -64702,6 +64714,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193261995": {
+   "name": "スミス くるん Type1 1.1g #04 クリアーレッド",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193261995",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193261983": {
    "name": "スミス くるん Type1 1.1g #03 FLレッドピンク",
    "price": null,
@@ -66282,30 +66306,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175110": {
-   "name": "ロブルアー バベルV3 0.8g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175110",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175084": {
-   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74904,5 +74904,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-01T08:35:52+03:00"
+ "last_check": "2026-11-01T08:41:13+03:00"
 }
