@@ -61733,78 +61733,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194241209": {
-   "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194241209",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240955": {
-   "name": "ウォーターランド アルミん 5.0g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240955",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240929": {
-   "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240929",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240917": {
-   "name": "ウォーターランド アルミん 5.0g #NC03 Pホワイト/チャートカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240917",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240908": {
-   "name": "ウォーターランド アルミん 5.0g #NC02 オレンジ/レッドカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240908",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240896": {
-   "name": "ウォーターランド アルミん 5.0g #NC01 ピンク/ブラウンカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240896",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240740": {
    "name": "ウォーターランド アルミん 3.4g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -61825,30 +61753,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240727",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240708": {
-   "name": "ウォーターランド アルミん 3.4g #NC04 ピンク/レッドカモ",
-   "price": null,
-   "price_text": "700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240708",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240651": {
-   "name": "ウォーターランド アルミん 3.4g #NC03 Pホワイト/チャートカモ",
-   "price": null,
-   "price_text": "700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240651",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65329,6 +65233,102 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099363": {
+   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087672": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087661": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087661",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192079125": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.5g #グリメタヤマメ【有頂天】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192079125",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192006627": {
+   "name": "ルアマガ にゃんこすぷ〜ん #アメショ",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192006627",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T14:03:42+03:00"
+ "last_check": "2026-11-02T14:05:59+03:00"
 }
