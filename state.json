@@ -60905,18 +60905,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192532298": {
-   "name": "ムカイ トレモ スリム28MR F #カントミルク【FPB】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532298",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192532282": {
    "name": "ムカイ トレモ スリム28MR F #膨張オレ金グロー【FPB】",
    "price": null,
@@ -61729,6 +61717,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991192",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191885046": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885046",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T13:57:19+03:00"
+ "last_check": "2026-11-02T14:03:42+03:00"
 }
