@@ -187,7 +187,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 8
+   "stock": 7
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -2689,7 +2689,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/micro-panicra-マイクロパニクラ",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74899,5 +74899,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T12:21:04+03:00"
+ "last_check": "2026-11-02T12:27:22+03:00"
 }
