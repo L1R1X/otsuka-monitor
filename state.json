@@ -58500,18 +58500,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890951": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890951",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -61736,6 +61724,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847773": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847773",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73934,5 +73934,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T15:25:55+03:00"
+ "last_check": "2026-11-02T15:31:27+03:00"
 }
