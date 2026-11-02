@@ -74643,6 +74643,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194237670": {
+   "name": "DLIVE ロッドスタンド フュージョン X カーボン 6本仕様",
+   "price": null,
+   "price_text": "68,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194237670",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194249170": {
    "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
    "price": null,
@@ -74723,18 +74735,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193092297",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193094531": {
-   "name": "【吉やオリカラ：安燈】 ムカイ UP WARD ZANMU35(S)",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193094531",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74885,5 +74885,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T06:41:10+03:00"
+ "last_check": "2026-11-02T06:46:07+03:00"
 }
