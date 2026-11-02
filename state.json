@@ -131,7 +131,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01414 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コバタン 2.3g \")\n\n#伊勢崎店オリカラ コバタン 2.3g",
    "code": "4573640553350",
    "price": 627,
-   "stock": 22
+   "stock": 21
   },
   "53360101GLZ01418": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コンゴウ 2.3g",
@@ -152,14 +152,14 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01415 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g \")\n\n#伊勢崎店オリカラ ペレゴン 2.3g",
    "code": "4573640552070",
    "price": 627,
-   "stock": 26
+   "stock": 25
   },
   "53360101GM000088": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GM000088 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g \")\n\n#オオツカオリカラ トライアングル 2.3g オオツカオリジナルカラー",
    "code": "4573640552117",
    "price": 627,
-   "stock": 19
+   "stock": 18
   },
   "53360101GKL02356": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g",
@@ -29852,18 +29852,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "or174403462": {
-   "name": "ロデオクラフト フォーナインマイスター イエローウルフ 622Ｌ",
-   "price": null,
-   "price_text": "57,640 ¥(税5,240 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=174403462",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
   "or174404362": {
    "name": "ディスプラウト イーグルプレーヤーGJ50slim 定番（プロパーカラー）",
    "price": null,
@@ -29903,7 +29891,7 @@
   "or174937948": {
    "name": "ディスプラウト イーグルプレーヤーGJ40slim 定番（プロパーカラー）",
    "price": null,
-   "price_text": "—",
+   "price_text": "1,216 ¥(税111 ¥)",
    "spec": "",
    "stock": 0,
    "shop": "Ority",
@@ -32104,6 +32092,18 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=174259018",
+   "extra": "распродано",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "or174403462": {
+   "name": "ロデオクラフト フォーナインマイスター イエローウルフ 622Ｌ",
+   "price": null,
+   "price_text": "—",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=174403462",
    "extra": "распродано",
    "prefiltered": false,
    "tag": ""
@@ -74878,5 +74878,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-02T06:05:57+03:00"
+ "last_check": "2026-11-02T06:12:36+03:00"
 }
