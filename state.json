@@ -74609,74 +74609,14 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki178717937": {
-   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
+  "ki193984689": {
+   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
    "price": null,
-   "price_text": "0 ¥(税込)",
+   "price_text": "1,650 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=178717937",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194198668": {
-   "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
-   "price": null,
-   "price_text": "1,564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194198668",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194198713": {
-   "name": "ハンクル ザッガー38 B1 鉛ウエイトモデル",
-   "price": null,
-   "price_text": "1,535 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194198713",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194236332": {
-   "name": "ロブルアー パンチ【爆釣チューン】ラストパンチ！",
-   "price": null,
-   "price_text": "1,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194236332",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194237670": {
-   "name": "DLIVE ロッドスタンド フュージョン X カーボン 6本仕様",
-   "price": null,
-   "price_text": "68,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194237670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194249170": {
-   "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
-   "price": null,
-   "price_text": "6,050 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194249170",
+   "link": "https://www.kitiya.jp/?pid=193984689",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74693,38 +74633,50 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki189471881": {
-   "name": "【吉やオリカラ：緑龍】 ムカイ 鯱28HS",
+  "ki194249170": {
+   "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
    "price": null,
-   "price_text": "1,760 ¥(税込)",
+   "price_text": "6,050 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471881",
+   "link": "https://www.kitiya.jp/?pid=194249170",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki189471894": {
-   "name": "【吉やオリカラ：アンノウン】 ムカイ 鯱28HS",
+  "ki194237670": {
+   "name": "DLIVE ロッドスタンド フュージョン X カーボン 6本仕様",
    "price": null,
-   "price_text": "1,760 ¥(税込)",
+   "price_text": "68,200 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471894",
+   "link": "https://www.kitiya.jp/?pid=194237670",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki189471958": {
-   "name": "【吉やオリカラ：MAXのおやつ】 ムカイ 鯱28HS",
+  "ki178717937": {
+   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
    "price": null,
-   "price_text": "1,760 ¥(税込)",
+   "price_text": "0 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471958",
+   "link": "https://www.kitiya.jp/?pid=178717937",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194236332": {
+   "name": "ロブルアー パンチ【爆釣チューン】ラストパンチ！",
+   "price": null,
+   "price_text": "1,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194236332",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74741,122 +74693,26 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193092297": {
-   "name": "【吉やオリカラ：安燈】 ムカイ 鯱28HS",
+  "ki194198713": {
+   "name": "ハンクル ザッガー38 B1 鉛ウエイトモデル",
+   "price": null,
+   "price_text": "1,535 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194198713",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189471881": {
+   "name": "【吉やオリカラ：緑龍】 ムカイ 鯱28HS",
    "price": null,
    "price_text": "1,760 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193092297",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki177514349": {
-   "name": "ベトベト ベロ120F（VERO120F）",
-   "price": null,
-   "price_text": "5,060 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=177514349",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki188578335": {
-   "name": "フィッシュアロー ウィールヘッド2",
-   "price": null,
-   "price_text": "770 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=188578335",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki190140374": {
-   "name": "レヴォニック サラモアポロ",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190140374",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki192683345": {
-   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192683345",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193491969": {
-   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193491969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193984689": {
-   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193984689",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194014965": {
-   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
-   "price": null,
-   "price_text": "91,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194014965",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068722": {
-   "name": "デプス フリルドシャッド3.7インチ",
-   "price": null,
-   "price_text": "1,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068722",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068816": {
-   "name": "デプス サカマタシャッド4インチ",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068816",
+   "link": "https://www.kitiya.jp/?pid=189471881",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74873,6 +74729,42 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194068722": {
+   "name": "デプス フリルドシャッド3.7インチ",
+   "price": null,
+   "price_text": "1,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068722",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki177514349": {
+   "name": "ベトベト ベロ120F（VERO120F）",
+   "price": null,
+   "price_text": "5,060 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=177514349",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194068816": {
+   "name": "デプス サカマタシャッド4インチ",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068816",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194251269": {
    "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
    "price": null,
@@ -74881,6 +74773,90 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194251269",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki190140374": {
+   "name": "レヴォニック サラモアポロ",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=190140374",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193092297": {
+   "name": "【吉やオリカラ：安燈】 ムカイ 鯱28HS",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193092297",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189471894": {
+   "name": "【吉やオリカラ：アンノウン】 ムカイ 鯱28HS",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189471894",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193491969": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193491969",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194014965": {
+   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
+   "price": null,
+   "price_text": "91,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194014965",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki192683345": {
+   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD",
+   "price": null,
+   "price_text": "2,200 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=192683345",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki189471958": {
+   "name": "【吉やオリカラ：MAXのおやつ】 ムカイ 鯱28HS",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=189471958",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74896,8 +74872,34 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki194198668": {
+   "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
+   "price": null,
+   "price_text": "1,564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194198668",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki188578335": {
+   "name": "フィッシュアロー ウィールヘッド2",
+   "price": null,
+   "price_text": "770 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188578335",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
- "shrink_strikes": {},
- "last_check": "2026-11-02T11:37:22+03:00"
+ "shrink_strikes": {
+  "Kitiya": 1
+ },
+ "last_check": "2026-11-02T11:42:31+03:00"
 }
