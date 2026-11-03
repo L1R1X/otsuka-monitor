@@ -73882,6 +73882,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194251022": {
+   "name": "イマカツ ビーストボーンエラストマー",
+   "price": null,
+   "price_text": "1,870 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194251022",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194251269": {
    "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
    "price": null,
@@ -73893,20 +73905,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki190861522": {
-   "name": "エバーグリーン ブルポイントシャッド",
-   "price": null,
-   "price_text": "970 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190861522",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T07:57:46+03:00"
+ "last_check": "2026-11-03T08:03:09+03:00"
 }
