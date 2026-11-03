@@ -16441,7 +16441,7 @@
   "tr8759239868630": {
    "name": "Dohna 2024 Winter 1091 Color（ドーナ2024年冬1091カラー）",
    "price": null,
-   "price_text": "570 ¥",
+   "price_text": "600 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -61774,6 +61774,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240651": {
+   "name": "ウォーターランド アルミん 3.4g #NC03 Pホワイト/チャートカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240651",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240412": {
    "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -61818,6 +61830,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194104740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102853": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102853",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194102794": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102794",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -63270,6 +63306,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193463526",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193463520": {
+   "name": "オフィスユーカリ B-SPA Tik 2.0g #S5 サーキットBスノー",
+   "price": null,
+   "price_text": "845 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193463520",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65274,54 +65322,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087669": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087669",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087666": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087666",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087664": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087664",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087661": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087661",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73920,5 +73920,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T11:01:32+03:00"
+ "last_check": "2026-11-03T11:06:05+03:00"
 }
