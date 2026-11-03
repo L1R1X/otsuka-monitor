@@ -73637,6 +73637,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki171857146": {
+   "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル",
+   "price": null,
+   "price_text": "16,830 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=171857146",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki178717937": {
    "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
    "price": null,
@@ -73765,18 +73777,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193092241",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193092297": {
-   "name": "【吉やオリカラ：安燈】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193092297",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T08:45:57+03:00"
+ "last_check": "2026-11-03T08:51:57+03:00"
 }
