@@ -152,7 +152,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01415 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g \")\n\n#伊勢崎店オリカラ ペレゴン 2.3g",
    "code": "4573640552070",
    "price": 627,
-   "stock": 25
+   "stock": 26
   },
   "53360101GM000088": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #オオツカオリカラ トライアングル 2.3g",
@@ -187,7 +187,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 5
+   "stock": 6
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -60881,6 +60881,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192532298": {
+   "name": "ムカイ トレモ スリム28MR F #カントミルク【FPB】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532298",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192532282": {
    "name": "ムカイ トレモ スリム28MR F #膨張オレ金グロー【FPB】",
    "price": null,
@@ -61717,18 +61729,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847773",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847768": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #09 喰わせレーザー",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847768",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T06:26:44+03:00"
+ "last_check": "2026-11-03T06:31:22+03:00"
 }
