@@ -51301,7 +51301,7 @@
   "w10000000000152281": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注2.0g",
    "price": null,
-   "price_text": "554 ¥–584 ¥",
+   "price_text": "649 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -52129,7 +52129,7 @@
   "w10000000000145868": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注 2.0g",
    "price": null,
-   "price_text": "584 ¥–649 ¥",
+   "price_text": "584 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -52141,7 +52141,7 @@
   "w10000000000145867": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注 2.5g",
    "price": null,
-   "price_text": "554 ¥–584 ¥",
+   "price_text": "554 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -52153,7 +52153,7 @@
   "w10000000000145866": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注 2.5g",
    "price": null,
-   "price_text": "554 ¥–584 ¥",
+   "price_text": "554 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -52165,7 +52165,7 @@
   "w10000000000145865": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注2.0g",
    "price": null,
-   "price_text": "554 ¥–682 ¥",
+   "price_text": "584 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -73968,5 +73968,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T18:02:09+03:00"
+ "last_check": "2026-11-03T18:06:59+03:00"
 }
