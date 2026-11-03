@@ -1881,7 +1881,7 @@
    "spec": "#伊勢崎店 オリカラ 八雲 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316328",
    "price": 1650,
-   "stock": 53
+   "stock": 52
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -59787,18 +59787,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193160668": {
-   "name": "スミス ヒカルコイカチャン #16 イカユッケ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193160668",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193160661": {
    "name": "スミス ヒカルコイカチャン #15 チャートピンク",
    "price": null,
@@ -61751,6 +61739,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191847773": {
+   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191847773",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73949,5 +73949,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T13:52:45+03:00"
+ "last_check": "2026-11-03T13:55:52+03:00"
 }
