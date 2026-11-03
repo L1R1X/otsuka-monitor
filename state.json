@@ -145,7 +145,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01416 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ピンクロビン 2.3g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.3g",
    "code": "4573640553343",
    "price": 627,
-   "stock": 29
+   "stock": 28
   },
   "53360101GLZ01415": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g",
@@ -187,7 +187,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
    "code": "4573265537728",
    "price": 627,
-   "stock": 6
+   "stock": 5
   },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
@@ -73781,14 +73781,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194251022": {
-   "name": "イマカツ ビーストボーンエラストマー",
+  "ki193815981": {
+   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
-   "price_text": "1,870 ¥(税込)",
+   "price_text": "935 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251022",
+   "link": "https://www.kitiya.jp/?pid=193815981",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T08:32:28+03:00"
+ "last_check": "2026-11-03T08:35:51+03:00"
 }
