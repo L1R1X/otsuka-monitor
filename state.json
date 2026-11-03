@@ -73637,18 +73637,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194027391": {
-   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
-   "price": null,
-   "price_text": "3,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194027391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194198668": {
    "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
    "price": null,
@@ -73765,6 +73753,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193092241",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193092297": {
+   "name": "【吉やオリカラ：安燈】 ムカイ 鯱28HS",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193092297",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73915,5 +73915,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T07:11:17+03:00"
+ "last_check": "2026-11-03T07:16:00+03:00"
 }
