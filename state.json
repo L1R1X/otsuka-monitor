@@ -58212,6 +58212,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194213685": {
+   "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING MUSTARD",
+   "price": null,
+   "price_text": "1,475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194213685",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194213532": {
    "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING WHITE",
    "price": null,
@@ -61724,18 +61736,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991192",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885046": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885046",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73934,5 +73934,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T11:31:28+03:00"
+ "last_check": "2026-11-03T11:37:07+03:00"
 }
