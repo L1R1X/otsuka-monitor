@@ -73637,6 +73637,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki169824062": {
+   "name": "【吉やオリカラ：ダブルエッジ】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=169824062",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki171857146": {
    "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル",
    "price": null,
@@ -73765,18 +73777,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191351827",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189471881": {
-   "name": "【吉やオリカラ：緑龍】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471881",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T09:01:35+03:00"
+ "last_check": "2026-11-03T09:05:55+03:00"
 }
