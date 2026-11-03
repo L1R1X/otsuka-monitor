@@ -8850,7 +8850,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/juju-2025-1091-color-ジュジュ2025-1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -52129,7 +52129,7 @@
   "w10000000000145868": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注 2.0g",
    "price": null,
-   "price_text": "554 ¥–584 ¥",
+   "price_text": "584 ¥–649 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -52165,7 +52165,7 @@
   "w10000000000145865": {
    "name": "Angler′z System　アングラーズシステム ﾄﾞｰﾅ別注2.0g",
    "price": null,
-   "price_text": "554 ¥–584 ¥",
+   "price_text": "554 ¥–682 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -73968,5 +73968,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T17:58:03+03:00"
+ "last_check": "2026-11-03T18:02:09+03:00"
 }
