@@ -7237,7 +7237,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/wg-6",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -73661,6 +73661,42 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki180365722": {
+   "name": "【吉やオリカラ：放流オレンジ】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=180365722",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki180365815": {
+   "name": "【吉やオリカラ：オレンジスター2】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=180365815",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki183687319": {
+   "name": "【吉やオリカラ：グリーンスター3】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=183687319",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194198668": {
    "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
    "price": null,
@@ -73741,42 +73777,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=189471881",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189471894": {
-   "name": "【吉やオリカラ：アンノウン】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471894",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki189471958": {
-   "name": "【吉やオリカラ：MAXのおやつ】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=189471958",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193092241": {
-   "name": "【吉やオリカラ：メンターイコライザー】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193092241",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T08:55:55+03:00"
+ "last_check": "2026-11-03T09:01:35+03:00"
 }
