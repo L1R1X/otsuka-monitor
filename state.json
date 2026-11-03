@@ -58133,18 +58133,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194216979": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #9 頂鱒の素RG",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216979",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216970": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
    "price": null,
@@ -58717,18 +58705,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890737": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #Kピン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890737",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61733,6 +61709,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191991192": {
+   "name": "ムカイ UpWard残無35S #レッドバグ【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991192",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191885046": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194240929": {
    "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -61825,18 +61825,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194222460",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194222454": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222454",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65329,6 +65317,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73649,6 +73649,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194027391": {
+   "name": "フォーカス スウェイ1.7ｇ【2026年新色5色セット】",
+   "price": null,
+   "price_text": "3,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194027391",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194198668": {
    "name": "ハンクル ラトリンクランク40 エリアver.（Rattlin' CRANK 40 AREA ver.）",
    "price": null,
@@ -73765,18 +73777,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193092241",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193092297": {
-   "name": "【吉やオリカラ：安燈】 ムカイ 鯱28HS",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193092297",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T05:55:55+03:00"
+ "last_check": "2026-11-03T06:01:52+03:00"
 }
