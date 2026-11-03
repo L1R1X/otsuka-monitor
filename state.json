@@ -12858,7 +12858,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hololume-glitter-ホロリウムグリッター",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -23622,7 +23622,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/line-stopper-seal-ラインストッパーシール",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -25950,7 +25950,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/kj-コンパクト-mini-ステンレスプライヤー-kj-compact-mini-stainless-pliers",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -73920,5 +73920,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T10:51:04+03:00"
+ "last_check": "2026-11-03T10:55:50+03:00"
 }
