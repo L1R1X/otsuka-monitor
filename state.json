@@ -58140,18 +58140,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194216970": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216970",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216804": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #1 レッドグロー",
    "price": null,
@@ -61740,6 +61728,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191885046": {
+   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
+   "price": null,
+   "price_text": "1,550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191885046",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194240929": {
    "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -61952,18 +61952,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193959762",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193959747": {
-   "name": "カルテラス×ロブルアー ルラン 0.8g #G6",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193959747",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65336,6 +65324,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087672",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087669": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ネオンヴェノム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087669",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73934,5 +73934,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T12:10:57+03:00"
+ "last_check": "2026-11-03T12:16:51+03:00"
 }
