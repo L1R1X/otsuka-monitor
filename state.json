@@ -62890,18 +62890,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193473599": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.0g #イダグルイ【HERO'S】",
-   "price": null,
-   "price_text": "570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473599",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193473594": {
    "name": "アングラーズシステム ドーナ DOHNA 2.0g #チェリーザップ【HERO'S】",
    "price": null,
@@ -65370,6 +65358,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73968,5 +73968,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T15:55:55+03:00"
+ "last_check": "2026-11-03T16:02:51+03:00"
 }
