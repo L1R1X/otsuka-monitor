@@ -64626,18 +64626,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192532059": {
-   "name": "アンカーコア セロ Cerro 1.2g #ブランク 3個入",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532059",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192500184": {
    "name": "KARTELLAS ウルキ22 Type HV #12 ライム",
    "price": null,
@@ -65342,6 +65330,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006598",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh191995738": {
+   "name": "ロデオクラフト ノア NOA-B 2.2g #US-13 ピンクゴールド【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995738",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73940,5 +73940,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-04T01:51:06+03:00"
+ "last_check": "2026-11-04T01:57:19+03:00"
 }
