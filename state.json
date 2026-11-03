@@ -1146,7 +1146,7 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274218",
    "price": 583,
-   "stock": 16
+   "stock": 17
   },
   "53360101GLK00375": {
    "name": "ロデオクラフト ノア-B  2.6g #高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで",
@@ -2330,6 +2330,18 @@
    "code": "4582671335828",
    "price": 1650,
    "stock": 24
+  },
+  "tr15429000986838": {
+   "name": "Fishing Festival 2027 Advance Ticket（釣りフェス2027前売り券）",
+   "price": null,
+   "price_text": "6 364 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/fishing-festival-2027-advance-ticket-釣りフェス2027前売り券",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
   },
   "tr7755273961686": {
    "name": "Punch Bakuchou Tune（パンチ爆釣チューン）",
@@ -73913,5 +73925,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T13:35:58+03:00"
+ "last_check": "2026-11-03T13:42:40+03:00"
 }
