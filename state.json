@@ -61798,18 +61798,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240003": {
-   "name": "ウォーターランド アルミん 2.5g #NC03 Pホワイト/チャートカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240003",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65322,6 +65310,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087661": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ホワイトノイズ",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087661",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73920,5 +73920,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T10:41:02+03:00"
+ "last_check": "2026-11-03T10:46:04+03:00"
 }
