@@ -57752,7 +57752,7 @@
   "w10000000000022887": {
    "name": "SIMMS　シムス SIMMS TRIBUTARY STOCKINGFOOTS",
    "price": null,
-   "price_text": "27 280 ¥–49 500 ¥",
+   "price_text": "49 500 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -73927,5 +73927,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T06:47:55+03:00"
+ "last_check": "2026-11-03T06:50:58+03:00"
 }
