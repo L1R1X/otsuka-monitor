@@ -73762,14 +73762,38 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki177514349": {
-   "name": "ベトベト ベロ120F（VERO120F）",
+  "ki194251022": {
+   "name": "イマカツ ビーストボーンエラストマー",
    "price": null,
-   "price_text": "5,060 ¥(税込)",
+   "price_text": "1,870 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=177514349",
+   "link": "https://www.kitiya.jp/?pid=194251022",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194068722": {
+   "name": "デプス フリルドシャッド3.7インチ",
+   "price": null,
+   "price_text": "1,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068722",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194068816": {
+   "name": "デプス サカマタシャッド4インチ",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068816",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73782,6 +73806,66 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=188578335",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194014965": {
+   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
+   "price": null,
+   "price_text": "91,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194014965",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194070500": {
+   "name": "スミス へドン CHVCラッキー13",
+   "price": null,
+   "price_text": "2,970 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194070500",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194251269": {
+   "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194251269",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193984689": {
+   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193984689",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki177514349": {
+   "name": "ベトベト ベロ120F（VERO120F）",
+   "price": null,
+   "price_text": "5,060 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=177514349",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73821,92 +73905,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193984689": {
-   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193984689",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194014965": {
-   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
-   "price": null,
-   "price_text": "91,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194014965",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068722": {
-   "name": "デプス フリルドシャッド3.7インチ",
-   "price": null,
-   "price_text": "1,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068722",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068816": {
-   "name": "デプス サカマタシャッド4インチ",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068816",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194070500": {
-   "name": "スミス へドン CHVCラッキー13",
-   "price": null,
-   "price_text": "2,970 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194070500",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194251022": {
-   "name": "イマカツ ビーストボーンエラストマー",
-   "price": null,
-   "price_text": "1,870 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251022",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194251269": {
-   "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251269",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-03T08:07:17+03:00"
+ "last_check": "2026-11-03T08:11:06+03:00"
 }
