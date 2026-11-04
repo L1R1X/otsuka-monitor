@@ -1944,7 +1944,7 @@
    "spec": "#N.K01(狼煙) 34mm 3.0g フローティング 熊谷店オリカラ",
    "code": "4573151273754",
    "price": 1650,
-   "stock": 2
+   "stock": 1
   },
   "53360101GLQ00079": {
    "name": "ロデオクラフト RCクラピー ディープクラピー #キャンコM.R.G 34mm 3.0g  フローティング",
@@ -14426,7 +14426,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/presso-lt2000ss-p-プレッソ",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -73964,5 +73964,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-04T09:02:15+03:00"
+ "last_check": "2026-11-04T09:06:15+03:00"
 }
