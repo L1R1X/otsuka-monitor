@@ -29668,18 +29668,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "or189076880": {
-   "name": "ダイワスティーズ17 スティーズタイプ1",
-   "price": null,
-   "price_text": "51,940 ¥(税4,722 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=189076880",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
   "or187937021": {
    "name": "サウリブ イスカ",
    "price": null,
@@ -29736,6 +29724,18 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=187487320",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "or187379791": {
+   "name": "ロデオクラフト カスタムロッドスタンド用 トレイ",
+   "price": null,
+   "price_text": "4,950 ¥(税450 ¥)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=187379791",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -30528,18 +30528,6 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=187379414",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "or187379791": {
-   "name": "ロデオクラフト カスタムロッドスタンド用 トレイ",
-   "price": null,
-   "price_text": "—",
-   "spec": "",
-   "stock": 0,
-   "shop": "Ority",
-   "link": "https://ority.shop-pro.jp/?pid=187379791",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -32580,6 +32568,18 @@
    "stock": 0,
    "shop": "Ority",
    "link": "https://ority.shop-pro.jp/?pid=187943886",
+   "extra": "распродано",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "or189076880": {
+   "name": "ダイワスティーズ17 スティーズタイプ1",
+   "price": null,
+   "price_text": "—",
+   "spec": "",
+   "stock": 0,
+   "shop": "Ority",
+   "link": "https://ority.shop-pro.jp/?pid=189076880",
    "extra": "распродано",
    "prefiltered": false,
    "tag": ""
@@ -73986,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-04T21:11:05+03:00"
+ "last_check": "2026-11-04T21:17:49+03:00"
 }
