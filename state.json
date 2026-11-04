@@ -33268,6 +33268,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15409282973970": {
+   "name": "ファットウッサJr(XS)21ｍｍ1.7g10/21再入荷分",
+   "price": null,
+   "price_text": "1 925 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ファットウッサjrxs21ｍｍ1-7g10-21再入荷分",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15416262852882": {
    "name": "ドリフトスピン32 1.0g☆26年10月発売の新サイズ☆",
    "price": null,
@@ -58408,18 +58420,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985519": {
-   "name": "TIMON ちびフッテンFS #W蛍光パンチ",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985519",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985473": {
    "name": "TIMON ちびフッテンFS #蛍光ピンク",
    "price": null,
@@ -61764,6 +61764,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191816499": {
+   "name": "ValkeIN ヘイズ F #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191816499",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73974,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T02:25:55+03:00"
+ "last_check": "2026-11-05T02:31:15+03:00"
 }
