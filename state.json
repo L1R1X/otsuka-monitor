@@ -39515,6 +39515,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000242151": {
+   "name": "ショアコネクト (Shore connect) SCフレックスウィンタースーツ",
+   "price": null,
+   "price_text": "14 850 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000242151",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000091100": {
    "name": "キャップス クラウンバイスツールセット（Caps）",
    "price": null,
@@ -73981,5 +73993,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-04T14:11:22+03:00"
+ "last_check": "2026-11-04T14:16:06+03:00"
 }
