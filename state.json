@@ -39822,6 +39822,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000233851": {
+   "name": "NANGA　ナンガ CLASSIC DOWN JACKET",
+   "price": null,
+   "price_text": "42 900 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000233851",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000225833": {
    "name": "Qualz　クオルツ クオルツ(Qualz) ポップアップカプセルテント QQFT422",
    "price": null,
@@ -73650,30 +73662,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki169824062": {
-   "name": "【吉やオリカラ：ダブルエッジ】ヴァルケイン スプーン",
-   "price": null,
-   "price_text": "583 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=169824062",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki171857146": {
-   "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル",
-   "price": null,
-   "price_text": "16,830 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=171857146",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki178717937": {
    "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
    "price": null,
@@ -73682,6 +73670,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=178717937",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki169824062": {
+   "name": "【吉やオリカラ：ダブルエッジ】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=169824062",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73698,18 +73698,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki180365815": {
-   "name": "【吉やオリカラ：オレンジスター2】ヴァルケイン スプーン",
-   "price": null,
-   "price_text": "583 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=180365815",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki183687319": {
    "name": "【吉やオリカラ：グリーンスター3】ヴァルケイン スプーン",
    "price": null,
@@ -73718,6 +73706,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=183687319",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki180365815": {
+   "name": "【吉やオリカラ：オレンジスター2】ヴァルケイン スプーン",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=180365815",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73742,6 +73742,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194198713",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki171857146": {
+   "name": "リヴァイブ (REVIVE) ファンネル シングルスピニングカーボンハンドル",
+   "price": null,
+   "price_text": "16,830 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=171857146",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -73940,5 +73952,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-04T08:05:55+03:00"
+ "last_check": "2026-11-04T08:11:17+03:00"
 }
