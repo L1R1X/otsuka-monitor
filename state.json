@@ -2252,7 +2252,7 @@
    "spec": "[ヴァルケイン スウェーバー S](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLK01472 \"ヴァルケイン スウェーバー  S 伊勢崎店オリカラ 八雲 45mm 2.9g シンキング\")\n\n伊勢崎店オリカラ 八雲 45mm 2.9g シンキング",
    "code": "4582671335255",
    "price": 1925,
-   "stock": 62
+   "stock": 61
   },
   "53360101GLW01553": {
    "name": "ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 神楽 29mm 3.3g",
@@ -2311,7 +2311,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mag-module-base-ver-38belt-マグモジュールベースver-38belt",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -25939,7 +25939,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/kj-コンパクト-mini-ステンレスプライヤー-kj-compact-mini-stainless-pliers",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74005,5 +74005,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T08:41:04+03:00"
+ "last_check": "2026-11-05T08:46:13+03:00"
 }
