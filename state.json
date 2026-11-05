@@ -63474,18 +63474,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193463506": {
-   "name": "オフィスユーカリ B-SPA Tik 2.0g #S3 サーキットUVステルス",
-   "price": null,
-   "price_text": "845 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463506",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193463499": {
    "name": "オフィスユーカリ B-SPA Tik 2.0g #S2 サーキットグローハック",
    "price": null,
@@ -65438,6 +65426,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087669",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087666": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #ペイントボム",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087666",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74048,5 +74048,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T17:06:00+03:00"
+ "last_check": "2026-11-05T17:11:18+03:00"
 }
