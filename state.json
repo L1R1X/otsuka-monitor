@@ -2310,6 +2310,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15433880240342": {
+   "name": "Pocket MAME Bud 2026 Autumn Limited Color（ポケット豆バド2026秋展示会限定カラー）",
+   "price": null,
+   "price_text": "1 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/pocket-mame-bud-2026-autumn-limited-color-ポケット豆バド2026秋展示会限定カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15433859858646": {
    "name": "MAG MODULE base ver,38belt（マグモジュールベースver,38belt）",
    "price": null,
@@ -74024,5 +74036,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T13:25:55+03:00"
+ "last_check": "2026-11-05T13:31:22+03:00"
 }
