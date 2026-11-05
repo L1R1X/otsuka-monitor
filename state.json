@@ -35669,7 +35669,7 @@
    "tag": ""
   },
   "zk10307850305810": {
-   "name": "DSベビーバイブ3.8g☆東山湖FA大会ウイニングルアー☆",
+   "name": "DSベビーバイブ40㎜3.8g☆東山湖FA大会ウイニングルアー☆",
    "price": null,
    "price_text": "1 435 ¥",
    "spec": "",
@@ -35681,7 +35681,7 @@
    "tag": ""
   },
   "zk10307850240274": {
-   "name": "DSベビーバイブG2(グラスラトル2個入り)",
+   "name": "DSベビーバイブ40㎜G2(グラスラトル2個入り)",
    "price": null,
    "price_text": "1 435 ¥",
    "spec": "",
@@ -62824,6 +62824,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193473599": {
+   "name": "アングラーズシステム ドーナ DOHNA 2.0g #イダグルイ【HERO'S】",
+   "price": null,
+   "price_text": "570 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193473599",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193473594": {
    "name": "アングラーズシステム ドーナ DOHNA 2.0g #チェリーザップ【HERO'S】",
    "price": null,
@@ -64672,6 +64684,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192532059": {
+   "name": "アンカーコア セロ Cerro 1.2g #ブランク 3個入",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532059",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192500184": {
    "name": "KARTELLAS ウルキ22 Type HV #12 ライム",
    "price": null,
@@ -65352,30 +65376,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192006619",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006614": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM白猫",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006614",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192006598": {
-   "name": "ルアマガ にゃんこすぷ〜ん #LM茶トラ",
-   "price": null,
-   "price_text": "485 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192006598",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73986,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T04:55:55+03:00"
+ "last_check": "2026-11-05T05:01:27+03:00"
 }
