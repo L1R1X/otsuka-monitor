@@ -63102,18 +63102,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193473594": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.0g #チェリーザップ【HERO'S】",
-   "price": null,
-   "price_text": "570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473594",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193472294": {
    "name": "ValkeIN ヴァルキャノン 2.8g #C268 ハンターオリーブ",
    "price": null,
@@ -65438,6 +65426,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175110",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175084": {
+   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74048,5 +74048,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T14:25:55+03:00"
+ "last_check": "2026-11-05T14:31:14+03:00"
 }
