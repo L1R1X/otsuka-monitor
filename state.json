@@ -642,7 +642,7 @@
    "spec": "#4kd 0.8g",
    "code": "4573119919816",
    "price": 605,
-   "stock": 13
+   "stock": 11
   },
   "53360101GLR00047": {
    "name": "なぶら家 チップ  1.0g #高崎店オリジナルカラーMSミルキーウェイ 1.0g",
@@ -62159,18 +62159,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222381": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #7 桃色KO",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222381",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194222365": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #5 鉄板!!南関東",
    "price": null,
@@ -65407,6 +65395,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175658",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175651": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74017,5 +74017,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T09:31:16+03:00"
+ "last_check": "2026-11-05T09:36:05+03:00"
 }
