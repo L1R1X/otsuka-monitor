@@ -62111,18 +62111,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194229491": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #33 スーパーダークオリーブ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194229491",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194229489": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #30 和からし(マット)",
    "price": null,
@@ -65395,6 +65383,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74005,5 +74005,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T09:21:02+03:00"
+ "last_check": "2026-11-05T09:25:53+03:00"
 }
