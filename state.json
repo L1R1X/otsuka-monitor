@@ -73715,6 +73715,42 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194328712": {
+   "name": "フルクリップ マグモジュール ver,clip",
+   "price": null,
+   "price_text": "2,640 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194328712",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194328713": {
+   "name": "フルクリップ マグモジュールベース ver,38belt",
+   "price": null,
+   "price_text": "880 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194328713",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194329215": {
+   "name": "フルクリップ マグドック",
+   "price": null,
+   "price_text": "3,740 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194329215",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki178717937": {
    "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
    "price": null,
@@ -73819,42 +73855,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194236332",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194237670": {
-   "name": "DLIVE ロッドスタンド フュージョン X カーボン 6本仕様",
-   "price": null,
-   "price_text": "68,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194237670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194249170": {
-   "name": "ロデオクラフト RCタイタニュームショートグローブ（パームレス）",
-   "price": null,
-   "price_text": "6,050 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194249170",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki191351827": {
-   "name": "ディスプラウト×DLIVE νフュージョン",
-   "price": null,
-   "price_text": "69,850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=191351827",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74005,5 +74005,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T09:10:58+03:00"
+ "last_check": "2026-11-05T09:16:00+03:00"
 }
