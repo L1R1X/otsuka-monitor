@@ -39527,6 +39527,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000241071": {
+   "name": "MARUHATA商店 × ジャッカル / ダウズスイマー∞240ビブチューン ヘッドショット【＃01 ミッドナイトトラウト】",
+   "price": null,
+   "price_text": "12 100 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000241071",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000242151": {
    "name": "SHORE CONNECT　ショアコネクト ショアコネクト (Shore connect) SCフレックスウィンタースーツ",
    "price": null,
@@ -62087,18 +62099,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194229504": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #39 マットチョコレート",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194229504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194222443": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #17 グロー(夜光)",
    "price": null,
@@ -65395,6 +65395,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175602",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175594": {
+   "name": "ロブルアー バベルエース 0.7g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175594",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74005,5 +74017,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T10:11:06+03:00"
+ "last_check": "2026-11-05T10:16:02+03:00"
 }
