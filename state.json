@@ -63808,6 +63808,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262058": {
+   "name": "スミス くるん Type1 1.1g #08 カラシ",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262058",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262052": {
    "name": "スミス くるん Type1 1.1g #07 FLライムチャート",
    "price": null,
@@ -65364,18 +65376,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175558",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175543": {
-   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175543",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73986,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T07:01:31+03:00"
+ "last_check": "2026-11-05T07:05:51+03:00"
 }
