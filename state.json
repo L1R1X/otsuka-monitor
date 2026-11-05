@@ -61924,6 +61924,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240740": {
+   "name": "ウォーターランド アルミん 3.4g #NC06 オレンジ/イエローカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240708": {
+   "name": "ウォーターランド アルミん 3.4g #NC04 ピンク/レッドカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240708",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240511": {
    "name": "ウォーターランド アルミん 3.4g #NC02 オレンジ/レッドカモ",
    "price": null,
@@ -65352,30 +65376,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175543",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175521": {
-   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175521",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175518": {
-   "name": "ロブルアー バベルV3 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175518",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73986,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T06:55:51+03:00"
+ "last_check": "2026-11-05T07:01:31+03:00"
 }
