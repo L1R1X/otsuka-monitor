@@ -2303,6 +2303,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15433859858646": {
+   "name": "MAG MODULE base ver,38belt（マグモジュールベースver,38belt）",
+   "price": null,
+   "price_text": "800 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/mag-module-base-ver-38belt-マグモジュールベースver-38belt",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15429000986838": {
    "name": "Fishing Festival 2027 Advance Ticket（釣りフェス2027前売り券）",
    "price": null,
@@ -73993,5 +74005,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T08:35:53+03:00"
+ "last_check": "2026-11-05T08:41:04+03:00"
 }
