@@ -1776,7 +1776,7 @@
    "spec": "#伊勢崎店オリカラ パルヘリオ 35mm 2.1g フローティング",
    "code": "4514447293513",
    "price": 1540,
-   "stock": 103
+   "stock": 102
   },
   "53360101GLA00865": {
    "name": "ラッキークラフト アンフェア 35HF G2 #高崎店オリジナルカラー 鬼灯 35mm 1.8g ハイフローティング",
@@ -1881,7 +1881,7 @@
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 54
+   "stock": 53
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1902,7 +1902,7 @@
    "spec": "#高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316205",
    "price": 1650,
-   "stock": 57
+   "stock": 55
   },
   "53360101GLR01063": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鶯 33mm 1.8g スーパーデッドスローシンキング",
@@ -2035,21 +2035,21 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 24mm 1.6g シンキング",
    "code": "4573632512174",
    "price": 1650,
-   "stock": 9
+   "stock": 8
   },
   "53360101GLX01219": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 神姫 24mm 1.6g シンキング",
    "spec": "#高崎店オリジナルカラー 神姫 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632512051",
    "price": 1760,
-   "stock": 20
+   "stock": 16
   },
   "53360101GLX01220": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング",
    "spec": "#高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング オオツカオリカラ",
    "code": "4573632511931",
    "price": 1760,
-   "stock": 103
+   "stock": 99
   },
   "53360101GLW01319": {
    "name": "ロデオクラフト モカ  DR2フックF",
@@ -2098,7 +2098,7 @@
    "spec": "#MSクラッシュグロー 30mm 2.4g スローシンキング",
    "code": "4573632512327",
    "price": 1705,
-   "stock": 111
+   "stock": 109
   },
   "53360101GLX01279": {
    "name": "ロデオクラフト モカロン  S # M.A01暁(宇都宮店オリカラ) 57mm 3.3g シンキング",
@@ -62063,18 +62063,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194229525": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #62 安塚リクエスト",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194229525",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194229514": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #56 キャメルココア",
    "price": null,
@@ -62131,18 +62119,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194222391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194222365": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #5 鉄板!!南関東",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222365",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65395,6 +65371,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175628",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175621": {
+   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175602": {
+   "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175602",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74005,5 +74005,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T09:46:02+03:00"
+ "last_check": "2026-11-05T09:51:07+03:00"
 }
