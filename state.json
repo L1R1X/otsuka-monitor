@@ -24912,7 +24912,7 @@
    "tag": ""
   },
   "tr7976013201622": {
-   "name": "GIANT Almin 5.0g（アルミん）",
+   "name": "GIANT Almin 5.0g（アルミん5.0g）",
    "price": null,
    "price_text": "700 ¥",
    "spec": "",
@@ -62111,18 +62111,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222391": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #14 蛍光イエロー",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222391",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65407,6 +65395,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175594",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175590": {
+   "name": "ロブルアー バベルエース 0.7g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175590",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74017,5 +74017,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T10:16:02+03:00"
+ "last_check": "2026-11-05T10:21:02+03:00"
 }
