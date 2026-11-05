@@ -2390,7 +2390,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/open-limiter-block-オープンリミッターブロック",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -2402,7 +2402,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/magdock-マグドック",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -3050,7 +3050,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/cra-pea-tiemco-color-クラピーティムコカラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -6542,7 +6542,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/予約商品-2026年3月中旬お届け予定-medium-cra-pea-gs2-dlive-gate-limited-color-ミディアムクラピーgs2ドライブ-ゲート限定カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -18734,7 +18734,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rcルアーケース-rc-2010nd-mタイプ-ブラック",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74000,5 +74000,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T07:46:01+03:00"
+ "last_check": "2026-11-05T07:51:02+03:00"
 }
