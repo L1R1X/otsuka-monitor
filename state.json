@@ -61871,18 +61871,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240828": {
-   "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240828",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240813": {
    "name": "ウォーターランド アルミん 4.3g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -61987,18 +61975,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240383",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240364": {
-   "name": "ウォーターランド アルミん 2.5g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240364",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65383,6 +65359,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175558",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175543": {
+   "name": "ロブルアー バベルエース zero 0.4g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175543",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175521": {
+   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175521",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73993,5 +73993,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T07:26:09+03:00"
+ "last_check": "2026-11-05T07:31:24+03:00"
 }
