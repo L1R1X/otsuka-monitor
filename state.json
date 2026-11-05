@@ -2426,7 +2426,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/magdock-マグドック",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -39558,6 +39558,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000180824": {
+   "name": "BETOBETO　ベトベト BetoBeto（ベトベト）　HOO155F A0020 【マットブルーバック】",
+   "price": null,
+   "price_text": "4 290 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000180824",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000241071": {
    "name": "MARUHATA商店 × ジャッカル / ダウズスイマー∞240ビブチューン ヘッドショット【＃01 ミッドナイトトラウト】",
    "price": null,
@@ -74036,5 +74048,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T13:35:58+03:00"
+ "last_check": "2026-11-05T13:41:00+03:00"
 }
