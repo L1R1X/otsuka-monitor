@@ -2303,6 +2303,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15433880240342": {
+   "name": "Pocket MAME Bud 2026 Autumn Limited Color（ポケット豆バド2026秋展示会限定カラー）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/pocket-mame-bud-2026-autumn-limited-color-ポケット豆バド2026秋展示会限定カラー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15433859858646": {
    "name": "MAG MODULE base ver,38belt（マグモジュールベースver,38belt）",
    "price": null,
@@ -62147,18 +62159,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222388": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #13 ブラック",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222388",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194222381": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #7 桃色KO",
    "price": null,
@@ -65395,6 +65395,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74005,5 +74017,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T09:25:53+03:00"
+ "last_check": "2026-11-05T09:31:16+03:00"
 }
