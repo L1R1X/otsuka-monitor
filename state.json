@@ -16399,7 +16399,7 @@
    "tag": ""
   },
   "tr8759246356694": {
-   "name": "B-Spark 2025 Autumn 1091 Color（ビースパーク1091カラー）",
+   "name": "B-Spark 1091 Color（ビースパーク1091カラー）",
    "price": null,
    "price_text": "760 ¥",
    "spec": "",
@@ -16423,7 +16423,7 @@
    "tag": ""
   },
   "tr8759239868630": {
-   "name": "Dohna 2024 Winter 1091 Color（ドーナ2024年冬1091カラー）",
+   "name": "Dohna 1091 Color（ドーナ1091カラー）",
    "price": null,
    "price_text": "600 ¥",
    "spec": "",
@@ -74000,5 +74000,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T08:10:58+03:00"
+ "last_check": "2026-11-05T08:15:59+03:00"
 }
