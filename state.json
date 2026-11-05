@@ -58180,6 +58180,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194216861": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #6 スケスケオリーブ",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216861",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194214937": {
    "name": "ハンクル ZAGGER 65 F1 #NORICHA GLOW",
    "price": null,
@@ -58404,6 +58416,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193985680",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193985651": {
+   "name": "TIMON ちびフッテンFS #カドニキハーフグロー",
+   "price": null,
+   "price_text": "1,450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193985651",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61740,42 +61764,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191816541",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816534": {
-   "name": "ValkeIN ヘイズ DD #ARK4",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816534",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816530": {
-   "name": "ValkeIN ヘイズ DD #ARK3",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816530",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816525": {
-   "name": "ValkeIN ヘイズ DD #ARK2",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816525",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73986,5 +73974,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T05:21:08+03:00"
+ "last_check": "2026-11-05T05:25:54+03:00"
 }
