@@ -61924,14 +61924,26 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240651": {
-   "name": "ウォーターランド アルミん 3.4g #NC03 Pホワイト/チャートカモ",
+  "jh194240511": {
+   "name": "ウォーターランド アルミん 3.4g #NC02 オレンジ/レッドカモ",
    "price": null,
    "price_text": "700 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240651",
+   "link": "https://fishing-shop-jh.com/?pid=194240511",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240412": {
+   "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240412",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65364,18 +65376,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175518",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175504": {
-   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175504",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -73986,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T06:51:04+03:00"
+ "last_check": "2026-11-05T06:55:51+03:00"
 }
