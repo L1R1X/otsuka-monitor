@@ -7207,7 +7207,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/wg-6",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -21763,7 +21763,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/legalis-レガリス",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -73993,5 +73993,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T07:31:24+03:00"
+ "last_check": "2026-11-05T07:35:54+03:00"
 }
