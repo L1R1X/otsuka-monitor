@@ -1888,7 +1888,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 53
+   "stock": 52
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -1902,14 +1902,14 @@
    "spec": "#高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316205",
    "price": 1650,
-   "stock": 58
+   "stock": 57
   },
   "53360101GLR01063": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鶯 33mm 1.8g スーパーデッドスローシンキング",
    "spec": "#高崎店オリジナルカラー 鶯 33mm 1.8g スーパーデッドスローシンキング オオツカオリカラ",
    "code": "4514447316229",
    "price": 1650,
-   "stock": 4
+   "stock": 3
   },
   "53360101GKV00068": {
    "name": "リプライ プラスチックプラグシリーズ デカチャグ #ギラギラクロアタマ 40mm 2.8 フローティング",
@@ -1986,7 +1986,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 104
+   "stock": 102
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
@@ -2000,7 +2000,7 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 98
+   "stock": 96
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
@@ -2028,14 +2028,14 @@
    "spec": "#MSクラッシュグロー 30mm 2.9g エキストラシンキング",
    "code": "4573632512341",
    "price": 1760,
-   "stock": 262
+   "stock": 261
   },
   "53360101GLW01440": {
    "name": "ロデオクラフト ファットモカjr  DRSS",
    "spec": "# しみぱん(宇都宮店オリカラ) 24mm 1.6g シンキング",
    "code": "4573632512174",
    "price": 1650,
-   "stock": 9
+   "stock": 8
   },
   "53360101GLX01219": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 神姫 24mm 1.6g シンキング",
@@ -2112,7 +2112,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 57mm 3.3g シンキング TROUTSHOPオリジナルウエイト",
    "code": "4573632512204",
    "price": 1650,
-   "stock": 255
+   "stock": 254
   },
   "53360101GLX01278": {
    "name": "ロデオクラフト モカロン  S # 白銀ブレイク(宇都宮店オリカラ) 57mm 3.3g シンキング",
@@ -58528,6 +58528,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890966": {
+   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890966",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -58572,6 +58584,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890871",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890868": {
+   "name": "DAIWA ワブクラJr.25F DR#トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890868",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890859": {
+   "name": "DAIWA ワブクラJr.25F DR#クリア胡麻塩ライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890859",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890855": {
+   "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890855",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890850": {
+   "name": "DAIWA ワブクラJr.25F DR#桜ミストレッドグロー",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890850",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61716,54 +61776,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191835560",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835545": {
-   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835545",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835529": {
-   "name": "Jackson ジグザグマジック 30 #カフェシャレッドグロー【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835529",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835507": {
-   "name": "Jackson ジグザグマジック 30 #Gパン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835507",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191816541": {
-   "name": "ValkeIN ヘイズ DD #ARK6",
-   "price": null,
-   "price_text": "1,570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191816541",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -73974,5 +73986,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-05T05:25:54+03:00"
+ "last_check": "2026-11-05T05:31:16+03:00"
 }
