@@ -7610,7 +7610,7 @@
   "tr8803854942422": {
    "name": "MOCA DR-SS（モカDR-SS）",
    "price": null,
-   "price_text": "1 420 ¥",
+   "price_text": "1 600 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
@@ -73883,6 +73883,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194331408": {
+   "name": "第一精工 ブラシスレッダー",
+   "price": null,
+   "price_text": "792 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194331408",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194328712": {
    "name": "フルクリップ マグモジュール ver,clip",
    "price": null,
@@ -73999,18 +74011,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=171857146",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194236332": {
-   "name": "ロブルアー パンチ【爆釣チューン】ラストパンチ！",
-   "price": null,
-   "price_text": "1,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194236332",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74146,20 +74146,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193491969": {
-   "name": "レヴォニック ZENDA(ゼンダ）85 LOUD DryBone",
-   "price": null,
-   "price_text": "2,200 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193491969",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T07:31:14+03:00"
+ "last_check": "2026-11-06T07:36:02+03:00"
 }
