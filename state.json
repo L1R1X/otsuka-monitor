@@ -58458,30 +58458,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194350085": {
-   "name": "ラッキークラフト ワウ 37F #スターダストワイン【1091】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194350085",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194350078": {
-   "name": "ラッキークラフト ワウ 37F #ドクギリブラウンⅡ【1091】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194350078",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349520": {
    "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -61934,6 +61910,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74144,5 +74144,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T10:21:01+03:00"
+ "last_check": "2026-11-06T10:25:53+03:00"
 }
