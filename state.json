@@ -2317,6 +2317,90 @@
    "price": 1650,
    "stock": 24
   },
+  "tr7959372890326": {
+   "name": "MOCARON（モカロン）",
+   "price": null,
+   "price_text": "1 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/mocaron-モカロン",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15435115954390": {
+   "name": "WAH37F 2026 Autumn 1091 Color（ワウ37F 2026秋1091カラー）",
+   "price": null,
+   "price_text": "1 445 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/wah37f-2026-autumn-1091-color-ワウ37f-2026秋1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15435140792534": {
+   "name": "Silicon billet releaser 1091 Color（シリコンビレットリリーサー1091カラー）",
+   "price": null,
+   "price_text": "11 800 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/silicon-billet-releaser-1091-color-シリコンビレットリリーサー1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15435135680726": {
+   "name": "BeHeart 2026 Autumn 1091 Color（ビーハート2026秋1091カラー）",
+   "price": null,
+   "price_text": "570 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/beheart-2026-autumn-1091-color-ビーハート2026秋1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15435090395350": {
+   "name": "RC Carbon Wallet 1091 Color（RCカーボンワレット1091カラー）",
+   "price": null,
+   "price_text": "3 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-carbon-wallet-1091-color-rcカーボンワレット1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15435082891478": {
+   "name": "RC LEADER POUCH 1091 COLOR(RCリーダーポーチ1091カラー)",
+   "price": null,
+   "price_text": "3 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-leader-pouch-1091-colorrcリーダーポーチ1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9089272971478": {
+   "name": "RC WAH37HF/FⅡ 1091 Color（RCワウ37HF/FⅡ 1091カラー）",
+   "price": null,
+   "price_text": "1 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-wah37hf-2025-1091-color-rcワウ37hf-2025-1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15433880240342": {
    "name": "Pocket MAME Bud 2026 Autumn Limited Color（ポケット豆バド2026秋展示会限定カラー）",
    "price": null,
@@ -58933,18 +59017,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985473": {
-   "name": "TIMON ちびフッテンFS #蛍光ピンク",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985469": {
    "name": "TIMON ちびフッテンFS #クリアー",
    "price": null,
@@ -61929,6 +62001,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993058": {
+   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993058",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74139,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T13:55:59+03:00"
+ "last_check": "2026-11-06T14:01:26+03:00"
 }
