@@ -10963,7 +10963,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hook-releaser-ex-フックリリーサーex",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -14443,7 +14443,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/presso-lt2000ss-p-プレッソ",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74149,5 +74149,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T07:46:03+03:00"
+ "last_check": "2026-11-06T07:50:58+03:00"
 }
