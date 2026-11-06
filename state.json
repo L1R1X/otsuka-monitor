@@ -58358,7 +58358,7 @@
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
-   "price_text": "1,595 ¥(税込)",
+   "price_text": "1,650 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "JH",
@@ -58567,18 +58567,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194342473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194342437": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194342437",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61951,6 +61939,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993050",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191992983": {
+   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191992983",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74149,5 +74149,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T08:16:00+03:00"
+ "last_check": "2026-11-06T08:20:58+03:00"
 }
