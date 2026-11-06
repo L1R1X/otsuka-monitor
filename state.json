@@ -1881,14 +1881,14 @@
    "spec": "#伊勢崎店 オリカラ 八雲 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316328",
    "price": 1650,
-   "stock": 51
+   "stock": 50
   },
   "53360101GLY00886": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "#伊勢崎店 オリカラ バーマキ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447319671",
    "price": 1650,
-   "stock": 83
+   "stock": 82
   },
   "53360101GLR01067": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -58333,18 +58333,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354268": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354268",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354227": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
    "price": null,
@@ -61929,6 +61917,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74139,5 +74139,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T13:45:58+03:00"
+ "last_check": "2026-11-06T13:50:59+03:00"
 }
