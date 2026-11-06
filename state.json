@@ -1601,7 +1601,7 @@
    "spec": "#伊勢崎店オリカラ 水蛭子 40mm 3.8g シンキング",
    "code": "4548393384728",
    "price": 1595,
-   "stock": 50
+   "stock": 49
   },
   "53360101GKY00763": {
    "name": "ディスプラウト ベビーバイブ DS G2",
@@ -58338,18 +58338,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354279": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354268": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
    "price": null,
@@ -61934,6 +61922,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74144,5 +74144,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T10:36:05+03:00"
+ "last_check": "2026-11-06T10:41:04+03:00"
 }
