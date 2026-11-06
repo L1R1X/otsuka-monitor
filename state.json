@@ -1860,7 +1860,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447276172",
    "price": 1650,
-   "stock": 39
+   "stock": 38
   },
   "53360101GLJ01736": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -58235,6 +58235,42 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194342473": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #18井野【1091】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342437": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342437",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342412": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #三ヶ日みかん【1091】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342412",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194214937": {
    "name": "ハンクル ZAGGER 65 F1 #NORICHA GLOW",
    "price": null,
@@ -61795,42 +61831,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191847755",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847743": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #06 モリケンペレット",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847743",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835560": {
-   "name": "Jackson ジグザグマジック 30 #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835560",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191835545": {
-   "name": "Jackson ジグザグマジック 30 #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "900 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191835545",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74041,5 +74041,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T04:01:37+03:00"
+ "last_check": "2026-11-06T04:05:53+03:00"
 }
