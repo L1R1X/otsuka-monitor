@@ -58374,6 +58374,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194352528": {
+   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194352528",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194351595": {
    "name": "ロデオクラフト モカロン SS #本日のラッキーカラー",
    "price": null,
@@ -58466,6 +58478,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194349501",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349500": {
+   "name": "ロデオクラフト モカSR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349500",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -58574,6 +58598,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194342473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342437": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342437",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61922,42 +61958,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993050": {
-   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993050",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191992983": {
-   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992983",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74168,5 +74168,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T08:45:56+03:00"
+ "last_check": "2026-11-06T08:51:04+03:00"
 }
