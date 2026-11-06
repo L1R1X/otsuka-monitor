@@ -58417,18 +58417,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354216": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #48 サイティングシルバー",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354216",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62013,6 +62001,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991615": {
+   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991615",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T20:56:03+03:00"
+ "last_check": "2026-11-06T21:01:30+03:00"
 }
