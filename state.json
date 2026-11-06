@@ -1652,6 +1652,13 @@
    "price": 1705,
    "stock": 48
   },
+  "53360101GLL00403": {
+   "name": "ムカイ トレモ ポゴ38HS #伊勢崎店 オリカラ 水蛭子 38mm 3.2g シンキング",
+   "spec": "#伊勢崎店 オリカラ 水蛭子 38mm 3.2g シンキング 伊勢崎店オリジナルカラー",
+   "code": "4513907452927",
+   "price": 1760,
+   "stock": 27
+  },
   "53360101GLL00401": {
    "name": "ムカイ トレモ ポゴ38HS #伊勢崎店 オリカラ バーマキ 38mm 3.2g シンキング",
    "spec": "#伊勢崎店 オリカラ バーマキ 38mm 3.2g シンキング 伊勢崎店オリジナルカラー",
@@ -1932,6 +1939,13 @@
    "price": 1760,
    "stock": 1
   },
+  "53360101GLQ00080": {
+   "name": "ロデオクラフト RCクラピー ディープクラピー #N.K01(狼煙) 34mm 3.0g  フローティング",
+   "spec": "#N.K01(狼煙) 34mm 3.0g フローティング 熊谷店オリカラ",
+   "code": "4573151273754",
+   "price": 1650,
+   "stock": 3
+  },
   "53360101GLQ00079": {
    "name": "ロデオクラフト RCクラピー ディープクラピー #キャンコM.R.G 34mm 3.0g  フローティング",
    "spec": "#キャンコM.R.G 34mm 3.0g フローティング 熊谷店オリカラ",
@@ -1986,7 +2000,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 72
+   "stock": 71
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
@@ -2000,21 +2014,21 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512280",
    "price": 1925,
-   "stock": 92
+   "stock": 91
   },
   "53360101GLX01211": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin",
    "spec": "#高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin オオツカオリカラ",
    "code": "4573632512105",
    "price": 1925,
-   "stock": 160
+   "stock": 159
   },
   "53360101GLX01212": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 鬼灯 30mm 2.9g エキストラシンキング ラトルin",
    "spec": "#高崎店オリジナルカラー 鬼灯 30mm 2.9g エキストラシンキング ラトルin オオツカオリカラ",
    "code": "4573632511986",
    "price": 1925,
-   "stock": 178
+   "stock": 177
   },
   "53360101GLX01210": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 鶯 30mm 2.9g エキストラシンキング ラトルin",
@@ -2028,7 +2042,7 @@
    "spec": "#MSクラッシュグロー 30mm 2.9g エキストラシンキング",
    "code": "4573632512341",
    "price": 1760,
-   "stock": 259
+   "stock": 255
   },
   "53360101GLW01440": {
    "name": "ロデオクラフト ファットモカjr  DRSS",
@@ -2084,7 +2098,7 @@
    "spec": "#MSクラッシュグロー 30mm 2.1g フローティング",
    "code": "4573632512303",
    "price": 1705,
-   "stock": 125
+   "stock": 124
   },
   "53360101GLW01437": {
    "name": "ロデオクラフト モカ  ラトルDR 2フックSS",
@@ -2098,14 +2112,14 @@
    "spec": "#MSクラッシュグロー 30mm 2.4g スローシンキング",
    "code": "4573632512327",
    "price": 1705,
-   "stock": 107
+   "stock": 105
   },
   "53360101GLX01279": {
    "name": "ロデオクラフト モカロン  S # M.A01暁(宇都宮店オリカラ) 57mm 3.3g シンキング",
    "spec": "# M.A01暁(宇都宮店オリカラ) 57mm 3.3g シンキング TROUTSHOPオリジナルウエイト",
    "code": "4573632512143",
    "price": 1650,
-   "stock": 203
+   "stock": 202
   },
   "53360101GLX01277": {
    "name": "ロデオクラフト モカロン  S # しみぱん(宇都宮店オリカラ) 57mm 3.3g シンキング",
@@ -2119,7 +2133,7 @@
    "spec": "# 白銀ブレイク(宇都宮店オリカラ) 57mm 3.3g シンキング TROUTSHOPオリジナルウエイト",
    "code": "4573632512266",
    "price": 1650,
-   "stock": 227
+   "stock": 226
   },
   "53360101GKS00613": {
    "name": "ヴァルケイン クーガ",
@@ -2143,15 +2157,15 @@
    "stock": 51
   },
   "53360101GLM00010": {
-   "name": "ヴァルケイン クーガ  ディメンションL F",
-   "spec": "#伊勢崎店 オリカラ 美鬼 60mm 3.3g フローティング",
+   "name": "ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ 美鬼 60mm 3.3g フローティング",
+   "spec": "[ヴァルケイン クーガ ディメンションL F](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM00010 \"ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ 美鬼 60mm 3.3g フローティング\")\n\n#伊勢崎店 オリカラ 美鬼 60mm 3.3g フローティング",
    "code": "4582671335729",
    "price": 1980,
    "stock": 55
   },
   "53360101GLM00011": {
-   "name": "ヴァルケイン クーガ  ディメンションL F",
-   "spec": "#伊勢崎店 オリカラ バーマキ 60mm 3.3g フローティング",
+   "name": "ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ バーマキ 60mm 3.3g フローティング",
+   "spec": "[ヴァルケイン クーガ ディメンションL F](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM00011 \"ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ バーマキ 60mm 3.3g フローティング\")\n\n#伊勢崎店 オリカラ バーマキ 60mm 3.3g フローティング",
    "code": "4582671335736",
    "price": 1980,
    "stock": 56
@@ -33299,6 +33313,30 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15418975715602": {
+   "name": "Tコネクションエリア TCA-S57UL ※別途送料1,750円(沖縄県へは4,000円)が掛かります。",
+   "price": null,
+   "price_text": "61 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/tコネクションエリア-tca-s57ul-別途送料1-750円沖縄県へは4-000円が掛かります",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15418975355154": {
+   "name": "Tコネクションエリア TCA-S60ML-ST ※別途送料1,750円(沖縄県へは4,000円)が掛かります。",
+   "price": null,
+   "price_text": "62 700 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/tコネクションエリア-tca-s60ml-st-別途送料1-750円沖縄県へは4-000円が掛かります",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15418974437650": {
    "name": "RCタイタニュームショートグローブ(パームレス) ブラック/ホワイトロゴ 薄手 フリーサイズ",
    "price": null,
@@ -58295,6 +58333,30 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194352565": {
+   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194352565",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194352528": {
+   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194352528",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194351595": {
    "name": "ロデオクラフト モカロン SS #本日のラッキーカラー",
    "price": null,
@@ -58363,6 +58425,174 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194350078",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349520": {
+   "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349520",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349517": {
+   "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349517",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349511": {
+   "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349511",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349508": {
+   "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349508",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349501": {
+   "name": "ロデオクラフト モカSR SS 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349501",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194349500": {
+   "name": "ロデオクラフト モカSR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349500",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343214": {
+   "name": "ロデオクラフト モカSR FⅡ #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343214",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343206": {
+   "name": "ロデオクラフト モカSR FⅡ #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343206",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343184": {
+   "name": "ロデオクラフト モカDR SS 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343184",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343170": {
+   "name": "ロデオクラフト モカDR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343170",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343015": {
+   "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343015",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343012": {
+   "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343012",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342952": {
+   "name": "ロデオクラフト プチモカSR SS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342952",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342860": {
+   "name": "ロデオクラフト プチモカSR SS #21ノブ",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342860",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61699,198 +61929,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113778",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113777": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113777",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113776": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113776",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113775": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113774": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192027396": {
-   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192027396",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993050": {
-   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993050",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191992983": {
-   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992983",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991774": {
-   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991615": {
-   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991615",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991603": {
-   "name": "ムカイ 鯱 シャチホコ 23S#琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991603",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991582": {
-   "name": "ムカイ 鯱 シャチホコ 23S#マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991582",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991579": {
-   "name": "ムカイ 鯱 シャチホコ 23S#レッドバグ【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991579",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991237": {
-   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991237",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991206": {
-   "name": "ムカイ UpWard残無35S #マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991206",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74101,5 +74139,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T06:11:04+03:00"
+ "last_check": "2026-11-06T06:16:09+03:00"
 }
