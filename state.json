@@ -33313,6 +33313,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15418984890642": {
+   "name": "クレハ シーガー PEX4ステルスアーミー 150m",
+   "price": null,
+   "price_text": "2 178 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/クレハ-シーガー-pex4ステルスアーミー-150m",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15418981548306": {
    "name": "クレハ シーガーグランドマックスFXエステル 180m",
    "price": null,
@@ -74151,5 +74163,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T06:31:13+03:00"
+ "last_check": "2026-11-06T06:35:56+03:00"
 }
