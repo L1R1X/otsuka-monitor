@@ -1790,7 +1790,7 @@
    "spec": "#伊勢崎店オリカラ パルヘリオ 35mm 2.1g フローティング",
    "code": "4514447293513",
    "price": 1540,
-   "stock": 102
+   "stock": 101
   },
   "53360101GLA00865": {
    "name": "ラッキークラフト アンフェア 35HF G2 #高崎店オリジナルカラー 鬼灯 35mm 1.8g ハイフローティング",
@@ -1860,7 +1860,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447276172",
    "price": 1650,
-   "stock": 38
+   "stock": 37
   },
   "53360101GLJ01736": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -1895,7 +1895,7 @@
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 53
+   "stock": 52
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -58223,6 +58223,42 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194351595": {
+   "name": "ロデオクラフト モカロン SS #本日のラッキーカラー",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351595",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194351578": {
+   "name": "ロデオクラフト モカロン SS #クリアーピンク",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351578",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194351567": {
+   "name": "ロデオクラフト モカロン SS #RCポテトヘッド",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351567",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194351558": {
    "name": "ロデオクラフト モカロン SS #ピンクバックチャート",
    "price": null,
@@ -61783,42 +61819,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991206",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991192": {
-   "name": "ムカイ UpWard残無35S #レッドバグ【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991192",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191885046": {
-   "name": "ラッキークラフト ディープクラピー LC MAX SS #14 監督アイス【オフィスユーカリ】",
-   "price": null,
-   "price_text": "1,550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191885046",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191847773": {
-   "name": "RETREEX リトリークス PYLON60 Rx Tune #10 チャートバッククリア",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191847773",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74029,5 +74029,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T05:05:58+03:00"
+ "last_check": "2026-11-06T05:11:05+03:00"
 }
