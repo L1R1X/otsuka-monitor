@@ -1468,7 +1468,7 @@
    "spec": "#ディアボロ 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315659",
    "price": 1760,
-   "stock": 15
+   "stock": 13
   },
   "53360101GIG01985": {
    "name": "スプリーモ バイラ  50M",
@@ -33309,6 +33309,18 @@
    "stock": 0,
    "shop": "Velvet Arts",
    "link": "https://velvetarts.co.jp/products/stickers",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15418981548306": {
+   "name": "クレハ シーガーグランドマックスFXエステル 180m",
+   "price": null,
+   "price_text": "1 122 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/クレハ-シーガーグランドマックスfxエステル-180m",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74139,5 +74151,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T06:25:55+03:00"
+ "last_check": "2026-11-06T06:31:13+03:00"
 }
