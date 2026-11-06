@@ -1629,7 +1629,7 @@
    "spec": "#伊勢崎店 オリカラ 神楽 68mm 3.5g フローティング",
    "code": "4548393385046",
    "price": 1705,
-   "stock": 36
+   "stock": 35
   },
   "53360101GLQ01140": {
    "name": "ディスプラウト メガガメクラ F",
@@ -39992,6 +39992,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000238534": {
+   "name": "新コスモス電機 COALAN (コアラン) アウトドア用一酸化炭素アラーム CL-725 新コスモス電機",
+   "price": null,
+   "price_text": "15 345 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000238534",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000233250": {
    "name": "MCワークス　エムシーワークス MC works' MCワークス ROCKMAN VEST 6 “DOMINATOR” (NEW ）",
    "price": null,
@@ -45664,18 +45676,6 @@
    "stock": 0,
    "shop": "Wild-1",
    "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000215591",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "w10000000000238534": {
-   "name": "新コスモス電機 COALAN (コアラン) アウトドア用一酸化炭素アラーム CL-725 新コスモス電機",
-   "price": null,
-   "price_text": "15 345 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Wild-1",
-   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000238534",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74146,5 +74146,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T13:15:58+03:00"
+ "last_check": "2026-11-06T13:20:58+03:00"
 }
