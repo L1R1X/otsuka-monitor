@@ -58974,6 +58974,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890966": {
+   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890966",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -59034,6 +59046,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890859": {
+   "name": "DAIWA ワブクラJr.25F DR#クリア胡麻塩ライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890859",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890855": {
    "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
    "price": null,
@@ -59042,6 +59066,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890855",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193890850": {
+   "name": "DAIWA ワブクラJr.25F DR#桜ミストレッドグロー",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890850",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61922,42 +61958,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113776",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113775": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113774": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK1",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192027396": {
-   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192027396",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74168,5 +74168,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T08:55:55+03:00"
+ "last_check": "2026-11-06T09:01:23+03:00"
 }
