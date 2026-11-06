@@ -58367,18 +58367,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194352528": {
-   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194352528",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194351595": {
    "name": "ロデオクラフト モカロン SS #本日のラッキーカラー",
    "price": null,
@@ -61951,6 +61939,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113775",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113774": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74027,6 +74027,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193816005": {
+   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）16mm",
+   "price": null,
+   "price_text": "1,045 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193816005",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194329371": {
    "name": "THタックル 毛玉スピン",
    "price": null,
@@ -74134,20 +74146,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki177514349": {
-   "name": "ベトベト ベロ120F（VERO120F）",
-   "price": null,
-   "price_text": "5,060 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=177514349",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T07:55:56+03:00"
+ "last_check": "2026-11-06T08:01:26+03:00"
 }
