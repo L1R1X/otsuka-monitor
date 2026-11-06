@@ -59958,18 +59958,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193463435": {
-   "name": "DAIWA ダブルクラッチ 60F1 #オレッドRG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193463435",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193463363": {
    "name": "DAIWA ダブルクラッチ 60F1 #デリシャスペレット",
    "price": null,
@@ -61554,30 +61542,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192407295": {
-   "name": "DAYSPROUT ピコピコイーグルプレーヤー MS #タカクールBKRG【アイビーコラボ】",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192407295",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192407292": {
-   "name": "DAYSPROUT ピコピコイーグルプレーヤー MS #ハマブラン【アイビーコラボ】",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192407292",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192405940": {
    "name": "ロデオクラフト にゃんプップ ラトルin #9 ゴールデントップ",
    "price": null,
@@ -61694,18 +61658,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192388471",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192325595": {
-   "name": "ValkeIN ハイドラム S #ドンチャックドン【有頂天】",
-   "price": null,
-   "price_text": "1,995 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192325595",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61934,6 +61886,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113788": {
+   "name": "ValkeIN シャインライド NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113788",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113786": {
+   "name": "ValkeIN シャインライド NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113786",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113784": {
+   "name": "ValkeIN シャインライド NANO #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113784",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -63146,30 +63146,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193542401",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193473599": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.0g #イダグルイ【HERO'S】",
-   "price": null,
-   "price_text": "570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473599",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193473594": {
-   "name": "アングラーズシステム ドーナ DOHNA 2.0g #チェリーザップ【HERO'S】",
-   "price": null,
-   "price_text": "570 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193473594",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65534,6 +65510,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099385": {
+   "name": "KARTELLAS ウルキ22 Type HV #08 隼",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099385",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74144,5 +74144,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T11:26:17+03:00"
+ "last_check": "2026-11-06T11:31:23+03:00"
 }
