@@ -29472,7 +29472,7 @@
    "tag": ""
   },
   "tr7666434998486": {
-   "name": "RC LEADER POUCH (リーダーポーチ)",
+   "name": "RC LEADER POUCH (RCリーダーポーチ)",
    "price": null,
    "price_text": "2 760 ¥",
    "spec": "",
@@ -58379,18 +58379,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194351567": {
-   "name": "ロデオクラフト モカロン SS #RCポテトヘッド",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194351567",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194351558": {
    "name": "ロデオクラフト モカロン SS #ピンクバックチャート",
    "price": null,
@@ -61951,6 +61939,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192027396": {
+   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192027396",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74149,5 +74149,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T08:01:26+03:00"
+ "last_check": "2026-11-06T08:05:53+03:00"
 }
