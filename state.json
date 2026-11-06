@@ -2349,7 +2349,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/silicon-billet-releaser-1091-color-シリコンビレットリリーサー1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -2385,7 +2385,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-leader-pouch-1091-colorrcリーダーポーチ1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T14:05:53+03:00"
+ "last_check": "2026-11-06T14:11:03+03:00"
 }
