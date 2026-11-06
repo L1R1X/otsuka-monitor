@@ -14358,18 +14358,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr7959372890326": {
-   "name": "MOCARON（モカロン）",
-   "price": null,
-   "price_text": "1 420 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/mocaron-モカロン",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr8840895856854": {
    "name": "STREAM TRAIL TROPIDE L SILVER Mu（トロピードLシルバームー）",
    "price": null,
@@ -58614,18 +58602,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194342437": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194342437",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194342412": {
    "name": "ロデオクラフト RC ワウ 37FII♪ #三ヶ日みかん【1091】",
    "price": null,
@@ -61958,6 +61934,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113776",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113775": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113775",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74168,5 +74156,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T09:01:23+03:00"
+ "last_check": "2026-11-06T09:05:48+03:00"
 }
