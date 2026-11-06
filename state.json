@@ -2303,18 +2303,6 @@
    "price": 1650,
    "stock": 24
   },
-  "tr15435082891478": {
-   "name": "RC LEADER POUCH 1091 COLOR(RCリーダーポーチ1091カラー)",
-   "price": null,
-   "price_text": "0 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/rc-leader-pouch-1091-colorrcリーダーポーチ1091カラー",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr15433880240342": {
    "name": "Pocket MAME Bud 2026 Autumn Limited Color（ポケット豆バド2026秋展示会限定カラー）",
    "price": null,
@@ -58943,18 +58931,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890966": {
-   "name": "DAIWA ワブクラJr.25SS DR#レッドグローライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890966",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -59015,18 +58991,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890859": {
-   "name": "DAIWA ワブクラJr.25F DR#クリア胡麻塩ライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890859",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890855": {
    "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
    "price": null,
@@ -59035,18 +58999,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890855",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890850": {
-   "name": "DAIWA ワブクラJr.25F DR#桜ミストレッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890850",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61963,6 +61915,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993058": {
+   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993058",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993050": {
+   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993050",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74161,5 +74149,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T08:11:26+03:00"
+ "last_check": "2026-11-06T08:16:00+03:00"
 }
