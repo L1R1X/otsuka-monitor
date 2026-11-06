@@ -58549,18 +58549,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343206": {
-   "name": "ロデオクラフト モカSR FⅡ #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343206",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194343184": {
    "name": "ロデオクラフト モカDR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -58593,18 +58581,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194343015",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194343012": {
-   "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343012",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62017,6 +61993,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh191993050": {
+   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993050",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191992983": {
+   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191992983",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194240929": {
    "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -64069,18 +64069,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161224": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ #19 ウズラ【TIMON】",
-   "price": null,
-   "price_text": "605 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161224",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161144": {
    "name": "ALFRED クリアアルフ 0.8g #T-07 クリアピンク",
    "price": null,
@@ -65613,6 +65601,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099363": {
+   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099363",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T14:20:58+03:00"
+ "last_check": "2026-11-06T14:25:54+03:00"
 }
