@@ -74027,6 +74027,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194329371": {
+   "name": "THタックル 毛玉スピン",
+   "price": null,
+   "price_text": "2,420 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194329371",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194354235": {
    "name": "レイドジャパン RJ ブラックボックス 4500 タイプシャロー",
    "price": null,
@@ -74134,20 +74146,8 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki190140374": {
-   "name": "レヴォニック サラモアポロ",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190140374",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T07:50:58+03:00"
+ "last_check": "2026-11-06T07:55:56+03:00"
 }
