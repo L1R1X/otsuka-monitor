@@ -10602,18 +10602,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr9089272971478": {
-   "name": "RC WAH37HF 2025 1091 Color（RCワウ37HF 2025 1091カラー）",
-   "price": null,
-   "price_text": "1 460 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/rc-wah37hf-2025-1091-color-rcワウ37hf-2025-1091カラー",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr9089254293718": {
    "name": "RC Deep CraPea LC MAX SS 2025 1091 Color（RCディープクラピーLCマックス 2025 1091カラー）",
    "price": null,
@@ -74156,5 +74144,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-06T09:31:20+03:00"
+ "last_check": "2026-11-06T09:35:53+03:00"
 }
