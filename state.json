@@ -61600,18 +61600,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192325578": {
-   "name": "ValkeIN シャインライド #ビビビオレンジ【有頂天】",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192325578",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192240906": {
    "name": "アンデッドファクトリー レム 23HFSR #チルボド",
    "price": null,
@@ -61992,6 +61980,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993058",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993050": {
+   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993050",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74202,5 +74202,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T15:51:04+03:00"
+ "last_check": "2026-11-07T15:55:53+03:00"
 }
