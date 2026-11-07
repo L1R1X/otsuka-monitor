@@ -58448,18 +58448,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194351578": {
-   "name": "ロデオクラフト モカロン SS #クリアーピンク",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194351578",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194351558": {
    "name": "ロデオクラフト モカロン SS #ピンクバックチャート",
    "price": null,
@@ -58672,18 +58660,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194342473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194342437": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194342437",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62020,6 +61996,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113780",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113778": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113778",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113777": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113777",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74230,5 +74230,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T10:21:04+03:00"
+ "last_check": "2026-11-07T10:25:55+03:00"
 }
