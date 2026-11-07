@@ -62329,6 +62329,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194102853": {
+   "name": "ノリーズ CHIBI ZX 1.8g ＃121 岩ゴケ",
+   "price": null,
+   "price_text": "670 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194102853",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194102794": {
    "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
    "price": null,
@@ -74211,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T05:20:58+03:00"
+ "last_check": "2026-11-07T05:25:54+03:00"
 }
