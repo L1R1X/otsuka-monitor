@@ -59320,18 +59320,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193850031": {
-   "name": "ムカイ バックストローク 45HS #オリオリグロー",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850031",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193850028": {
    "name": "ムカイ バックストローク 45HS #クリアー",
    "price": null,
@@ -59364,18 +59352,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850023",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193850020": {
-   "name": "ムカイ バックストローク 45HS #グリーンピンクW-GLOW",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193850020",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61992,6 +61968,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993050",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191992983": {
+   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191992983",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991774": {
+   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74202,5 +74202,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T18:10:59+03:00"
+ "last_check": "2026-11-07T18:15:58+03:00"
 }
