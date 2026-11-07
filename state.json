@@ -58453,6 +58453,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194351578": {
+   "name": "ロデオクラフト モカロン SS #クリアーピンク",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351578",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194351567": {
+   "name": "ロデオクラフト モカロン SS #RCポテトヘッド",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351567",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194351558": {
+   "name": "ロデオクラフト モカロン SS #ピンクバックチャート",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351558",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194349520": {
    "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -61977,30 +62013,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993050",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191992983": {
-   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992983",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991774": {
-   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74211,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T05:01:30+03:00"
+ "last_check": "2026-11-07T05:05:55+03:00"
 }
