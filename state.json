@@ -60205,6 +60205,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193160668": {
+   "name": "スミス ヒカルコイカチャン #16 イカユッケ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193160668",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193160661": {
    "name": "スミス ヒカルコイカチャン #15 チャートピンク",
    "price": null,
@@ -62001,18 +62013,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991615",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991603": {
-   "name": "ムカイ 鯱 シャチホコ 23S#琥珀【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991603",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T04:20:59+03:00"
+ "last_check": "2026-11-07T04:25:51+03:00"
 }
