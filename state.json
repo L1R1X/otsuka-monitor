@@ -58424,18 +58424,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194352565": {
-   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194352565",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194352528": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #21ノブ",
    "price": null,
@@ -58456,6 +58444,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194351595",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194351578": {
+   "name": "ロデオクラフト モカロン SS #クリアーピンク",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194351578",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -58604,6 +58604,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194343170": {
+   "name": "ロデオクラフト モカDR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343170",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194343015": {
    "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -58660,6 +58672,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194342473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194342437": {
+   "name": "ロデオクラフト RC ワウ 37FII♪ #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194342437",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62000,30 +62024,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192113778": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113778",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113777": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113777",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62308,6 +62308,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194239772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194229525": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #62 安塚リクエスト",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194229525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194222466": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #25 ミルクココア(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194222466",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194222452": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #19 鉄板!!北関東",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194222452",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65584,42 +65620,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175543",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175521": {
-   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175521",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175518": {
-   "name": "ロブルアー バベルV3 1.1g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175518",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175504": {
-   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175504",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74230,5 +74230,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T10:06:11+03:00"
+ "last_check": "2026-11-07T10:11:05+03:00"
 }
