@@ -58501,6 +58501,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194349517": {
+   "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349517",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194349511": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -58561,6 +58573,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194343206": {
+   "name": "ロデオクラフト モカSR FⅡ #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343206",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194343184": {
    "name": "ロデオクラフト モカDR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -58573,6 +58597,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194343170": {
+   "name": "ロデオクラフト モカDR SS 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343170",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194343015": {
    "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -58581,6 +58617,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194343015",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194343012": {
+   "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194343012",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61965,54 +62013,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993050": {
-   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993050",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191992983": {
-   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992983",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T05:25:54+03:00"
+ "last_check": "2026-11-07T05:31:16+03:00"
 }
