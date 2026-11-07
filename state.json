@@ -58540,18 +58540,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343015": {
-   "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343015",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194343012": {
    "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
    "price": null,
@@ -61992,6 +61980,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993058": {
+   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993058",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74202,5 +74202,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T15:45:57+03:00"
+ "last_check": "2026-11-07T15:51:04+03:00"
 }
