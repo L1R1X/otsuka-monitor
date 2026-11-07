@@ -887,7 +887,7 @@
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.8g オオツカオリカラ",
    "code": "4582782654603",
    "price": 638,
-   "stock": 63
+   "stock": 61
   },
   "53360101GLZ01239": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー MSミルキーウェイ 0.95g",
@@ -908,7 +908,7 @@
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.95g オオツカオリカラ",
    "code": "4582782654696",
    "price": 638,
-   "stock": 39
+   "stock": 37
   },
   "53360101GLZ01240": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
@@ -73924,42 +73924,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki194129658": {
-   "name": "【吉やオリカラ：安燈】ディスプラウト メガガメクラ",
-   "price": null,
-   "price_text": "1,705 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194129658",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194014965": {
-   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
-   "price": null,
-   "price_text": "91,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194014965",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194328713": {
-   "name": "フルクリップ マグモジュールベース ver,38belt",
-   "price": null,
-   "price_text": "880 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194328713",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki165565083": {
    "name": "アングラーズシステム ドーナ 【1091カラー】",
    "price": null,
@@ -73968,54 +73932,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=165565083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194360533": {
-   "name": "ロデオクラフト RCワウ37F2 【1091カラー】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194360533",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194331408": {
-   "name": "第一精工 ブラシスレッダー",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194331408",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki188578335": {
-   "name": "フィッシュアロー ウィールヘッド2",
-   "price": null,
-   "price_text": "770 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=188578335",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193815981": {
-   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
-   "price": null,
-   "price_text": "935 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193815981",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74032,50 +73948,26 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194354235": {
-   "name": "レイドジャパン RJ ブラックボックス 4500 タイプシャロー",
+  "ki173748478": {
+   "name": "ティモン ティーコネクション エリア",
    "price": null,
-   "price_text": "4,950 ¥(税込)",
+   "price_text": "46,640 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194354235",
+   "link": "https://www.kitiya.jp/?pid=173748478",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki193816005": {
-   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）16mm",
+  "ki194129658": {
+   "name": "【吉やオリカラ：安燈】ディスプラウト メガガメクラ",
    "price": null,
-   "price_text": "1,045 ¥(税込)",
+   "price_text": "1,705 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193816005",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193984689": {
-   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193984689",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068816": {
-   "name": "デプス サカマタシャッド4インチ",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068816",
+   "link": "https://www.kitiya.jp/?pid=194129658",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74092,6 +73984,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194356974": {
+   "name": "DLIVE シリコンビレットリリーサ【1091カラー アールズブルー】",
+   "price": null,
+   "price_text": "12,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194356974",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194360533": {
+   "name": "ロデオクラフト RCワウ37F2 【1091カラー】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194360533",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194361036": {
    "name": "ロデオクラフト カーボンワレット各種【1091カラー 三ケ日みかん】",
    "price": null,
@@ -74100,18 +74016,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194361036",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194070500": {
-   "name": "スミス へドン CHVCラッキー13",
-   "price": null,
-   "price_text": "2,970 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194070500",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74128,14 +74032,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194068722": {
-   "name": "デプス フリルドシャッド3.7インチ",
+  "ki194331408": {
+   "name": "第一精工 ブラシスレッダー",
    "price": null,
-   "price_text": "1,320 ¥(税込)",
+   "price_text": "792 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068722",
+   "link": "https://www.kitiya.jp/?pid=194331408",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74152,38 +74056,38 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194251269": {
-   "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
+  "ki194328713": {
+   "name": "フルクリップ マグモジュールベース ver,38belt",
    "price": null,
-   "price_text": "1,100 ¥(税込)",
+   "price_text": "880 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251269",
+   "link": "https://www.kitiya.jp/?pid=194328713",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194356974": {
-   "name": "DLIVE シリコンビレットリリーサ【1091カラー アールズブルー】",
+  "ki193815981": {
+   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
-   "price_text": "12,980 ¥(税込)",
+   "price_text": "935 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194356974",
+   "link": "https://www.kitiya.jp/?pid=193815981",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki173748478": {
-   "name": "ティモン ティーコネクション エリア",
+  "ki193816005": {
+   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）16mm",
    "price": null,
-   "price_text": "46,640 ¥(税込)",
+   "price_text": "1,045 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=173748478",
+   "link": "https://www.kitiya.jp/?pid=193816005",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74199,10 +74103,104 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki194354235": {
+   "name": "レイドジャパン RJ ブラックボックス 4500 タイプシャロー",
+   "price": null,
+   "price_text": "4,950 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194354235",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194068722": {
+   "name": "デプス フリルドシャッド3.7インチ",
+   "price": null,
+   "price_text": "1,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068722",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194068816": {
+   "name": "デプス サカマタシャッド4インチ",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194068816",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki188578335": {
+   "name": "フィッシュアロー ウィールヘッド2",
+   "price": null,
+   "price_text": "770 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188578335",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194014965": {
+   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
+   "price": null,
+   "price_text": "91,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194014965",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194070500": {
+   "name": "スミス へドン CHVCラッキー13",
+   "price": null,
+   "price_text": "2,970 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194070500",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194251269": {
+   "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194251269",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193984689": {
+   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193984689",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
- "shrink_strikes": {
-  "Kitiya": 1
- },
- "last_check": "2026-11-07T17:20:59+03:00"
+ "shrink_strikes": {},
+ "last_check": "2026-11-07T17:23:41+03:00"
 }
