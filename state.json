@@ -58676,18 +58676,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194326273": {
-   "name": "【予約】ムカイ POGO38 HS GS2 #Bパール【GATE】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194326273",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194326263": {
    "name": "【予約】ムカイ POGO38 HS GS2 #CTカノマ【GATE】",
    "price": null,
@@ -62020,6 +62008,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113777",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113776": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113776",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74216,19 +74216,19 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194251467": {
-   "name": "ニシネルアーワークス スライドダート 85F【パールフラッシュ】",
+  "ki193984689": {
+   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
    "price": null,
-   "price_text": "5,000 ¥(税込)",
+   "price_text": "1,650 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251467",
+   "link": "https://www.kitiya.jp/?pid=193984689",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T10:40:58+03:00"
+ "last_check": "2026-11-07T10:45:58+03:00"
 }
