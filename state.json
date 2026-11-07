@@ -58537,18 +58537,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343170": {
-   "name": "ロデオクラフト モカDR SS 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343170",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194343015": {
    "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62013,6 +62001,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991615",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991603": {
+   "name": "ムカイ 鯱 シャチホコ 23S#琥珀【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991603",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74223,5 +74223,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T03:41:41+03:00"
+ "last_check": "2026-11-07T03:46:05+03:00"
 }
