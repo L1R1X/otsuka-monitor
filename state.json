@@ -8923,7 +8923,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/juju-2025-1091-color-ジュジュ2025-1091カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -13495,7 +13495,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/nabucra-1091-color-なぶクラ",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74209,5 +74209,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T12:01:56+03:00"
+ "last_check": "2026-11-07T12:05:54+03:00"
 }
