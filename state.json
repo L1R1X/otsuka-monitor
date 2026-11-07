@@ -58936,18 +58936,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985519": {
-   "name": "TIMON ちびフッテンFS #W蛍光パンチ",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985519",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985473": {
    "name": "TIMON ちびフッテンFS #蛍光ピンク",
    "price": null,
@@ -61992,6 +61980,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74202,5 +74202,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-07T13:51:08+03:00"
+ "last_check": "2026-11-07T13:55:58+03:00"
 }
