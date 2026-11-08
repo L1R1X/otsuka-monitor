@@ -64199,18 +64199,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193161116": {
-   "name": "ALFRED クリアアルフ 0.8g #T-03 BPクリアオリーブ",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161116",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193161101": {
    "name": "ALFRED クリアアルフ 0.8g #T-02 フロッグクリアオリーブ",
    "price": null,
@@ -64219,18 +64207,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193161101",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193161087": {
-   "name": "ALFRED クリアアルフ 0.8g #T-01 マットクリアオリーブ",
-   "price": null,
-   "price_text": "805 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161087",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65611,6 +65587,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175468",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175118": {
+   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175118",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175084": {
+   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T11:25:52+03:00"
+ "last_check": "2026-11-08T11:31:17+03:00"
 }
