@@ -73943,6 +73943,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194375138": {
+   "name": "【ご予約：11月12日発送】GATE×ムカイ トレモPOGO GS2",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194375138",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194375139": {
+   "name": "【ご予約：11月12日発送】GATE×ムカイ トレモスリム28MR GS2",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194375139",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki165565083": {
    "name": "アングラーズシステム ドーナ 【1091カラー】",
    "price": null,
@@ -74059,30 +74083,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194331408",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194328712": {
-   "name": "フルクリップ マグモジュール ver,clip",
-   "price": null,
-   "price_text": "2,640 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194328712",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194328713": {
-   "name": "フルクリップ マグモジュールベース ver,38belt",
-   "price": null,
-   "price_text": "880 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194328713",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T14:51:07+03:00"
+ "last_check": "2026-11-08T14:56:04+03:00"
 }
