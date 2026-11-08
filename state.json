@@ -58451,18 +58451,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194351558": {
-   "name": "ロデオクラフト モカロン SS #ピンクバックチャート",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194351558",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194350085": {
    "name": "ラッキークラフト ワウ 37F #スターダストワイン【1091】",
    "price": null,
@@ -62011,6 +61999,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993058": {
+   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993058",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T10:36:10+03:00"
+ "last_check": "2026-11-08T10:41:06+03:00"
 }
