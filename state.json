@@ -62303,6 +62303,42 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194222454": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #23 サンドベージュ(マット)",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194222454",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194222449": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #18 草色",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194222449",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194222384": {
+   "name": "ロデオクラフト RCドリフトスピン32 1.0g #12 X.Oオリーブ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194222384",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65575,42 +65611,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175468": {
-   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175468",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175118": {
-   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175084": {
-   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T11:56:01+03:00"
+ "last_check": "2026-11-08T12:01:24+03:00"
 }
