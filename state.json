@@ -73943,6 +73943,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194375216": {
+   "name": "【ご予約：11月中旬入荷】エバーグリーン クラッシュダイバーF",
+   "price": null,
+   "price_text": "1,540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194375216",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194375138": {
    "name": "【ご予約：11月12日発送】GATE×ムカイ トレモPOGO GS2",
    "price": null,
@@ -74075,18 +74087,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194331408": {
-   "name": "第一精工 ブラシスレッダー",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194331408",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193815981": {
    "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
@@ -74119,6 +74119,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194329371",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194331408": {
+   "name": "第一精工 ブラシスレッダー",
+   "price": null,
+   "price_text": "792 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194331408",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74221,5 +74233,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T15:11:01+03:00"
+ "last_check": "2026-11-08T15:16:02+03:00"
 }
