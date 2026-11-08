@@ -2037,13 +2037,6 @@
    "price": 1760,
    "stock": 258
   },
-  "53360101GLW01440": {
-   "name": "ロデオクラフト ファットモカjr  DRSS",
-   "spec": "# しみぱん(宇都宮店オリカラ) 24mm 1.6g シンキング",
-   "code": "4573632512174",
-   "price": 1650,
-   "stock": 1
-  },
   "53360101GLX01220": {
    "name": "ロデオクラフト ファットモカjr  DRSS #高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング",
    "spec": "#高崎店オリジナルカラー 鬼灯 24mm 1.6g シンキング オオツカオリカラ",
@@ -2136,8 +2129,8 @@
    "stock": 60
   },
   "53360101GLM00009": {
-   "name": "ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ 神楽 60mm 3.3g フローティング",
-   "spec": "[ヴァルケイン クーガ ディメンションL F](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM00009 \"ヴァルケイン クーガ  ディメンションL F #伊勢崎店 オリカラ 神楽 60mm 3.3g フローティング\")\n\n#伊勢崎店 オリカラ 神楽 60mm 3.3g フローティング",
+   "name": "ヴァルケイン クーガ  ディメンションL F",
+   "spec": "#伊勢崎店 オリカラ 神楽 60mm 3.3g フローティング",
    "code": "4582671335712",
    "price": 1980,
    "stock": 51
@@ -62284,18 +62277,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222365": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #5 鉄板!!南関東",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222365",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65592,6 +65573,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175468": {
+   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74202,5 +74195,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T06:25:53+03:00"
+ "last_check": "2026-11-08T06:31:20+03:00"
 }
