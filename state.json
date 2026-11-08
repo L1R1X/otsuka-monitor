@@ -64547,18 +64547,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192670095": {
-   "name": "ロデオクラフト ノア NOA-B 2.2g #蛍雪グロー【HERO'S】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192670095",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192670077": {
    "name": "ロデオクラフト ノア NOA-B 2.2g #放流ボンバー【HERO'S】",
    "price": null,
@@ -65611,6 +65599,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175504",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175468": {
+   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T12:05:55+03:00"
+ "last_check": "2026-11-08T12:10:56+03:00"
 }
