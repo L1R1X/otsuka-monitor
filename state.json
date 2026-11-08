@@ -58506,6 +58506,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194349508": {
+   "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #21ノブ",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194349508",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194349501": {
    "name": "ロデオクラフト モカSR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -61994,18 +62006,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74216,5 +74216,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T07:36:19+03:00"
+ "last_check": "2026-11-08T07:40:57+03:00"
 }
