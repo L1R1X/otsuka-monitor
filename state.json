@@ -62303,42 +62303,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222454": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222454",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194222449": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #18 草色",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222449",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194222384": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #12 X.Oオリーブ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222384",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65611,6 +65575,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175084",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175024": {
+   "name": "ロブルアー バベルV3 0.38g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175024",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175006": {
+   "name": "ロブルアー バベルV3 0.38g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175006",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192113833": {
+   "name": "ベルベットアーツ デイジー Daisy 0.8g 全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113833",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T14:31:19+03:00"
+ "last_check": "2026-11-08T14:36:03+03:00"
 }
