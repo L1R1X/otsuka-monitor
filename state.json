@@ -62819,18 +62819,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193888795": {
-   "name": "FPBルアーズ ビーゼロ 0.9g #2 レディネイル",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193888795",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193888784": {
    "name": "FPBルアーズ ビーゼロ 0.9g #1 オレ金",
    "price": null,
@@ -64039,18 +64027,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262091",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193262084": {
-   "name": "スミス くるん Type1 1.1g #12 オリーブドラブ",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65611,6 +65587,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175468",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175118": {
+   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175118",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175084": {
+   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T12:20:59+03:00"
+ "last_check": "2026-11-08T12:25:54+03:00"
 }
