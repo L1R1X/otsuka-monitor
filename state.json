@@ -59356,6 +59356,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193850031": {
+   "name": "ムカイ バックストローク 45HS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850031",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193850028": {
    "name": "ムカイ バックストローク 45HS #クリアー",
    "price": null,
@@ -59388,6 +59400,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193850023",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193850020": {
+   "name": "ムカイ バックストローク 45HS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193850020",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -61972,30 +61996,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62292,18 +62292,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194229508",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194229505": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #41 ガチャピン",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194229505",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65592,6 +65580,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175543",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175521": {
+   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175521",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74202,5 +74202,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T04:20:59+03:00"
+ "last_check": "2026-11-08T04:25:58+03:00"
 }
