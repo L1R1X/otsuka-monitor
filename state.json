@@ -64187,6 +64187,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161129": {
+   "name": "ALFRED クリアアルフ 0.8g #T-05 撒き餌クリアベージュ",
+   "price": null,
+   "price_text": "805 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161129",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161116": {
    "name": "ALFRED クリアアルフ 0.8g #T-03 BPクリアオリーブ",
    "price": null,
@@ -65599,18 +65611,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175468",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175118": {
-   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175118",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T10:25:55+03:00"
+ "last_check": "2026-11-08T10:31:16+03:00"
 }
