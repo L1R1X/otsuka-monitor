@@ -74195,18 +74195,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194251269": {
-   "name": "一誠 G.C.クルコマJr 7g ZERO5スペシャル",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194251269",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193984689": {
    "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
    "price": null,
@@ -74218,8 +74206,20 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki177514349": {
+   "name": "ベトベト ベロ120F（VERO120F）",
+   "price": null,
+   "price_text": "5,060 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=177514349",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T08:46:01+03:00"
+ "last_check": "2026-11-08T08:50:58+03:00"
 }
