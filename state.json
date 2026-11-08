@@ -62303,18 +62303,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194222454": {
-   "name": "ロデオクラフト RCドリフトスピン32 1.0g #23 サンドベージュ(マット)",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194222454",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194222452": {
    "name": "ロデオクラフト RCドリフトスピン32 1.0g #19 鉄板!!北関東",
    "price": null,
@@ -65611,6 +65599,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175543",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175521": {
+   "name": "ロブルアー バベルV3 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175521",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74221,5 +74221,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-08T08:31:33+03:00"
+ "last_check": "2026-11-08T08:35:54+03:00"
 }
