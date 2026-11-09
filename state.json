@@ -7433,7 +7433,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/office-eucalyptus-collaboration-bruco-50-オフィスユーカリコラボブルーコ50",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -8105,7 +8105,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/new-drawer-spoon-2025-1091-color",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -62217,6 +62217,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240511": {
+   "name": "ウォーターランド アルミん 3.4g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240511",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240412": {
    "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -65609,18 +65621,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192087672": {
-   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192087672",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74243,5 +74243,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T07:10:58+03:00"
+ "last_check": "2026-11-09T07:16:02+03:00"
 }
