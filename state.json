@@ -1827,13 +1827,6 @@
    "price": 1540,
    "stock": 79
   },
-  "53360101GLZ01125": {
-   "name": "ラッキークラフト ワウ  37F #オクターヴ(ベリー部ケイムラ飛ばし 37mm 2.3g フローティング.",
-   "spec": "#オクターヴ(ベリー部ケイムラ飛ばし 37mm 2.3g フローティング. 川越店オリカラ",
-   "code": "4514447320134",
-   "price": 1540,
-   "stock": 0
-  },
   "53360101GLS01062": {
    "name": "ラッキークラフト ワウ  40F #高崎店オリジナルカラー 鶯 40mm 3.0g フローティング",
    "spec": "#高崎店オリジナルカラー 鶯 40mm 3.0g フローティング オオツカオリカラ",
@@ -2129,8 +2122,8 @@
    "stock": 59
   },
   "53360101GKS00614": {
-   "name": "ヴァルケイン クーガ  #伊勢崎店オリカラ パルヘリオ 36mm 2.1g フローティング",
-   "spec": "[ヴァルケイン クーガ](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00614 \"ヴァルケイン クーガ  #伊勢崎店オリカラ パルヘリオ 36mm 2.1g フローティング\")\n\n#伊勢崎店オリカラ パルヘリオ 36mm 2.1g フローティング",
+   "name": "ヴァルケイン クーガ",
+   "spec": "#伊勢崎店オリカラ パルヘリオ 36mm 2.1g フローティング",
    "code": "4582671296983",
    "price": 1650,
    "stock": 60
@@ -58444,18 +58437,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354279": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354227": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
    "price": null,
@@ -62040,6 +62021,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991579",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991237": {
+   "name": "ムカイ UpWard残無35S #琥珀【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991237",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74262,5 +74255,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T19:01:36+03:00"
+ "last_check": "2026-11-09T19:05:54+03:00"
 }
