@@ -39748,6 +39748,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000161893": {
+   "name": "TULALA　ツララ ツララ　Routes（ルーツ）S77M（TULALA）2026",
+   "price": null,
+   "price_text": "47 080 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000161893",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000242184": {
    "name": "tent Mark DESIGNS　テンマクデザイン やまぼっくり",
    "price": null,
@@ -74250,5 +74262,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T10:51:02+03:00"
+ "last_check": "2026-11-09T10:55:53+03:00"
 }
