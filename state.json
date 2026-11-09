@@ -58485,18 +58485,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194349520": {
-   "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194349520",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349511": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62033,6 +62021,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991237",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991206": {
+   "name": "ムカイ UpWard残無35S #マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991206",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74255,5 +74255,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T19:11:09+03:00"
+ "last_check": "2026-11-09T19:16:02+03:00"
 }
