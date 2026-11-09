@@ -1888,14 +1888,14 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319701",
    "price": 1650,
-   "stock": 52
+   "stock": 51
   },
   "53360101GLY00867": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
    "spec": "# トライデントGG 33mm 1.8g スーパーデッドスローシンキング",
    "code": "4514447319718",
    "price": 1650,
-   "stock": 55
+   "stock": 54
   },
   "53360101GLR01062": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS #高崎店オリジナルカラー 鬼灯 33mm 1.8g スーパーデッドスローシンキング",
@@ -58456,18 +58456,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354268": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354268",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354236": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #50 イリュージョンゴールド",
    "price": null,
@@ -62028,6 +62016,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113775",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113774": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74250,5 +74250,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T10:31:13+03:00"
+ "last_check": "2026-11-09T10:35:50+03:00"
 }
