@@ -62301,18 +62301,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019140": {
-   "name": "ロデオクラフト RCドリフトスピン42 2.0g #7 桃色KO",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019140",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193959772": {
    "name": "カルテラス×ロブルアー ルラン 0.8g #スケスケオリーブハーフ",
    "price": null,
@@ -65597,6 +65585,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74219,5 +74219,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T03:55:55+03:00"
+ "last_check": "2026-11-09T04:01:29+03:00"
 }
