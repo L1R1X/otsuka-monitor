@@ -1006,7 +1006,7 @@
    "spec": "#パープル2 85×200×30(mm) オオツカオリカラ (クリックポスト不可)",
    "code": "4573151258980",
    "price": 3025,
-   "stock": 1
+   "stock": 2
   },
   "53360101GLL01323": {
    "name": "ロデオクラフト キューム  1.8g #ホワイング 1.8g 注意:3枚まで",
@@ -4927,7 +4927,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mukai-plug-2026-uchoten-color-ムカイプラグ2026年有頂天カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74257,5 +74257,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T08:01:28+03:00"
+ "last_check": "2026-11-09T08:06:01+03:00"
 }
