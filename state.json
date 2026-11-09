@@ -138,7 +138,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01418 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コンゴウ 2.3g \")\n\n#伊勢崎店オリカラ コンゴウ 2.3g",
    "code": "4573640552063",
    "price": 627,
-   "stock": 15
+   "stock": 16
   },
   "53360101GLZ01416": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ピンクロビン 2.3g",
@@ -180,7 +180,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00358 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g \")\n\n#伊勢崎店オリカラ コンゴウ 2.8g オオツカオリカラ",
    "code": "4573265536264",
    "price": 627,
-   "stock": 9
+   "stock": 10
   },
   "53360101GKS00856": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g",
@@ -1440,7 +1440,7 @@
    "spec": "#ディアボロ 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315659",
    "price": 1760,
-   "stock": 13
+   "stock": 14
   },
   "53360101GIG01985": {
    "name": "スプリーモ バイラ  50M",
@@ -58401,18 +58401,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354279": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354274": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
    "price": null,
@@ -61997,6 +61985,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113777",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113776": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113776",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74219,5 +74219,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T06:05:56+03:00"
+ "last_check": "2026-11-09T06:11:00+03:00"
 }
