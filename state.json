@@ -2400,7 +2400,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mag-module-base-ver-38belt-マグモジュールベースver-38belt",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -19092,7 +19092,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/16cp-16シーピー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74274,5 +74274,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T12:35:53+03:00"
+ "last_check": "2026-11-09T12:41:10+03:00"
 }
