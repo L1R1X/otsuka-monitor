@@ -58492,18 +58492,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354216": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #48 サイティングシルバー",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354216",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354197": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #47 シルバーサイド",
    "price": null,
@@ -58668,18 +58656,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194343015",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194343012": {
-   "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343012",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62040,6 +62016,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192027396": {
+   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192027396",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74274,5 +74274,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T12:16:07+03:00"
+ "last_check": "2026-11-09T12:21:01+03:00"
 }
