@@ -60443,6 +60443,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193146571": {
+   "name": "アンデッドファクトリー レム 23SSSR #デモデモダッテ",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193146571",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193146565": {
+   "name": "アンデッドファクトリー レム 23SSSR #月吠",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193146565",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193137236": {
    "name": "DAYSPROUT ピコイーグルプレイヤーF G2 #クロラナット",
    "price": null,
@@ -62011,30 +62035,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113778",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113777": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113777",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113776": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113776",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74257,5 +74257,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T07:31:20+03:00"
+ "last_check": "2026-11-09T07:35:57+03:00"
 }
