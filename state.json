@@ -61168,18 +61168,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192653882": {
-   "name": "ValkeIN クーガ ハイドラ S #猛烈パンダ",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653882",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192653873": {
    "name": "ValkeIN クーガ ハイドラ S #ポンダリンオレンジ",
    "price": null,
@@ -62028,6 +62016,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192027396": {
+   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192027396",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74250,5 +74250,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T10:41:09+03:00"
+ "last_check": "2026-11-09T10:46:01+03:00"
 }
