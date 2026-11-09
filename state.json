@@ -58756,6 +58756,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194326249": {
+   "name": "【予約】ムカイ トレモ スリム28MR GS2 SS #Bパール【GATE】",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194326249",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194326240": {
    "name": "【予約】ムカイ トレモ スリム28MR GS2 SS #CTカノマ【GATE】",
    "price": null,
@@ -62028,18 +62040,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192027396": {
-   "name": "ムカイ トレモ スリム28MR F #ユピー【TSカラー】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192027396",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74274,5 +74274,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T12:05:55+03:00"
+ "last_check": "2026-11-09T12:11:00+03:00"
 }
