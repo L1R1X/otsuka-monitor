@@ -58552,18 +58552,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194350085": {
-   "name": "ラッキークラフト ワウ 37F #スターダストワイン【1091】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194350085",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194350078": {
    "name": "ラッキークラフト ワウ 37F #ドクギリブラウンⅡ【1091】",
    "price": null,
@@ -62028,6 +62016,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113776",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113775": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113775",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74250,5 +74250,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T10:25:55+03:00"
+ "last_check": "2026-11-09T10:31:13+03:00"
 }
