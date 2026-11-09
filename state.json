@@ -64468,18 +64468,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192670001": {
-   "name": "ロデオクラフト ノア NOA 1.8g #蛍雪グロー【HERO'S】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192670001",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192669922": {
    "name": "ロデオクラフト ノア NOA 1.8g #放流ボンバー【HERO'S】",
    "price": null,
@@ -65640,6 +65628,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192087666",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087664": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #バンカーバスター",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087664",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74262,5 +74262,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-09T18:20:59+03:00"
+ "last_check": "2026-11-09T18:26:02+03:00"
 }
