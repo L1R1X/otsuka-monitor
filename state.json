@@ -33345,6 +33345,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15419930312978": {
+   "name": "ハイバースト(HI BURST) 許可済みUVシルバーオリーブ",
+   "price": null,
+   "price_text": "583 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/ハイバーストhi-burst-許可済みuvシルバーオリーブ",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15419677049106": {
    "name": "FULLCLIP マグモジュールver,clip FAS-147",
    "price": null,
@@ -36329,18 +36341,6 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/スタンダードクリッパー",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "zk10258024431890": {
-   "name": "ポデュウムη☆店長おすすめ東山湖FA用スプーン‼☆",
-   "price": null,
-   "price_text": "467 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/ポデュウムη-25年11月入荷分追加-コピー",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74255,5 +74255,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T02:01:31+03:00"
+ "last_check": "2026-11-10T02:05:51+03:00"
 }
