@@ -1867,7 +1867,7 @@
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 52
+   "stock": 50
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -58598,18 +58598,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354227": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354227",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354216": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #48 サイティングシルバー",
    "price": null,
@@ -62182,6 +62170,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191991774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991615": {
+   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991615",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74404,5 +74404,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T16:46:06+03:00"
+ "last_check": "2026-11-10T16:51:03+03:00"
 }
