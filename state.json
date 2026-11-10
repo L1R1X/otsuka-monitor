@@ -65378,18 +65378,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192188362": {
-   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188362",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192175700": {
    "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
    "price": null,
@@ -65650,6 +65638,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099363",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192087672": {
+   "name": "オフィスユーカリ ビークラッシュ アルミ 0.4g #コヨーテダスト",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192087672",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74272,5 +74272,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T10:31:18+03:00"
+ "last_check": "2026-11-10T10:35:55+03:00"
 }
