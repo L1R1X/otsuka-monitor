@@ -58574,18 +58574,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354279": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354274": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
    "price": null,
@@ -58942,30 +58930,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194326217",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216979": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #9 頂鱒の素RG",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216979",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216970": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216970",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62170,6 +62134,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191995164": {
+   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191995164",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993058": {
+   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993058",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993050": {
+   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993050",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T12:21:01+03:00"
+ "last_check": "2026-11-10T12:25:56+03:00"
 }
