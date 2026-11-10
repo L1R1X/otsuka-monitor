@@ -58598,18 +58598,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354236": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #50 イリュージョンゴールド",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354236",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354227": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
    "price": null,
@@ -62170,6 +62158,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993050",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191992983": {
+   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191992983",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T13:21:05+03:00"
+ "last_check": "2026-11-10T13:25:56+03:00"
 }
