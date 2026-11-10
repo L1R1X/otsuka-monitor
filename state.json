@@ -58586,18 +58586,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354274": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354274",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354268": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
    "price": null,
@@ -62170,6 +62158,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191993058",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191993050": {
+   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191993050",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T11:26:02+03:00"
+ "last_check": "2026-11-10T11:31:22+03:00"
 }
