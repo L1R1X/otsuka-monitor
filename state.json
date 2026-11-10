@@ -11021,7 +11021,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/hook-releaser-ex-フックリリーサーex",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -56170,9 +56170,9 @@
    "tag": ""
   },
   "w10000000000053807": {
-   "name": "Megabass　メガバス KAGELOU 100F",
+   "name": "Megabass　メガバス 【 ジョインター 別注カラー 】 Megabass メガバス カゲロウ100F SP(C) シーバス",
    "price": null,
-   "price_text": "2 398 ¥",
+   "price_text": "1 738 ¥–2 398 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -74279,5 +74279,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T09:16:05+03:00"
+ "last_check": "2026-11-10T09:20:59+03:00"
 }
