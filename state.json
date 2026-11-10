@@ -39741,6 +39741,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000236809": {
+   "name": "RODIO CRAFT　ロデオクラフト ロデオクラフト RC ドリフトスピンケース（Rodio Craft）",
+   "price": null,
+   "price_text": "6 380 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000236809",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000161893": {
    "name": "TULALA　ツララ ツララ　Routes（ルーツ）S77M（TULALA）2026",
    "price": null,
@@ -74255,5 +74267,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T04:50:57+03:00"
+ "last_check": "2026-11-10T04:55:56+03:00"
 }
