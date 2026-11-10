@@ -58574,18 +58574,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "jh194354274": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354274",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354268": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
    "price": null,
@@ -62170,6 +62158,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191992983",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh191991774": {
+   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=191991774",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T13:35:58+03:00"
+ "last_check": "2026-11-10T13:41:01+03:00"
 }
