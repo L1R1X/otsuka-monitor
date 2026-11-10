@@ -73286,18 +73286,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "pt163066652": {
-   "name": "ヴァルケイン スプーン各種 当店オリジナルカラー",
-   "price": null,
-   "price_text": "530 ¥(税込583 ¥)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Pro Shop Tomo",
-   "link": "https://www.proshoptomo.com/?pid=163066652",
-   "extra": "",
-   "prefiltered": true,
-   "tag": ""
-  },
   "pt159995961": {
    "name": "ビーハウス カスタムオリジナルカラー",
    "price": null,
@@ -74392,5 +74380,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T13:25:56+03:00"
+ "last_check": "2026-11-10T13:30:19+03:00"
 }
