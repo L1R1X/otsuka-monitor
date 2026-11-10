@@ -58905,18 +58905,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216816": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #3 凸ポングロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216816",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216804": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #1 レッドグロー",
    "price": null,
@@ -62057,6 +62045,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113782",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113780": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113780",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74279,5 +74279,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T06:25:55+03:00"
+ "last_check": "2026-11-10T06:31:12+03:00"
 }
