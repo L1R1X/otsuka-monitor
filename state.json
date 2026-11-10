@@ -2282,6 +2282,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15443032965334": {
+   "name": "VARIVAS Tool box（バリバスツールボックス）",
+   "price": null,
+   "price_text": "4 091 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/varivas-tool-box-バリバスツールボックス",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr7959372890326": {
    "name": "MOCARON（モカロン）",
    "price": null,
@@ -74392,5 +74404,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T13:51:02+03:00"
+ "last_check": "2026-11-10T13:55:53+03:00"
 }
