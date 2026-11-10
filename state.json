@@ -64754,18 +64754,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192653226": {
-   "name": "Deep Paradox TYSON 1.3g #全色セット15枚入り",
-   "price": null,
-   "price_text": "9,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653226",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650841": {
    "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
    "price": null,
@@ -65770,6 +65758,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175084",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175024": {
+   "name": "ロブルアー バベルV3 0.38g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175024",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T11:35:59+03:00"
+ "last_check": "2026-11-10T11:41:03+03:00"
 }
