@@ -58845,30 +58845,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216970": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216970",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216861": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #6 スケスケオリーブ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216861",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216841": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #4 とんこつ",
    "price": null,
@@ -58877,18 +58853,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194216841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216804": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #1 レッドグロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216804",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62061,6 +62025,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192113776": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113776",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113775": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113775",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113774": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113774",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -64557,18 +64557,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192653226": {
-   "name": "Deep Paradox TYSON 1.3g #全色セット15枚入り",
-   "price": null,
-   "price_text": "9,000 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653226",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650841": {
    "name": "Deep Paradox TYSON 1.3g #15 マッチーラグーン",
    "price": null,
@@ -65657,6 +65645,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192099385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192099363": {
+   "name": "KARTELLAS ウルキ22 Type HV #01 ブラック",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192099363",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74279,5 +74279,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T06:35:57+03:00"
+ "last_check": "2026-11-10T06:41:05+03:00"
 }
