@@ -58934,6 +58934,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194216979": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #9 頂鱒の素RG",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216979",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194216970": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216970",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194214937": {
    "name": "ハンクル ZAGGER 65 F1 #NORICHA GLOW",
    "price": null,
@@ -62146,30 +62170,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993050": {
-   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993050",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74392,5 +74392,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-10T11:31:22+03:00"
+ "last_check": "2026-11-10T11:35:59+03:00"
 }
