@@ -59102,30 +59102,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216861": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #6 スケスケオリーブ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216861",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216841": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #4 とんこつ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194214937": {
    "name": "ハンクル ZAGGER 65 F1 #NORICHA GLOW",
    "price": null,
@@ -62182,6 +62158,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113788": {
+   "name": "ValkeIN シャインライド NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113788",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74404,5 +74404,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T04:16:00+03:00"
+ "last_check": "2026-11-11T04:21:10+03:00"
 }
