@@ -59083,18 +59083,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216981": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #10 クリクリ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216981",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194214937": {
    "name": "ハンクル ZAGGER 65 F1 #NORICHA GLOW",
    "price": null,
@@ -62175,6 +62163,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113786": {
+   "name": "ValkeIN シャインライド NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113786",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74397,5 +74397,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T05:01:28+03:00"
+ "last_check": "2026-11-11T05:05:55+03:00"
 }
