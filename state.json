@@ -62182,18 +62182,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194415218": {
-   "name": "ValkeIN ハイバースト1.3g #パチョレック【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194415218",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -65754,6 +65742,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74376,5 +74376,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T09:35:58+03:00"
+ "last_check": "2026-11-11T09:40:57+03:00"
 }
