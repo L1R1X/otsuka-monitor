@@ -164,10 +164,7 @@ def fetch_ority(max_pages=60):
     seen = set()
     empty_in_row = 0
     for page in range(1, max_pages + 1):
-        try:
-            chunk = _ority_page(page)
-        except Exception:
-            break
+        chunk = _ority_page(page)
         if not chunk:                    # страницы кончились
             break
         fresh = [c for c in chunk if c["uid"] not in seen]
@@ -256,10 +253,7 @@ def fetch_jh(max_pages=JH_PAGES):
             url = f"{JH_URL}/?mode={path}&sort=n"
             if page > 1:
                 url += f"&page={page}"
-            try:
-                raw = _get(url)
-            except Exception:
-                break
+            raw = _get(url)
             # euc_jisx0213 - расширенный EUC-JP: понимает символы
             # вроде Ⅱ, Ⅸ, на которых обычный euc_jp даёт кракозябры
             try:
@@ -346,10 +340,7 @@ def _fetch_colorme_orig(base, shop_name, prefix, max_pages=4,
     seen = set()
     for kw in ORIG_KEYWORDS:
         for page in range(1, max_pages + 1):
-            try:
-                chunk = page_fn(base, kw, page, prefix, shop_name)
-            except Exception:
-                break
+            chunk = page_fn(base, kw, page, prefix, shop_name)
             if not chunk:
                 break
             fresh = [c for c in chunk if c["uid"] not in seen]
@@ -535,7 +526,7 @@ def fetch_wild1(page_row=500, max_pages=12):
         })
         data = json.loads(opener.open(req, timeout=90).read().decode("utf-8"))
         if not data.get("success"):
-            break
+            raise RuntimeError("Wild-1: запрос каталога не выполнен")
         chunk = (data.get("result") or {}).get("data") or []
         if not chunk:
             break
