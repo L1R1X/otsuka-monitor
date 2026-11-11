@@ -1503,14 +1503,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368452",
    "price": 1595,
-   "stock": 45
+   "stock": 43
   },
   "53360101GLZ01088": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368469",
    "price": 1595,
-   "stock": 56
+   "stock": 54
   },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
@@ -58780,18 +58780,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354216": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #48 サイティングシルバー",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354216",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354197": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #47 シルバーサイド",
    "price": null,
@@ -62196,6 +62184,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113786": {
+   "name": "ValkeIN シャインライド NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113786",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74418,5 +74418,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T13:01:27+03:00"
+ "last_check": "2026-11-11T13:05:58+03:00"
 }
