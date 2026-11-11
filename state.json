@@ -59249,18 +59249,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985651": {
-   "name": "TIMON ちびフッテンFS #カドニキハーフグロー",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985651",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985621": {
    "name": "TIMON ちびフッテンFS #タッキートロピカルクリアー",
    "price": null,
@@ -62177,6 +62165,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192113778": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113778",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194415305": {
    "name": "ValkeIN ブラックブラスト 1.3g #パチョレック【有頂天】",
    "price": null,
@@ -62509,18 +62509,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240785": {
-   "name": "ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240785",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65773,6 +65761,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-11T18:05:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-11T18:11:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ValkeIN クーガ NANO シンキング #ARK5</b>\n🐟 воблер\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113778\n\n<b>ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬</b>\n🎣 приманка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192175670",
+   "delivered": []
+  }
+ ]
 }
