@@ -58721,18 +58721,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354279": {
-   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354227": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
    "price": null,
@@ -59065,18 +59053,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194214937",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194214664": {
-   "name": "ハンクル ZAGGER 65 F1 #TOPPING FOOD HG",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194214664",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62173,6 +62149,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113784",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113782": {
+   "name": "ValkeIN シャインライド NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113782",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113780": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113780",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74395,5 +74395,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T16:11:00+03:00"
+ "last_check": "2026-11-11T16:15:58+03:00"
 }
