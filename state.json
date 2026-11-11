@@ -62201,18 +62201,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194415218": {
-   "name": "ValkeIN ハイバースト1.3g #パチョレック【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194415218",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -65773,6 +65761,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175658": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-11T23:59:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T00:01:26+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い</b>\n🎣 приманка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192175658",
+   "delivered": []
+  }
+ ]
 }
