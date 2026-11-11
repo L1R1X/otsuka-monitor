@@ -1517,14 +1517,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368452",
    "price": 1595,
-   "stock": 59
+   "stock": 57
   },
   "53360101GLZ01088": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368469",
    "price": 1595,
-   "stock": 67
+   "stock": 65
   },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
@@ -1573,14 +1573,14 @@
    "spec": "#伊勢崎店オリカラ 水蛭子 33mm 2.8g フローティング 伊勢崎店オリカラ",
    "code": "4548393368261",
    "price": 1650,
-   "stock": 98
+   "stock": 74
   },
   "53360101GLZ01084": {
    "name": "ディスプラウト スパロウギフト  #伊勢崎店オリカラ マシマシ神楽 33mm 2.8g フローティング",
    "spec": "#伊勢崎店オリカラ マシマシ神楽 33mm 2.8g フローティング 伊勢崎店オリカラ",
    "code": "4548393368278",
    "price": 1650,
-   "stock": 70
+   "stock": 21
   },
   "53360101GKW01608": {
    "name": "ディスプラウト チャタクラ ピコ・DR-SS #伊勢崎店 オリカラ 神楽 26mm 2.2g スローシンキング",
@@ -62634,6 +62634,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240412": {
+   "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
+   "price": null,
+   "price_text": "700 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240412",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240383": {
    "name": "ウォーターランド アルミん 2.5g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62678,6 +62690,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240003",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194239976": {
+   "name": "ウォーターランド アルミん 2.5g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "600 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194239976",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65786,30 +65810,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175700": {
-   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74432,5 +74432,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T12:25:55+03:00"
+ "last_check": "2026-11-11T12:31:18+03:00"
 }
