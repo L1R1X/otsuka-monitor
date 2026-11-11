@@ -1587,7 +1587,7 @@
    "spec": "#伊勢崎店 オリカラ 神楽 26mm 2.2g スローシンキング 伊勢崎店オリカラ",
    "code": "4548393378239",
    "price": 1595,
-   "stock": 22
+   "stock": 21
   },
   "53360101GKW01609": {
    "name": "ディスプラウト チャタクラ ピコ・DR-SS #伊勢崎店 オリカラ 美鬼 26mm 2.2g スローシンキング",
@@ -62634,18 +62634,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240412": {
-   "name": "ウォーターランド アルミん 3.4g #NC01 ピンク/ブラウンカモ",
-   "price": null,
-   "price_text": "700 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240412",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240383": {
    "name": "ウォーターランド アルミん 2.5g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62690,18 +62678,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240003",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194239976": {
-   "name": "ウォーターランド アルミん 2.5g #NC02 オレンジ/レッドカモ",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194239976",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65810,6 +65786,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74432,5 +74432,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T12:21:09+03:00"
+ "last_check": "2026-11-11T12:25:55+03:00"
 }
