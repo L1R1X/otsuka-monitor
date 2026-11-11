@@ -62813,18 +62813,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193889322": {
-   "name": "FPBルアーズ ビーファンク 0.8g #13 偽金オリーブ",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889322",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193889319": {
    "name": "FPBルアーズ ビーファンク 0.8g #12 メテオシャワー",
    "price": null,
@@ -65761,6 +65749,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189037",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192188428": {
+   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188428",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74383,5 +74383,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T09:10:58+03:00"
+ "last_check": "2026-11-11T09:15:59+03:00"
 }
