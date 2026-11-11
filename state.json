@@ -1517,7 +1517,7 @@
    "spec": "#伊勢崎店 オリカラ 神楽 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368452",
    "price": 1595,
-   "stock": 62
+   "stock": 60
   },
   "53360101GLZ01088": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング",
@@ -1587,14 +1587,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 26mm 2.2g スローシンキング 伊勢崎店オリカラ",
    "code": "4548393378239",
    "price": 1595,
-   "stock": 37
+   "stock": 35
   },
   "53360101GKW01609": {
    "name": "ディスプラウト チャタクラ ピコ・DR-SS #伊勢崎店 オリカラ 美鬼 26mm 2.2g スローシンキング",
    "spec": "#伊勢崎店 オリカラ 美鬼 26mm 2.2g スローシンキング 伊勢崎店オリカラ",
    "code": "4548393378246",
    "price": 1595,
-   "stock": 48
+   "stock": 46
   },
   "53360101GKX01450": {
    "name": "ディスプラウト ベビーバイブ DS",
@@ -58786,6 +58786,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194350085": {
+   "name": "ラッキークラフト ワウ 37F #スターダストワイン【1091】",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194350085",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194350078": {
    "name": "ラッキークラフト ワウ 37F #ドクギリブラウンⅡ【1091】",
    "price": null,
@@ -59034,6 +59046,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194326217",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194216981": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #10 クリクリ",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216981",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62130,30 +62154,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113786": {
-   "name": "ValkeIN シャインライド NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113786",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113784": {
-   "name": "ValkeIN シャインライド NANO #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113784",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74376,5 +74376,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T12:01:30+03:00"
+ "last_check": "2026-11-11T12:05:53+03:00"
 }
