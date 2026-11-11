@@ -62172,6 +62172,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194413800": {
+   "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194413800",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194413796": {
+   "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H4",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194413796",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194413795": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H3",
    "price": null,
@@ -65744,30 +65768,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175658": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175658",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175651": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175651",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74390,5 +74390,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T05:31:12+03:00"
+ "last_check": "2026-11-11T05:35:54+03:00"
 }
