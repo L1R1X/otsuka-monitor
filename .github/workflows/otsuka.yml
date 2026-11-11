@@ -2,7 +2,7 @@ name: Otsuka monitor
 
 on:
   schedule:
-    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
+    - cron: "2-57/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,54 +18,36 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Zabrat kod i bazu
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: main
 
-      - name: Proverit magazin
+      - name: Проверить каталоги и отправить уведомления
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-          PYTHONDONTWRITEBYTECODE: "1"
-        run: python3 -B .github/workflows/check.py
-
-      - name: Sohranit bazu tovarov
         run: |
-          rm -rf .github/workflows/__pycache__
+          save_state() {
+            if [[ -z "$(git status --porcelain -- state.json)" ]]; then
+              return 0
+            fi
+            git add -- state.json
+            git commit -m "state update"
+            git push origin HEAD:main
+          }
 
-          if [[ -z "$(git status --porcelain state.json)" ]]; then
-            echo "izmeneniy net"
-            exit 0
-          fi
-
-          git config user.name  "otsuka-monitor"
+          git config user.name "otsuka-monitor"
           git config user.email "actions@github.com"
 
-          # Baza tovarov - eto polnyy snimok, a ne pravka. Esli sosedniy
-          # progon uspel zapisat svoyu versiyu, prosto berem svezhuyu
-          # vetku i kladem svoy snimok sverhu. Ran'she push prosto padal.
-          cp state.json /tmp/state.new
+          scan_status=0
+          # Оставляем время на отправку уже сохранённых уведомлений.
+          timeout 7m python3 -B check.py || scan_status=$?
+          save_state
 
-          for i in 1 2 3 4 5; do
-            git fetch origin main
-            git reset --hard origin/main
-            cp /tmp/state.new state.json
+          delivery_status=0
+          python3 -B check.py --deliver || delivery_status=$?
+          save_state
 
-            if [[ -z "$(git status --porcelain state.json)" ]]; then
-              echo "baza uzhe aktualna"
-              exit 0
-            fi
-
-            git add state.json
-            git commit -m "state update"
-
-            if git push; then
-              echo "baza sohranena s popytki $i"
-              exit 0
-            fi
-
-            echo "push ne proshel, popytka $i iz 5"
-            sleep $(( RANDOM % 5 + 3 ))
-          done
-
-          echo "ne udalos sohranit bazu za 5 popytok"
-          exit 1
+          if (( scan_status != 0 || delivery_status != 0 )); then
+            exit 1
+          fi
