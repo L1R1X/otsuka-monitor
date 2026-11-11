@@ -65630,6 +65630,30 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh192175628": {
+   "name": "ロブルアー バベルエース 1.1g #LT12 頂鱒の素Gグロー",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175628",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175621": {
+   "name": "ロブルアー バベルエース 1.1g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175621",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh192175602": {
    "name": "ロブルアー バベルエース 0.7g #LT12 頂鱒の素Gグロー",
    "price": null,
@@ -65758,30 +65782,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175468",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175118": {
-   "name": "ロブルアー バベルV3 0.8g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175118",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175084": {
-   "name": "ロブルアー バベルV3 0.8g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175084",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74404,5 +74404,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T03:50:59+03:00"
+ "last_check": "2026-11-11T03:55:53+03:00"
 }
