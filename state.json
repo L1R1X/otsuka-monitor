@@ -58586,6 +58586,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194354279": {
+   "name": "【予約】エバーグリーン クラッシュダイバー F #53 コハク",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354279",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194354268": {
    "name": "【予約】エバーグリーン クラッシュダイバー F #51 ヒョウガ",
    "price": null,
@@ -58594,6 +58606,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194354268",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354236": {
+   "name": "【予約】エバーグリーン クラッシュダイバー F #50 イリュージョンゴールド",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354236",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354227": {
+   "name": "【予約】エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354227",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -58906,6 +58942,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194326217",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194216981": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #10 クリクリ",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216981",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194216861": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #6 スケスケオリーブ",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216861",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194216841": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #4 とんこつ",
+   "price": null,
+   "price_text": "1,140 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194216841",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62110,78 +62182,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192027396",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191995164": {
-   "name": "DAIWA ワブクラJr.25SS SR#ひよこピヨちゃん",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191995164",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993058": {
-   "name": "ムカイ バックストローク 55S #レッドグロー・ブルパー【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993058",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191993050": {
-   "name": "ムカイ バックストローク 55S #グリーンパール【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191993050",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191992983": {
-   "name": "ムカイ POGO38 HS WG #ブラウン【サウリブ】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191992983",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991774": {
-   "name": "ムカイ トレモ スリム28MR F #マイティパール【有頂天】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991774",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh191991615": {
-   "name": "ムカイ 鯱 シャチホコ 23S#黄芒一閃【有頂天】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=191991615",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74404,5 +74404,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T04:01:27+03:00"
+ "last_check": "2026-11-11T04:06:18+03:00"
 }
