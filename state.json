@@ -62172,6 +62172,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194413749": {
+   "name": "アンデッドファクトリー HAZARD ハザードEX 0.6g #H1",
+   "price": null,
+   "price_text": "485 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194413749",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -65744,30 +65756,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175518",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175504": {
-   "name": "ロブルアー バベルV3 1.1g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175504",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175468": {
-   "name": "ロブルアー バベルV3 1.1g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175468",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74390,5 +74378,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T05:21:02+03:00"
+ "last_check": "2026-11-11T05:25:53+03:00"
 }
