@@ -8,12 +8,14 @@
 
 import concurrent.futures
 import gzip
+import hmac
 import html
 import json
 import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
@@ -60,13 +62,6 @@ ONLY_INTERESTING = True
 # Сколько незнакомых позиций у ОДНОГО магазина считать перенастройкой,
 # а не завозом. Выше порога - запоминаем молча, без спама в Telegram.
 BULK_NEW_LIMIT = 50
-
-# Сколько прогонов подряд магазин должен прийти «усохшим», прежде чем
-# мы перестанем считать это сбоем и примем новый состав.
-SHRINK_STRIKES = 3
-
-# Сколько магазинов опрашивать одновременно. Все на разных
-# сайтах, так что это вежливо по отношению к каждому.
 PARALLEL_SHOPS = 6
 
 # Токен и chat_id берутся из «секретов» GitHub.
@@ -86,7 +81,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # База сохраняется в КОРЕНЬ репозитория, а не рядом со скриптом.
 # Внутри .github/workflows/ GitHub запрещает боту создавать файлы
 # (нужно особое разрешение "workflows"), поэтому кладём наружу.
-STATE_FILE = os.path.join(os.getcwd(), "state.json")
+STATE_FILE = os.path.join(HERE, "state.json")
 NET_TIMEOUT = 90
 
 HEADERS = {
@@ -216,7 +211,7 @@ def scan_keyword(keyword, max_pages=40):
     return found
 
 
-def _post_one(chat_id, text, tries=4):
+def _post_one(chat_id, text):
     """Шлёт одному получателю. Возвращает True/False."""
     url = "https://api.telegram.org/bot{}/sendMessage".format(TELEGRAM_TOKEN)
     payload = urllib.parse.urlencode({
@@ -225,39 +220,68 @@ def _post_one(chat_id, text, tries=4):
         "parse_mode": "HTML",
         "disable_web_page_preview": "false",
     }).encode()
-    delay = 5
-    for n in range(1, tries + 1):
-        try:
-            urllib.request.urlopen(
-                urllib.request.Request(url, data=payload), timeout=60).read()
-            return True
-        except Exception as e:
-            # 400/403 = неверный id или не нажат Start. Повторять бессмысленно.
-            if "403" in str(e) or "400" in str(e):
-                log("Получатель {} недоступен (неверный id или не нажат "
-                    "Start у бота) - пропускаю".format(chat_id))
-                return False
-            log("Telegram не ответил для {} ({}/{}): {}".format(chat_id, n, tries, e))
-            if n < tries:
-                time.sleep(delay)
-                delay = min(delay * 2, 60)
+    try:
+        with urllib.request.urlopen(
+            urllib.request.Request(url, data=payload), timeout=15
+        ) as response:
+            return json.load(response).get("ok") is True
+    except urllib.error.HTTPError as error:
+        log("Telegram отклонил сообщение (HTTP {})".format(error.code))
+    except (OSError, ValueError) as error:
+        log("Сбой отправки в Telegram ({})".format(type(error).__name__))
     return False
 
 
-def tg_send(text):
-    """Рассылает сообщение всем получателям из TG_CHAT."""
+def load_state():
+    try:
+        with open(STATE_FILE, encoding="utf-8") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return {}
+
+
+def save_state(state):
+    temporary = STATE_FILE + ".tmp"
+    with open(temporary, "w", encoding="utf-8") as file:
+        json.dump(state, file, ensure_ascii=False, indent=1)
+    os.replace(temporary, STATE_FILE)
+
+
+def deliver_pending():
+    state = load_state()
+    pending = state.get("pending_notifications", [])
+    if not pending:
+        return 0
     if not TELEGRAM_TOKEN or not TELEGRAM_CHATS:
-        log("!!! Не заданы секреты TG_TOKEN / TG_CHAT")
-        log(re.sub(r"<[^>]+>", "", text))
-        return False
-    ok_count = 0
-    for chat_id in TELEGRAM_CHATS:
-        if _post_one(chat_id, text):
-            ok_count += 1
-        time.sleep(0.5)          # не частим, лимит Telegram ~30 msg/sec
-    if ok_count < len(TELEGRAM_CHATS):
-        log("Доставлено {} из {} получателей".format(ok_count, len(TELEGRAM_CHATS)))
-    return ok_count > 0
+        log("Задайте секреты TG_TOKEN и TG_CHAT. Очередь сохранена.")
+        return 1
+
+    # База публичная, поэтому идентификаторы чатов храним только в секретах.
+    recipients = {
+        hmac.digest(TELEGRAM_TOKEN.encode(), chat.encode(), "sha256").hex(): chat
+        for chat in TELEGRAM_CHATS
+    }
+    remaining = []
+    blocked = set()
+    deadline = time.monotonic() + 45
+    for entry in pending:
+        delivered = set(entry["delivered"])
+        for recipient, chat in recipients.items():
+            if recipient in delivered or recipient in blocked or time.monotonic() >= deadline:
+                continue
+            if _post_one(chat, entry["text"]):
+                delivered.add(recipient)
+                time.sleep(0.5)
+            else:
+                blocked.add(recipient)
+        if not recipients.keys() <= delivered:
+            remaining.append({"text": entry["text"], "delivered": sorted(delivered)})
+
+    state["pending_notifications"] = remaining
+    save_state(state)
+    if remaining:
+        log("В очереди Telegram осталось сообщений: {}".format(len(remaining)))
+    return int(bool(blocked))
 
 
 def _interesting(it):
@@ -292,9 +316,9 @@ def describe(uid, it):
         line = it.get("price_text") or "цена не указана"
         if it.get("extra"):
             line += " · " + it["extra"]
-        parts.append(line)
-        parts.append("🏬 " + it["shop"])
-        parts.append(it["link"])
+        parts.append(html.escape(line))
+        parts.append("🏬 " + html.escape(it["shop"]))
+        parts.append(html.escape(it["link"]))
         return "\n".join(parts)
 
     price = "¥{:,}".format(it["price"]) if it["price"] else "цена не указана"
@@ -308,35 +332,37 @@ def describe(uid, it):
     return "\n".join(parts)
 
 
-def send_chunked(header, blocks):
-    chunk = [header]
-    for b in blocks:
-        if len("\n".join(chunk)) + len(b) > 3200:
-            tg_send("\n".join(chunk))
-            chunk = []
-        chunk.append("")
-        chunk.append(b)
-    if chunk:
-        tg_send("\n".join(chunk))
+def queue_chunked(pending, header, blocks):
+    message = header
+    for block in blocks:
+        if len(message) + len(block) + 2 > 3200 and message != header:
+            pending.append({"text": message, "delivered": []})
+            message = header
+        message += "\n\n" + block
+    if message != header:
+        pending.append({"text": message, "delivered": []})
 
 
 def main():
+    state = load_state()
+    known = state.get("items", {})
+    pending = state.get("pending_notifications", [])
     all_items = {}
-    # Запросы к Otsuka тоже параллельно: каждый идёт через медленный
-    # прокси r.jina.ai, по очереди это съедало больше половины времени.
-    with concurrent.futures.ThreadPoolExecutor(
-            max_workers=len(KEYWORDS) or 1) as pool:
-        scanned = list(pool.map(scan_keyword, KEYWORDS))
-    for kw, got in zip(KEYWORDS, scanned):
-        log("Запрос «{}»: найдено {} позиций".format(kw or "ВСЕ", len(got)))
-        all_items.update(got)
+    try:
+        with concurrent.futures.ThreadPoolExecutor(
+                max_workers=len(KEYWORDS) or 1) as pool:
+            scanned = list(pool.map(scan_keyword, KEYWORDS))
+        if scanned and all(scanned):
+            for keyword, items in zip(KEYWORDS, scanned):
+                log("Запрос «{}»: найдено {} позиций".format(keyword, len(items)))
+                all_items.update(items)
+        else:
+            log("Otsuka: неполный ответ, сохраняю предыдущую выборку")
+    except Exception as error:
+        log("Otsuka: ошибка {}, сохраняю предыдущую выборку".format(error))
 
-    if not all_items:
-        log("Ничего не получено — выхожу, состояние не трогаю")
-        return 0
 
     # --- дополнительные магазины ---------------------------------
-    shops_ok = []
     # Магазины опрашиваем одновременно, а не по очереди. Все они на
     # разных сайтах, поэтому нагрузки это не создаёт, зато общее время
     # равно самому медленному магазину, а не сумме всех.
@@ -363,7 +389,6 @@ def main():
             continue
         log("{}: найдено {} позиций за {:.0f} с"
             .format(shop_name, len(got), secs))
-        shops_ok.append(shop_name)
         for it in got:
             all_items[it["uid"]] = {
                 "name": it["title"],
@@ -377,16 +402,6 @@ def main():
                 "prefiltered": it.get("prefiltered", False),
                 "tag": it.get("tag", ""),
             }
-
-    state = {}
-    if os.path.exists(STATE_FILE):
-        try:
-            state = json.load(open(STATE_FILE, encoding="utf-8"))
-        except Exception:
-            log("state.json повреждён, начинаю заново")
-
-    known = state.get("items", {})
-    first_run = not known
 
     # Каждый магазин считаем отдельно: uid начинается с "tr"/"or",
     # у Otsuka - с цифр. Так падение одного магазина не роняет остальные.
@@ -411,40 +426,21 @@ def main():
             log("{}: первое знакомство, запоминаю {} товаров без уведомлений"
                 .format(g, len(uids)))
 
-    # Проверка на сбой - по каждому магазину отдельно.
-    # Подозрительный магазин просто замораживаем: его старые записи
-    # переносим в новую базу как есть, а уведомления по нему не шлём.
-    # Остальные магазины при этом продолжают работать.
-    # Счётчик подряд идущих просадок, хранится в базе. Нужен, чтобы
-    # заморозка не стала вечной: если магазин усох не из-за сбоя, а
-    # потому что мы сами изменили способ сбора, через SHRINK_STRIKES
-    # прогонов принимаем новую реальность.
-    strikes = dict(state.get("shrink_strikes", {}))
+    if not all_items:
+        log("Ни один магазин не вернул каталог")
+        return 1
 
     broken_groups = set()
-    for g, old_uids in known_by_group.items():
-        now_uids = now_by_group.get(g, set())
+    for group, old_uids in known_by_group.items():
+        now_uids = now_by_group.get(group, set())
         if len(now_uids) < len(old_uids) * 0.65:
-            strikes[g] = strikes.get(g, 0) + 1
-            if strikes[g] >= SHRINK_STRIKES:
-                log("{}: получено {} вместо {} уже {}-й раз подряд - "
-                    "это не сбой, принимаю новый состав."
-                    .format(g, len(now_uids), len(old_uids), strikes[g]))
-                strikes.pop(g, None)
-                continue
-            broken_groups.add(g)
-            log("{}: получено {} вместо {} - похоже на сбой, "
-                "магазин заморожен до следующего раза ({}/{})."
-                .format(g, len(now_uids), len(old_uids),
-                        strikes[g], SHRINK_STRIKES))
+            broken_groups.add(group)
+            log("{}: получено {} вместо {}, сохраняю предыдущую выборку"
+                .format(group, len(now_uids), len(old_uids)))
+            for uid in now_uids:
+                del all_items[uid]
             for uid in old_uids:
                 all_items[uid] = known[uid]
-        else:
-            strikes.pop(g, None)
-
-    if broken_groups and len(broken_groups) == len(known_by_group):
-        log("Все магазины недоступны - состояние не трогаю")
-        return 0
 
     # Перенастройка магазина. Если у знакомого магазина вдруг оказалось
     # очень много незнакомых позиций - это не завоз, а смена способа
@@ -491,42 +487,38 @@ def main():
                     and it["price"] < old["price"]):
                 cheaper.append((uid, it, old["price"]))
 
-    state = {"items": all_items,
-             "shrink_strikes": strikes,
-             "last_check": datetime.now(MSK).isoformat(timespec="seconds")}
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=1)
-
-    if first_run:
-        log("Первый запуск: запомнил {} товаров".format(len(all_items)))
-        tg_send("☁️ Облачный монитор запущен!\n\n"
-                "В базу записано {} товаров.\n"
-                "Теперь я работаю на серверах GitHub — компьютер можно "
-                "выключать, VPN не нужен.\n\n"
-                "Проверка каждые 5 минут.".format(len(all_items)))
-        return 0
+    if not known:
+        pending.append({
+            "text": "☁️ Облачный монитор запущен. В базе {} товаров.".format(len(all_items)),
+            "delivered": [],
+        })
 
     if new_items:
         log("НОВЫХ ТОВАРОВ: {}".format(len(new_items)))
-        send_chunked("🆕 <b>Новые товары ({})</b>:".format(len(new_items)),
+        queue_chunked(pending, "🆕 <b>Новые товары ({})</b>:".format(len(new_items)),
                      [describe(u, i) for u, i in new_items])
 
     if restocked:
         log("Вернулось в наличие: {}".format(len(restocked)))
-        send_chunked("♻️ <b>Снова в наличии ({})</b>:".format(len(restocked)),
+        queue_chunked(pending, "♻️ <b>Снова в наличии ({})</b>:".format(len(restocked)),
                      [describe(u, i) for u, i in restocked[:15]])
 
     if cheaper:
         log("Подешевело: {}".format(len(cheaper)))
-        send_chunked("📉 <b>Снижение цены ({})</b>:".format(len(cheaper)),
+        queue_chunked(pending, "📉 <b>Снижение цены ({})</b>:".format(len(cheaper)),
                      ["{}\nбыло ¥{:,} → стало ¥{:,}".format(describe(u, i), o, i["price"])
                       for u, i, o in cheaper[:15]])
 
     if not (new_items or restocked or cheaper):
         log("Изменений нет ({} позиций)".format(len(all_items)))
 
+    state.update(items=all_items,
+                 pending_notifications=pending,
+                 last_check=datetime.now(MSK).isoformat(timespec="seconds"))
+    state.pop("shrink_strikes", None)
+    save_state(state)
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(deliver_pending() if sys.argv[1:] == ["--deliver"] else main())
