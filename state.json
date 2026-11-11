@@ -59098,6 +59098,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194213685": {
+   "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING MUSTARD",
+   "price": null,
+   "price_text": "1,475 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194213685",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194213532": {
    "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING WHITE",
    "price": null,
@@ -62142,18 +62154,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113786",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113784": {
-   "name": "ValkeIN シャインライド NANO #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113784",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74376,5 +74376,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T09:31:25+03:00"
+ "last_check": "2026-11-11T09:35:58+03:00"
 }
