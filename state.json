@@ -61301,18 +61301,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192653942": {
-   "name": "ValkeIN クーガ ハイドラ S #マリモスプラッシュ",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653942",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192653937": {
    "name": "ValkeIN クーガ ハイドラ S #ジュエルショコラ",
    "price": null,
@@ -62173,6 +62161,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113778",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113777": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113777",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-11T22:41:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-11T22:47:13+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN クーガ NANO シンキング #ARK4</b>\n🐟 воблер\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113777",
+   "delivered": []
+  }
+ ]
 }
