@@ -74105,6 +74105,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194415778": {
+   "name": "ムカイ ステップスティック 5ピース SS-1585UL",
+   "price": null,
+   "price_text": "10,890 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194415778",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194415901": {
+   "name": "ムカイ ステップスティック RYU SSR-1622L Inkya Special",
+   "price": null,
+   "price_text": "10,890 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194415901",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194375138": {
    "name": "【ご予約：11月12日発送】GATE×ムカイ トレモPOGO GS2",
    "price": null,
@@ -74209,30 +74233,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194360533",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194361036": {
-   "name": "ロデオクラフト カーボンワレット各種【1091カラー 三ケ日みかん】",
-   "price": null,
-   "price_text": "3,025 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194361036",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki178717937": {
-   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
-   "price": null,
-   "price_text": "0 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=178717937",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74383,5 +74383,5 @@
   }
  },
  "shrink_strikes": {},
- "last_check": "2026-11-11T08:16:03+03:00"
+ "last_check": "2026-11-11T08:21:02+03:00"
 }
