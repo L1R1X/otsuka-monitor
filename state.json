@@ -12875,7 +12875,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/288-stoker-288ストッカー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -13283,7 +13283,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/line-scissors-micro-pe-90pro-ラインハサミミクロpe-90pro",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -19403,7 +19403,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/knuckle-wamer-ii-ナックルウォーマー2",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -22151,7 +22151,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/プチリングオープナー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74380,6 +74380,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T06:55:58+03:00",
+ "last_check": "2026-11-12T07:01:28+03:00",
  "pending_notifications": []
 }
