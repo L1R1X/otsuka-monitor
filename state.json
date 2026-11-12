@@ -14689,7 +14689,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/gold-wolf-633ml-ゴールドウルフ",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -58937,18 +58937,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194342412": {
-   "name": "ロデオクラフト RC ワウ 37FII♪ #三ヶ日みかん【1091】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194342412",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194326263": {
    "name": "【予約】ムカイ POGO38 HS GS2 #CTカノマ【GATE】",
    "price": null,
@@ -62173,6 +62161,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T11:01:24+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T11:05:50+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523",
+   "delivered": []
+  }
+ ]
 }
