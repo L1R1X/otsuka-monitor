@@ -58721,18 +58721,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354227": {
-   "name": "エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354227",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354197": {
    "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
    "price": null,
@@ -62173,6 +62161,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T13:35:54+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T13:41:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640",
+   "delivered": []
+  }
+ ]
 }
