@@ -62513,6 +62513,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240785": {
+   "name": "ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240785",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240771": {
    "name": "ウォーターランド アルミん 4.3g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -65761,18 +65773,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T04:31:12+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T04:36:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ</b>\n🎣 приманка\n750 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194240785",
+   "delivered": []
+  }
+ ]
 }
