@@ -59057,6 +59057,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194214664": {
+   "name": "ハンクル ZAGGER 65 F1 #TOPPING FOOD HG",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194214664",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194214038": {
    "name": "ハンクル ザッガー ZAGGER 38 B1 #TOPPING BEIGE",
    "price": null,
@@ -61301,6 +61313,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192653942": {
+   "name": "ValkeIN クーガ ハイドラ S #マリモスプラッシュ",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653942",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192653937": {
    "name": "ValkeIN クーガ ハイドラ S #ジュエルショコラ",
    "price": null,
@@ -62149,30 +62173,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113780",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113778": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113778",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113777": {
-   "name": "ValkeIN クーガ NANO シンキング #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113777",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T04:36:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T04:41:01+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ハンクル ZAGGER 65 F1 #TOPPING FOOD HG</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194214664\n\n<b>ValkeIN クーガ ハイドラ S #マリモスプラッシュ</b>\n🎣 приманка\n1,760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192653942",
+   "delivered": []
+  }
+ ]
 }
