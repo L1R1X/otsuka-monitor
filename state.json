@@ -1503,7 +1503,7 @@
    "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368469",
    "price": 1595,
-   "stock": 11
+   "stock": 8
   },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
@@ -1524,14 +1524,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 81
+   "stock": 80
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368568",
    "price": 1650,
-   "stock": 81
+   "stock": 79
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -62201,6 +62201,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194415218": {
+   "name": "ValkeIN ハイバースト1.3g #パチョレック【有頂天】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194415218",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -65761,18 +65773,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175670",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175658": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT16 ずぼらの片思い",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175658",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T04:25:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T04:31:12+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN ハイバースト1.3g #パチョレック【有頂天】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194415218",
+   "delivered": []
+  }
+ ]
 }
