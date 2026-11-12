@@ -1510,7 +1510,7 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 66
+   "stock": 64
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
@@ -59343,18 +59343,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890951": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890951",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890941": {
    "name": "DAIWA ワブクラJr.25SS DR#胡麻塩グロー",
    "price": null,
@@ -59435,18 +59423,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890859",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890855": {
-   "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890855",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62159,6 +62135,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -65655,18 +65655,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192268378": {
-   "name": "ALFRED ALF duralumin 0.9g #6 ホットピンク",
-   "price": null,
-   "price_text": "630 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192268378",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192189443": {
    "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
    "price": null,
@@ -65759,6 +65747,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74380,6 +74380,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T06:51:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T06:55:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640\n\n<b>ムカイ バックストローク 55SS #チカチカ</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146590\n\n<b>ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬</b>\n🎣 приманка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192175670",
+   "delivered": []
+  }
+ ]
 }
