@@ -64342,6 +64342,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262072": {
+   "name": "スミス くるん Type1 1.1g #10 マットクリアーブラウン",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262072",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262058": {
    "name": "スミス くるん Type1 1.1g #08 カラシ",
    "price": null,
@@ -64422,6 +64434,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193261969",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh193261948": {
+   "name": "スミス くるん Type1 1.1g #01 FLピンク",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193261948",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65742,30 +65766,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175700": {
-   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175700",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192175670": {
-   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74387,6 +74387,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T07:55:54+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T08:01:21+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>スミス くるん Type1 1.1g #10 マットクリアーブラウン</b>\n🎣 приманка\n760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193262072\n\n<b>スミス くるん Type1 1.1g #01 FLピンク</b>\n🎣 приманка\n760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193261948",
+   "delivered": []
+  }
+ ]
 }
