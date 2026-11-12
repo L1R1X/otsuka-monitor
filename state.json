@@ -59314,18 +59314,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193891021": {
-   "name": "DAIWA ワブクラJr.25SS DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193891021",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890996": {
    "name": "DAIWA ワブクラJr.25SS DR#Wレッド",
    "price": null,
@@ -59334,18 +59322,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890996",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890973": {
-   "name": "DAIWA ワブクラJr.25SS DR#トッピングフード",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890973",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -60006,6 +59982,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193656552",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193656549": {
+   "name": "ラッキークラフト WAH ワウ 45 Beta MAX F #カフェオーレシャーベット",
+   "price": null,
+   "price_text": "1,375 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193656549",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh193656547": {
+   "name": "ラッキークラフト WAH ワウ 45 Beta MAX F #ウッドランドペレットオールスターズ",
+   "price": null,
+   "price_text": "1,375 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193656547",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74387,6 +74387,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T05:05:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T05:11:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ラッキークラフト WAH ワウ 45 Beta MAX F #カフェオーレシャーベット</b>\n🎣 приманка\n1,375 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193656549\n\n<b>ラッキークラフト WAH ワウ 45 Beta MAX F #ウッドランドペレットオールスターズ</b>\n🎣 приманка\n1,375 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193656547",
+   "delivered": []
+  }
+ ]
 }
