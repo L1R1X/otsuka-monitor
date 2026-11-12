@@ -58887,18 +58887,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343012": {
-   "name": "ロデオクラフト モカDR F 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343012",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194342952": {
    "name": "ロデオクラフト プチモカSR SS #FOCUSおまめ",
    "price": null,
@@ -62159,6 +62147,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74380,6 +74380,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T06:46:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T06:51:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523",
+   "delivered": []
+  }
+ ]
 }
