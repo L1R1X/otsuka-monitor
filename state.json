@@ -35305,7 +35305,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/エクシード-ホームランバッターgg-放流スプーン-放流最凶カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -63353,18 +63353,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193572472": {
-   "name": "オフィスユーカリ B-SPARK 2.5g #3代目Bスパ神",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193572472",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193572447": {
    "name": "オフィスユーカリ B-SPARK 2.0g #3代目Bスパ神",
    "price": null,
@@ -65773,6 +65761,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192175700",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175670": {
+   "name": "ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175670",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T14:16:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T14:21:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロブルアー BABELWZ zero 0.55g #LT17 ずぼら〇薬</b>\n🎣 приманка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192175670",
+   "delivered": []
+  }
+ ]
 }
