@@ -62177,18 +62177,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194415305": {
-   "name": "ValkeIN ブラックブラスト 1.3g #パチョレック【有頂天】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194415305",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194415249": {
    "name": "ValkeIN ハイバースト1.6g #パチョレック【有頂天】",
    "price": null,
@@ -62197,18 +62185,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194415249",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194415218": {
-   "name": "ValkeIN ハイバースト1.3g #パチョレック【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194415218",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65773,6 +65749,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192188428",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192188362": {
+   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192188362",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192175700": {
+   "name": "ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192175700",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-12T13:46:05+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-12T13:51:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ロデオクラフト QM キューム 3.3g #T.S IV【1091】</b>\n🎨 расцветка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192188362\n\n<b>ロブルアー BABELWZ 1.2g #LT15 ずぼら社畜生活</b>\n🎣 приманка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192175700",
+   "delivered": []
+  }
+ ]
 }
