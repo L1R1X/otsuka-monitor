@@ -59057,18 +59057,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194216970": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #8 枝豆グロー",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216970",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194216861": {
    "name": "ロブルアー パンチ ボトム 爆釣チューン #6 スケスケオリーブ",
    "price": null,
@@ -59077,18 +59065,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194216861",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194216841": {
-   "name": "ロブルアー パンチ ボトム 爆釣チューン #4 とんこつ",
-   "price": null,
-   "price_text": "1,140 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194216841",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62173,6 +62149,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T05:05:56+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T05:10:59+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #スイカちゃん</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147525\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523",
+   "delivered": []
+  }
+ ]
 }
