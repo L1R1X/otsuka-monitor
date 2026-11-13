@@ -61944,18 +61944,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192405940": {
-   "name": "ロデオクラフト にゃんプップ ラトルin #9 ゴールデントップ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192405940",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192405929": {
    "name": "ロデオクラフト 子にゃんプップ #11 曇天",
    "price": null,
@@ -62312,6 +62300,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113786",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113784": {
+   "name": "ValkeIN シャインライド NANO #ARK2",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113784",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T16:21:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T16:26:01+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK2</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113784",
+   "delivered": []
+  }
+ ]
 }
