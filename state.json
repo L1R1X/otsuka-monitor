@@ -39912,6 +39912,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000242270": {
+   "name": "MCワークス　エムシーワークス MCワークス 25ソルティガ用BBパワーハンドル 950HP AR",
+   "price": null,
+   "price_text": "35 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000242270",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000236809": {
    "name": "RODIO CRAFT　ロデオクラフト ロデオクラフト RC ドリフトスピンケース（Rodio Craft）",
    "price": null,
@@ -60684,18 +60696,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193161627": {
-   "name": "ValkeIN シャインライド #ツブラッシュ・マウンテン【パワーショップ限定】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193161627",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193160668": {
    "name": "スミス ヒカルコイカチャン #16 イカユッケ",
    "price": null,
@@ -61496,6 +61496,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192653937",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192653931": {
+   "name": "ValkeIN クーガ ハイドラ S #パパオレコークライン",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192653931",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74437,6 +74449,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T06:05:54+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T06:11:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN クーガ ハイドラ S #パパオレコークライン</b>\n🎣 приманка\n1,760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192653931",
+   "delivered": []
+  }
+ ]
 }
