@@ -58651,18 +58651,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435488": {
-   "name": "ValkeIN スネイザー F #三ケ日みかん【1091】",
-   "price": null,
-   "price_text": "1,705 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435488",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435482": {
    "name": "ValkeIN スネイザー F #Gパン【1091】",
    "price": null,
@@ -62235,6 +62223,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146590",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113791": {
+   "name": "ValkeIN シャインライド NANO #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113791",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74456,6 +74456,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T08:41:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T08:45:59+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK6</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113791",
+   "delivered": []
+  }
+ ]
 }
