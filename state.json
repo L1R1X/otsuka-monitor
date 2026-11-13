@@ -1510,7 +1510,7 @@
    "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
    "code": "4548393368469",
    "price": 1595,
-   "stock": 5
+   "stock": 6
   },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
@@ -2600,7 +2600,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/iceguard-アイスガード解凍",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74449,6 +74449,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T06:25:56+03:00",
+ "last_check": "2026-11-13T06:31:24+03:00",
  "pending_notifications": []
 }
