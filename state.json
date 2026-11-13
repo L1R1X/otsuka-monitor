@@ -2282,6 +2282,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15459939254486": {
+   "name": "Shine Ride 2026 1091 Color（シャインライド2026 1091カラー）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/shine-ride-2026-1091-color-シャインライド2026-1091カラー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15455082053846": {
    "name": "Upside Down Nyoro Slim 70XS（さかさにょろスリム70XS）",
    "price": null,
@@ -74463,6 +74475,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T07:25:55+03:00",
+ "last_check": "2026-11-13T07:32:44+03:00",
  "pending_notifications": []
 }
