@@ -74247,18 +74247,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki194375216": {
-   "name": "【ご予約：11月中旬入荷】エバーグリーン クラッシュダイバーF",
-   "price": null,
-   "price_text": "1,540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194375216",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194415778": {
    "name": "ムカイ ステップスティック 5ピース SS-1585UL",
    "price": null,
@@ -74391,6 +74379,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194331408": {
+   "name": "第一精工 ブラシスレッダー",
+   "price": null,
+   "price_text": "792 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194331408",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193815981": {
    "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
@@ -74423,18 +74423,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194329371",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194331408": {
-   "name": "第一精工 ブラシスレッダー",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194331408",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74536,6 +74524,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T12:01:23+03:00",
+ "last_check": "2026-11-13T12:05:58+03:00",
  "pending_notifications": []
 }
