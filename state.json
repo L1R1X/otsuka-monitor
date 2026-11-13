@@ -59544,18 +59544,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890874": {
-   "name": "DAIWA ワブクラJr.25F DR#デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890874",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890871": {
    "name": "DAIWA ワブクラJr.25F DR#Wレッド",
    "price": null,
@@ -62312,6 +62300,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113784",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113782": {
+   "name": "ValkeIN シャインライド NANO #ARK1",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113782",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T01:01:28+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T01:05:52+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK1</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113782",
+   "delivered": []
+  }
+ ]
 }
