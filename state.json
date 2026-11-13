@@ -62815,18 +62815,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194102794": {
-   "name": "ノリーズ CHIBI ZX 1.8g ＃120 ガリブドウ",
-   "price": null,
-   "price_text": "670 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194102794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019490": {
    "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
    "price": null,
@@ -65919,6 +65907,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189053",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189048": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189048",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74540,6 +74540,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T14:51:02+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T14:55:52+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189048",
+   "delivered": []
+  }
+ ]
 }
