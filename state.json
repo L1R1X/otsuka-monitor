@@ -58589,18 +58589,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435922": {
-   "name": "ValkeIN シャインライド #ギラギラパンプキン【1091】",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435922",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435821": {
    "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
    "price": null,
@@ -62173,6 +62161,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T04:46:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T04:51:01+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530",
+   "delivered": []
+  }
+ ]
 }
