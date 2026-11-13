@@ -1519,13 +1519,6 @@
    "price": 1595,
    "stock": 55
   },
-  "53360101GLZ01088": {
-   "name": "ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング",
-   "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
-   "code": "4548393368469",
-   "price": 1595,
-   "stock": 2
-  },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
    "spec": "#伊勢崎店 オリカラ パルヘリオ 30mm 1.6g フローティング",
@@ -58665,18 +58658,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435821": {
-   "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "1,705 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435821",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435488": {
    "name": "ValkeIN スネイザー F #三ケ日みかん【1091】",
    "price": null,
@@ -62249,6 +62230,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74470,6 +74463,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T07:16:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T07:21:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #チカチカ</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146590",
+   "delivered": []
+  }
+ ]
 }
