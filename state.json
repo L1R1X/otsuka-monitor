@@ -44874,7 +44874,7 @@
   "w10000000000216602": {
    "name": "tent Mark DESIGNS　テンマクデザイン ﾌﾛﾝﾄﾌﾗｯﾌﾟ WIDEST",
    "price": null,
-   "price_text": "40 480 ¥",
+   "price_text": "28 336 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -44886,7 +44886,7 @@
   "w10000000000216596": {
    "name": "tent Mark DESIGNS　テンマクデザイン ﾌﾛﾝﾄﾌﾗｯﾌﾟ WIDE",
    "price": null,
-   "price_text": "19 800 ¥–43 780 ¥",
+   "price_text": "19 800 ¥–30 640 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -58731,18 +58731,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435482": {
-   "name": "ValkeIN スネイザー F #Gパン【1091】",
-   "price": null,
-   "price_text": "1,705 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435482",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435476": {
    "name": "ValkeIN スネイザー F #カフェシャレッドグロー【1091】",
    "price": null,
@@ -62315,6 +62303,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113788": {
+   "name": "ValkeIN シャインライド NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113788",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74536,6 +74536,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T10:46:10+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T10:51:07+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK4</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113788",
+   "delivered": []
+  }
+ ]
 }
