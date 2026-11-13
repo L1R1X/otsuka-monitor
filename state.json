@@ -59347,18 +59347,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193985473": {
-   "name": "TIMON ちびフッテンFS #蛍光ピンク",
-   "price": null,
-   "price_text": "1,450 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193985473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193985469": {
    "name": "TIMON ちびフッテンFS #クリアー",
    "price": null,
@@ -62235,6 +62223,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74456,6 +74456,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T08:45:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T08:51:11+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK5</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113789",
+   "delivered": []
+  }
+ ]
 }
