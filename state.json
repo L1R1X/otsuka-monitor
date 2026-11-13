@@ -2348,12 +2348,12 @@
   "tr15460249075926": {
    "name": "Little Diner Powale SiN RATTLE（リトルダイナー ポワレ シンラトル）",
    "price": null,
-   "price_text": "0 ¥",
+   "price_text": "1 350 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/little-diner-powale-sin-rattle-リトルダイナー-ポワレ-シンラトル",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74550,6 +74550,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T09:21:05+03:00",
+ "last_check": "2026-11-13T09:26:00+03:00",
  "pending_notifications": []
 }
