@@ -1468,7 +1468,7 @@
    "spec": "#キャンコGG 34mm 2.9g 熊谷店オリカラ",
    "code": "4514447315604",
    "price": 1760,
-   "stock": 2
+   "stock": 1
   },
   "53360101GLP01034": {
    "name": "ゲート ミディアムクラピー GS2 #スプリンクルRG 34mm 2.9g オオツカオリカラ",
@@ -3433,7 +3433,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/e-beat-エ-ビート",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74550,6 +74550,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T09:36:00+03:00",
+ "last_check": "2026-11-13T09:41:03+03:00",
  "pending_notifications": []
 }
