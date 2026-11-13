@@ -2338,6 +2338,30 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15459746447574": {
+   "name": "Crash Diver（クラッシュダイバー）",
+   "price": null,
+   "price_text": "1 350 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/crash-diver-クラッシュダイバー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15459939254486": {
+   "name": "Shine Ride 2026 1091 Color（シャインライド2026 1091カラー）",
+   "price": null,
+   "price_text": "1 686 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/shine-ride-2026-1091-color-シャインライド2026-1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15460026384598": {
    "name": "Li-worm nano 2026 1091 Color（ライオームナノ2026 1091カラー）",
    "price": null,
@@ -74579,6 +74603,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T13:51:05+03:00",
+ "last_check": "2026-11-13T13:55:55+03:00",
  "pending_notifications": []
 }
