@@ -39876,6 +39876,42 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000242273": {
+   "name": "MCワークス　エムシーワークス MCワークス 25ソルティガ用BBパワーハンドル 900GT DR",
+   "price": null,
+   "price_text": "34 100 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000242273",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "w10000000000242272": {
+   "name": "MCワークス　エムシーワークス MCワークス 25ソルティガ用BBパワーハンドル 900GT AR",
+   "price": null,
+   "price_text": "34 100 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000242272",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "w10000000000242271": {
+   "name": "MCワークス　エムシーワークス MCワークス 25ソルティガ用BBパワーハンドル 950HP DR",
+   "price": null,
+   "price_text": "35 200 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000242271",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000236809": {
    "name": "RODIO CRAFT　ロデオクラフト ロデオクラフト RC ドリフトスピンケース（Rodio Craft）",
    "price": null,
@@ -61464,18 +61500,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192653931": {
-   "name": "ValkeIN クーガ ハイドラ S #パパオレコークライン",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192653931",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192653926": {
    "name": "ValkeIN クーガ ハイドラ S #フライングアーミー",
    "price": null,
@@ -61556,18 +61580,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192653061",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192652937": {
-   "name": "ロデオクラフト モカDR F 2HOOK #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192652937",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62180,6 +62192,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74401,6 +74437,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T06:01:45+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T06:05:54+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640\n\n<b>ムカイ バックストローク 55SS #チカチカ</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146590",
+   "delivered": []
+  }
+ ]
 }
