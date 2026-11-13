@@ -1505,6 +1505,13 @@
    "price": 1595,
    "stock": 55
   },
+  "53360101GLZ01088": {
+   "name": "ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング",
+   "spec": "#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ",
+   "code": "4548393368469",
+   "price": 1595,
+   "stock": 2
+  },
   "53360101GLM01351": {
    "name": "ディスプラウト イーグルプレーヤー ピコ・F G2",
    "spec": "#伊勢崎店 オリカラ パルヘリオ 30mm 1.6g フローティング",
@@ -1524,14 +1531,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 72
+   "stock": 73
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368568",
    "price": 1650,
-   "stock": 69
+   "stock": 70
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -1588,13 +1595,6 @@
    "code": "4548393385060",
    "price": 1705,
    "stock": 16
-  },
-  "53360101GLQ01139": {
-   "name": "ディスプラウト メガガメクラ F",
-   "spec": "#伊勢崎店 オリカラ 神楽 68mm 3.5g フローティング",
-   "code": "4548393385046",
-   "price": 1705,
-   "stock": 35
   },
   "53360101GLQ01140": {
    "name": "ディスプラウト メガガメクラ F",
@@ -59424,6 +59424,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890973": {
+   "name": "DAIWA ワブクラJr.25SS DR#トッピングフード",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890973",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890968": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア胡麻塩ライン",
    "price": null,
@@ -62216,18 +62228,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146640",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192146590": {
-   "name": "ムカイ バックストローク 55SS #チカチカ",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74449,6 +74449,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T06:16:33+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T06:21:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ディスプラウト イーグルプレーヤー ピコ・F G2 #伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング</b>\n🎨 расцветка  🐟 воблер\n#伊勢崎店 オリカラ 美鬼 30mm 1.6g フローティング 伊勢崎店オリカラ\n¥1,595 · в наличии: 2\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01088\n\n<b>DAIWA ワブクラJr.25SS DR#トッピングフード</b>\n🎣 приманка\n1,235 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193890973",
+   "delivered": []
+  }
+ ]
 }
