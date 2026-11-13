@@ -59297,6 +59297,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193985519": {
+   "name": "TIMON ちびフッテンFS #W蛍光パンチ",
+   "price": null,
+   "price_text": "1,450 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193985519",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193985473": {
    "name": "TIMON ちびフッテンFS #蛍光ピンク",
    "price": null,
@@ -60277,18 +60289,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193483665",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193483661": {
-   "name": "ValkeIN ライオーム NANO #マルドリRG【TSカラー】",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193483661",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74394,6 +74394,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-13T05:25:55+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-13T05:31:13+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>TIMON ちびフッテンFS #W蛍光パンチ</b>\n🎣 приманка\n1,450 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193985519",
+   "delivered": []
+  }
+ ]
 }
