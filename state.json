@@ -39970,7 +39970,7 @@
   "w10000000000242276": {
    "name": "Lucky Craft　ラッキークラフト ラッキークラフト　ワウ37F  三ケ日みかん【1091カラー】",
    "price": null,
-   "price_text": "1 650 ¥",
+   "price_text": "1 485 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Wild-1",
@@ -59071,18 +59071,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354197": {
-   "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354197",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354107": {
    "name": "エバーグリーン クラッシュダイバー F #01 クリア",
    "price": null,
@@ -62331,6 +62319,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240740": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240740",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74552,6 +74552,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T17:46:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T17:51:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット</b>\n🎣 приманка\n1,500 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240740",
+   "delivered": []
+  }
+ ]
 }
