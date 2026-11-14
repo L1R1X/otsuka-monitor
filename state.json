@@ -74263,6 +74263,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki178203021": {
+   "name": "ヴァルケイン シャインライドナノ【1091カラー】",
+   "price": null,
+   "price_text": "1,848 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=178203021",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki179159588": {
    "name": "ロデオクラフト ファットモカ Jr. SR(F)",
    "price": null,
@@ -74271,6 +74283,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=179159588",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki180092819": {
+   "name": "ヴァルケイン ライオームナノ【1091カラー】",
+   "price": null,
+   "price_text": "1,848 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=180092819",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74347,30 +74371,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki173515979": {
-   "name": "FPBルアーズ ビーハート【1091カラー】",
-   "price": null,
-   "price_text": "627 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=173515979",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki173748478": {
-   "name": "ティモン ティーコネクション エリア",
-   "price": null,
-   "price_text": "46,640 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=173748478",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193815981": {
    "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
@@ -74427,6 +74427,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194354235",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194461540": {
+   "name": "フィッシュマグネット オクトパスMini",
+   "price": null,
+   "price_text": "1,375 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194461540",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74502,20 +74514,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki177514349": {
-   "name": "ベトベト ベロ120F（VERO120F）",
-   "price": null,
-   "price_text": "5,060 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=177514349",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T11:16:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T11:21:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ヴァルケイン シャインライドナノ【1091カラー】</b>\n🎨 расцветка\n1,848 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=178203021\n\n<b>ヴァルケイン ライオームナノ【1091カラー】</b>\n🎨 расцветка\n1,848 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=180092819",
+   "delivered": []
+  }
+ ]
 }
