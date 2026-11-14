@@ -59124,18 +59124,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194349520": {
-   "name": "ロデオクラフト モカ ラトル♪ DR SS 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194349520",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349511": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62324,6 +62312,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189487",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189482": {
+   "name": "ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189482",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74545,6 +74545,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T18:55:56+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T19:01:25+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189482",
+   "delivered": []
+  }
+ ]
 }
