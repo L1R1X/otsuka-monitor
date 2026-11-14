@@ -58759,18 +58759,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457356": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457356",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435931": {
    "name": "ValkeIN シャインライド #ドクギリブラウンII【1091】",
    "price": null,
@@ -62295,6 +62283,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240888",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240884": {
+   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240884",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74516,6 +74516,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T11:11:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T11:16:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>アンデッドファクトリー レム 23HFSR #ブルヘリオン</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240884",
+   "delivered": []
+  }
+ ]
 }
