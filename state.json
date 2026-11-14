@@ -58886,18 +58886,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435330": {
-   "name": "ロデオクラフト ファットモカJr DR SS #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435330",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435319": {
    "name": "ロデオクラフト ファットモカJr DR F #FOCUSおまめ",
    "price": null,
@@ -62338,6 +62326,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240884",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240744": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240744",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74559,6 +74559,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T14:51:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T14:55:55+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー</b>\n🎣 приманка\n1,500 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240744",
+   "delivered": []
+  }
+ ]
 }
