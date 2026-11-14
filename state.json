@@ -712,7 +712,7 @@
    "spec": "#F.S01 HG(ホロリウムグロー) 2.4g 熊谷店オリカラ",
    "code": "4573319739979",
    "price": 627,
-   "stock": 7
+   "stock": 6
   },
   "53360101GIX01944": {
    "name": "アングラーズシステム ドーナ  3.0g #F.S01 HG(ホロリウムグロー) 3.0g",
@@ -1846,7 +1846,7 @@
    "spec": "# しみぱん(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
    "code": "4514447313082",
    "price": 1650,
-   "stock": 37
+   "stock": 36
   },
   "53360101GK801511": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -74448,18 +74448,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194461540": {
-   "name": "フィッシュマグネット オクトパスMini",
-   "price": null,
-   "price_text": "1,375 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194461540",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194068722": {
    "name": "デプス フリルドシャッド3.7インチ",
    "price": null,
@@ -74543,8 +74531,25 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki190140374": {
+   "name": "レヴォニック サラモアポロ",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=190140374",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T20:35:56+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T20:41:12+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>レヴォニック サラモアポロ</b>\n⭐ рекомендует магазин\n1,980 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=190140374",
+   "delivered": []
+  }
+ ]
 }
