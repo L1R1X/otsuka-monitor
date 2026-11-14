@@ -58752,18 +58752,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457366": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #7 ライムチャートヤマメ",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457366",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194457364": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #6 ゴールデンヤマメ",
    "price": null,
@@ -62312,6 +62300,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74328,6 +74328,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194436285": {
+   "name": "ダイトウブク VEXION スプリットリングマスター NANO",
+   "price": null,
+   "price_text": "2,420 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194436285",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki165565083": {
    "name": "アングラーズシステム ドーナ 【1091カラー】",
    "price": null,
@@ -74372,18 +74384,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194129658",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194129720": {
-   "name": "【吉やオリカラ：メンターイコライザー】ディスプラウト メガガメクラ",
-   "price": null,
-   "price_text": "1,705 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194129720",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T07:21:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T07:25:57+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523\n\n<b>ダイトウブク VEXION スプリットリングマスター NANO</b>\n⭐ рекомендует магазин\n2,420 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194436285",
+   "delivered": []
+  }
+ ]
 }
