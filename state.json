@@ -74452,18 +74452,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194331408": {
-   "name": "第一精工 ブラシスレッダー",
-   "price": null,
-   "price_text": "792 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194331408",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194354235": {
    "name": "レイドジャパン RJ ブラックボックス 4500 タイプシャロー",
    "price": null,
@@ -74559,8 +74547,25 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
+  },
+  "ki177514349": {
+   "name": "ベトベト ベロ120F（VERO120F）",
+   "price": null,
+   "price_text": "5,060 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=177514349",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T13:46:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T13:51:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ベトベト ベロ120F（VERO120F）</b>\n⭐ рекомендует магазин\n5,060 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=177514349",
+   "delivered": []
+  }
+ ]
 }
