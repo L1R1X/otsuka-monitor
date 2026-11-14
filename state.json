@@ -59040,42 +59040,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354268": {
-   "name": "エバーグリーン クラッシュダイバー F #51 ヒョウガ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354268",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194354227": {
-   "name": "エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354227",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194354107": {
-   "name": "エバーグリーン クラッシュダイバー F #01 クリア",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354107",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62324,6 +62288,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189482",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189473": {
+   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189462": {
+   "name": "ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189462",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147566": {
+   "name": "ムカイ POGOCRA 30DR F #GARASHI",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147566",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74545,6 +74545,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T22:35:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T22:41:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189473\n\n<b>ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189462\n\n<b>ムカイ POGOCRA 30DR F #GARASHI</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147566",
+   "delivered": []
+  }
+ ]
 }
