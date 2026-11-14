@@ -74244,6 +74244,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki156478273": {
+   "name": "ロデオクラフト ファットモカ Jr. DR(SS)",
+   "price": null,
+   "price_text": "1,584 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=156478273",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki160051259": {
+   "name": "ロデオクラフト ファットモカ Jr. SR(SS)",
+   "price": null,
+   "price_text": "1,584 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=160051259",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki163418010": {
    "name": "ロデオクラフト ファットモカJr. DR(F)",
    "price": null,
@@ -74252,6 +74276,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=163418010",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki179159588": {
+   "name": "ロデオクラフト ファットモカ Jr. SR(F)",
+   "price": null,
+   "price_text": "1,584 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=179159588",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74348,42 +74384,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194129720",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194356974": {
-   "name": "DLIVE シリコンビレットリリーサ【1091カラー アールズブルー】",
-   "price": null,
-   "price_text": "12,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194356974",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194360533": {
-   "name": "ロデオクラフト RCワウ37F2 【1091カラー】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194360533",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194361036": {
-   "name": "ロデオクラフト カーボンワレット各種【1091カラー 三ケ日みかん】",
-   "price": null,
-   "price_text": "3,025 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194361036",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T06:35:57+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T06:41:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ロデオクラフト ファットモカ Jr. DR(SS)</b>\n🐟 воблер\n1,584 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=156478273\n\n<b>ロデオクラフト ファットモカ Jr. SR(SS)</b>\n🐟 воблер\n1,584 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=160051259\n\n<b>ロデオクラフト ファットモカ Jr. SR(F)</b>\n🐟 воблер\n1,584 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=179159588",
+   "delivered": []
+  }
+ ]
 }
