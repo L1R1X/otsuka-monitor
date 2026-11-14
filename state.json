@@ -59220,18 +59220,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343015": {
-   "name": "ロデオクラフト モカDR F 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343015",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194342952": {
    "name": "ロデオクラフト プチモカSR SS #FOCUSおまめ",
    "price": null,
@@ -62324,6 +62312,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189487": {
+   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189487",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74545,6 +74545,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T18:41:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T18:46:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #稲穂虫【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189487",
+   "delivered": []
+  }
+ ]
 }
