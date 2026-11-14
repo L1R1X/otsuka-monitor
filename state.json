@@ -1531,7 +1531,7 @@
    "spec": "#伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368568",
    "price": 1650,
-   "stock": 73
+   "stock": 74
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -74244,6 +74244,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki163418010": {
+   "name": "ロデオクラフト ファットモカJr. DR(F)",
+   "price": null,
+   "price_text": "1,584 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=163418010",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194375216": {
    "name": "エバーグリーン クラッシュダイバーF",
    "price": null,
@@ -74372,18 +74384,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194361036",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki178717937": {
-   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
-   "price": null,
-   "price_text": "0 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=178717937",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T06:31:11+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T06:35:57+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロデオクラフト ファットモカJr. DR(F)</b>\n🐟 воблер\n1,584 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=163418010",
+   "delivered": []
+  }
+ ]
 }
