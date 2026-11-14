@@ -59035,6 +59035,78 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194354274": {
+   "name": "エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354274",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354268": {
+   "name": "エバーグリーン クラッシュダイバー F #51 ヒョウガ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354268",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354227": {
+   "name": "エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354227",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354216": {
+   "name": "エバーグリーン クラッシュダイバー F #48 サイティングシルバー",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354216",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354197": {
+   "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354197",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194354107": {
+   "name": "エバーグリーン クラッシュダイバー F #01 クリア",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354107",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62223,78 +62295,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240906",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240899": {
-   "name": "アンデッドファクトリー レム 23HFSR #五魔オイル",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240899",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240888": {
-   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240888",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240884": {
-   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240884",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240744": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240740": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189487": {
-   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189487",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74516,6 +74516,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T09:31:12+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T09:36:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (6)</b>:\n\n<b>エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354274\n\n<b>エバーグリーン クラッシュダイバー F #51 ヒョウガ</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354268\n\n<b>エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354227\n\n<b>エバーグリーン クラッシュダイバー F #48 サイティングシルバー</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354216\n\n<b>エバーグリーン クラッシュダイバー F #47 シルバーサイド</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354197\n\n<b>エバーグリーン クラッシュダイバー F #01 クリア</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354107",
+   "delivered": []
+  }
+ ]
 }
