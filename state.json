@@ -58716,6 +58716,30 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194457372": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #10 ピンク練乳ジェラート",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457372",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457368": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #9 オレンジ練乳ジェラート",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457368",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457367": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #8 ブルーバックヤマメ",
    "price": null,
@@ -62288,18 +62312,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147566",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192147532": {
-   "name": "ムカイ バックストローク 55SS #カラオリRG",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147532",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74521,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T05:31:20+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T05:35:51+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #10 ピンク練乳ジェラート</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457372\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #9 オレンジ練乳ジェラート</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457368",
+   "delivered": []
+  }
+ ]
 }
