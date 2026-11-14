@@ -58788,18 +58788,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457359": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457359",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194457356": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
    "price": null,
@@ -58808,18 +58796,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194457356",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194457355": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #1 花茶",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457355",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62312,6 +62288,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74533,6 +74533,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T06:11:09+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-14T06:16:01+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530\n\n<b>ムカイ バックストローク 55SS #スイカちゃん</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147525",
+   "delivered": []
+  }
+ ]
 }
