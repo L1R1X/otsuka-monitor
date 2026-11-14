@@ -2317,6 +2317,30 @@
    "price": 1650,
    "stock": 24
   },
+  "tr8166030835926": {
+   "name": "Eagle Player 55DT（イーグルプレーヤー55DT）",
+   "price": null,
+   "price_text": "1 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/eagle-player-55dt-イーグルプレーヤー55dt",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr8255196496086": {
+   "name": "VELVET ARTS Winter Items（ベルベットアーツ冬小物）",
+   "price": null,
+   "price_text": "3 270 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/velvet-arts-2023-winter-items-ベルベットアーツ2023冬小物",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15459746447574": {
    "name": "Crash Diver（クラッシュダイバー）",
    "price": null,
@@ -74558,6 +74582,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T12:51:04+03:00",
+ "last_check": "2026-11-14T12:55:53+03:00",
  "pending_notifications": []
 }
