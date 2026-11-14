@@ -2282,6 +2282,18 @@
    "price": 1650,
    "stock": 24
   },
+  "tr15463375372502": {
+   "name": "STEP STICK SS-1585UL Solid Model（ステップスティックSS-1585ULソリッドモデル）",
+   "price": null,
+   "price_text": "11 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/step-stick-ss-1585ul-solid-model-ステップスティックss-1585ulソリッドモデル",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr8166030835926": {
    "name": "Eagle Player 55DT（イーグルプレーヤー55DT）",
    "price": null,
@@ -74547,6 +74559,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T14:25:54+03:00",
+ "last_check": "2026-11-14T14:31:13+03:00",
  "pending_notifications": []
 }
