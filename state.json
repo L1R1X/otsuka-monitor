@@ -21787,18 +21787,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "tr8166030835926": {
-   "name": "Eagle Player 55DT（イーグルプレーヤー55DT）",
-   "price": null,
-   "price_text": "1 520 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/eagle-player-55dt-イーグルプレーヤー55dt",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "tr8165342085334": {
    "name": "TIMON EXTENSION GRIP（エクステンショングリップ）",
    "price": null,
@@ -74540,6 +74528,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T08:11:00+03:00",
+ "last_check": "2026-11-14T08:16:02+03:00",
  "pending_notifications": []
 }
