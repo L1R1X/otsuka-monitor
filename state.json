@@ -7298,7 +7298,7 @@
    "tag": ""
   },
   "tr7986182422742": {
-   "name": "K-craft Nejing Lure（ ネジングルアー ）",
+   "name": "K-craft Nejing Lure（ネジングルアー）",
    "price": null,
    "price_text": "1 000 ¥",
    "spec": "",
@@ -11918,7 +11918,7 @@
    "tag": ""
   },
   "tr9043805405398": {
-   "name": "Shaath 1.6g（シャース）",
+   "name": "Shaath 1.6g（シャース1.6g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -12086,7 +12086,7 @@
    "tag": ""
   },
   "tr9038788886742": {
-   "name": "Shaath 3.4g（シャース）",
+   "name": "Shaath 3.4g（シャース3.4g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -12098,7 +12098,7 @@
    "tag": ""
   },
   "tr9038781219030": {
-   "name": "Shaath 2.7g（シャース）",
+   "name": "Shaath 2.7g（シャース2.7g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -74558,6 +74558,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T12:06:09+03:00",
+ "last_check": "2026-11-14T12:11:00+03:00",
  "pending_notifications": []
 }
