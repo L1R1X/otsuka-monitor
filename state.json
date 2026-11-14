@@ -8319,7 +8319,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/予約商品-2025年12月下旬頃お届け予定-va-spoon-wallet-large-slim-version-vaスプーンワレットラージスリムバージョン",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -20235,18 +20235,6 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mini-kura-ミニクラ",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "tr8255196496086": {
-   "name": "VELVET ARTS 2023 Winter Items（ベルベットアーツ2023冬小物）",
-   "price": null,
-   "price_text": "3 270 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "t-Route",
-   "link": "https://t-route.net/products/velvet-arts-2023-winter-items-ベルベットアーツ2023冬小物",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74528,6 +74516,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T09:01:40+03:00",
+ "last_check": "2026-11-14T09:05:56+03:00",
  "pending_notifications": []
 }
