@@ -20486,7 +20486,7 @@
    "tag": ""
   },
   "tr8259303702742": {
-   "name": "Shaath P 1.4g / 1.8g（シャースピー）",
+   "name": "Shaath P 1.4g / 1.8g（シャースピー 1.4g / 1.8g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -23378,7 +23378,7 @@
    "tag": ""
   },
   "tr8057481167062": {
-   "name": "Shaath 2.3g（シャース）",
+   "name": "Shaath 2.3g（シャース2.3g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -28118,7 +28118,7 @@
    "tag": ""
   },
   "tr7686996721878": {
-   "name": "Shaath 1.9g（シャース）",
+   "name": "Shaath 1.9g（シャース1.9g）",
    "price": null,
    "price_text": "500 ¥",
    "spec": "",
@@ -74558,6 +74558,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-14T12:11:00+03:00",
+ "last_check": "2026-11-14T12:16:07+03:00",
  "pending_notifications": []
 }
