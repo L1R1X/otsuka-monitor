@@ -58750,30 +58750,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457359": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457359",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194457356": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457356",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194457355": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #1 花茶",
    "price": null,
@@ -59082,18 +59058,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194412733",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194354274": {
-   "name": "エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354274",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62262,6 +62226,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192388471",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240906": {
+   "name": "アンデッドファクトリー レム 23HFSR #チルボド",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240906",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240899": {
+   "name": "アンデッドファクトリー レム 23HFSR #五魔オイル",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240899",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240888": {
+   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240888",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74483,6 +74483,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T05:31:22+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T05:35:51+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>アンデッドファクトリー レム 23HFSR #チルボド</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240906\n\n<b>アンデッドファクトリー レム 23HFSR #五魔オイル</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240899\n\n<b>アンデッドファクトリー レム 23HFSR #マッドハウス</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240888",
+   "delivered": []
+  }
+ ]
 }
