@@ -59083,18 +59083,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194349511": {
-   "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194349511",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349508": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #21ノブ",
    "price": null,
@@ -62283,6 +62271,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147566",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147532": {
+   "name": "ムカイ バックストローク 55SS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147532",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74504,6 +74504,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T08:01:37+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T08:05:53+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #カラオリRG</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147532",
+   "delivered": []
+  }
+ ]
 }
