@@ -58747,18 +58747,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457362": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #5 マッディーターン",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457362",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194457360": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ",
    "price": null,
@@ -62283,6 +62271,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74504,6 +74504,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T09:05:51+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T09:11:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640",
+   "delivered": []
+  }
+ ]
 }
