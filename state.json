@@ -58853,6 +58853,42 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194435922": {
+   "name": "ValkeIN シャインライド #ギラギラパンプキン【1091】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435922",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194435821": {
+   "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
+   "price": null,
+   "price_text": "1,705 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435821",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194435482": {
+   "name": "ValkeIN スネイザー F #Gパン【1091】",
+   "price": null,
+   "price_text": "1,705 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435482",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194435476": {
    "name": "ValkeIN スネイザー F #カフェシャレッドグロー【1091】",
    "price": null,
@@ -62281,42 +62317,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240906",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240899": {
-   "name": "アンデッドファクトリー レム 23HFSR #五魔オイル",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240899",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240888": {
-   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240888",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240884": {
-   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240884",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74538,6 +74538,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T04:31:19+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T04:35:56+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ValkeIN シャインライド #ギラギラパンプキン【1091】</b>\n🎨 расцветка\n1,660 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435922\n\n<b>ValkeIN スネイザー F #キラキラウォーターメロン【1091】</b>\n🎨 расцветка\n1,705 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435821\n\n<b>ValkeIN スネイザー F #Gパン【1091】</b>\n🎨 расцветка\n1,705 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435482",
+   "delivered": []
+  }
+ ]
 }
