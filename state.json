@@ -62788,18 +62788,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194200288": {
-   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65904,6 +65892,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189053",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189048": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189048",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74525,6 +74525,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T06:41:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T06:46:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189048",
+   "delivered": []
+  }
+ ]
 }
