@@ -59662,18 +59662,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890951": {
-   "name": "DAIWA ワブクラJr.25SS DR#胡麻塩レッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890951",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890941": {
    "name": "DAIWA ワブクラJr.25SS DR#胡麻塩グロー",
    "price": null,
@@ -62266,6 +62254,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192240884": {
+   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240884",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194415305": {
    "name": "ValkeIN ブラックブラスト 1.3g #パチョレック【有頂天】",
    "price": null,
@@ -62982,18 +62982,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193889289",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193889288": {
-   "name": "FPBルアーズ ビーファンク 0.8g #5 ハイドチャート",
-   "price": null,
-   "price_text": "540 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193889288",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65862,6 +65850,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268929",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192268756": {
+   "name": "ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％",
+   "price": null,
+   "price_text": "800 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192268756",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74483,6 +74483,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T06:01:28+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T06:05:53+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>アンデッドファクトリー レム 23HFSR #ブルヘリオン</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240884\n\n<b>ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％</b>\n🎣 приманка\n800 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192268756",
+   "delivered": []
+  }
+ ]
 }
