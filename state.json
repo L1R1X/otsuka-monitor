@@ -58836,18 +58836,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435407": {
-   "name": "ロデオクラフト ファットモカJr SR F #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435407",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435319": {
    "name": "ロデオクラフト ファットモカJr DR F #FOCUSおまめ",
    "price": null,
@@ -62276,6 +62264,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74497,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T14:20:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T14:25:53+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640",
+   "delivered": []
+  }
+ ]
 }
