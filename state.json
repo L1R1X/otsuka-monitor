@@ -62501,6 +62501,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194248204": {
+   "name": "サウリブ Shaath シャース 0.75g #25 やまかがし",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194248204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62785,6 +62797,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194239772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200288": {
+   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200232": {
+   "name": "サウリブ Shaath シャース 0.75g #19 金虫",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200232",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65881,42 +65917,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189048",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189037": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #カステラ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189037",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192188428": {
-   "name": "ロデオクラフト QM キューム 3.3g #14 安塚【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188428",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192188362": {
-   "name": "ロデオクラフト QM キューム 3.3g #T.S IV【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192188362",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74538,6 +74538,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T03:46:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T03:51:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>サウリブ Shaath シャース 0.75g #25 やまかがし</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194248204\n\n<b>サウリブ Shaath シャース 0.75g #20 クリームラメ</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194200288\n\n<b>サウリブ Shaath シャース 0.75g #19 金虫</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194200232",
+   "delivered": []
+  }
+ ]
 }
