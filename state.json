@@ -58759,30 +58759,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435931": {
-   "name": "ValkeIN シャインライド #ドクギリブラウンII【1091】",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435931",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194435922": {
-   "name": "ValkeIN シャインライド #ギラギラパンプキン【1091】",
-   "price": null,
-   "price_text": "1,660 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435922",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435821": {
    "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
    "price": null,
@@ -58875,18 +58851,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194435407",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194435405": {
-   "name": "ロデオクラフト ファットモカJr DR SS #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435405",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62283,6 +62247,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147566",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147532": {
+   "name": "ムカイ バックストローク 55SS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74492,6 +74492,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T12:25:51+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T12:31:18+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ムカイ バックストローク 55SS #カラオリRG</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147532\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530\n\n<b>ムカイ バックストローク 55SS #スイカちゃん</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147525",
+   "delivered": []
+  }
+ ]
 }
