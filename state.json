@@ -74280,6 +74280,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki193088453": {
+   "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193088453",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193088460": {
+   "name": "【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193088460",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194375216": {
    "name": "エバーグリーン クラッシュダイバーF",
    "price": null,
@@ -74328,30 +74352,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194466146": {
-   "name": "Zeque（ゼクー） シェリー(Sherry) F-2280",
-   "price": null,
-   "price_text": "26,180 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194466146",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki165565083": {
-   "name": "アングラーズシステム ドーナ 【1091カラー】",
-   "price": null,
-   "price_text": "649 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=165565083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki191533394": {
    "name": "バークレイ マックスセント フラックスギル5.3インチ",
    "price": null,
@@ -74360,6 +74360,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=191533394",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194466146": {
+   "name": "Zeque（ゼクー） シェリー(Sherry) F-2280",
+   "price": null,
+   "price_text": "26,180 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194466146",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74485,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T13:11:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T13:16:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG</b>\n🎨 расцветка  🐟 воблер\n1,760 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=193088453\n\n<b>【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG</b>\n🎨 расцветка  🐟 воблер\n1,760 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=193088460",
+   "delivered": []
+  }
+ ]
 }
