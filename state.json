@@ -74335,6 +74335,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194466146": {
+   "name": "Zeque（ゼクー） シェリー(Sherry) F-2280",
+   "price": null,
+   "price_text": "26,180 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194466146",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki165565083": {
    "name": "アングラーズシステム ドーナ 【1091カラー】",
    "price": null,
@@ -74343,30 +74355,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=165565083",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki173515979": {
-   "name": "FPBルアーズ ビーハート【1091カラー】",
-   "price": null,
-   "price_text": "627 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=173515979",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194466146": {
-   "name": "Zeque（ゼクー） シェリーSherry) F-2280",
-   "price": null,
-   "price_text": "26,180 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194466146",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74504,6 +74492,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T10:16:05+03:00",
+ "last_check": "2026-11-15T10:21:05+03:00",
  "pending_notifications": []
 }
