@@ -59092,18 +59092,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354107": {
-   "name": "エバーグリーン クラッシュダイバー F #01 クリア",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354107",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62304,6 +62292,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240740",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189487": {
+   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189487",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74525,6 +74525,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T06:21:13+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T06:25:54+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #稲穂虫【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189487",
+   "delivered": []
+  }
+ ]
 }
