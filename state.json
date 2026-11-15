@@ -74359,14 +74359,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki181596976": {
-   "name": "DESIGNO（デジーノ） レーベン スラング リブート(SLANG Reboot)",
+  "ki194329371": {
+   "name": "THタックル 毛玉スピン",
    "price": null,
-   "price_text": "69,300 ¥(税込)",
+   "price_text": "2,420 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=181596976",
+   "link": "https://www.kitiya.jp/?pid=194329371",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74391,18 +74391,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193816005",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194329371": {
-   "name": "THタックル 毛玉スピン",
-   "price": null,
-   "price_text": "2,420 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194329371",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74467,6 +74455,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki181596976": {
+   "name": "DESIGNO（デジーノ） レーベン スラング リブート(SLANG Reboot)",
+   "price": null,
+   "price_text": "69,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=181596976",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194070500": {
    "name": "スミス へドン CHVCラッキー13",
    "price": null,
@@ -74504,6 +74504,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T07:26:06+03:00",
+ "last_check": "2026-11-15T07:31:26+03:00",
  "pending_notifications": []
 }
