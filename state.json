@@ -74302,18 +74302,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194436285": {
-   "name": "ダイトウブク VEXION スプリットリングマスター NANO",
-   "price": null,
-   "price_text": "2,420 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194436285",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194461423": {
    "name": "ヴァルケイン スネイザー F 【1091カラー】",
    "price": null,
@@ -74334,6 +74322,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=165565083",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki173515979": {
+   "name": "FPBルアーズ ビーハート【1091カラー】",
+   "price": null,
+   "price_text": "627 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=173515979",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74483,6 +74483,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T05:41:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T05:46:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>FPBルアーズ ビーハート【1091カラー】</b>\n🎨 расцветка\n627 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=173515979",
+   "delivered": []
+  }
+ ]
 }
