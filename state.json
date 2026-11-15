@@ -58834,18 +58834,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435421": {
-   "name": "ロデオクラフト ファットモカJr SR SS #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435421",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435414": {
    "name": "ロデオクラフト ファットモカJr SR F #FOCUSおまめ",
    "price": null,
@@ -58878,18 +58866,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194435405",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194435330": {
-   "name": "ロデオクラフト ファットモカJr DR SS #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435330",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62262,6 +62238,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240884",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240744": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240744",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240740": {
+   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
+   "price": null,
+   "price_text": "1,500 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240740",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74483,6 +74483,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T06:11:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T06:15:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー</b>\n🎣 приманка\n1,500 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240744\n\n<b>オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット</b>\n🎣 приманка\n1,500 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240740",
+   "delivered": []
+  }
+ ]
 }
