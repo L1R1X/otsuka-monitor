@@ -59141,18 +59141,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354279": {
-   "name": "エバーグリーン クラッシュダイバー F #53 コハク",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354279",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354274": {
    "name": "エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
    "price": null,
@@ -59173,18 +59161,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194354227",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194354197": {
-   "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354197",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62317,6 +62293,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192388481",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192388477": {
+   "name": "ラッキークラフト ワウ 37F #HAMI CHALLENGE【HERO'S】",
+   "price": null,
+   "price_text": "1,400 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192388477",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192388471": {
+   "name": "ラッキークラフト ワウ 37F #HAMI CHANCE!!【HERO'S】",
+   "price": null,
+   "price_text": "1,400 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192388471",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74538,6 +74538,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T04:55:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T05:01:26+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ラッキークラフト ワウ 37F #HAMI CHALLENGE【HERO&#x27;S】</b>\n🎨 расцветка\n1,400 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192388477\n\n<b>ラッキークラフト ワウ 37F #HAMI CHANCE!!【HERO&#x27;S】</b>\n🎨 расцветка\n1,400 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192388471",
+   "delivered": []
+  }
+ ]
 }
