@@ -74208,18 +74208,6 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki193088430": {
-   "name": "【吉やオリカラ：メンターイコライザー】 ムカイプラグ ポゴ38WG",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193088430",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki193088453": {
    "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
    "price": null,
@@ -74348,6 +74336,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194415901",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194461423": {
+   "name": "ヴァルケイン スネイザー F 【1091カラー】",
+   "price": null,
+   "price_text": "1,980 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194461423",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74497,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T15:21:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T15:25:57+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ヴァルケイン スネイザー F 【1091カラー】</b>\n🎨 расцветка\n1,980 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194461423",
+   "delivered": []
+  }
+ ]
 }
