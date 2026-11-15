@@ -59016,18 +59016,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354227": {
-   "name": "エバーグリーン クラッシュダイバー F #49 スモーキーオリーブ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354227",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -62276,6 +62264,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74352,6 +74352,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki191533394": {
+   "name": "バークレイ マックスセント フラックスギル5.3インチ",
+   "price": null,
+   "price_text": "1,287 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=191533394",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194329371": {
    "name": "THタックル 毛玉スピン",
    "price": null,
@@ -74471,20 +74483,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193984689": {
-   "name": "ノリーズ レイダウンミノーミッド レギュラーサスペンド",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193984689",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T13:01:22+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T13:05:57+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523\n\n<b>バークレイ マックスセント フラックスギル5.3インチ</b>\n⭐ рекомендует магазин\n1,287 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=191533394",
+   "delivered": []
+  }
+ ]
 }
