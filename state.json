@@ -74208,6 +74208,30 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki193088453": {
+   "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193088453",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki193088460": {
+   "name": "【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=193088460",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki156478273": {
    "name": "ロデオクラフト ファットモカ Jr. DR(SS)",
    "price": null,
@@ -74276,30 +74300,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=180092819",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193088453": {
-   "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193088453",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193088460": {
-   "name": "【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193088460",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74497,6 +74497,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T13:16:03+03:00",
+ "last_check": "2026-11-15T13:21:01+03:00",
  "pending_notifications": []
 }
