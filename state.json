@@ -180,7 +180,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00358 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ コンゴウ 2.8g \")\n\n#伊勢崎店オリカラ コンゴウ 2.8g オオツカオリカラ",
    "code": "4573265536264",
    "price": 627,
-   "stock": 8
+   "stock": 6
   },
   "53360101GKS00856": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g",
@@ -733,7 +733,7 @@
    "spec": "#F.S01 HG(ホロリウムグロー) 3.0g 熊谷店オリカラ",
    "code": "4573319718073",
    "price": 627,
-   "stock": 10
+   "stock": 8
   },
   "53360101GLS00851": {
    "name": "アートフィッシング 忠さんスプーン ノーザンバイト 11g #2026 マーベラスグリーン 11g",
@@ -1755,7 +1755,7 @@
    "spec": "#伊勢崎店オリカラ 八雲 35mm 2.1g フローティング",
    "code": "4514447284955",
    "price": 1540,
-   "stock": 51
+   "stock": 50
   },
   "53360101G4A00222": {
    "name": "ラッキークラフト アンフェア 35F つぶアン",
@@ -1951,7 +1951,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 30mm 2.7g シンキング オオツカオリカラ",
    "code": "4573632512099",
    "price": 1870,
-   "stock": 161
+   "stock": 160
   },
   "53360101GLX01217": {
    "name": "ロデオクラフト ウッサ S #高崎店オリジナルカラー 鬼灯 30mm 2.7g シンキング",
@@ -1993,7 +1993,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin オオツカオリカラ",
    "code": "4573632512105",
    "price": 1925,
-   "stock": 153
+   "stock": 152
   },
   "53360101GLX01212": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 鬼灯 30mm 2.9g エキストラシンキング ラトルin",
@@ -2217,7 +2217,7 @@
    "spec": "[ヴァルケイン シャインライド](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GL600090 \"ヴァルケイン シャインライド  #伊勢崎店オリカラ 水蛭子 45mm 3.6g シンキング\")\n\n#伊勢崎店オリカラ 水蛭子 45mm 3.6g シンキング 伊勢崎店オリジナルカラー",
    "code": "4582671314809",
    "price": 1650,
-   "stock": 22
+   "stock": 21
   },
   "53360101GLK01472": {
    "name": "ヴァルケイン スウェーバー  S 伊勢崎店オリカラ 八雲 45mm 2.9g シンキング",
@@ -9759,7 +9759,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-deep-cra-pea-lcmax-uchoten-color-rc-ディープクラピー-lcmax-有頂天カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -11595,7 +11595,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/2win-heros-2025-tester-color-ツーウィンヒーローズテスターカラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -15195,7 +15195,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/gate-medium-cra-pea-gs2-uchoten-ゲートミディアムクラピーgs2有頂天",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74504,6 +74504,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T08:22:41+03:00",
+ "last_check": "2026-11-15T08:26:07+03:00",
  "pending_notifications": []
 }
