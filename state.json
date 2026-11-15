@@ -58757,6 +58757,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194457366": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #7 ライムチャートヤマメ",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457366",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457364": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #6 ゴールデンヤマメ",
    "price": null,
@@ -58769,6 +58781,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194457362": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #5 マッディーターン",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457362",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457360": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ",
    "price": null,
@@ -58777,6 +58801,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194457360",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457359": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457359",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457356": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457356",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457355": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #1 花茶",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457355",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62257,66 +62317,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240884",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240744": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240740": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189487": {
-   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189487",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189482": {
-   "name": "ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189482",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189473": {
-   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189473",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74538,6 +74538,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T04:16:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T04:21:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (5)</b>:\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #7 ライムチャートヤマメ</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457366\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #5 マッディーターン</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457362\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457359\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457356\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #1 花茶</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457355",
+   "delivered": []
+  }
+ ]
 }
