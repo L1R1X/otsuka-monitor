@@ -33562,30 +33562,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "zk15419677049106": {
-   "name": "FULLCLIP マグモジュールver,clip FAS-147",
-   "price": null,
-   "price_text": "2 640 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/fullclip-マグモジュールver-clip-fas-147",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "zk15419676066066": {
-   "name": "FULLCLIP マグドック ブラックFAS-146",
-   "price": null,
-   "price_text": "3 740 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/fullclip-マグドック-ブラック",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "zk15418986692882": {
    "name": "モカ2フックSR FⅡ",
    "price": null,
@@ -33625,7 +33601,7 @@
   "zk15418975715602": {
    "name": "Tコネクションエリア TCA-S57UL ※別途送料1,750円(沖縄県へは4,000円)が掛かります。",
    "price": null,
-   "price_text": "61 600 ¥",
+   "price_text": "55 440 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -33637,7 +33613,7 @@
   "zk15418975355154": {
    "name": "Tコネクションエリア TCA-S60ML-ST ※別途送料1,750円(沖縄県へは4,000円)が掛かります。",
    "price": null,
-   "price_text": "62 700 ¥",
+   "price_text": "56 430 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -33730,18 +33706,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "zk15416262852882": {
-   "name": "ドリフトスピン32 1.0g☆26年10月発売の新サイズ☆",
-   "price": null,
-   "price_text": "660 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/ドリフトスピン32-1-0g-26年10月発売の新サイズ-1",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "zk15416163041554": {
    "name": "2WIN 1091カラー 26年10月再生産",
    "price": null,
@@ -33781,7 +33745,7 @@
   "zk15415632331026": {
    "name": "ディスプラウト×ドライブ  ν(ニュー)フュージョン ファントムシルバー☆送料無料☆",
    "price": null,
-   "price_text": "69 850 ¥",
+   "price_text": "62 865 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -33814,18 +33778,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "zk15412928413970": {
-   "name": "☆予約受付☆デイジー0.7g全20色各1個計20個セット※11月下旬発送予定",
-   "price": null,
-   "price_text": "12 000 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/予約受付-デイジー0-7g全20色各1個計20個セット-11月下旬発送予定",
-   "extra": "нет в наличии",
-   "prefiltered": false,
-   "tag": ""
-  },
   "zk15409871552786": {
    "name": "ベルベットアーツ キャンバスフック(CANVAS HOOK)",
    "price": null,
@@ -33847,18 +33799,6 @@
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/ビースパティックb-spa-tik",
    "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
-  "zk15409330946322": {
-   "name": "ロデオクラフト DSケース ※宅急便コンパクトにて発送のため別途送料600円掛かります。",
-   "price": null,
-   "price_text": "6 380 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Zarky",
-   "link": "https://fishingshop-zarky.com/products/ロデオクラフト-dsケース-宅急便コンパクトには発送",
-   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74543,6 +74483,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T05:25:50+03:00",
+ "last_check": "2026-11-15T05:31:22+03:00",
  "pending_notifications": []
 }
