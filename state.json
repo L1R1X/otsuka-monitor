@@ -1951,7 +1951,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 30mm 2.7g シンキング オオツカオリカラ",
    "code": "4573632512099",
    "price": 1870,
-   "stock": 162
+   "stock": 161
   },
   "53360101GLX01217": {
    "name": "ロデオクラフト ウッサ S #高崎店オリジナルカラー 鬼灯 30mm 2.7g シンキング",
@@ -1993,7 +1993,7 @@
    "spec": "#高崎店オリジナルカラー 神姫 30mm 2.9g エキストラシンキング ラトルin オオツカオリカラ",
    "code": "4573632512105",
    "price": 1925,
-   "stock": 154
+   "stock": 153
   },
   "53360101GLX01212": {
    "name": "ロデオクラフト ウッサ XS #高崎店オリジナルカラー 鬼灯 30mm 2.9g エキストラシンキング ラトルin",
@@ -2231,14 +2231,14 @@
    "spec": "[ヴァルケイン ヘイズ DD](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLW01553 \"ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 神楽 29mm 3.3g\")\n\n#伊勢崎店 オリカラ 神楽 29mm 3.3g 伊勢崎店オリジナルカラー",
    "code": "4582671353693",
    "price": 1815,
-   "stock": 70
+   "stock": 69
   },
   "53360101GLW01552": {
    "name": "ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 美鬼 29mm 3.3g",
    "spec": "[ヴァルケイン ヘイズ DD](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLW01552 \"ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 美鬼 29mm 3.3g\")\n\n#伊勢崎店 オリカラ 美鬼 29mm 3.3g 伊勢崎店オリジナルカラー",
    "code": "4582671353709",
    "price": 1815,
-   "stock": 85
+   "stock": 84
   },
   "53360101GL901014": {
    "name": "ヴァルケイン ヘイズ  MD #伊勢崎店オリカラ 水蛭子 29mm 2.9g フローティング",
@@ -2273,7 +2273,7 @@
    "spec": "[ヴァルケイン ライオーム ナノ](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP01833 \"ヴァルケイン ライオーム  ナノ 伊勢崎店オリカラ 水蛭子 28mm 2.3g シンキング\")\n\n伊勢崎店オリカラ 水蛭子 28mm 2.3g シンキング 伊勢崎店オリジナルカラー",
    "code": "4582671335828",
    "price": 1650,
-   "stock": 23
+   "stock": 22
   },
   "tr15463375372502": {
    "name": "STEP STICK SS-1585UL Solid Model（ステップスティックSS-1585ULソリッドモデル）",
@@ -9927,7 +9927,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/reverse-nyoro-500s-1091-2025-autumn-りばにょろ500s-1091-2025-秋",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -60571,30 +60571,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193356841": {
-   "name": "SHIMANO おおとろ 45S #006 メダチタガリG",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193356841",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193356832": {
-   "name": "SHIMANO おおとろ 45S #005 Gティータイム",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193356832",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193356820": {
    "name": "SHIMANO おおとろ 45S #003 オオバナナグロー",
    "price": null,
@@ -62283,6 +62259,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189482",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189473": {
+   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189462": {
+   "name": "ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189462",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74359,6 +74359,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki181596976": {
+   "name": "DESIGNO（デジーノ） レーベン スラング リブート(SLANG Reboot)",
+   "price": null,
+   "price_text": "69,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=181596976",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193815981": {
    "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）13mm",
    "price": null,
@@ -74490,20 +74502,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki190140374": {
-   "name": "レヴォニック サラモアポロ",
-   "price": null,
-   "price_text": "1,980 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190140374",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-15T07:21:11+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-15T07:26:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189473\n\n<b>ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189462\n\n<b>DESIGNO（デジーノ） レーベン スラング リブート(SLANG Reboot)</b>\n⭐ рекомендует магазин\n69,300 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=181596976",
+   "delivered": []
+  }
+ ]
 }
