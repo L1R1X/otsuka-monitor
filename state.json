@@ -74335,14 +74335,14 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194032280": {
-   "name": "【吉やオリカラ：2026アンノウン】ディスプラウト ピコイーグルプレーヤーF G2",
+  "ki194032329": {
+   "name": "【吉やオリカラ：2026緑龍】ディスプラウト ピコイーグルプレーヤーF G2",
    "price": null,
    "price_text": "1,595 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194032280",
+   "link": "https://www.kitiya.jp/?pid=194032329",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74492,6 +74492,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T15:31:19+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T15:35:57+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>【吉やオリカラ：2026緑龍】ディスプラウト ピコイーグルプレーヤーF G2</b>\n🎨 расцветка\n1,595 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194032329",
+   "delivered": []
+  }
+ ]
 }
