@@ -62247,18 +62247,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194415249": {
-   "name": "ValkeIN ハイバースト1.6g #パチョレック【有頂天】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194415249",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -65843,6 +65831,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268756",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189443": {
+   "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189443",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74464,6 +74464,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T04:56:09+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T05:01:23+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロデオクラフト QM キューム 1.8g #14 安塚【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189443",
+   "delivered": []
+  }
+ ]
 }
