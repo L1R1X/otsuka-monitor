@@ -62254,6 +62254,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194459400": {
+   "name": "【予約】ベルベットアーツ Daisy デイジー 0.7g #全色アソート1セット20枚入り",
+   "price": null,
+   "price_text": "12,000 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194459400",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -65838,18 +65850,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189395",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189053": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74471,6 +74471,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T10:55:57+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T11:01:37+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>【予約】ベルベットアーツ Daisy デイジー 0.7g #全色アソート1セット20枚入り</b>\n🎨 расцветка\n12,000 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194459400",
+   "delivered": []
+  }
+ ]
 }
