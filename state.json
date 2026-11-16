@@ -59083,18 +59083,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194343206": {
-   "name": "ロデオクラフト モカSR FⅡ #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343206",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194342952": {
    "name": "ロデオクラフト プチモカSR SS #FOCUSおまめ",
    "price": null,
@@ -62271,6 +62259,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74492,6 +74492,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T15:55:54+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T16:01:27+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK5</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113789",
+   "delivered": []
+  }
+ ]
 }
