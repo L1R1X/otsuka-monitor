@@ -1146,7 +1146,7 @@
    "spec": "#伊勢崎店オリカラ ブルージェイ 0.7g オオツカオリカラ",
    "code": "4582671303100",
    "price": 583,
-   "stock": 6
+   "stock": 3
   },
   "53360101GKN00635": {
    "name": "ヴァルケイン サーヴァントスピア  1.1g",
@@ -1251,7 +1251,7 @@
    "spec": "#伊勢崎店オリカラ ペレゴン 1.2g",
    "code": "J0201GA801098",
    "price": 627,
-   "stock": 6
+   "stock": 5
   },
   "53360101GJ600205": {
    "name": "丸湖 丸湖スプーン  1.7gコンペティション",
@@ -54087,18 +54087,6 @@
    "prefiltered": false,
    "tag": ""
   },
-  "w10000000000127252": {
-   "name": "ARAITENT　アライテント ｴｱﾗｲｽﾞ2 40th",
-   "price": null,
-   "price_text": "57 200 ¥",
-   "spec": "",
-   "stock": 0,
-   "shop": "Wild-1",
-   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000127252",
-   "extra": "",
-   "prefiltered": false,
-   "tag": ""
-  },
   "w10000000000127242": {
    "name": "ARAITENT　アライテント ｴｱﾗｲｽﾞ 3",
    "price": null,
@@ -58695,6 +58683,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194457366": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #7 ライムチャートヤマメ",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457366",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457364": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #6 ゴールデンヤマメ",
    "price": null,
@@ -58715,6 +58715,54 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194457360",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457359": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457359",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457356": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457356",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457355": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #1 花茶",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457355",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194435931": {
+   "name": "ValkeIN シャインライド #ドクギリブラウンII【1091】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435931",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62195,66 +62243,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192147530": {
-   "name": "ムカイ バックストローク 55SS #オリオリグロー",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147530",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192147525": {
-   "name": "ムカイ バックストローク 55SS #スイカちゃん",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147525",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192147523": {
-   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147523",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192146640": {
-   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146640",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192146590": {
-   "name": "ムカイ バックストローク 55SS #チカチカ",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146590",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74476,6 +74464,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T04:51:02+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T04:56:09+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (5)</b>:\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #7 ライムチャートヤマメ</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457366\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457359\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457356\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #1 花茶</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457355\n\n<b>ValkeIN シャインライド #ドクギリブラウンII【1091】</b>\n🎨 расцветка\n1,660 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435931",
+   "delivered": []
+  }
+ ]
 }
