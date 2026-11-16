@@ -1531,7 +1531,7 @@
    "spec": "#スプラッシュグロー 44mm 2.3g フローティング オオツカオリカラ",
    "code": "4548393355940",
    "price": 1760,
-   "stock": 40
+   "stock": 38
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -1552,7 +1552,7 @@
    "spec": "#オオツカオリカラ スコーカー 26mm 2.2g スローシンキング",
    "code": "4548393318952",
    "price": 1595,
-   "stock": 20
+   "stock": 16
   },
   "53360101GKX01450": {
    "name": "ディスプラウト ベビーバイブ DS",
@@ -33414,6 +33414,18 @@
    "stock": 0,
    "shop": "Velvet Arts",
    "link": "https://velvetarts.co.jp/products/stickers",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "zk15426599649554": {
+   "name": "☆予約受付☆デイジー0.7g※11月27日以降発送予定",
+   "price": null,
+   "price_text": "12 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/予約受付-デイジー0-7g全20色各1個計20個セット-11月27日以降発送予定",
    "extra": "",
    "prefiltered": false,
    "tag": ""
@@ -74459,6 +74471,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T11:55:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T12:01:30+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>☆予約受付☆デイジー0.7g※11月27日以降発送予定</b>\n🎣 приманка\n12 000 ¥\n🏬 Zarky\nhttps://fishingshop-zarky.com/products/予約受付-デイジー0-7g全20色各1個計20個セット-11月27日以降発送予定",
+   "delivered": []
+  }
+ ]
 }
