@@ -838,77 +838,70 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.6g オオツカオリカラ",
    "code": "4582782654641",
    "price": 638,
-   "stock": 52
+   "stock": 49
   },
   "53360101GLZ01247": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ジュゲム 0.6g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.6g オオツカオリカラ",
    "code": "4582782654658",
    "price": 638,
-   "stock": 37
+   "stock": 34
   },
   "53360101GLZ01245": {
    "name": "ディープパラドックス キッド  0.6g #高崎店オリジナルカラー ソルティアルバス 0.6g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.6g オオツカオリカラ",
    "code": "4582782654634",
    "price": 638,
-   "stock": 95
+   "stock": 91
   },
   "53360101GLZ01250": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー MSミルキーウェイ 0.8g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.8g オオツカオリカラ",
    "code": "4582782654610",
    "price": 638,
-   "stock": 47
+   "stock": 44
   },
   "53360101GLZ01248": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ジュゲム 0.8g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.8g オオツカオリカラ",
    "code": "4582782654627",
    "price": 638,
-   "stock": 61
+   "stock": 58
   },
   "53360101GLZ01249": {
    "name": "ディープパラドックス キッド  0.8g #高崎店オリジナルカラー ソルティアルバス 0.8g",
    "spec": "#高崎店オリジナルカラー ソルティアルバス 0.8g オオツカオリカラ",
    "code": "4582782654603",
    "price": 638,
-   "stock": 37
+   "stock": 33
   },
   "53360101GLZ01239": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー MSミルキーウェイ 0.95g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.95g オオツカオリカラ",
    "code": "4582782654702",
    "price": 638,
-   "stock": 32
+   "stock": 29
   },
   "53360101GLZ01242": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ジュゲム 0.95g",
    "spec": "#高崎店オリジナルカラー ジュゲム 0.95g オオツカオリカラ",
    "code": "4582782654719",
    "price": 638,
-   "stock": 6
-  },
-  "53360101GLZ01243": {
-   "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ソルティアルバス 0.95g",
-   "spec": "#高崎店オリジナルカラー ソルティアルバス 0.95g オオツカオリカラ",
-   "code": "4582782654696",
-   "price": 638,
-   "stock": 1
+   "stock": 2
   },
   "53360101GLZ01240": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー MSミルキーウェイ 1.2g",
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
    "code": "4582782654672",
    "price": 638,
-   "stock": 45
+   "stock": 42
   },
   "53360101GLZ01241": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
    "spec": "#高崎店オリジナルカラー ジュゲム 1.2g オオツカオリカラ",
    "code": "4582782654689",
    "price": 638,
-   "stock": 36
+   "stock": 32
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -1007,6 +1000,13 @@
    "code": "4573151274713",
    "price": 583,
    "stock": 8
+  },
+  "53360101GLL01299": {
+   "name": "ロデオクラフト キューム  1.8g #マイスター H.E01 1.8g 注意:3枚まで",
+   "spec": "#マイスター H.E01 1.8g 注意:3枚まで 熊谷店オリカラ",
+   "code": "4573151274935",
+   "price": 583,
+   "stock": 5
   },
   "53360101GLU00449": {
    "name": "ロデオクラフト キューム -G 9g #F.S01グローSP 9g",
@@ -59564,18 +59564,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193890960": {
-   "name": "DAIWA ワブクラJr.25SS DR#桜ミストレッドグロー",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890960",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193890935": {
    "name": "DAIWA ワブクラJr.25SS DR#クリア",
    "price": null,
@@ -62240,6 +62228,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194413800": {
    "name": "アンデッドファクトリー HAZARD ハザードEX 1.1g #H5",
    "price": null,
@@ -62416,18 +62416,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194413749",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194248204": {
-   "name": "サウリブ Shaath シャース 0.75g #25 やまかがし",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194248204",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -62716,30 +62704,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194239772",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194200288": {
-   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200288",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194200232": {
-   "name": "サウリブ Shaath シャース 0.75g #19 金虫",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200232",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65836,6 +65800,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189443",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189419": {
+   "name": "ロデオクラフト QM キューム 1.8g #T.S IV【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189419",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189395": {
+   "name": "ロデオクラフト QM キューム 1.8g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189053": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74457,6 +74457,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T06:35:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T06:46:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (5)</b>:\n\n<b>ロデオクラフト キューム  1.8g #マイスター H.E01 1.8g 注意:3枚まで</b>\n🎣 приманка\n#マイスター H.E01 1.8g 注意:3枚まで 熊谷店オリカラ\n¥583 · в наличии: 5\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLL01299\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530\n\n<b>ロデオクラフト QM キューム 1.8g #T.S IV【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189419\n\n<b>ロデオクラフト QM キューム 1.8g #放流オレピン【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189395\n\n<b>ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】</b>\n🎨 расцветка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189053",
+   "delivered": []
+  }
+ ]
 }
