@@ -1559,7 +1559,7 @@
    "spec": "#オオツカオリカラ スコーカー 26mm 2.2g スローシンキング",
    "code": "4548393318952",
    "price": 1595,
-   "stock": 14
+   "stock": 13
   },
   "53360101GKX01450": {
    "name": "ディスプラウト ベビーバイブ DS",
@@ -59047,30 +59047,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194352565": {
-   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194352565",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194352528": {
-   "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #21ノブ",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194352528",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349508": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #21ノブ",
    "price": null,
@@ -59103,18 +59079,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194349500",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194343214": {
-   "name": "ロデオクラフト モカSR FⅡ #FOCUSおまめ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194343214",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62271,6 +62235,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146640": {
+   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146640",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192146590": {
+   "name": "ムカイ バックストローク 55SS #チカチカ",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192146590",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113791": {
+   "name": "ValkeIN シャインライド NANO #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113791",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74492,6 +74492,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T13:51:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T13:55:56+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ムカイ バックストローク 55SS #グリーンピンクW-GLOW</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146640\n\n<b>ムカイ バックストローク 55SS #チカチカ</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192146590\n\n<b>ValkeIN シャインライド NANO #ARK6</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113791",
+   "delivered": []
+  }
+ ]
 }
