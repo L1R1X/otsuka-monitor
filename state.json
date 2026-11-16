@@ -117,7 +117,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01413 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ 家畜オリバリン 2.3g \")\n\n#伊勢崎店オリカラ 家畜オリバリン 2.3g",
    "code": "4573640552094",
    "price": 627,
-   "stock": 32
+   "stock": 31
   },
   "53360101GLZ01417": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ カカポ 2.3g",
@@ -166,7 +166,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02356 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ 家畜オリバリン 2.8g \")\n\n#伊勢崎店オリカラ 家畜オリバリン 2.8g オオツカオリカラ",
    "code": "4573265536295",
    "price": 627,
-   "stock": 34
+   "stock": 33
   },
   "53360101GKH00357": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ カカポ 2.8g",
@@ -1517,14 +1517,14 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 75
+   "stock": 74
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368568",
    "price": 1650,
-   "stock": 73
+   "stock": 72
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -62451,6 +62451,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194248204": {
+   "name": "サウリブ Shaath シャース 0.75g #25 やまかがし",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194248204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -62747,6 +62759,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194200288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200232": {
+   "name": "サウリブ Shaath シャース 0.75g #19 金虫",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200232",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65831,30 +65855,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268756",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189443": {
-   "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189443",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189419": {
-   "name": "ロデオクラフト QM キューム 1.8g #T.S IV【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189419",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74476,6 +74476,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T04:25:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T04:31:15+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>サウリブ Shaath シャース 0.75g #25 やまかがし</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194248204\n\n<b>サウリブ Shaath シャース 0.75g #19 金虫</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194200232",
+   "delivered": []
+  }
+ ]
 }
