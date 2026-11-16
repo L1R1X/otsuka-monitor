@@ -58803,6 +58803,30 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194435407": {
+   "name": "ロデオクラフト ファットモカJr SR F #21ノブ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435407",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194435405": {
+   "name": "ロデオクラフト ファットモカJr DR SS #FOCUSおまめ",
+   "price": null,
+   "price_text": "1,595 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435405",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194435319": {
    "name": "ロデオクラフト ファットモカJr DR F #FOCUSおまめ",
    "price": null,
@@ -62231,30 +62255,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146590",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113791": {
-   "name": "ValkeIN シャインライド NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113791",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113789": {
-   "name": "ValkeIN シャインライド NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113789",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74476,6 +74476,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-16T04:46:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-16T04:51:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ロデオクラフト ファットモカJr SR F #21ノブ</b>\n🐟 воблер\n1,595 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435407\n\n<b>ロデオクラフト ファットモカJr DR SS #FOCUSおまめ</b>\n🐟 воблер\n1,595 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435405",
+   "delivered": []
+  }
+ ]
 }
