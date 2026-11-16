@@ -59983,18 +59983,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh193739558": {
-   "name": "Jackson Bottom Magic MONSTER ボトムマジックモンスター #カジカ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193739558",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh193664195": {
    "name": "1089工房 DSさかさにょろ SLIM 60FS+ #03 苦丁茶(濃い目)【DSコラボ】",
    "price": null,
@@ -62271,6 +62259,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113786": {
+   "name": "ValkeIN シャインライド NANO #ARK3",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113786",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74492,6 +74492,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T02:10:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T02:16:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK3</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113786",
+   "delivered": []
+  }
+ ]
 }
