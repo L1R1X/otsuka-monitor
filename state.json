@@ -1517,7 +1517,7 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 73
+   "stock": 72
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
@@ -1531,7 +1531,7 @@
    "spec": "#スプラッシュグロー 44mm 2.3g フローティング オオツカオリカラ",
    "code": "4548393355940",
    "price": 1760,
-   "stock": 29
+   "stock": 28
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -59652,6 +59652,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh193890855": {
+   "name": "DAIWA ワブクラJr.25F DR#レッドグローライン",
+   "price": null,
+   "price_text": "1,235 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193890855",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh193890850": {
    "name": "DAIWA ワブクラJr.25F DR#桜ミストレッドグロー",
    "price": null,
@@ -62264,18 +62276,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147523",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192146640": {
-   "name": "ムカイ バックストローク 55SS #グリーンピンクW-GLOW",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192146640",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74497,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T06:51:12+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T06:56:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>DAIWA ワブクラJr.25F DR#レッドグローライン</b>\n🎣 приманка\n1,235 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193890855",
+   "delivered": []
+  }
+ ]
 }
