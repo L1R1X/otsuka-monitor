@@ -74388,6 +74388,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194488461": {
+   "name": "ボトムアップ ヴァラップミノー 4.0インチ",
+   "price": null,
+   "price_text": "1,265 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194488461",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194329371": {
    "name": "THタックル 毛玉スピン",
    "price": null,
@@ -74495,20 +74507,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki194070500": {
-   "name": "スミス へドン CHVCラッキー13",
-   "price": null,
-   "price_text": "2,970 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194070500",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T08:21:08+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T08:25:55+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ボトムアップ ヴァラップミノー 4.0インチ</b>\n🐟 воблер\n1,265 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194488461",
+   "delivered": []
+  }
+ ]
 }
