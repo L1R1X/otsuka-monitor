@@ -59040,18 +59040,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354274": {
-   "name": "エバーグリーン クラッシュダイバー F #52 オクラホマスマッシュ",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354274",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194354268": {
    "name": "エバーグリーン クラッシュダイバー F #51 ヒョウガ",
    "price": null,
@@ -62276,6 +62264,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74497,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T06:06:11+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T06:11:14+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #スイカちゃん</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147525",
+   "delivered": []
+  }
+ ]
 }
