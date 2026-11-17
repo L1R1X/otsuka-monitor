@@ -15188,7 +15188,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/gate-medium-cra-pea-gs2-uchoten-ゲートミディアムクラピーgs2有頂天",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -36505,9 +36505,9 @@
    "tag": ""
   },
   "zk10279811776786": {
-   "name": "スタンダードラインクリッパー",
+   "name": "スミス スタンダードラインクリッパー",
    "price": null,
-   "price_text": "775 ¥",
+   "price_text": "950 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -74509,6 +74509,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T09:41:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T09:46:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "♻️ <b>Снова в наличии (1)</b>:\n\n<b>GATE Cra-Pea GS2 Uchoten（ゲートクラピーGS2有頂天）</b>\n🐟 воблер\n1 600 ¥\n🏬 t-Route\nhttps://t-route.net/products/gate-medium-cra-pea-gs2-uchoten-ゲートミディアムクラピーgs2有頂天",
+   "delivered": []
+  }
+ ]
 }
