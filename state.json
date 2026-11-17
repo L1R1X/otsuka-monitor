@@ -58752,6 +58752,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194435931": {
+   "name": "ValkeIN シャインライド #ドクギリブラウンII【1091】",
+   "price": null,
+   "price_text": "1,660 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194435931",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194435821": {
    "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
    "price": null,
@@ -62276,18 +62288,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192146590",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113791": {
-   "name": "ValkeIN シャインライド NANO #ARK6",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113791",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74509,6 +74509,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T09:35:57+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T09:41:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN シャインライド #ドクギリブラウンII【1091】</b>\n🎨 расцветка\n1,660 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194435931",
+   "delivered": []
+  }
+ ]
 }
