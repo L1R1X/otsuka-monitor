@@ -61692,18 +61692,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192532478": {
-   "name": "ムカイ POGO38 HS #松川タートル【FPB】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532478",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -62300,6 +62288,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113782",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113780": {
+   "name": "ValkeIN クーガ NANO シンキング #ARK6",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113780",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74521,6 +74521,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T16:16:11+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T16:21:02+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN クーガ NANO シンキング #ARK6</b>\n🐟 воблер\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113780",
+   "delivered": []
+  }
+ ]
 }
