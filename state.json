@@ -6608,7 +6608,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/dohna-glitter-color-ドーナグリッターカラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -59040,30 +59040,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194354197": {
-   "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354197",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194354107": {
-   "name": "エバーグリーン クラッシュダイバー F #01 クリア",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194354107",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194349508": {
    "name": "ロデオクラフト モカ ラトル♪ DR F 2HOOK #21ノブ",
    "price": null,
@@ -62300,6 +62276,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113789": {
+   "name": "ValkeIN シャインライド NANO #ARK5",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113789",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192113788": {
+   "name": "ValkeIN シャインライド NANO #ARK4",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192113788",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74521,6 +74521,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T14:31:17+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T14:35:54+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ValkeIN シャインライド NANO #ARK5</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113789\n\n<b>ValkeIN シャインライド NANO #ARK4</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192113788",
+   "delivered": []
+  }
+ ]
 }
