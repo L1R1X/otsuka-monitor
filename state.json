@@ -39924,6 +39924,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000241630": {
+   "name": "Nishine Lure Works　ニシネルアーワークス ニシネルアーワークス　スライドダート85F【パールフラッシュ】",
+   "price": null,
+   "price_text": "5 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000241630",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000242526": {
    "name": "Megabass　メガバス 【 ジョインター 別注カラー 】 Megabass メガバス カゲロウ100F SP(C) シーバス",
    "price": null,
@@ -74485,6 +74497,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-17T05:26:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-17T05:31:15+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>Nishine Lure Works　ニシネルアーワークス ニシネルアーワークス　スライドダート85F【パールフラッシュ】</b>\n🎨 расцветка\n5 000 ¥\n🏬 Wild-1\nhttps://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000241630",
+   "delivered": []
+  }
+ ]
 }
