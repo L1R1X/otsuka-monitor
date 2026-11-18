@@ -62801,18 +62801,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194200232": {
-   "name": "サウリブ Shaath シャース 0.75g #19 金虫",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194200232",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194104755": {
    "name": "なぶら家 2WIN 2g #マダムブラウン【1091】",
    "price": null,
@@ -65893,6 +65881,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268929",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192268756": {
+   "name": "ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％",
+   "price": null,
+   "price_text": "800 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192268756",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74514,6 +74514,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T06:35:56+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T06:41:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ALFRED クリアアルフ 0.5g #03 クリアオリーブ60％</b>\n🎣 приманка\n800 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192268756",
+   "delivered": []
+  }
+ ]
 }
