@@ -2282,6 +2282,18 @@
    "price": 1650,
    "stock": 23
   },
+  "tr15480217469142": {
+   "name": "JIG MINNOW 50 Heavy（ジグミノー50ヘビー）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/jig-minnow-50-heavy-ジグミノー50ヘビー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15463375372502": {
    "name": "STEP STICK SS-1585UL Solid Model（ステップスティックSS-1585ULソリッドモデル）",
    "price": null,
@@ -74559,6 +74571,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T12:36:36+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T12:41:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>JIG MINNOW 50 Heavy（ジグミノー50ヘビー）</b>\n🐟 воблер\n0 ¥ · нет в наличии\n🏬 t-Route\nhttps://t-route.net/products/jig-minnow-50-heavy-ジグミノー50ヘビー",
+   "delivered": []
+  }
+ ]
 }
