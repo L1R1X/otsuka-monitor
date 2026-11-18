@@ -39931,6 +39931,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "w10000000000216953": {
+   "name": "Tailwalk　テイルウォーク ジョインター　ウォーターサイド スモールワールド 4/6【Jointer 】（延べ竿）",
+   "price": null,
+   "price_text": "8 800 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Wild-1",
+   "link": "https://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000216953",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "w10000000000242527": {
    "name": "REVIVE　リヴァイブ リバイブ ファンネル シングルスピニングカーボンハンドル 40mm REVIVE Funnel シルバー/RF40SHC-S(シマノ用) 40mm",
    "price": null,
@@ -64507,18 +64519,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262091": {
-   "name": "スミス くるん Type1 1.1g #13 マットブラック",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262091",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262079": {
    "name": "スミス くるん Type1 1.1g #11 マットブラウン",
    "price": null,
@@ -64587,18 +64587,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193262004",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh193261995": {
-   "name": "スミス くるん Type1 1.1g #04 クリアーレッド",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193261995",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65919,6 +65907,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192268756",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189443": {
+   "name": "ロデオクラフト QM キューム 1.8g #14 安塚【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189443",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189419": {
+   "name": "ロデオクラフト QM キューム 1.8g #T.S IV【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189419",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74540,6 +74552,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T11:11:08+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T11:16:50+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>Tailwalk　テイルウォーク ジョインター　ウォーターサイド スモールワールド 4/6【Jointer 】（延べ竿）</b>\n🎨 расцветка\n8 800 ¥\n🏬 Wild-1\nhttps://webshop.wild1.co.jp/websitevue/onlinestore/product/0000000000216953\n\n<b>ロデオクラフト QM キューム 1.8g #14 安塚【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189443\n\n<b>ロデオクラフト QM キューム 1.8g #T.S IV【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189419",
+   "delivered": []
+  }
+ ]
 }
