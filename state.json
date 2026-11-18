@@ -74327,6 +74327,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194508476": {
+   "name": "ハンクル ラトリンシャッド45F エリアver.（Rattlin' Shad 45 F AREA ver.）",
+   "price": null,
+   "price_text": "1,535 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194508476",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194508477": {
+   "name": "ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）",
+   "price": null,
+   "price_text": "1,564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194508477",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193088453": {
    "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
    "price": null,
@@ -74419,30 +74443,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=180092819",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki190651954": {
-   "name": "【吉やオリカラ：メンターイコライザー】ディスプラウト DSディープクラピー G2",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190651954",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki190651959": {
-   "name": "【吉やオリカラ：安燈】ディスプラウト DSディープクラピー G2",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=190651959",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74592,6 +74592,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T14:11:08+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T14:16:03+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ハンクル ラトリンシャッド45F エリアver.（Rattlin&#x27; Shad 45 F AREA ver.）</b>\n🐟 воблер\n1,535 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194508476\n\n<b>ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）</b>\n🐟 воблер\n1,564 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194508477",
+   "delivered": []
+  }
+ ]
 }
