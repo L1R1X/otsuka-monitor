@@ -62844,18 +62844,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194019490": {
-   "name": "FOCUS フォーカス Sway 1.7ｇ 全色20色アソート",
-   "price": null,
-   "price_text": "12,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194019490",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194019143": {
    "name": "ロデオクラフト RCドリフトスピン42 2.0g #13 ブラック",
    "price": null,
@@ -65900,6 +65888,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189053": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74521,6 +74521,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T06:05:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T06:11:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】</b>\n🎨 расцветка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189053",
+   "delivered": []
+  }
+ ]
 }
