@@ -74239,6 +74239,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki194375216": {
+   "name": "エバーグリーン クラッシュダイバーF",
+   "price": null,
+   "price_text": "1,540 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194375216",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193088453": {
    "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
    "price": null,
@@ -74367,18 +74379,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194032200",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194032227": {
-   "name": "【吉やオリカラ 2026緑龍】ディスプラウト ピコピコイーグルプレーヤーMS",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194032227",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74528,6 +74528,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T08:16:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T08:21:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>エバーグリーン クラッシュダイバーF</b>\n⭐ рекомендует магазин\n1,540 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194375216",
+   "delivered": []
+  }
+ ]
 }
