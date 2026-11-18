@@ -1538,21 +1538,21 @@
    "spec": "#伊勢崎店 オリカラ 神楽 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368551",
    "price": 1650,
-   "stock": 71
+   "stock": 70
   },
   "53360101GLZ01343": {
    "name": "ディスプラウト ガメクラ  #伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング",
    "spec": "#伊勢崎店 オリカラ 美鬼 44mm 2.3g フローティング 伊勢崎店オリカラ",
    "code": "4548393368568",
    "price": 1650,
-   "stock": 71
+   "stock": 70
   },
   "53360101GKP01174": {
    "name": "ディスプラウト ガメクラ  #スプラッシュグロー 44mm 2.3g フローティング",
    "spec": "#スプラッシュグロー 44mm 2.3g フローティング オオツカオリカラ",
    "code": "4548393355940",
    "price": 1760,
-   "stock": 8
+   "stock": 5
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -74479,6 +74479,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194251022": {
+   "name": "イマカツ ビーストボーンエラストマー",
+   "price": null,
+   "price_text": "1,870 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194251022",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194068722": {
    "name": "デプス フリルドシャッド3.7インチ",
    "price": null,
@@ -74514,20 +74526,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki194014965": {
-   "name": "エバーグリーン オライオン OCSC-62L/M-ST ブラックダガー",
-   "price": null,
-   "price_text": "91,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194014965",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T09:11:05+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T09:16:06+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>イマカツ ビーストボーンエラストマー</b>\n⭐ рекомендует магазин\n1,870 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194251022",
+   "delivered": []
+  }
+ ]
 }
