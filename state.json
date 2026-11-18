@@ -1841,26 +1841,26 @@
    "price": 1540,
    "stock": 79
   },
-  "53360101GLS01062": {
-   "name": "ラッキークラフト ワウ  40F #高崎店オリジナルカラー 鶯 40mm 3.0g フローティング",
-   "spec": "#高崎店オリジナルカラー 鶯 40mm 3.0g フローティング オオツカオリカラ",
-   "code": "4514447317103",
+  "53360101GLZ01143": {
+   "name": "ラッキークラフト ワウ  33F #F.S01HHRG 33mm 1.7g フローティング",
+   "spec": "#F.S01HHRG 33mm 1.7g フローティング 熊谷店オリカラ",
+   "code": "4514447319954",
    "price": 1540,
-   "stock": 69
+   "stock": 46
   },
-  "53360101GIM01203": {
-   "name": "ラッキークラフト ワウ  40HFG2",
-   "spec": "# M.A01暁(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
-   "code": "4514447276172",
-   "price": 1650,
-   "stock": 34
+  "53360101GLM00976": {
+   "name": "ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング",
+   "spec": "#伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング 伊勢崎店オリカラ",
+   "code": "4514447314980",
+   "price": 1540,
+   "stock": 111
   },
-  "53360101GLJ01736": {
-   "name": "ラッキークラフト ワウ  40HFG2",
-   "spec": "# しみぱん(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
-   "code": "4514447313082",
-   "price": 1650,
-   "stock": 35
+  "53360101GLM00975": {
+   "name": "ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング",
+   "spec": "#伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング 伊勢崎店オリカラ",
+   "code": "4514447314997",
+   "price": 1540,
+   "stock": 81
   },
   "53360101GK801511": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -2285,12 +2285,12 @@
   "tr15480217469142": {
    "name": "JIG MINNOW 50 Heavy（ジグミノー50ヘビー）",
    "price": null,
-   "price_text": "0 ¥",
+   "price_text": "1 445 ¥",
    "spec": "",
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/jig-minnow-50-heavy-ジグミノー50ヘビー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -74571,6 +74571,15 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T12:41:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T12:46:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ラッキークラフト ワウ  33F #F.S01HHRG 33mm 1.7g フローティング</b>\n🐟 воблер\n#F.S01HHRG 33mm 1.7g フローティング 熊谷店オリカラ\n¥1,540 · в наличии: 46\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01143\n\n<b>ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング</b>\n🎨 расцветка  🐟 воблер\n#伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング 伊勢崎店オリカラ\n¥1,540 · в наличии: 111\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM00976\n\n<b>ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング</b>\n🎨 расцветка  🐟 воблер\n#伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング 伊勢崎店オリカラ\n¥1,540 · в наличии: 81\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM00975",
+   "delivered": []
+  },
+  {
+   "text": "♻️ <b>Снова в наличии (1)</b>:\n\n<b>JIG MINNOW 50 Heavy（ジグミノー50ヘビー）</b>\n🐟 воблер\n1 445 ¥\n🏬 t-Route\nhttps://t-route.net/products/jig-minnow-50-heavy-ジグミノー50ヘビー",
+   "delivered": []
+  }
+ ]
 }
