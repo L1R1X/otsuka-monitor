@@ -1818,21 +1818,14 @@
    "spec": "#F.S01HHRG 33mm 1.7g フローティング 熊谷店オリカラ",
    "code": "4514447319954",
    "price": 1540,
-   "stock": 46
+   "stock": 1
   },
   "53360101GLM00976": {
    "name": "ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング",
    "spec": "#伊勢崎店 オリカラ 神楽 33mm 1.7g フローティング 伊勢崎店オリカラ",
    "code": "4514447314980",
    "price": 1540,
-   "stock": 111
-  },
-  "53360101GLM00975": {
-   "name": "ラッキークラフト ワウ  33F #伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング",
-   "spec": "#伊勢崎店 オリカラ 美鬼 33mm 1.7g フローティング 伊勢崎店オリカラ",
-   "code": "4514447314997",
-   "price": 1540,
-   "stock": 81
+   "stock": 8
   },
   "53360101GLZ01341": {
    "name": "ラッキークラフト ワウ  33F #伊勢崎店 オリカラ マシマシ神楽 33mm 1.7g フローティング",
@@ -74338,6 +74331,18 @@
    "prefiltered": true,
    "tag": ""
   },
+  "ki178717937": {
+   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
+   "price": null,
+   "price_text": "0 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=178717937",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194375216": {
    "name": "エバーグリーン クラッシュダイバーF",
    "price": null,
@@ -74466,18 +74471,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=190651959",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194032200": {
-   "name": "【吉やオリカラ 2026アンノウン】ディスプラウト ピコチャタクラDRSS",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194032200",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74627,6 +74620,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T13:41:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T13:46:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー</b>\n⭐ рекомендует магазин\n0 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=178717937",
+   "delivered": []
+  }
+ ]
 }
