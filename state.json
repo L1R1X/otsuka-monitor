@@ -64668,6 +64668,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193161270": {
+   "name": "FOCUS フォーカス Sway 1.7ｇ #20 ヤジーシルホワ UV【TIMON】",
+   "price": null,
+   "price_text": "605 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193161270",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193161224": {
    "name": "FOCUS フォーカス Sway 1.7ｇ #19 ウズラ【TIMON】",
    "price": null,
@@ -65924,18 +65936,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189053",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189048": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #マダムオリーブ【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189048",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74557,6 +74557,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T02:46:10+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T02:50:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>FOCUS フォーカス Sway 1.7ｇ #20 ヤジーシルホワ UV【TIMON】</b>\n🎨 расцветка\n605 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193161270",
+   "delivered": []
+  }
+ ]
 }
