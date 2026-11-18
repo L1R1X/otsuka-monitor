@@ -33692,7 +33692,7 @@
    "tag": ""
   },
   "zk15418971488530": {
-   "name": "GATE×Mukai トレモスリム28MR（SS）GS2 1.4g 発送予定11月16日以降※他店より出荷が遅くなります。",
+   "name": "GATE×Mukai トレモスリム28MR（SS）GS2 1.4g",
    "price": null,
    "price_text": "1 760 ¥",
    "spec": "",
@@ -33704,7 +33704,7 @@
    "tag": ""
   },
   "zk15418970997010": {
-   "name": "GATE×Mukai トレモスリム28MR（F）GS2 1.2g 発送予定11月16日以降※他店より出荷が遅くなります。",
+   "name": "GATE×Mukai トレモスリム28MR（F）GS2 1.2g",
    "price": null,
    "price_text": "1 760 ¥",
    "spec": "",
@@ -33716,7 +33716,7 @@
    "tag": ""
   },
   "zk15418970964242": {
-   "name": "GATE×Mukai Toremo POGO GS2 3.2g 発送予定11月16日以降※他店より出荷が遅くなります。",
+   "name": "GATE×Mukai Toremo POGO GS2 3.2g",
    "price": null,
    "price_text": "1 760 ¥",
    "spec": "",
@@ -74383,6 +74383,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki188081788": {
+   "name": "ベトベト 25クランクMR (25 CRANK MR)",
+   "price": null,
+   "price_text": "2,145 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=188081788",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki191533394": {
    "name": "バークレイ マックスセント フラックスギル5.3インチ",
    "price": null,
@@ -74514,20 +74526,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki181596976": {
-   "name": "DESIGNO（デジーノ） レーベン スラング リブート(SLANG Reboot)",
-   "price": null,
-   "price_text": "69,300 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=181596976",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T07:51:09+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T07:55:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ベトベト 25クランクMR (25 CRANK MR)</b>\n🐟 воблер\n2,145 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=188081788",
+   "delivered": []
+  }
+ ]
 }
