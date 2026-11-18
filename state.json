@@ -59016,6 +59016,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194354197": {
+   "name": "エバーグリーン クラッシュダイバー F #47 シルバーサイド",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194354197",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194352565": {
    "name": "ロデオクラフト モカ ラトル♪ SR SS 2HOOK #FOCUSおまめ",
    "price": null,
@@ -61740,6 +61752,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh192532478": {
+   "name": "ムカイ POGO38 HS #松川タートル【FPB】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532478",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh192532399": {
    "name": "ムカイ 鯱 28S #松川タートル【FPB】",
    "price": null,
@@ -62276,30 +62300,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113791",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113789": {
-   "name": "ValkeIN シャインライド NANO #ARK5",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113789",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113788": {
-   "name": "ValkeIN シャインライド NANO #ARK4",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113788",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74521,6 +74521,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T05:16:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T05:21:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>エバーグリーン クラッシュダイバー F #47 シルバーサイド</b>\n🎣 приманка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194354197\n\n<b>ムカイ POGO38 HS #松川タートル【FPB】</b>\n🎨 расцветка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192532478",
+   "delivered": []
+  }
+ ]
 }
