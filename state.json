@@ -887,7 +887,7 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 0.95g オオツカオリカラ",
    "code": "4582782654702",
    "price": 638,
-   "stock": 70
+   "stock": 69
   },
   "53360101GLZ01242": {
    "name": "ディープパラドックス キッドダディ  0.95g #高崎店オリジナルカラー ジュゲム 0.95g",
@@ -908,7 +908,7 @@
    "spec": "#高崎店オリジナルカラー MSミルキーウェイ 1.2g オオツカオリカラ",
    "code": "4582782654672",
    "price": 638,
-   "stock": 39
+   "stock": 38
   },
   "53360101GLZ01241": {
    "name": "ディープパラドックス キッドダディ  1.2g #高崎店オリジナルカラー ジュゲム 1.2g",
@@ -922,7 +922,7 @@
    "spec": "#高崎店オリジナルカラー ソルティアルバス 1.2g オオツカオリカラ",
    "code": "4582782654665",
    "price": 638,
-   "stock": 17
+   "stock": 15
   },
   "53360101GL201124": {
    "name": "ニュードロワー マイティー  2.2g #伊勢崎店オリカラ 家畜パール 2.2g",
@@ -1132,7 +1132,7 @@
    "spec": "#高崎店オリジナルカラー ジュゲム 2.2g 注意:3枚まで オオツカオリカラ",
    "code": "4573151274218",
    "price": 583,
-   "stock": 15
+   "stock": 14
   },
   "53360101GLK00375": {
    "name": "ロデオクラフト ノア-B  2.6g #高崎店オリジナルカラー ジュゲム 2.6g 注意:3枚まで",
@@ -1167,14 +1167,14 @@
    "spec": "# 菊汁二番(宇都宮店オリカラ) 1.1g",
    "code": "4570027046078",
    "price": 583,
-   "stock": 5
+   "stock": 4
   },
   "53360101GLE00529": {
    "name": "ヴァルケイン サーヴァントスピア  1.4g",
    "spec": "#伊勢崎店 オリカラ ブルージェイ 1.4g",
    "code": "4582671323566",
    "price": 616,
-   "stock": 16
+   "stock": 15
   },
   "53360101GLE00543": {
    "name": "ヴァルケイン シャイラ  1.2g #伊勢崎店オリカラ コンゴウ 1.2g",
@@ -62591,18 +62591,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240955": {
-   "name": "ウォーターランド アルミん 5.0g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "850 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240955",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240929": {
    "name": "ウォーターランド アルミん 5.0g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -62659,18 +62647,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240872",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240828": {
-   "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240828",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -65971,6 +65947,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189419",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189395": {
+   "name": "ロデオクラフト QM キューム 1.8g #放流オレピン【1091】",
+   "price": null,
+   "price_text": "505 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189395",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192189053": {
+   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
+   "price": null,
+   "price_text": "525 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74592,6 +74592,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-18T14:16:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-18T14:21:21+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ロデオクラフト QM キューム 1.8g #放流オレピン【1091】</b>\n🎨 расцветка\n505 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189395\n\n<b>ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】</b>\n🎨 расцветка\n525 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189053",
+   "delivered": []
+  }
+ ]
 }
