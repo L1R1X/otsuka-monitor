@@ -19057,7 +19057,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/pico-eagle-player-s-ピコイーグルプレーヤー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -39320,7 +39320,7 @@
   "zk9837736853778": {
    "name": "バリバス トラウトショックリーダーフロロカーボン30ｍ",
    "price": null,
-   "price_text": "1 056 ¥",
+   "price_text": "1 144 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -39330,9 +39330,9 @@
    "tag": ""
   },
   "zk9837712081170": {
-   "name": "スーパートラウトエリアスーパーエステル ナチュラル150m☆伸びの少ない高感度エステル☆",
+   "name": "バリバス スーパートラウトエリアスーパーエステル ナチュラル150m☆伸びの少ない高感度エステル☆",
    "price": null,
-   "price_text": "1 001 ¥",
+   "price_text": "1 073 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -74574,6 +74574,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T09:51:01+03:00",
+ "last_check": "2026-11-19T09:55:56+03:00",
  "pending_notifications": []
 }
