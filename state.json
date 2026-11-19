@@ -2413,7 +2413,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/varivas-tool-box-バリバスツールボックス",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -39342,9 +39342,9 @@
    "tag": ""
   },
   "zk9837690192146": {
-   "name": "スーパートラウトエリアVSPフロロカーボン",
+   "name": "バリバス スーパートラウトエリアVSPフロロカーボン",
    "price": null,
-   "price_text": "2 816 ¥",
+   "price_text": "3 168 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -39354,7 +39354,7 @@
    "tag": ""
   },
   "zk9837619478802": {
-   "name": "スーパートラウトエリアSVGナイロン150m",
+   "name": "バリバス スーパートラウトエリアSVGナイロン150m☆浮力が強くてよく伸びる☆",
    "price": null,
    "price_text": "1 502 ¥",
    "spec": "",
@@ -74574,6 +74574,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T09:55:56+03:00",
+ "last_check": "2026-11-19T10:01:35+03:00",
  "pending_notifications": []
 }
