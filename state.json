@@ -62640,6 +62640,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240828": {
+   "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240828",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240813": {
    "name": "ウォーターランド アルミん 4.3g #NC04 ピンク/レッドカモ",
    "price": null,
@@ -64524,6 +64536,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262091": {
+   "name": "スミス くるん Type1 1.1g #13 マットブラック",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262091",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262079": {
    "name": "スミス くるん Type1 1.1g #11 マットブラウン",
    "price": null,
@@ -65936,30 +65960,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189419",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189395": {
-   "name": "ロデオクラフト QM キューム 1.8g #放流オレピン【1091】",
-   "price": null,
-   "price_text": "505 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189395",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192189053": {
-   "name": "ロデオクラフト ジキル JEKYLL-S 1.1g #ゴージャスペレット【1091】",
-   "price": null,
-   "price_text": "525 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189053",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74581,6 +74581,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T05:01:32+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T05:05:56+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ウォーターランド アルミん 4.3g #NC05 トロピカルカモ</b>\n🎣 приманка\n750 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194240828\n\n<b>スミス くるん Type1 1.1g #13 マットブラック</b>\n🎣 приманка\n760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193262091",
+   "delivered": []
+  }
+ ]
 }
