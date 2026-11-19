@@ -1811,7 +1811,7 @@
    "spec": "#狼煙 33mm 1.7g フローティング 熊谷店オリカラ",
    "code": "4514447319961",
    "price": 1540,
-   "stock": 63
+   "stock": 58
   },
   "53360101GLZ01144": {
    "name": "ラッキークラフト ワウ  37F #ゴマレグ 37mm 2.3g フローティング",
@@ -58829,6 +58829,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194457359": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457359",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457356": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
    "price": null,
@@ -58837,6 +58849,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194457356",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194457355": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #1 花茶",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457355",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62329,30 +62353,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113786": {
-   "name": "ValkeIN シャインライド NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113786",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113784": {
-   "name": "ValkeIN シャインライド NANO #ARK2",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113784",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74574,6 +74574,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T08:55:52+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T09:01:47+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #3 シルバーズブラウン</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457359\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #1 花茶</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457355",
+   "delivered": []
+  }
+ ]
 }
