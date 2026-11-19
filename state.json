@@ -8233,7 +8233,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/new-drawer-spoon-2025-1091-color",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -34230,7 +34230,7 @@
    "tag": ""
   },
   "zk15396717134098": {
-   "name": "RCライオンフック(フッ素)",
+   "name": "ロデオクラフト RCライオンフック(フッ素)",
    "price": null,
    "price_text": "643 ¥",
    "spec": "",
@@ -74574,6 +74574,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T10:11:02+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T10:16:09+03:00",
+ "pending_notifications": [
+  {
+   "text": "♻️ <b>Снова в наличии (1)</b>:\n\n<b>New Drawer Spoon 2025 winter 1091 color（ニュードロワースプーン2025冬 1091カラー）</b>\n🥄 блесна\n550 ¥\n🏬 t-Route\nhttps://t-route.net/products/new-drawer-spoon-2025-1091-color",
+   "delivered": []
+  }
+ ]
 }
