@@ -1589,6 +1589,13 @@
    "price": 1705,
    "stock": 15
   },
+  "53360101GLQ01139": {
+   "name": "ディスプラウト メガガメクラ F",
+   "spec": "#伊勢崎店 オリカラ 神楽 68mm 3.5g フローティング",
+   "code": "4548393385046",
+   "price": 1705,
+   "stock": 34
+  },
   "53360101GLQ01140": {
    "name": "ディスプラウト メガガメクラ F",
    "spec": "#伊勢崎店 オリカラ 美鬼 68mm 3.5g フローティング",
@@ -1833,13 +1840,6 @@
    "code": "4514447276172",
    "price": 1650,
    "stock": 34
-  },
-  "53360101GLJ01736": {
-   "name": "ラッキークラフト ワウ  40HFG2",
-   "spec": "# しみぱん(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
-   "code": "4514447313082",
-   "price": 1650,
-   "stock": 35
   },
   "53360101GK801511": {
    "name": "ラッキークラフト ワウ  40HFG2",
@@ -2473,7 +2473,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-carbon-wallet-1091-color-rcカーボンワレット1091カラー",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -22117,7 +22117,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/t-connection-net-stand-ティーコネクションネットスタンド",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74586,6 +74586,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T11:05:53+03:00",
+ "last_check": "2026-11-19T11:11:05+03:00",
  "pending_notifications": []
 }
