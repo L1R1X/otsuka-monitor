@@ -1834,6 +1834,13 @@
    "price": 1540,
    "stock": 40
   },
+  "53360101GLS01062": {
+   "name": "ラッキークラフト ワウ  40F #高崎店オリジナルカラー 鶯 40mm 3.0g フローティング",
+   "spec": "#高崎店オリジナルカラー 鶯 40mm 3.0g フローティング オオツカオリカラ",
+   "code": "4514447317103",
+   "price": 1540,
+   "stock": 69
+  },
   "53360101GIM01203": {
    "name": "ラッキークラフト ワウ  40HFG2",
    "spec": "# M.A01暁(宇都宮店オリカラ) 40mm 2.4g ハイフロート",
@@ -1972,7 +1979,7 @@
    "spec": "# M.A01暁(宇都宮店オリカラ) 30mm 2.9g エキストラシンキング ラトルin",
    "code": "4573632512167",
    "price": 1925,
-   "stock": 35
+   "stock": 34
   },
   "53360101GLX01275": {
    "name": "ロデオクラフト ウッサ XS",
@@ -2267,6 +2274,18 @@
    "code": "4582671335828",
    "price": 1650,
    "stock": 22
+  },
+  "tr15484235677910": {
+   "name": "Little Diner GANOFF Uchoten Color（リトルダイナー・ガノフ有頂天カラー）",
+   "price": null,
+   "price_text": "1 350 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/little-diner-ganoff-uchoten-color-リトルダイナー-ガノフ有頂天カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
   },
   "tr15480328814806": {
    "name": "Rattlin’ Shad 45F（ラトリンシャッド45F）",
@@ -74737,6 +74756,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T13:41:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T13:46:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ラッキークラフト ワウ  40F #高崎店オリジナルカラー 鶯 40mm 3.0g フローティング</b>\n🎨 расцветка  🐟 воблер\n#高崎店オリジナルカラー 鶯 40mm 3.0g フローティング オオツカオリカラ\n¥1,540 · в наличии: 69\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLS01062",
+   "delivered": []
+  }
+ ]
 }
