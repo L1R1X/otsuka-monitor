@@ -26473,7 +26473,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/rc-bevy-shad-ベビーシャッド",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -36956,7 +36956,7 @@
   "zk10251919556882": {
    "name": "ファットモカjr DR (F)1.5g",
    "price": null,
-   "price_text": "1 320 ¥",
+   "price_text": "1 584 ¥",
    "spec": "",
    "stock": 0,
    "shop": "Zarky",
@@ -74586,6 +74586,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T10:41:05+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T10:46:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "♻️ <b>Снова в наличии (1)</b>:\n\n<b>RC Bevy Shad（ベビーシャッド）</b>\n🐟 воблер\n1 520 ¥\n🏬 t-Route\nhttps://t-route.net/products/rc-bevy-shad-ベビーシャッド",
+   "delivered": []
+  }
+ ]
 }
