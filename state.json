@@ -58800,6 +58800,18 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194457360": {
+   "name": "DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ",
+   "price": null,
+   "price_text": "1,470 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194457360",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194457356": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
    "price": null,
@@ -62348,18 +62360,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192113788",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192113786": {
-   "name": "ValkeIN シャインライド NANO #ARK3",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192113786",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74581,6 +74581,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T05:11:12+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T05:16:00+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ</b>\n🎣 приманка\n1,470 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194457360",
+   "delivered": []
+  }
+ ]
 }
