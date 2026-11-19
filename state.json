@@ -2261,6 +2261,18 @@
    "price": 1650,
    "stock": 21
   },
+  "tr15484235677910": {
+   "name": "Little Diner GANOFF Uchoten Color（リトルダイナー・ガノフ有頂天カラー）",
+   "price": null,
+   "price_text": "0 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/little-diner-ganoff-uchoten-color-リトルダイナー-ガノフ有頂天カラー",
+   "extra": "нет в наличии",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr15480328814806": {
    "name": "Rattlin’ Shad 45F（ラトリンシャッド45F）",
    "price": null,
@@ -74574,6 +74586,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T10:21:05+03:00",
+ "last_check": "2026-11-19T10:25:57+03:00",
  "pending_notifications": []
 }
