@@ -33437,6 +33437,18 @@
    "prefiltered": false,
    "tag": ""
   },
+  "zk15419676066066": {
+   "name": "FULLCLIP マグドック ブラックFAS-146",
+   "price": null,
+   "price_text": "3 740 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "Zarky",
+   "link": "https://fishingshop-zarky.com/products/fullclip-マグドック-ブラック",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "zk15429296849170": {
    "name": "RCワウ37FⅡ 2.5g",
    "price": null,
@@ -74574,6 +74586,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T10:36:18+03:00",
+ "last_check": "2026-11-19T10:41:05+03:00",
  "pending_notifications": []
 }
