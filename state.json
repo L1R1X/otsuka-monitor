@@ -35574,7 +35574,7 @@
    "tag": ""
   },
   "zk10335343771922": {
-   "name": "ガノフ",
+   "name": "パームス ガノフ",
    "price": null,
    "price_text": "1 144 ¥",
    "spec": "",
@@ -58829,18 +58829,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194513464": {
-   "name": "TIMON ちび パニクラDR #VIBESオリーブ【FOCUS】",
-   "price": null,
-   "price_text": "1,360 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194513464",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194513355": {
    "name": "TIMON ちび パニクラSR-SS #霞オリーブ【FOCUS】",
    "price": null,
@@ -59929,18 +59917,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=193890802",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh193890775": {
-   "name": "DAIWA リバースニョロクレイジー 57F DR #デリシャスペレット",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193890775",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62365,6 +62341,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147566",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147532": {
+   "name": "ムカイ バックストローク 55SS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74586,6 +74586,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-19T12:01:36+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-19T12:05:56+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ バックストローク 55SS #カラオリRG</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147532\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530",
+   "delivered": []
+  }
+ ]
 }
