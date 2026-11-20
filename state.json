@@ -74719,6 +74719,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194559745": {
+   "name": "ヴァルケイン ブラックブラスト1.3g【1091カラー】",
+   "price": null,
+   "price_text": "638 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194559745",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194560066": {
+   "name": "ヴァルケイン スプーン各種 2026【1091カラー】",
+   "price": null,
+   "price_text": "583 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194560066",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki193088453": {
    "name": "【吉やオリカラ：アンノウン】 ムカイプラグ ポゴ38WG",
    "price": null,
@@ -74727,30 +74751,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=193088453",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki193088460": {
-   "name": "【吉やオリカラ：緑龍】 ムカイプラグ ポゴ38WG",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193088460",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki156478273": {
-   "name": "ロデオクラフト ファットモカ Jr. DR(SS)",
-   "price": null,
-   "price_text": "1,584 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=156478273",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74900,6 +74900,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-20T16:05:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-20T16:11:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ヴァルケイン ブラックブラスト1.3g【1091カラー】</b>\n🎨 расцветка\n638 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194559745\n\n<b>ヴァルケイン スプーン各種 2026【1091カラー】</b>\n🥄 блесна  🎨 расцветка\n583 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194560066",
+   "delivered": []
+  }
+ ]
 }
