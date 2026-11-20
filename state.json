@@ -65057,18 +65057,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh193262198": {
-   "name": "スミス くるん Type2 1.5g #04 クリアーレッド",
-   "price": null,
-   "price_text": "760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=193262198",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh193262190": {
    "name": "スミス くるん Type2 1.5g #03 FLレッドピンク",
    "price": null,
@@ -66265,6 +66253,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570819",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570812": {
+   "name": "ディスプラウト Reccoa 1.3g #4 シルバーWB",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570812",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74886,6 +74886,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T01:01:32+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T01:05:55+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ディスプラウト Reccoa 1.3g #4 シルバーWB</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570812",
+   "delivered": []
+  }
+ ]
 }
