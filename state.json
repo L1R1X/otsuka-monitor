@@ -2296,6 +2296,78 @@
    "price": 1650,
    "stock": 22
   },
+  "tr15492230971606": {
+   "name": "Upside Down Nyoro slim 45FS 1091 Color（さかさにょろスリム45FS 1091カラー）",
+   "price": null,
+   "price_text": "1 500 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/upside-down-nyoro-slim-45fs-1091-color-さかさにょろスリム45fs-1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr9385879896278": {
+   "name": "DainsleiF Un≠Control（ダーインスレイヴ アンコントロール）",
+   "price": null,
+   "price_text": "68 000 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/dainsleif-un-control-ダーインスレイヴ-アンコントロール",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15491326673110": {
+   "name": "BeRBie girl F TS Color（バービーガールF TSカラー）",
+   "price": null,
+   "price_text": "1 541 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/berbie-girl-f-ts-color-バービーガールf-tsカラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15491595927766": {
+   "name": "Little Diner GANOFF 1091 Color（リトルダイナー・ガノフ1091カラー）",
+   "price": null,
+   "price_text": "1 252 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/little-diner-ganoff-1091-color-リトルダイナー-ガノフ1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15492190929110": {
+   "name": "KUROBALL 1091 Color（クロボール1091カラー）",
+   "price": null,
+   "price_text": "636 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/kuroball-1091-color-クロボール1091カラー",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
+  "tr15492474274006": {
+   "name": "RC Fook Case RC-388DD（RCフックケース）",
+   "price": null,
+   "price_text": "1 600 ¥",
+   "spec": "",
+   "stock": 0,
+   "shop": "t-Route",
+   "link": "https://t-route.net/products/rc-fook-case-rc-388dd-rcフックケース-rc-388dd",
+   "extra": "",
+   "prefiltered": false,
+   "tag": ""
+  },
   "tr9302938190038": {
    "name": "Black Blast 2026 1091 color（ブラックブラスト2026年1091カラー）",
    "price": null,
@@ -74849,6 +74921,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-20T13:55:54+03:00",
+ "last_check": "2026-11-20T14:01:33+03:00",
  "pending_notifications": []
 }
