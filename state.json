@@ -59191,18 +59191,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194527376": {
-   "name": "パームス リトルダイナー ガノフ #三ヶ日みかん【1091】",
-   "price": null,
-   "price_text": "1,235 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527376",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194517079": {
    "name": "TIMON ブリブリミノーHF ラトル #VIBESオリーブ【FOCUS】",
    "price": null,
@@ -62679,6 +62667,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147566",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147532": {
+   "name": "ムカイ バックストローク 55SS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147532",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74900,6 +74900,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-20T16:11:05+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-20T16:16:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #カラオリRG</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147532",
+   "delivered": []
+  }
+ ]
 }
