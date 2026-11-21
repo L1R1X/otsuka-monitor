@@ -62662,30 +62662,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194527904": {
-   "name": "TIMON クロボール 2.0g #キラキラウォーターメロン【1091】",
-   "price": null,
-   "price_text": "625 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527904",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194527899": {
-   "name": "TIMON クロボール 2.0g #Gパン【1091】",
-   "price": null,
-   "price_text": "625 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527899",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194527888": {
    "name": "TIMON クロボール 2.0g #三ヶ日みかん【1091】",
    "price": null,
@@ -66258,6 +66234,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570819",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570812": {
+   "name": "ディスプラウト Reccoa 1.3g #4 シルバーWB",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570812",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570803": {
+   "name": "ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570803",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74879,6 +74879,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T06:21:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T06:26:01+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ディスプラウト Reccoa 1.3g #4 シルバーWB</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570812\n\n<b>ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570803",
+   "delivered": []
+  }
+ ]
 }
