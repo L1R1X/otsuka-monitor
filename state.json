@@ -182,13 +182,6 @@
    "price": 627,
    "stock": 9
   },
-  "53360101GKS00856": {
-   "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g",
-   "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKS00856 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ピンクロビン 2.8g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.8g オオツカオリカラ",
-   "code": "4573265537728",
-   "price": 627,
-   "stock": 0
-  },
   "53360101GKH00352": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g",
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKH00352 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート（旧ブレイブ 2.8g） #伊勢崎店オリカラ ペレゴン 2.8g \")\n\n#伊勢崎店オリカラ ペレゴン 2.8g オオツカオリカラ",
@@ -59453,18 +59446,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194435330": {
-   "name": "ロデオクラフト ファットモカJr DR SS #21ノブ",
-   "price": null,
-   "price_text": "1,595 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194435330",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435319": {
    "name": "ロデオクラフト ファットモカJr DR F #FOCUSおまめ",
    "price": null,
@@ -62665,6 +62646,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240899",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240888": {
+   "name": "アンデッドファクトリー レム 23HFSR #マッドハウス",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240888",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74886,6 +74879,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T06:15:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T06:21:07+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>アンデッドファクトリー レム 23HFSR #マッドハウス</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240888",
+   "delivered": []
+  }
+ ]
 }
