@@ -74812,6 +74812,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194367704": {
+   "name": "ニシネルアーワークス エリー78SD",
+   "price": null,
+   "price_text": "2,530 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194367704",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194367720": {
+   "name": "ニシネルアーワークス エリー78MD",
+   "price": null,
+   "price_text": "2,530 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194367720",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194466146": {
    "name": "Zeque（ゼクー） シェリー(Sherry) F-2280",
    "price": null,
@@ -74907,32 +74931,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki193816005": {
-   "name": "ディスタイル SYUU-CHIN-GAN(シュウチンガン）16mm",
-   "price": null,
-   "price_text": "1,045 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=193816005",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194354235": {
-   "name": "レイドジャパン RJ ブラックボックス 4500 タイプシャロー",
-   "price": null,
-   "price_text": "4,950 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194354235",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T12:21:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T12:25:54+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ニシネルアーワークス エリー78SD</b>\n⭐ рекомендует магазин\n2,530 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194367704\n\n<b>ニシネルアーワークス エリー78MD</b>\n⭐ рекомендует магазин\n2,530 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194367720",
+   "delivered": []
+  }
+ ]
 }
