@@ -59093,6 +59093,78 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
+  "jh194528413": {
+   "name": "スミス 団子魚 DR-Low #スケスケピンク【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528413",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194528402": {
+   "name": "スミス 団子魚 DR-Low #オラオラオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528402",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194528397": {
+   "name": "スミス 団子魚 DR-Low #キヨスミクリア【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528397",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194528385": {
+   "name": "スミス ダンゴウオSR-Low #スケスケピンク【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528385",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194528381": {
+   "name": "スミス ダンゴウオSR-Low #オラオラオレンジ【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528381",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194528372": {
+   "name": "スミス ダンゴウオSR-Low #キヨスミクリア【有頂天】",
+   "price": null,
+   "price_text": "1,330 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194528372",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194527811": {
    "name": "ValkeIN ライオーム #マットメタルブラウン",
    "price": null,
@@ -62593,78 +62665,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240884",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240744": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラレッドグロー",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240744",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192240740": {
-   "name": "オフィスユーカリ custom マイクロシケイダー S #ぶちブラペレット",
-   "price": null,
-   "price_text": "1,500 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192240740",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189487": {
-   "name": "ARKITECT デスロール エクソルダイブ #稲穂虫【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189487",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189482": {
-   "name": "ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189482",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189473": {
-   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189473",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192189462": {
-   "name": "ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO'S】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192189462",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74886,6 +74886,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T05:31:28+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T05:35:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (6)</b>:\n\n<b>スミス 団子魚 DR-Low #スケスケピンク【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528413\n\n<b>スミス 団子魚 DR-Low #オラオラオレンジ【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528402\n\n<b>スミス 団子魚 DR-Low #キヨスミクリア【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528397\n\n<b>スミス ダンゴウオSR-Low #スケスケピンク【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528385\n\n<b>スミス ダンゴウオSR-Low #オラオラオレンジ【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528381\n\n<b>スミス ダンゴウオSR-Low #キヨスミクリア【有頂天】</b>\n🎨 расцветка\n1,330 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194528372",
+   "delivered": []
+  }
+ ]
 }
