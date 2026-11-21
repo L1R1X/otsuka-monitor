@@ -74827,6 +74827,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194574207": {
+   "name": "デプス サカマタシャッド5インチ",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194574207",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194574216": {
    "name": "デプス サカマタシャッド4.5インチ",
    "price": null,
@@ -74886,20 +74898,13 @@
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
-  },
-  "ki194068722": {
-   "name": "デプス フリルドシャッド3.7インチ",
-   "price": null,
-   "price_text": "1,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194068722",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T11:21:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T11:25:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>デプス サカマタシャッド5インチ</b>\n🐟 воблер\n1,100 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194574207",
+   "delivered": []
+  }
+ ]
 }
