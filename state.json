@@ -2391,7 +2391,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/little-diner-ganoff-uchoten-color-リトルダイナー-ガノフ有頂天カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -5151,7 +5151,7 @@
    "stock": 0,
    "shop": "t-Route",
    "link": "https://t-route.net/products/mukai-plug-2026-uchoten-color-ムカイプラグ2026年有頂天カラー",
-   "extra": "нет в наличии",
+   "extra": "",
    "prefiltered": false,
    "tag": ""
   },
@@ -33548,7 +33548,7 @@
    "tag": ""
   },
   "zk15430655410450": {
-   "name": "クロボール 1091カラー 26年11月発売",
+   "name": "クロボール2.0g 1091カラー 26年11月発売",
    "price": null,
    "price_text": "653 ¥",
    "spec": "",
@@ -74900,6 +74900,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T11:11:09+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T11:16:08+03:00",
+ "pending_notifications": [
+  {
+   "text": "♻️ <b>Снова в наличии (1)</b>:\n\n<b>Mukai Plug 2026 Uchoten Color（ムカイプラグ2026年有頂天カラー）</b>\n🐟 воблер\n1 496 ¥\n🏬 t-Route\nhttps://t-route.net/products/mukai-plug-2026-uchoten-color-ムカイプラグ2026年有頂天カラー",
+   "delivered": []
+  }
+ ]
 }
