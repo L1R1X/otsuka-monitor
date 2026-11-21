@@ -62717,18 +62717,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194527775": {
-   "name": "ValkeIN ブラックブラスト 1.8g #メロンソーダ【1091】",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527775",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194527743": {
    "name": "ValkeIN ブラックブラスト 2.2g #ブロンズエンド【1091】",
    "price": null,
@@ -66265,6 +66253,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570812",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570803": {
+   "name": "ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570803",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74886,6 +74886,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T03:21:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T03:26:14+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570803",
+   "delivered": []
+  }
+ ]
 }
