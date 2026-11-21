@@ -63053,18 +63053,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240872": {
-   "name": "ウォーターランド アルミん 4.3g #NC06 オレンジ/イエローカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240872",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240828": {
    "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
    "price": null,
@@ -63089,18 +63077,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240799": {
-   "name": "ウォーターランド アルミん 4.3g #NC03 Pホワイト/チャートカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240785": {
    "name": "ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ",
    "price": null,
@@ -63109,18 +63085,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240785",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240771": {
-   "name": "ウォーターランド アルミん 4.3g #NC01 ピンク/ブラウンカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240771",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66277,6 +66241,42 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570803",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570799": {
+   "name": "ディスプラウト Reccoa 1.3g #2 グリーンメタル",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570799",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570787": {
+   "name": "ディスプラウト Reccoa 1.3g #1 アカオレゴールド",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570787",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192532059": {
+   "name": "アンカーコア セロ Cerro 1.2g #ブランク 3個入",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532059",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74898,6 +74898,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T19:11:05+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T19:16:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ディスプラウト Reccoa 1.3g #2 グリーンメタル</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570799\n\n<b>ディスプラウト Reccoa 1.3g #1 アカオレゴールド</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570787\n\n<b>アンカーコア セロ Cerro 1.2g #ブランク 3個入</b>\n🎣 приманка\n1,100 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192532059",
+   "delivered": []
+  }
+ ]
 }
