@@ -614,7 +614,7 @@
    "spec": "#4kd 0.6g",
    "code": "4573119919809",
    "price": 605,
-   "stock": 10
+   "stock": 9
   },
   "53360101GJ000991": {
    "name": "なぶら家 チップ  0.6g #マイスター H.E01 0.6g",
@@ -628,7 +628,7 @@
    "spec": "#4kd 0.8g",
    "code": "4573119919816",
    "price": 605,
-   "stock": 10
+   "stock": 9
   },
   "53360101GJ000992": {
    "name": "なぶら家 チップ  0.8g #マイスター H.E01 0.8g",
@@ -719,14 +719,14 @@
    "spec": "#F.S01 グローSP 29mm 1.8g 熊谷店オリカラ",
    "code": "4570040685193",
    "price": 605,
-   "stock": 21
+   "stock": 20
   },
-  "53360101GL500777": {
-   "name": "アルフレッド アルフスプーン ディープアルフ 2.1g #F.S01 グローSP 24mm 2.1g",
-   "spec": "#F.S01 グローSP 24mm 2.1g 熊谷店オリカラ",
-   "code": "4570040685230",
-   "price": 605,
-   "stock": 0
+  "53360101GLP01048": {
+   "name": "アングラーズシステム ドーナ  1.3g",
+   "spec": "#ゴールドロップ 1.3g 谷山オリカラ",
+   "code": "4570150705170",
+   "price": 627,
+   "stock": 1
   },
   "53360101GLS00851": {
    "name": "アートフィッシング 忠さんスプーン ノーザンバイト 11g #2026 マーベラスグリーン 11g",
@@ -74590,14 +74590,86 @@
    "prefiltered": true,
    "tag": ""
   },
-  "ki111293320": {
-   "name": "ティモン ブリブリミノー",
+  "ki194554262": {
+   "name": "1089工房 さかさにょろスリム45FS【1091カラー】",
    "price": null,
-   "price_text": "1,416 ¥(税込)",
+   "price_text": "1,650 ¥(税込)",
    "spec": "",
    "stock": 0,
    "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=111293320",
+   "link": "https://www.kitiya.jp/?pid=194554262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194530819": {
+   "name": "ロデオクラフト RCフックケース RC-388DD 【ブラウンモカ】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194530819",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194550873": {
+   "name": "ロブルアー パンチ 爆釣チューン【谷山商事オリジナルカラー マルドリRG】",
+   "price": null,
+   "price_text": "1,210 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194550873",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194560652": {
+   "name": "ヴァルケイン ダーインスレイヴ アンコントロール6'0UL-sp",
+   "price": null,
+   "price_text": "67,320 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194560652",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194550871": {
+   "name": "ロブルアー バービーガールF【谷山商事オリジナルカラー】",
+   "price": null,
+   "price_text": "1,760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194550871",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194557726": {
+   "name": "ティモン クロボール KUROBALL 2.0g【1091カラー】",
+   "price": null,
+   "price_text": "726 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194557726",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194523420": {
+   "name": "アルフレッド アルフレッドスプーン 1.7g",
+   "price": null,
+   "price_text": "638 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194523420",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74638,6 +74710,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki111293320": {
+   "name": "ティモン ブリブリミノー",
+   "price": null,
+   "price_text": "1,416 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=111293320",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194508477": {
    "name": "ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）",
    "price": null,
@@ -74646,90 +74730,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194508477",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194523420": {
-   "name": "アルフレッド アルフレッドスプーン 1.7g",
-   "price": null,
-   "price_text": "638 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194523420",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194525348": {
-   "name": "ムカイ ほそまき HOSOMAKI 左巻き",
-   "price": null,
-   "price_text": "847 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194525348",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194530819": {
-   "name": "ロデオクラフト RCフックケース RC-388DD 【ブラウンモカ】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194530819",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194550871": {
-   "name": "ロブルアー バービーガールF【谷山商事オリジナルカラー】",
-   "price": null,
-   "price_text": "1,760 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194550871",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194550873": {
-   "name": "ロブルアー パンチ 爆釣チューン【谷山商事オリジナルカラー マルドリRG】",
-   "price": null,
-   "price_text": "1,210 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194550873",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194554262": {
-   "name": "1089工房 さかさにょろスリム45FS【1091カラー】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194554262",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194557726": {
-   "name": "ティモン クロボール KUROBALL 2.0g【1091カラー】",
-   "price": null,
-   "price_text": "726 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194557726",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74879,6 +74879,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T07:35:58+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T07:41:05+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>アングラーズシステム ドーナ  1.3g</b>\n🥄 блесна\n#ゴールドロップ 1.3g 谷山オリカラ\n¥627 · в наличии: 1\nhttps://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLP01048\n\n<b>ヴァルケイン ダーインスレイヴ アンコントロール6&#x27;0UL-sp</b>\n⭐ рекомендует магазин\n67,320 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194560652",
+   "delivered": []
+  }
+ ]
 }
