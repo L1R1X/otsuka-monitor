@@ -59098,18 +59098,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194528402": {
-   "name": "スミス 団子魚 DR-Low #オラオラオレンジ【有頂天】",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194528402",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194528397": {
    "name": "スミス 団子魚 DR-Low #キヨスミクリア【有頂天】",
    "price": null,
@@ -62658,6 +62646,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192240888",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192240884": {
+   "name": "アンデッドファクトリー レム 23HFSR #ブルヘリオン",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192240884",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74602,18 +74602,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki178717937": {
-   "name": "地方予選 2026年 11月22日 吉や×ディスプラウトCUP エントリー",
-   "price": null,
-   "price_text": "0 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=178717937",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki192246386": {
    "name": "ヴァルケイン ダーインスレイヴ アンコントロール6'2L-sp",
    "price": null,
@@ -74710,6 +74698,30 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194554262": {
+   "name": "1089工房 さかさにょろスリム45FS【1091カラー】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194554262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194557726": {
+   "name": "ティモン クロボール KUROBALL 2.0g【1091カラー】",
+   "price": null,
+   "price_text": "726 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194557726",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194559745": {
    "name": "ヴァルケイン ブラックブラスト1.3g【1091カラー】",
    "price": null,
@@ -74718,18 +74730,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194559745",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194560066": {
-   "name": "ヴァルケイン スプーン各種 2026【1091カラー】",
-   "price": null,
-   "price_text": "583 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194560066",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74879,6 +74879,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T07:25:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T07:31:16+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>アンデッドファクトリー レム 23HFSR #ブルヘリオン</b>\n🎣 приманка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192240884\n\n<b>1089工房 さかさにょろスリム45FS【1091カラー】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194554262\n\n<b>ティモン クロボール KUROBALL 2.0g【1091カラー】</b>\n🎨 расцветка\n726 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194557726",
+   "delivered": []
+  }
+ ]
 }
