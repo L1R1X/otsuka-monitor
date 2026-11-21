@@ -1405,7 +1405,7 @@
    "spec": "#川越店オリカラ スプラッシュグロー 24mm 1.5g フローティング",
    "code": "4515744190017",
    "price": 1650,
-   "stock": 11
+   "stock": 7
   },
   "53360101GLM00749": {
    "name": "タックルハウス エルフィン マイクロシケイダー F #高崎店オリジナルカラー 神姫 24mm 1.5g フローティング",
@@ -1524,7 +1524,7 @@
    "spec": "#スプラッシュグロー 44mm 2.3g フローティング オオツカオリカラ",
    "code": "4548393355940",
    "price": 1760,
-   "stock": 3
+   "stock": 0
   },
   "53360101GLS00849": {
    "name": "ディスプラウト クラピー ディープG2 ディスプラウト",
@@ -74650,6 +74650,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194523420": {
+   "name": "アルフレッド アルフレッドスプーン 1.7g",
+   "price": null,
+   "price_text": "638 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194523420",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194525348": {
    "name": "ムカイ ほそまき HOSOMAKI 左巻き",
    "price": null,
@@ -74718,18 +74730,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194557726",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194559745": {
-   "name": "ヴァルケイン ブラックブラスト1.3g【1091カラー】",
-   "price": null,
-   "price_text": "638 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194559745",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74879,6 +74879,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T07:31:16+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T07:35:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>アルフレッド アルフレッドスプーン 1.7g</b>\n🥄 блесна\n638 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194523420",
+   "delivered": []
+  }
+ ]
 }
