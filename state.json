@@ -719,21 +719,21 @@
    "spec": "#F.S01 グローSP 24mm 1.5g 熊谷店オリカラ",
    "code": "4570040685186",
    "price": 605,
-   "stock": 31
+   "stock": 26
   },
   "53360101GL500773": {
    "name": "アルフレッド アルフスプーン  1.8g #F.S01 グローSP 29mm 1.8g",
    "spec": "#F.S01 グローSP 29mm 1.8g 熊谷店オリカラ",
    "code": "4570040685193",
    "price": 605,
-   "stock": 25
+   "stock": 21
   },
   "53360101GL500777": {
    "name": "アルフレッド アルフスプーン ディープアルフ 2.1g #F.S01 グローSP 24mm 2.1g",
    "spec": "#F.S01 グローSP 24mm 2.1g 熊谷店オリカラ",
    "code": "4570040685230",
    "price": 605,
-   "stock": 5
+   "stock": 1
   },
   "53360101GLS00851": {
    "name": "アートフィッシング 忠さんスプーン ノーザンバイト 11g #2026 マーベラスグリーン 11g",
@@ -59069,6 +59069,30 @@
    "prefiltered": false,
    "tag": ""
   },
+  "jh194546969": {
+   "name": "ロブルアー パンチ ボトム 爆釣チューン #マルドリRG【TSカラー】",
+   "price": null,
+   "price_text": "1,045 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194546969",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh194546917": {
+   "name": "ロブルアー バービーガール F #リエット【TSカラー】",
+   "price": null,
+   "price_text": "1,520 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194546917",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
   "jh194527811": {
    "name": "ValkeIN ライオーム #マットメタルブラウン",
    "price": null,
@@ -62645,30 +62669,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192147532": {
-   "name": "ムカイ バックストローク 55SS #カラオリRG",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147532",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh192147530": {
-   "name": "ムカイ バックストローク 55SS #オリオリグロー",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147530",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194527904": {
    "name": "TIMON クロボール 2.0g #キラキラウォーターメロン【1091】",
    "price": null,
@@ -65069,6 +65069,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193262198": {
+   "name": "スミス くるん Type2 1.5g #04 クリアーレッド",
+   "price": null,
+   "price_text": "760 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193262198",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193262190": {
    "name": "スミス くるん Type2 1.5g #03 FLレッドピンク",
    "price": null,
@@ -66253,18 +66265,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570869",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570819": {
-   "name": "ディスプラウト Reccoa 1.3g #5 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570819",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74886,6 +74886,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-21T04:25:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-21T04:31:20+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ロブルアー パンチ ボトム 爆釣チューン #マルドリRG【TSカラー】</b>\n🎨 расцветка\n1,045 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194546969\n\n<b>ロブルアー バービーガール F #リエット【TSカラー】</b>\n🎨 расцветка\n1,520 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194546917\n\n<b>スミス くるん Type2 1.5g #04 クリアーレッド</b>\n🎣 приманка\n760 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193262198",
+   "delivered": []
+  }
+ ]
 }
