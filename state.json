@@ -59111,18 +59111,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194546907": {
-   "name": "ロブルアー バービーガール F #チェイスタ【TSカラー】",
-   "price": null,
-   "price_text": "1,520 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194546907",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194528413": {
    "name": "スミス 団子魚 DR-Low #スケスケピンク【有頂天】",
    "price": null,
@@ -59143,18 +59131,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194528385",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194528372": {
-   "name": "スミス ダンゴウオSR-Low #キヨスミクリア【有頂天】",
-   "price": null,
-   "price_text": "1,330 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194528372",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -62683,6 +62659,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189487",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189482": {
+   "name": "ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189482",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189473": {
+   "name": "ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189473",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74904,6 +74904,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T21:36:06+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T21:41:09+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #焼きまんレッドグロー【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189482\n\n<b>ARKITECT デスロール エクソルダイブ #ストーンサウザン【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189473",
+   "delivered": []
+  }
+ ]
 }
