@@ -59159,18 +59159,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194527794": {
-   "name": "1089工房 さかさにょろ SLIM 45FS #Gパン【1091】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527794",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194527790": {
    "name": "1089工房 さかさにょろ SLIM 45FS #カフェシャレッドグロー【1091】",
    "price": null,
@@ -62683,6 +62671,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189473",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192189462": {
+   "name": "ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO'S】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192189462",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74904,6 +74904,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T00:46:04+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T00:51:20+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ARKITECT デスロール エクソルダイブ #GOKABO(グロー)【HERO&#x27;S】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192189462",
+   "delivered": []
+  }
+ ]
 }
