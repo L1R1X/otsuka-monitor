@@ -62972,6 +62972,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194248204": {
+   "name": "サウリブ Shaath シャース 0.75g #25 やまかがし",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194248204",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194241209": {
    "name": "ウォーターランド アルミん 5.0g #NC06 オレンジ/イエローカモ",
    "price": null,
@@ -63208,6 +63220,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194239772",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200288": {
+   "name": "サウリブ Shaath シャース 0.75g #20 クリームラメ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200288",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194200232": {
+   "name": "サウリブ Shaath シャース 0.75g #19 金虫",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194200232",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66220,42 +66256,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570803",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570799": {
-   "name": "ディスプラウト Reccoa 1.3g #2 グリーンメタル",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570787": {
-   "name": "ディスプラウト Reccoa 1.3g #1 アカオレゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570787",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192532059": {
-   "name": "アンカーコア セロ Cerro 1.2g #ブランク 3個入",
-   "price": null,
-   "price_text": "1,100 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192532059",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74877,6 +74877,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T04:05:52+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T04:10:59+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>サウリブ Shaath シャース 0.75g #25 やまかがし</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194248204\n\n<b>サウリブ Shaath シャース 0.75g #20 クリームラメ</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194200288\n\n<b>サウリブ Shaath シャース 0.75g #19 金虫</b>\n🥄 блесна\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194200232",
+   "delivered": []
+  }
+ ]
 }
