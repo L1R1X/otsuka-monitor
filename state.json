@@ -5,7 +5,7 @@
    "spec": "[FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g）](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GKL02376 \"FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ 家畜オリバリン 1.7g オオツカオリカラ\")\n\n#伊勢崎店オリカラ 家畜オリバリン 1.7g オオツカオリカラ",
    "code": "4573265536523",
    "price": 627,
-   "stock": 43
+   "stock": 41
   },
   "53360101GKH00363": {
    "name": "FPBルアーズ ビリーブ（旧フロンティア） ビリーブ（旧フロンティア 1.7g） #伊勢崎店オリカラ 家畜パール 1.7g オオツカオリカラ",
@@ -74715,18 +74715,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194560652": {
-   "name": "ヴァルケイン ダーインスレイヴ アンコントロール6'0UL-sp",
-   "price": null,
-   "price_text": "67,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194560652",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194550871": {
    "name": "ロブルアー バービーガールF【谷山商事オリジナルカラー】",
    "price": null,
@@ -74795,6 +74783,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=111293320",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194508477": {
+   "name": "ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）",
+   "price": null,
+   "price_text": "1,564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194508477",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74944,6 +74944,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T09:21:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T09:25:58+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）</b>\n🐟 воблер\n1,564 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194508477",
+   "delivered": []
+  }
+ ]
 }
