@@ -74763,18 +74763,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki192246386": {
-   "name": "ヴァルケイン ダーインスレイヴ アンコントロール6'2L-sp",
-   "price": null,
-   "price_text": "67,320 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=192246386",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194375216": {
    "name": "エバーグリーン クラッシュダイバーF",
    "price": null,
@@ -74795,6 +74783,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=194508476",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki111293320": {
+   "name": "ティモン ブリブリミノー",
+   "price": null,
+   "price_text": "1,416 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=111293320",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74944,6 +74944,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T09:11:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T09:16:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ティモン ブリブリミノー</b>\n🐟 воблер\n1,416 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=111293320",
+   "delivered": []
+  }
+ ]
 }
