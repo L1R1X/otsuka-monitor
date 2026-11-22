@@ -63044,6 +63044,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240872": {
+   "name": "ウォーターランド アルミん 4.3g #NC06 オレンジ/イエローカモ",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240872",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240828": {
    "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
    "price": null,
@@ -63068,6 +63080,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh194240799": {
+   "name": "ウォーターランド アルミん 4.3g #NC03 Pホワイト/チャートカモ",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240799",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh194240785": {
    "name": "ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ",
    "price": null,
@@ -63076,6 +63100,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=194240785",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh194240771": {
+   "name": "ウォーターランド アルミん 4.3g #NC01 ピンク/ブラウンカモ",
+   "price": null,
+   "price_text": "750 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=194240771",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -66220,42 +66256,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570869",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570819": {
-   "name": "ディスプラウト Reccoa 1.3g #5 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570819",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570812": {
-   "name": "ディスプラウト Reccoa 1.3g #4 シルバーWB",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570812",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570803": {
-   "name": "ディスプラウト Reccoa 1.3g #3 ゴールディーオリーブ",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570803",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74877,6 +74877,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T04:10:59+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T04:16:08+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ウォーターランド アルミん 4.3g #NC06 オレンジ/イエローカモ</b>\n🎣 приманка\n750 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194240872\n\n<b>ウォーターランド アルミん 4.3g #NC03 Pホワイト/チャートカモ</b>\n🎣 приманка\n750 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194240799\n\n<b>ウォーターランド アルミん 4.3g #NC01 ピンク/ブラウンカモ</b>\n🎣 приманка\n750 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=194240771",
+   "delivered": []
+  }
+ ]
 }
