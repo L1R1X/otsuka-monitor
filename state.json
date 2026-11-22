@@ -131,7 +131,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01414 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コバタン 2.3g \")\n\n#伊勢崎店オリカラ コバタン 2.3g",
    "code": "4573640553350",
    "price": 627,
-   "stock": 1
+   "stock": 2
   },
   "53360101GLZ01418": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ コンゴウ 2.3g",
@@ -145,7 +145,7 @@
    "spec": "[FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLZ01416 \"FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ピンクロビン 2.3g \")\n\n#伊勢崎店オリカラ ピンクロビン 2.3g",
    "code": "4573640553343",
    "price": 627,
-   "stock": 17
+   "stock": 16
   },
   "53360101GLZ01415": {
    "name": "FPBルアーズ ビーハート（旧ブレイブ） ビーハート 2.3g #伊勢崎店オリカラ ペレゴン 2.3g",
@@ -1377,7 +1377,7 @@
    "spec": "#スプリンクルRG 34mm 2.9g オオツカオリカラ 川越店オリカラ",
    "code": "4514447315666",
    "price": 1760,
-   "stock": 18
+   "stock": 19
   },
   "53360101GLP01032": {
    "name": "ゲート ミディアムクラピー GS2 #ディアボロ 34mm 2.9g オオツカオリカラ",
@@ -64784,6 +64784,18 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
+  "jh193463520": {
+   "name": "オフィスユーカリ B-SPA Tik 2.0g #S5 サーキットBスノー",
+   "price": null,
+   "price_text": "845 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=193463520",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
   "jh193463511": {
    "name": "オフィスユーカリ B-SPA Tik 2.0g #S4 サーキットミリタリー",
    "price": null,
@@ -66304,18 +66316,6 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570869",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh192570819": {
-   "name": "ディスプラウト Reccoa 1.3g #5 一撃ゴールド",
-   "price": null,
-   "price_text": "550 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192570819",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74937,6 +74937,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T06:41:03+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T06:46:04+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>オフィスユーカリ B-SPA Tik 2.0g #S5 サーキットBスノー</b>\n🎣 приманка\n845 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=193463520",
+   "delivered": []
+  }
+ ]
 }
