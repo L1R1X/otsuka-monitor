@@ -62732,18 +62732,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194527899": {
-   "name": "TIMON クロボール 2.0g #Gパン【1091】",
-   "price": null,
-   "price_text": "625 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194527899",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194527888": {
    "name": "TIMON クロボール 2.0g #三ヶ日みかん【1091】",
    "price": null,
@@ -66316,6 +66304,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570961",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192570912": {
+   "name": "ディスプラウト Reccoa 1.3g #7 フレッシュオリーブ",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192570912",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74937,6 +74937,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-22T10:16:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-22T10:21:10+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ディスプラウト Reccoa 1.3g #7 フレッシュオリーブ</b>\n🎣 приманка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192570912",
+   "delivered": []
+  }
+ ]
 }
