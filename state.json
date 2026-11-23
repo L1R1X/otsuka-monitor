@@ -62663,18 +62663,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh192147566": {
-   "name": "ムカイ POGOCRA 30DR F #GARASHI",
-   "price": null,
-   "price_text": "1,425 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192147566",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh192147532": {
    "name": "ムカイ バックストローク 55SS #カラオリRG",
    "price": null,
@@ -62683,6 +62671,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147532",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147530": {
+   "name": "ムカイ バックストローク 55SS #オリオリグロー",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147530",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74904,6 +74904,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T05:55:57+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T06:01:26+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ムカイ バックストローク 55SS #オリオリグロー</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147530",
+   "delivered": []
+  }
+ ]
 }
