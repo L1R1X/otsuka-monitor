@@ -264,7 +264,7 @@
    "spec": "#伊勢崎店オリカラ 家畜オリバリン 0.7g",
    "code": "4573265536585",
    "price": 627,
-   "stock": 24
+   "stock": 22
   },
   "53360101GKH00349": {
    "name": "FPBルアーズ フロンティア タブー フロンティアタブー 0.7g",
@@ -355,7 +355,7 @@
    "spec": "#伊勢崎店オリカラ 家畜オリバリン 0.7g",
    "code": "4573265536790",
    "price": 627,
-   "stock": 55
+   "stock": 53
   },
   "53360101GKL02358": {
    "name": "FPBルアーズ ベリーズ  0.7g",
@@ -425,7 +425,7 @@
    "spec": "#伊勢崎店オリカラ 家畜オリバリン 1.0g オオツカオリカラ",
    "code": "4573265536721",
    "price": 627,
-   "stock": 35
+   "stock": 33
   },
   "53360101GKL02357": {
    "name": "FPBルアーズ ベリーズ  1.0g",
@@ -481,7 +481,7 @@
    "spec": "#伊勢崎店オリカラ 家畜オリバリン 1.3g",
    "code": "4573265536653",
    "price": 627,
-   "stock": 37
+   "stock": 33
   },
   "53360101GKL02373": {
    "name": "FPBルアーズ ベリーズ  1.3g",
@@ -1027,7 +1027,7 @@
    "spec": "[ロデオクラフト ノア 2.1g](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLX00202 \"ロデオクラフト ノア  2.1g #F.S01ホロリウム 2.1g 表ハンマード仕様\")\n\n#F.S01ホロリウム 2.1g 表ハンマード仕様 熊谷店オリカラ",
    "code": "4573632515243",
    "price": 605,
-   "stock": 26
+   "stock": 17
   },
   "53360101GLU00445": {
    "name": "ロデオクラフト ノア -G 11g #F.S01グローSP 11g",
@@ -1790,14 +1790,14 @@
    "spec": "#高崎店オリジナルカラー 煤 33mm 1.7g フローティング オオツカオリカラ",
    "code": "4514447320400",
    "price": 1540,
-   "stock": 47
+   "stock": 46
   },
   "53360101GLZ01189": {
    "name": "ラッキークラフト ワウ  37F #高崎店オリジナルカラー 煤 37mm 2.3g フローティング",
    "spec": "#高崎店オリジナルカラー 煤 37mm 2.3g フローティング オオツカオリカラ",
    "code": "4514447320080",
    "price": 1540,
-   "stock": 3
+   "stock": 2
   },
   "53360101GLZ01144": {
    "name": "ラッキークラフト ワウ  37F #ゴマレグ 37mm 2.3g フローティング",
@@ -63066,66 +63066,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh194240872": {
-   "name": "ウォーターランド アルミん 4.3g #NC06 オレンジ/イエローカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240872",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240828": {
-   "name": "ウォーターランド アルミん 4.3g #NC05 トロピカルカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240828",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240813": {
-   "name": "ウォーターランド アルミん 4.3g #NC04 ピンク/レッドカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240813",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240799": {
-   "name": "ウォーターランド アルミん 4.3g #NC03 Pホワイト/チャートカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240799",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
-  "jh194240785": {
-   "name": "ウォーターランド アルミん 4.3g #NC02 オレンジ/レッドカモ",
-   "price": null,
-   "price_text": "750 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194240785",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh194240771": {
    "name": "ウォーターランド アルミん 4.3g #NC01 ピンク/ブラウンカモ",
    "price": null,
@@ -66290,6 +66230,66 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192570787",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192532059": {
+   "name": "アンカーコア セロ Cerro 1.2g #ブランク 3個入",
+   "price": null,
+   "price_text": "1,100 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192532059",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192500184": {
+   "name": "KARTELLAS ウルキ22 Type HV #12 ライム",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192500184",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192500182": {
+   "name": "KARTELLAS ウルキ22 Type HV #11 レモン",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192500182",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192500177": {
+   "name": "KARTELLAS ウルキ22 Type HV #10 桜",
+   "price": null,
+   "price_text": "1,300 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192500177",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192325378": {
+   "name": "ValkeIN ブラックブラスト 2.2g #イケイケゴールド【有頂天】",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325378",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74911,6 +74911,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T09:31:22+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T09:36:11+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (5)</b>:\n\n<b>アンカーコア セロ Cerro 1.2g #ブランク 3個入</b>\n🎣 приманка\n1,100 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192532059\n\n<b>KARTELLAS ウルキ22 Type HV #12 ライム</b>\n🎣 приманка\n1,300 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192500184\n\n<b>KARTELLAS ウルキ22 Type HV #11 レモン</b>\n🎣 приманка\n1,300 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192500182\n\n<b>KARTELLAS ウルキ22 Type HV #10 桜</b>\n🎣 приманка\n1,300 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192500177\n\n<b>ValkeIN ブラックブラスト 2.2g #イケイケゴールド【有頂天】</b>\n🎨 расцветка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192325378",
+   "delivered": []
+  }
+ ]
 }
