@@ -1853,7 +1853,7 @@
    "spec": "#伊勢崎店 オリカラ パルヘリオ 33mm 1.8g スーパーデッドスロー",
    "code": "4514447316342",
    "price": 1650,
-   "stock": 39
+   "stock": 38
   },
   "53360101GLY00866": {
    "name": "ラッキークラフト ワウ（ふわう） FCT ワウ33SDS",
@@ -2154,14 +2154,14 @@
    "spec": "[ヴァルケイン クーガ FMR SS](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM01306 \"ヴァルケイン クーガ FMR SS #伊勢崎店 オリカラ 神楽 30mm 2.8g スローシンキング\")\n\n#伊勢崎店 オリカラ 神楽 30mm 2.8g スローシンキング 伊勢崎店オリジナルカラー",
    "code": "4582671335699",
    "price": 1650,
-   "stock": 48
+   "stock": 49
   },
   "53360101GLM01305": {
    "name": "ヴァルケイン クーガ FMR SS #伊勢崎店 オリカラ 美鬼 30mm 2.8g スローシンキング",
    "spec": "[ヴァルケイン クーガ FMR SS](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLM01305 \"ヴァルケイン クーガ FMR SS #伊勢崎店 オリカラ 美鬼 30mm 2.8g スローシンキング\")\n\n#伊勢崎店 オリカラ 美鬼 30mm 2.8g スローシンキング 伊勢崎店オリジナルカラー",
    "code": "4582671335705",
    "price": 1650,
-   "stock": 83
+   "stock": 84
   },
   "53360101GLC00197": {
    "name": "ヴァルケイン クーガ S #伊勢崎店オリカラ パルヘリオ 36mm 2.5g シンキング",
@@ -2189,14 +2189,14 @@
    "spec": "[ヴァルケイン ヘイズ DD](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLW01553 \"ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 神楽 29mm 3.3g\")\n\n#伊勢崎店 オリカラ 神楽 29mm 3.3g 伊勢崎店オリジナルカラー",
    "code": "4582671353693",
    "price": 1815,
-   "stock": 66
+   "stock": 67
   },
   "53360101GLW01552": {
    "name": "ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 美鬼 29mm 3.3g",
    "spec": "[ヴァルケイン ヘイズ DD](https://www.fishing-otsuka.co.jp/troutshopjp/ja/index.php?uid=53360101GLW01552 \"ヴァルケイン ヘイズ  DD #伊勢崎店 オリカラ 美鬼 29mm 3.3g\")\n\n#伊勢崎店 オリカラ 美鬼 29mm 3.3g 伊勢崎店オリジナルカラー",
    "code": "4582671353709",
    "price": 1815,
-   "stock": 80
+   "stock": 81
   },
   "53360101GL901014": {
    "name": "ヴァルケイン ヘイズ  MD #伊勢崎店オリカラ 水蛭子 29mm 2.9g フローティング",
@@ -39386,7 +39386,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/ミューmiu-2-8g",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -39410,7 +39410,7 @@
    "stock": 0,
    "shop": "Zarky",
    "link": "https://fishingshop-zarky.com/products/ミューｍｉｕ-3-5ｇ",
-   "extra": "",
+   "extra": "нет в наличии",
    "prefiltered": false,
    "tag": ""
   },
@@ -74911,6 +74911,6 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T10:55:59+03:00",
+ "last_check": "2026-11-23T11:01:31+03:00",
  "pending_notifications": []
 }
