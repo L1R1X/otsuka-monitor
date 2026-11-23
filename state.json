@@ -59267,30 +59267,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457367": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #8 ブルーバックヤマメ",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457367",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194457364": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #6 ゴールデンヤマメ",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457364",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194457360": {
    "name": "DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ",
    "price": null,
@@ -62683,6 +62659,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192189462",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147566": {
+   "name": "ムカイ POGOCRA 30DR F #GARASHI",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147566",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147532": {
+   "name": "ムカイ バックストローク 55SS #カラオリRG",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147532",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74904,6 +74904,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T04:26:01+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T04:31:19+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (2)</b>:\n\n<b>ムカイ POGOCRA 30DR F #GARASHI</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147566\n\n<b>ムカイ バックストローク 55SS #カラオリRG</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147532",
+   "delivered": []
+  }
+ ]
 }
