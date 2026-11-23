@@ -59274,30 +59274,6 @@
    "prefiltered": true,
    "tag": "🎣 приманка"
   },
-  "jh194457360": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #4 ゴールディーオリーブ",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457360",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
-  "jh194457356": {
-   "name": "DAYSPROUT イーグルプレーヤー55DT F #2 静岡緑茶",
-   "price": null,
-   "price_text": "1,470 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=194457356",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🎣 приманка"
-  },
   "jh194435821": {
    "name": "ValkeIN スネイザー F #キラキラウォーターメロン【1091】",
    "price": null,
@@ -62690,6 +62666,30 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192147530",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147525": {
+   "name": "ムカイ バックストローク 55SS #スイカちゃん",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147525",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🎣 приманка"
+  },
+  "jh192147523": {
+   "name": "ムカイ バックストローク 55SS #ブルパレッドッドテール",
+   "price": null,
+   "price_text": "1,425 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192147523",
    "extra": "",
    "prefiltered": true,
    "tag": "🎣 приманка"
@@ -74658,18 +74658,6 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
-  "ki194554262": {
-   "name": "1089工房 さかさにょろスリム45FS【1091カラー】",
-   "price": null,
-   "price_text": "1,650 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194554262",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
   "ki194530819": {
    "name": "ロデオクラフト RCフックケース RC-388DD 【ブラウンモカ】",
    "price": null,
@@ -74762,6 +74750,18 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=111293320",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
+  "ki194508477": {
+   "name": "ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）",
+   "price": null,
+   "price_text": "1,564 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194508477",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74911,6 +74911,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T09:56:07+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T10:01:31+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (3)</b>:\n\n<b>ムカイ バックストローク 55SS #スイカちゃん</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147525\n\n<b>ムカイ バックストローク 55SS #ブルパレッドッドテール</b>\n🎣 приманка\n1,425 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192147523\n\n<b>ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）</b>\n🐟 воблер\n1,564 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194508477",
+   "delivered": []
+  }
+ ]
 }
