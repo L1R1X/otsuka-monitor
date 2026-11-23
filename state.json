@@ -74658,6 +74658,18 @@
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
   },
+  "ki194554262": {
+   "name": "1089工房 さかさにょろスリム45FS【1091カラー】",
+   "price": null,
+   "price_text": "1,650 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "Kitiya",
+   "link": "https://www.kitiya.jp/?pid=194554262",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "⭐ рекомендует магазин"
+  },
   "ki194530819": {
    "name": "ロデオクラフト RCフックケース RC-388DD 【ブラウンモカ】",
    "price": null,
@@ -74750,18 +74762,6 @@
    "stock": 0,
    "shop": "Kitiya",
    "link": "https://www.kitiya.jp/?pid=111293320",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "⭐ рекомендует магазин"
-  },
-  "ki194508477": {
-   "name": "ハンクル ザッガー50 B1 ハーフ 鉛モデル（ZAGGER 50 B1 Half）",
-   "price": null,
-   "price_text": "1,564 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "Kitiya",
-   "link": "https://www.kitiya.jp/?pid=194508477",
    "extra": "",
    "prefiltered": true,
    "tag": "⭐ рекомендует магазин"
@@ -74911,6 +74911,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T10:01:31+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T10:05:54+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>1089工房 さかさにょろスリム45FS【1091カラー】</b>\n🎨 расцветка\n1,650 ¥(税込)\n🏬 Kitiya\nhttps://www.kitiya.jp/?pid=194554262",
+   "delivered": []
+  }
+ ]
 }
