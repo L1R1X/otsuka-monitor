@@ -65826,18 +65826,6 @@
    "prefiltered": true,
    "tag": "🥄 блесна"
   },
-  "jh192650535": {
-   "name": "Deep Paradox TYSON 1.3g #6 鯉ちゃんブラウン",
-   "price": null,
-   "price_text": "600 ¥(税込)",
-   "spec": "",
-   "stock": 0,
-   "shop": "JH",
-   "link": "https://fishing-shop-jh.com/?pid=192650535",
-   "extra": "",
-   "prefiltered": true,
-   "tag": "🥄 блесна"
-  },
   "jh192650530": {
    "name": "Deep Paradox TYSON 1.3g #5 ゲンちゃんブラウニー",
    "price": null,
@@ -66290,6 +66278,18 @@
    "stock": 0,
    "shop": "JH",
    "link": "https://fishing-shop-jh.com/?pid=192325378",
+   "extra": "",
+   "prefiltered": true,
+   "tag": "🥄 блесна"
+  },
+  "jh192325376": {
+   "name": "ValkeIN ブラックブラスト 2.2g #クロバネ【有頂天】",
+   "price": null,
+   "price_text": "550 ¥(税込)",
+   "spec": "",
+   "stock": 0,
+   "shop": "JH",
+   "link": "https://fishing-shop-jh.com/?pid=192325376",
    "extra": "",
    "prefiltered": true,
    "tag": "🥄 блесна"
@@ -74911,6 +74911,11 @@
    "tag": "⭐ рекомендует магазин"
   }
  },
- "last_check": "2026-11-23T11:26:00+03:00",
- "pending_notifications": []
+ "last_check": "2026-11-23T11:31:23+03:00",
+ "pending_notifications": [
+  {
+   "text": "🆕 <b>Новые товары (1)</b>:\n\n<b>ValkeIN ブラックブラスト 2.2g #クロバネ【有頂天】</b>\n🎨 расцветка\n550 ¥(税込)\n🏬 JH\nhttps://fishing-shop-jh.com/?pid=192325376",
+   "delivered": []
+  }
+ ]
 }
