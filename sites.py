@@ -271,6 +271,69 @@ def fetch_jh(max_pages=JH_PAGES):
     return items
 
 
+# fetch_jh_info - парсит главную fishing-shop-jh.com блок ИНФОРМАЦИЯ
+
+JH_INFO_URL = "https://fishing-shop-jh.com/"
+_JH_INFO_BLOCK_RE = re.compile(r'<div class="info">.*?<dl class="info_detail[^"]*">(.*?)</dl>', re.S)
+
+def fetch_jh_info():
+    """JH Info - лента INFORMATION с главной fishing-shop-jh.com (予約/販売/再入荷/新入荷)"""
+    raw = _get(JH_INFO_URL)
+    try:
+        html = raw.decode("euc_jp", errors="replace")
+    except:
+        html = raw.decode("utf-8", errors="replace")
+    m = _JH_INFO_BLOCK_RE.search(html)
+    block = m.group(1) if m else html
+    items = []
+    # каждая запись - <a href="..."> ... 【TITLE】 ... </a>
+    for href, inner in re.findall(r'<a href="([^"]+)">(.*?)</a>', block, re.S):
+        text = re.sub(r"<[^>]+>", "", inner)
+        text = re.sub(r"\s+", " ", text).strip()
+        if not text:
+            continue
+        # текст вида: "予約 【ベルベットアーツ Daisy 0.7g】" или "販売 【ラッキー...】"
+        # отделяем статус
+        status = ""
+        title = text
+        for s in ["予約", "販売", "再入荷", "新入荷", "再販", "入荷"]:
+            if text.startswith(s):
+                status = s
+                title = text[len(s):].strip()
+                break
+        if title.startswith("【") and title.endswith("】"):
+            title = title[1:-1].strip()
+        if not title:
+            continue
+        import hashlib
+        uid_hash = hashlib.md5(f"{status}|{title}|{href}".encode()).hexdigest()[:12]
+        if href.startswith("?"):
+            href = JH_URL + "/" + href
+        elif href.startswith("/"):
+            href = JH_URL + href
+        elif href.startswith("http://"):
+            href = href.replace("http://", "https://")
+        tag_map = {
+            "予約": "📦 предзаказ",
+            "販売": "🔥 распродажа",
+            "再入荷": "📥 пополнение",
+            "新入荷": "🆕 новинка",
+            "再販": "🔁 перевыпуск",
+            "入荷": "📥 поступление",
+        }
+        items.append({
+            "uid": f"jhinfo{uid_hash}",
+            "title": f"{status} {title}" if status else title,
+            "price": "—",
+            "link": href,
+            "shop": "JH",
+            "extra": "",
+            "prefiltered": True,
+            "tag": tag_map.get(status, ""),
+        })
+    return items[:50]
+
+
 # ------------------------------------------------- Area Island / Pro Shop Tomo
 # Оба магазина на Colorme, вёрстка с <div class="product_item">.
 # Нас интересуют ТОЛЬКО оригинальные (эксклюзивные) расцветки,
@@ -568,6 +631,7 @@ SOURCES = [
     ("Zarky", fetch_zarky),
     ("Wild-1", fetch_wild1),
     ("JH", fetch_jh),
+    ("JH Info", fetch_jh_info),
     ("Area Island", fetch_area_island),
     ("Pro Shop Tomo", fetch_tomo),
     ("Kitiya", fetch_kitiya),
@@ -583,3 +647,4 @@ if __name__ == "__main__":
                 print("   ", it["title"][:55], "|", it["price"])
         except Exception as e:
             print(f"{name}: ОШИБКА {type(e).__name__}: {e}")
+
